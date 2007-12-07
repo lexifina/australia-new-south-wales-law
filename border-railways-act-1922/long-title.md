@@ -1,0 +1,2 @@
+# Long title
+An Act to ratify and provide for carrying out an agreement between the States of New South Wales and Victoria respecting the construction, maintenance, and operation of certain lines of railway from the State of Victoria into the State of New South Wales, the construction and maintenance of certain bridges over the River Murray, and other works; to amend the Public Works Act 1912 and certain other Acts; and for purposes connected therewith.
