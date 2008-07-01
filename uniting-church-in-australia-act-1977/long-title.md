@@ -1,0 +1,2 @@
+# Long title
+An Act to make provision for the inauguration of The Uniting Church in Australia; to constitute The Uniting Church in Australia Property Trust (N.S.W.), to define its powers, authorities, duties and functions, and to provide for the vesting in it of certain property; to provide for the construction of certain instruments; to repeal The Congregational Union Incorporation Act, the Methodist Union Act 1902 and certain other Acts; to amend the Newington College Council Act 1922 and certain other Acts; and for incidental purposes.
