@@ -1,0 +1,9 @@
+# 18C General provisions regarding contempt
+(1) In the case of any alleged contempt of a commission, the commissioner may summon the offender to appear before the commission at a time and place named in the summons to show cause why the offender should not be dealt with under section 18B for the contempt.
+(2) If the offender fails to attend before the commission in obedience to the summons, and no reasonable explanation to the satisfaction of the commissioner is offered for the failure, the commissioner may, on proof of the service of the summons, issue a warrant to arrest the offender and bring the offender before the commissioner to show cause why the offender should not be dealt with under section 18B for the contempt.
+(3) If a contempt of the commission is committed in the face or hearing of the commission, no summons need be issued against the offender, but the offender may be taken into custody then and there by a police officer and called upon to show cause why the offender should not be dealt with under section 18B for the contempt.
+(4) The commissioner may issue a warrant to arrest the offender while the offender (whether or not already in custody under this section) is before the commission and to bring the offender forthwith before the Supreme Court.
+(5) The warrant is sufficient authority to detain the offender in a prison or elsewhere, pending the offender's being brought before the Supreme Court.
+(6) The warrant is to be accompanied by the certificate in which the commissioner sets out the details of the alleged contempt.
+(7) The commissioner may revoke the warrant at any time before the offender is brought before the Supreme Court.
+(8) When the offender is brought before the Supreme Court, the Court may, pending determination of the matter, direct that the offender be kept in such custody as the Court may determine or direct that the offender be released.
