@@ -1,0 +1,2 @@
+# 1A References to ADT
+A reference to the Administrative Decisions Tribunal or the Tribunal established by this Act (however expressed) in a provision of this Schedule that was inserted before the establishment day (within the meaning of the Civil and Administrative Tribunal Act 2013) is a reference to the Administrative Decisions Tribunal that was formerly established under this Act when this Act was named the Administrative Decisions Tribunal Act 1997.
