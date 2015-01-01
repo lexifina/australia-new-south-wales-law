@@ -1,0 +1,5 @@
+# 2
+The right to apply for an access licence may also be acquired in accordance with an order made under section 65 of the Act.
+(2) A specific purpose access licence must not be granted in these groundwater sources unless the Minister is satisfied that the share and extraction component of the access licence is the minimum required to meet the circumstances in which the access licence is proposed to be used.
+(3) An access licence of the subcategory "Aboriginal cultural" must not be granted in these groundwater sources unless the share component of the proposed access licence is less than or equal to 10 ML/year.
+(4) An access licence of the subcategory "Aboriginal cultural" may only be granted for the taking of water by an Aboriginal person or Aboriginal community for any personal, domestic or communal purpose, including drinking, food preparation, washing, manufacturing traditional artefacts, watering domestic gardens, cultural teaching, hunting, fishing, gathering and for recreational, cultural and ceremonial purposes.
