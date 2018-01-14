@@ -1,0 +1,2 @@
+# 1B Commencement
+This Act commences on a day or days to be appointed by proclamation.
