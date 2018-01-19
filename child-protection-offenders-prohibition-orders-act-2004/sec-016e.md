@@ -1,0 +1,10 @@
+# 16E Variation or revocation of contact prohibition orders
+(1) An application may be made to the Local Court by the Commissioner of Police or a person subject to a contact prohibition order for an order varying or revoking a contact prohibition order.
+(2) The application must be accompanied by a copy of the relevant order, together with any variations to it that have been made under this Part.
+(3) A person subject to a contact prohibition order may not make an application except by leave of the Local Court. Leave may be granted only if the Local Court is satisfied that, having regard to changes in the applicant's circumstances since the order was made or last varied, it is in the interests of justice that leave be granted.
+(4) The Local Court may dispose of the application:
+(a) by varying or revoking the contact prohibition order, or
+(b) by dismissing the application.
+(5) For the purposes of an application under this section, the respondent to an application is:
+(a) in the case of an application made by the Commissioner of Police-the registrable person subject to the contact prohibition order, and
+(b) in the case of an application made by a registrable person subject to a contact prohibition order-the Commissioner of Police.

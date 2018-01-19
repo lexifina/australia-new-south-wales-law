@@ -1,0 +1,5 @@
+# 16F Explanation of orders
+(1) If the Local Court makes a contact prohibition order, the Local Court must ensure that all reasonable steps are taken to explain to the registrable person (in language that the registrable person can readily understand):
+(a) the person's obligations under the order, and
+(b) the consequences that may follow if the person fails to comply with those obligations.
+(2) An order is not invalidated by a failure to comply with subsection (1).
