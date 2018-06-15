@@ -1,0 +1,3 @@
+# 6B Alternative action
+(1) Where there is no executor or administrator of the person deceased, or where the person's executor or administrator does not bring an action under this Act within six months after the death of the person deceased, the person or any one or more of the persons for whose benefit the action might be brought by such an executor or administrator may bring the action.
+(2) Any action so brought shall be for the benefit of the same person or persons and shall be subject to the same provisions and procedure, as nearly as may be, as if it were brought by such an executor or administrator.
