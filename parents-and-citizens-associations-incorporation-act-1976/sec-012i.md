@@ -1,0 +1,2 @@
+# 12I Personal liability
+A matter or thing done or omitted to be done by the board or executive committee, a member of the board or executive committee or a person acting under the direction of the board or executive committee does not, if the matter or thing was done or omitted to be done in good faith for the purpose of executing this or any other Act, subject a member or a person so acting personally to any action, liability, claim or demand.
