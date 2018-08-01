@@ -1,0 +1,2 @@
+# 20BB Water not to be taken until works completed
+The holders of an authority granted for the purpose of irrigation or water supply shall not, except with the permission in writing of the Ministerial Corporation, take water from a river or lake by means of a work in respect of which the authority is held until the whole of the works in respect of which the authority is held have been constructed or provided.

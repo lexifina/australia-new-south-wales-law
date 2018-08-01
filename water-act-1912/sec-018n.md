@@ -1,0 +1,2 @@
+# 18N Separate application for each work
+A separate application for a permit may be required by the Ministerial Corporation in respect of each work except in cases where, in the opinion of the Ministerial Corporation, two or more works form a combined work and the determination as to what works may be included as a combined work in an application for a permit shall rest with the Ministerial Corporation.

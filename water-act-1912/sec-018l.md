@@ -1,0 +1,2 @@
+# 18L Power to require application to be made for licence
+The Ministerial Corporation may, as a condition under which a permit is issued, specify that the holder thereof shall, if called upon by the Ministerial Corporation so to do, apply under the provisions of Division 3 for a licence for the work in respect of which the permit is issued, provided that the holder of the permit shall desire to continue to use the work.

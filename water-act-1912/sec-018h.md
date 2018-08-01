@@ -1,0 +1,2 @@
+# 18H Power to grant permit instead of licence
+If the Ministerial Corporation considers that the granting of a permit will for the time being better meet the circumstances of the case than will the issue of the licence under Division 3 the Ministerial Corporation may grant a permit accordingly and may impose such limitations and conditions in connection therewith as it may deem fit provided that no permit shall be granted for a period exceeding one year.

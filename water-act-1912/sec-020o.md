@@ -1,0 +1,8 @@
+# 20O Renewal of group licence
+(1) An application for renewal of a group licence may be made by a Board to the Ministerial Corporation before the group licence expires but the Ministerial Corporation may deal with an application even if it is lodged later.
+(2) (Repealed)
+(3) Where the decision of the Ministerial Corporation is that the application for renewal shall be granted, the Ministerial Corporation shall notify the Board of the prescribed fee, of the period for which the group licence is to be renewed and of the terms, limitations and conditions which the Ministerial Corporation has decided shall be attached to the group licence upon its renewal.
+(4) On payment of the whole, or the first instalment, of the prescribed fee, the Ministerial Corporation shall renew the group licence for the period and on the terms, limitations and conditions referred to in subsection (3).
+(5) A group licence shall not be renewed for a period that, except in such circumstances as may be prescribed, exceeds 10 years at any one time.
+(6) Pending consideration by the Ministerial Corporation of the application for renewal and, where the application for renewal is granted, pending the renewal of the group licence, the group licence shall not lapse, but if the first instalment of the prescribed fee or, where that fee is not paid by instalments, the whole of that fee is not paid within the time prescribed the group licence shall lapse and the application for renewal shall be deemed to have been rejected.
+(7) Where the Ministerial Corporation deals with an application for renewal lodged after the group licence expires, subsection (6) has effect as if the application had been under consideration since before the expiration of the group licence.

@@ -1,0 +1,6 @@
+# 20K Application for group licence
+(1) A Board may apply to the Ministerial Corporation in the prescribed form for a group licence authorising the Board:
+(a) to construct and use or to use any work to which this Part extends, specified in the application, for the purpose of taking water from a river or lake, and
+(b) to take the water conserved or obtained thereby and dispose of it for the use of the occupiers from time to time of lands within the private district of the Board for the purposes specified in the application.
+(2) The provisions of section 20 (2) (paragraphs (h), (i) and (j) excepted) and section 20A (except so much of subsection (2) as relates to the matters to be embodied in the recommendation referred to in that subsection) apply to and in respect of an application under this section in the same way as those provisions apply to and in respect of an application for an authority under Division 4 of Part 2.
+(3) It shall not be a function of the Secretary or Magistrate to inquire and report whether the Board has the right to enter and occupy the site of any work referred to in subsection (1) (a) or of any works which may be required to convey water to the lands of the occupiers on which the water is to be used and no objection relating to that right shall be entertained.

@@ -1,0 +1,4 @@
+# 18J Renewal of permits
+(1) A permit may, subject to such limitations and conditions as the Ministerial Corporation may impose, be renewed by the Ministerial Corporation on the application of the occupier and payment of the prescribed fee: Provided that the Ministerial Corporation shall not renew a permit for any period which will extend its currency beyond two years from the date when it was first issued.
+(2) An application for renewal of a permit shall be lodged before the permit expires but the Ministerial Corporation may deal with an application even if it is lodged later.
+(3) Where the Ministerial Corporation deals with an application for renewal lodged after the permit expires, section 18K has effect as if the application had been under consideration since before the expiration of the permit.

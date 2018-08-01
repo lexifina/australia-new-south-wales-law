@@ -1,0 +1,2 @@
+# 20D Penalty for certain alterations to work
+If during the time that an authority is in force, alterations have been made in or in connection with the work which materially and prejudicially affect the quantity of water flowing into or from, or being in any river or lake, without the previous consent of the Ministerial Corporation, the person who made the alterations shall be liable to a penalty not exceeding 100 penalty units, and, in addition to the imposition of the said penalty, the authority may be cancelled by the Ministerial Corporation.

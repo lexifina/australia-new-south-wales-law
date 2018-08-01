@@ -1,0 +1,4 @@
+# 20AF Ordering of supply of water
+(1) The Ministerial Corporation may temporarily vary or waive a condition of an entitlement relating to the ordering of supplies under the water allocation of the holder of the entitlement.
+(2) Where, in accordance with a condition to which an entitlement is subject, a supply of water is ordered before, but is taken after, the end of a year, the Ministerial Corporation may, at its discretion, debit the quantity of water taken under the order against either the water allocation for the year in which the supply was ordered or the water allocation for the year in which it is taken.
+(3) Where, in accordance with a condition to which an entitlement is subject, a quantity of water is ordered, the Ministerial Corporation may, at its discretion, treat the water ordered as part of the water allocation for the entitlement even if it is not taken.

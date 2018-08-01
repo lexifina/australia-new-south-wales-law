@@ -1,0 +1,2 @@
+# 18M Power to charge different fees
+For the purpose of sections 18I and 18J different fees may be prescribed, differentiating according to the class of work, the object or purpose of the work, the river or lake on which it is situate, and the benefit (if any) to the permittee received from works constructed by the Crown: Provided that in the case of a work carried out by a public authority as prescribed with the object of conferring public benefit or securing district development a permit may in the discretion of the Ministerial Corporation be issued at a nominal fee.

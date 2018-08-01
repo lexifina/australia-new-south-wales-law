@@ -1,0 +1,2 @@
+# 20AD Provisions applicable in cases of subdivision of land
+Where land (being land which is supplied with water obtained from a water source which is subject to a scheme by means of a work in respect of which an entitlement is held) is subdivided into parts, the Ministerial Corporation is not, when issuing entitlements relating to those parts, or any of those parts, obliged to make water allocations in respect of those entitlements which in aggregate exceed the water allocation in respect of the first-mentioned entitlement.
