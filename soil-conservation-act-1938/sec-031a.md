@@ -1,0 +1,3 @@
+# 31A Act binds Crown
+(1) This Act binds the Crown in right of New South Wales and, in so far as the legislative power of Parliament permits, the Crown in all its other capacities.
+(2) Nothing in this Act renders the Crown liable to be prosecuted for an offence.

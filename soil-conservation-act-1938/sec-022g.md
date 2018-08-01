@@ -1,0 +1,4 @@
+# 22G Payment of advances
+(1) Where any works in respect of which an advance is to be made under this Part have been, or are to be, carried out by any person or body, including the Minister, the advance shall be paid by the Authority at such time and in such manner and to such persons as the Minister directs or, if the Minister so directs, to the Minister to recoup costs and expenses incurred by the Minister.
+(2) Without limiting the generality of subsection (1), an advance referred to in that subsection may be paid in the form of progress payments at such times and in such manner as the Minister directs.
+(3) For the purposes of this section, the Minister may authorise the Commissioner or any officer or employee of the Service to enter the lands of an owner and inspect works or sites of works.
