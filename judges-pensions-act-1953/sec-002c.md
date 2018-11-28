@@ -1,0 +1,2 @@
+# 2C Continuity of office-Workers' Compensation Commission
+The office of Chairman of the Workers' Compensation Commission and of member of the Workers' Compensation Commission under the Workers' Compensation Act 1926 (as in force immediately before the commencement of Schedule 6 (2) to the Workers' Compensation (Amendment) Act 1984) shall, for the purposes of this Act, be identical with the office of Chief Judge and of Judge, respectively, of the Compensation Court of New South Wales under the Compensation Court Act 1984.
