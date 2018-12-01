@@ -1,0 +1,2 @@
+# Long title
+An Act to establish the Restart NSW Fund for the purpose of setting aside funding for and securing the delivery of major infrastructure projects and other necessary infrastructure.
