@@ -1,0 +1,3 @@
+# 5Q Liability based on non-delegable duty
+(1) The extent of liability in tort of a person (the defendant) for breach of a non-delegable duty to ensure that reasonable care is taken by a person in the carrying out of any work or task delegated or otherwise entrusted to the person by the defendant is to be determined as if the liability were the vicarious liability of the defendant for the negligence of the person in connection with the performance of the work or task.
+(2) This section applies to an action in tort whether or not it is an action in negligence, despite anything to the contrary in section 5A.

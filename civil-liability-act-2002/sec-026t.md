@@ -1,0 +1,7 @@
+# 26T Exception for legal costs
+(1) This Division does not require any amount to be held in trust that is payable by the protected defendant as legal costs under an order for costs made against the protected defendant or (in the case of an award of damages that is inclusive of costs) that is reasonably attributable to the offender's legal costs.
+(2) The amount reasonably attributable to the offender's legal costs in the case of an award of damages that is inclusive of costs is the amount determined by the protected defendant on the basis of a bill for those costs provided to the protected defendant by the legal practitioner concerned.
+(3) If the amount determined by the protected defendant as the amount reasonably attributable to the offender's legal costs is disputed, the protected defendant is to apply for the assessment of those costs under the legal profession legislation (as defined in section 3A of the Legal Profession Uniform Law Application Act 2014) (as if the protected defendant were liable to pay those costs as a result of an order for the payment of an unspecified amount of costs made by a court).
+(4) The costs of a costs assessment for the purposes of this section are payable-
+(a) by the offender (by deduction from the offender damages concerned), unless paragraph (b) applies, or
+(b) by the protected defendant if the amount of the costs as determined by the costs assessor is at least 10% more than the amount determined by the protected defendant.

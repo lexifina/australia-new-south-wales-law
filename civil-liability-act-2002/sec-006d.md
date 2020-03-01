@@ -1,0 +1,4 @@
+# 6D Organisations that are responsible for a child
+In this Division-
+(a) an organisation is responsible for a child if it (including any part of it) exercises care, supervision or authority over the child (or purports to do so or is obliged by law to do so), and
+(b) if an organisation (including any part of it) delegates the exercise of care, supervision or authority over a child to another organisation (in whole or in part), each organisation is responsible for the child.

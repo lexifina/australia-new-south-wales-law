@@ -1,0 +1,2 @@
+# 6C Successor organisations
+An organisation and any successor of that organisation are, for the purposes of this Part, taken to be the same organisation.

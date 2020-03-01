@@ -1,0 +1,7 @@
+# 54D Damages supervision orders
+(1) A court that makes an award of damages must make an order directing the NSW Trustee and Guardian to take control of the amount of damages if it is satisfied, on the balance of probabilities, that the amount of damages is an amount to which this Division applies and that it is in the best interests of the person to whom the damages were awarded to make the order.
+(2) The NSW Trustee and Guardian must ensure that an amount of damages subject to a damages supervision order is used to cover the costs of past, present and future medical or other therapeutic treatment, rehabilitation costs and care costs of the person awarded the damages, subject to the terms of the order.
+(3) A damages supervision order may not take effect before the later of the final determination of any appeal relating to the award of damages or the end of the period during which any such appeal may be made.
+(4) A damages supervision order may be made whether or not the person awarded the damages is a mentally ill person (within the meaning of the Mental Health Act 2007) or a mentally incapacitated person when the order is made.
+(5) Any part of an award payable or paid for properly payable legal expenses incurred in connection with proceedings for damages may not be made subject to a damages supervision order.
+(6) The NSW Trustee and Guardian holds the amount of damages in trust for the person awarded the damages.

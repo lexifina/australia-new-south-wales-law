@@ -1,0 +1,16 @@
+# 6N Court may appoint proper defendant
+(1) This section applies if-
+(a) child abuse proceedings are commenced against an unincorporated organisation and no suitable proper defendant is appointed for the organisation by the end of 120 days after the unincorporated organisation (or a management member of the unincorporated organisation) is served with notice of the commencement of the proceedings, or
+(b) after that time, the proper defendant appointed ceases to be a suitable proper defendant.
+(2) The court in which the child abuse proceedings are commenced may, on the application of the plaintiff, appoint the trustees of one or more of the following trusts if the trustees are suitable to be appointed as a proper defendant for the organisation-
+(a) an associated trust of the organisation,
+(b) a trust that was formerly an associated trust of the organisation if the court considers that the trust ceased to be an associated trust in an attempt to avoid trust property being applied to satisfy any liability that may be incurred in child abuse proceedings and it would be unjust not to appoint the trustees of the trust.
+(3) A trust is an associated trust of an unincorporated organisation, for the purposes of this Division, if one or more of the following apply-
+(a) the organisation has, either directly or indirectly, the power to control the application of the income, or the distribution of the property, of the trust,
+(b) the organisation has the power to obtain the beneficial enjoyment of the property or income of the trust with or without the consent of another entity,
+(c) the organisation has, either directly or indirectly, the power to appoint or remove the trustee or trustees of the trust,
+(d) the organisation has, either directly or indirectly, the power to appoint or remove beneficiaries of the trust,
+(e) the trustee of the trust is accustomed or under an obligation, whether formal or informal, to act according to the directions, instructions or wishes of the organisation,
+(f) the organisation has, either directly or indirectly, the power to determine the outcome of any other decisions about the trust's operations,
+(g) a member of the organisation or a management member of the organisation has, under the trust deed applicable to the trust, a power of a kind referred to in paragraphs (a)-(f) but only if the trust has been established or used for the activities of the organisation or for the benefit of the organisation.
+(4) On the making of an application by a plaintiff under this section, the unincorporated organisation must, within 28 days after the application is made, identify to the court any associated trusts of the organisation, including by identifying the financial capacity of those trusts.
