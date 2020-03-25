@@ -1,0 +1,5 @@
+# 50E Change to references in Acts etc to Ministers, Public Service agencies and Public Service employees
+(1) The Governor may, by an administrative arrangements order, require a reference in any Act or statutory or other instrument, or in any contract or agreement, to a Minister, Public Service agency or Public Service employee by a specified description to be construed as a reference to a Minister, Public Service agency or Public Service employee, respectively, by another specified description.
+(2) Such a requirement does not apply to or in respect of any Act or statutory or other instrument, or any contract or agreement, enacted, made or entered into after the requirement took effect.
+(3) An administrative arrangements order under this section need not be consequential on or incidental to administrative change.
+(4) For the purposes of this section, a reference to a Minister by a specified description extends to a reference to a Minister administering a specified Act or portion of an Act.

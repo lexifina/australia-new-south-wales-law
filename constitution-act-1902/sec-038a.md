@@ -1,0 +1,3 @@
+# 38A Powers of Ministers to speak in Legislative Council
+(1) Notwithstanding anything contained in this Act, any Minister of the Crown who is a member of the Legislative Assembly may at any time, with the consent of the Legislative Council, sit in the Legislative Council for the purpose only of explaining the provisions of any Bill relating to or connected with any department administered by him, and may take part in any debate or discussion in the Legislative Council on such Bill, but he shall not vote in the Legislative Council.
+(2) It shall not be lawful at any one time for more than one Minister of the Crown under the authority of this section to sit in the Legislative Council.

@@ -1,0 +1,2 @@
+# 22F Suspension of Legislative Council business for general election of the Legislative Assembly
+The Legislative Council shall not be competent to dispatch any business during the period commencing on the day of the termination, either by dissolution or expiry, of any Legislative Assembly and ending on the day fixed for the return of the writ for the periodic Council election held next after that termination.

@@ -1,0 +1,16 @@
+# 13B Office of profit or pension from Crown
+(1) A person-
+(a) holding an office of profit under the Crown, or
+(b) having a pension from the Crown during pleasure or for a term of years,
+shall not, if he is elected as a Member of either House of Parliament, be capable of sitting and voting as a Member of the House to which he is elected, and his seat as a Member shall become vacant, after the expiration of the period commencing with his election and ending on the expiration of 7 sitting days of that House after notice of his holding that office or having that pension has been given to that House in accordance with its Standing Rules and Orders, unless that House has previously passed a resolution indicating that it is satisfied that that person has ceased to hold that office or, as the case may be, that the right of that person to that pension has ceased or is suspended while he is a Member of that House.
+(2) If a Member of either House of Parliament accepts any office of profit under the Crown or pension from the Crown during pleasure or for a term of years, his seat as a Member of that House shall become vacant upon the expiration of the period commencing with his acceptance of the office or the pension and ending on the expiration of 7 sitting days of that House after notice of his accepting that office or pension has been given to that House in accordance with its Standing Rules and Orders, unless that House has previously passed a resolution indicating that it is satisfied that that Member has ceased to hold that office or, as the case may be, that the right of that Member to that pension has ceased or is suspended while he is a Member of that House.
+(3) Notwithstanding subsection (1) or (2)-
+(a) a person-
+(i) who holds or accepts the office of Minister of the Crown or any office of profit under the Crown created by an Act as an office of the Executive Government,
+(ii) who holds or accepts an office of profit under the Crown in respect of which he is not entitled to any remuneration, except either fees payable to him, as a member of a body, in respect of his attendance at meetings of that body or an allowance for reasonable expenses incurred or to be incurred in carrying out the duties of the office, or both those fees and such an allowance,
+(iii) who holds or accepts an office of profit under the Crown, other than the Crown in right of the State of New South Wales, but not being an office as a member of any legislature of a country other than New South Wales, or
+(iv) who has or accepts a pension, referred to in subsection (1) (b) or (2), from the Crown, other than the Crown in right of the State of New South Wales,
+shall be capable of being elected and of sitting and voting as a Member of either House of Parliament,
+(b) a person who holds or accepts the office of Vice-President of the Executive Council shall be capable of being elected and of sitting and voting as a Member of either House of Parliament, and
+(c) a person who holds or accepts the office of Parliamentary Secretary shall be capable of being elected and of sitting and voting as a Member of either House of Parliament.
+(4) For the purposes of subsections (1) and (2), sitting days shall be counted, whether or not they occur during the same session of Parliament.

@@ -1,0 +1,2 @@
+# 13D Abatement of salary of Members receiving pension or superannuation as public servants
+A Member of either House of Parliament in receipt of any allowance or pension granted under any Act authorising the grant of superannuation allowances or pensions to officers in the Public Service shall be entitled to the salary authorised by the Parliamentary Remuneration Tribunal Act 1975, subject to its abatement by the amount he receives or is entitled to as that allowance or pension.
