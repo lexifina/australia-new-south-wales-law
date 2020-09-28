@@ -1,0 +1,2 @@
+# Long title
+An Act to provide that certain enactments of the Parliament of England and of the Parliament of Great Britain and of the Parliament of the United Kingdom of Great Britain and Ireland in force in England at the time of the passing of the Imperial Act 9 George IV Chapter 83 shall continue in force in New South Wales; to replace other enactments of such Parliaments; to repeal other enactments of such Parliaments; to validate certain matters; and for purposes connected therewith.
