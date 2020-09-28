@@ -1,0 +1,2 @@
+# 86A Reduction of excessive commission etc
+Where the Court is of the opinion that a commission or amount charged or proposed to be charged in respect of any estate, or any part of any such commission or amount, is excessive, the Court may, of its own motion, or on the motion of any person interested in the estate, review the commission, amount or part and may, on that review, notwithstanding any provision contained in a will authorising the charging of the commission, amount or part, reduce that commission, amount or part.

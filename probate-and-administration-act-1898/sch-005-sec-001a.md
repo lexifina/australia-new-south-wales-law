@@ -1,0 +1,4 @@
+# 1A Persons dying wholly or partially intestate before commencement of De Facto Relationships Act 1984
+(1) The amendments made to this Act by the Wills, Probate and Administration (De Facto Relationships) Amendment Act 1984 do not apply to or in respect of the estate of a person who died wholly or partially intestate before 1 July 1985 (the day appointed and notified under section 2 (2) of the De Facto Relationships Act 1984), and any such estate is to be distributed in accordance with the enactments and rules of law in force at the date of death of that person.
+(2) This clause is taken to have commenced on 1 July 1985.
+(3) Subclause (1) re-enacts (with minor modification) section 4 of the Wills, Probate and Administration (De Facto Relationships) Amendment Act 1984 and is a transferred provision to which section 30A of the Interpretation Act 1987 applies.

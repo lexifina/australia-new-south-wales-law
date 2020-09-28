@@ -1,0 +1,4 @@
+# 81B Power to deal with assets etc
+(1) Nothing in this Part enables an executor, administrator or trustee of the estate of a person who dies on or after 31 December 1981 to complete the disposition of, and such an executor, administrator or trustee shall not complete the disposition of, any property of the deceased vested in the deceased which has not been disclosed to the Court pursuant to section 81A (1) or (2).
+(2) Nothing in subsection (1) prevents an executor or administrator from effecting an appointment pursuant to section 75A.
+(3) Nothing in subsection (1) affects any interest in any property acquired from an executor, administrator or trustee referred to in that subsection by a person where the interest was acquired in good faith, for valuable consideration and without notice that the property had not been disclosed to the Court pursuant to section 81A (1) or (2).
