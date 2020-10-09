@@ -1,0 +1,3 @@
+# 97B Consignor's duties
+A person must not consign nominally empty storage vessels for transport in a cargo transport unit if the person knows, or reasonably ought to know, that the storage vessels are not loaded or stowed, or cannot be transported or unloaded, in accordance with Chapter 7.2 of the ADG Code.
+Maximum penalty-20 penalty units for an individual or 100 penalty units for a corporation.

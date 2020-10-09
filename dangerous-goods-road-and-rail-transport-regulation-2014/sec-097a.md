@@ -1,0 +1,2 @@
+# 97A Application
+This Division applies to tanks or hoppers specified in section 7.2.7.1 of the ADG Code (nominally empty storage vessels).

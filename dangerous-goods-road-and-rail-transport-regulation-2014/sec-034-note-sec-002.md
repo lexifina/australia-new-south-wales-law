@@ -1,0 +1,2 @@
+# 2
+Under the ADG Code, if particular dangerous goods are listed in the Dangerous Goods List, their UN Class or Division is that listed in Column 2 of that list opposite the name and description of those goods, unless Chapter 3.3 of that Code provides for those goods to be assigned to a different Class or Division. If applicable, Chapter 2 of that Code describes how the UN Category of dangerous goods is to be determined. Once again the Category may be changed under Chapter 3.3 of that Code.

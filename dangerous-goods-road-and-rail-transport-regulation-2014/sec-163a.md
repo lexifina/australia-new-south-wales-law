@@ -1,0 +1,2 @@
+# 163A Reference of determination, exemption or approval to CAP for the purposes of mutual recognition
+The Competent Authority may refer to CAP any determination, exemption or approval that has been made by a corresponding authority that the Competent Authority considers to be a determination, exemption or approval that should be given effect in all participating jurisdictions, or participating jurisdictions including this jurisdiction, for the purposes of clauses 160, 161 and 162.
