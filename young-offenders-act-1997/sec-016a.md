@@ -1,0 +1,3 @@
+# 16A Parents of child may be notified of warning
+(1) An investigating official who gives a warning to a child, or a youth liaison officer, may notify the parents of the child (whether in writing, verbally or in person) that a warning has been given to the child in respect of an offence committed by the child.
+(2) However, an investigating official or youth liaison officer may not notify a parent of a child under subsection (1) if the official or officer is of the opinion that the disclosure of the giving of the warning would pose an unacceptable risk to the safety, welfare or well-being of the child.
