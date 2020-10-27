@@ -1,0 +1,5 @@
+# 154B Stealing aircraft and unlawfully taking or exercising control of aircraft
+(1) Whosoever steals any aircraft shall be liable to imprisonment for ten years.
+(2) Whosoever without lawful excuse takes or exercises control, whether direct or through another person, of an aircraft shall be deemed to be guilty of larceny and be liable to imprisonment for seven years.
+(3) Whosoever without lawful excuse takes or exercises control, whether direct or through another person, of an aircraft while another person, not being an accomplice of the first-mentioned person, is on board the aircraft shall be deemed to be guilty of larceny and be liable to imprisonment for fourteen years.
+(4) Whosoever without lawful excuse, by force or violence or threat of force or violence, or by any trick or false pretence, takes or exercises control, whether direct or through another person, of an aircraft while another person, not being an accomplice of the first-mentioned person, is on board the aircraft shall be deemed to be guilty of larceny and be liable to imprisonment for twenty years.

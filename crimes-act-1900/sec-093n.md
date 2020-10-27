@@ -1,0 +1,4 @@
+# 93N Aggravated circumstances-unwarranted demand
+(1) A person is guilty of an offence against this section if the person commits an offence under section 93K, 93L or 93M in connection with an unwarranted demand by the person. An unwarranted demand is a demand that the person believes he or she does not have any reasonable grounds for making.
+(2) A person convicted of an offence against this section is liable to imprisonment for 14 years.
+(3) If on the trial of a person for an offence against this section the jury is not satisfied that the accused is guilty of the offence charged, but is satisfied on the evidence that the accused is guilty of an offence under section 93K, 93L or 93M, it may find the accused not guilty of the offence charged but guilty of the latter offence, and the accused is liable to punishment accordingly.

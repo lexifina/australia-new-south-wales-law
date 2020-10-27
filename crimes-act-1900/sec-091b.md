@@ -1,0 +1,2 @@
+# 91B Procuring person by drugs etc
+Whosoever by means of any fraud, violence, threat, or abuse of authority, or by the use of any drug or intoxicating liquor, procures, entices, or leads away any person for purposes of prostitution, either within or without New South Wales, shall, notwithstanding that some one or more of the various acts constituting the offence may have been committed outside New South Wales, be liable to imprisonment for ten years.

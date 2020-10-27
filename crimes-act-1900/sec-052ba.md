@@ -1,0 +1,13 @@
+# 52BA Dangerous navigation: procedural matters
+(1) Presumption as to intoxication For the purposes of section 52B, the accused is conclusively presumed to be under the influence of liquor if the prosecution proves that the prescribed concentration of alcohol was present in the accused's breath or blood at the time of the impact occasioning death or grievous bodily harm.
+(2) Evidence of intoxication For the purposes of section 52B, evidence may be given of the concentration of alcohol present in the accused's blood at the time of the impact occasioning death or grievous bodily harm as determined by a blood analysis carried out in accordance with Schedule 1 to the Marine Safety Act 1998.
+(3) Time of intoxication A concentration of alcohol determined by the means referred to in subsection (2) is taken to be the concentration of alcohol in the accused's blood at the time of the impact occasioning death or grievous bodily harm-
+(a) if the blood sample that was analysed was taken within 2 hours after the impact, and
+(b) unless the accused proves that the concentration of alcohol in the accused's blood at that time was less than the prescribed concentration of alcohol.
+(4) Alternative verdicts If on the trial of a person who is indicted for murder or manslaughter or for an offence under section 54 the jury is satisfied that the person is guilty of an offence under section 52B, it may find the accused guilty of the offence under section 52B, and the accused is liable to punishment accordingly.
+(5) Question of aggravation If on the trial of a person for an offence under section 52B (2) or (4) the jury is not satisfied that the accused is guilty of the offence charged, but is satisfied on the evidence that the accused is guilty of an offence under section 52B (1) or (3), it may find that the accused is guilty of the offence under section 52B (1) or (3), and the accused is liable to punishment accordingly.
+(6) Double jeopardy This section does not take away the liability of any person to be prosecuted for or found guilty of murder, manslaughter or any other offence or affect the punishment that may be imposed for any such offence. However, a person who-
+(a) has been convicted or acquitted of an offence under section 52B cannot be prosecuted for murder or manslaughter or for any other offence under this Act on the same, or substantially the same, facts, or
+(b) has been convicted or acquitted of murder or manslaughter or of any other offence under this Act cannot be prosecuted for an offence under section 52B on the same, or substantially the same, facts.
+(7) Definition In this section-
+prescribed concentration of alcohol means a concentration of 0.15 grams or more of alcohol in 210 litres of breath or 100 millilitres of blood.

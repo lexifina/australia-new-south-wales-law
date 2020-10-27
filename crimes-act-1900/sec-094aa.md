@@ -1,0 +1,2 @@
+# 94AA Property previously stolen
+Where on the trial of a person for any offence which includes the stealing of any property it appears that the property was, at the time when it was taken by the accused, already out of the possession of the owner by reason of its having been previously stolen, the accused may be convicted of the offence charged notwithstanding that it is not proved that the taking by him or her amounted to an interference with the right to possession of, or a trespass against, the owner.

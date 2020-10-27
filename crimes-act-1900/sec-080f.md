@@ -1,0 +1,2 @@
+# 80F Alternative verdicts
+If on the trial of a person for an offence under section 80D (2) or 80E (2) the jury is not satisfied that the accused is guilty of the offence charged but is satisfied on the evidence that the accused is guilty of an offence under section 80D (1) or 80E (1), respectively, it may find the accused not guilty of the offence charged but guilty of the latter offence, and the accused is liable to punishment accordingly.

@@ -1,0 +1,5 @@
+# 93K Contaminating goods with intent to cause public alarm or economic loss
+A person who contaminates goods with the intention of-
+(a) causing public alarm or anxiety, or
+(b) causing economic loss through public awareness of the contamination,
+is liable to imprisonment for 10 years.

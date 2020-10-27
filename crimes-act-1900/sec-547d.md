@@ -1,0 +1,2 @@
+# 547D Person apprehended carrying razor etc
+Where a person is in lawful custody upon a charge of committing any crime or offence and is found to have been carrying at the time or immediately before the person was apprehended any razor, razor blade or other cutting weapon, the person shall, unless the court is satisfied that the person was carrying the same for a lawful purpose the proof of which shall lie upon the accused, be liable to imprisonment for a term not exceeding six months, or to a fine of 5 penalty units, or both.

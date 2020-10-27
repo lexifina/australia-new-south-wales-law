@@ -1,0 +1,7 @@
+# 93GA Firing at dwelling-houses or buildings
+(1) A person who fires a firearm at a dwelling-house or other building with reckless disregard for the safety of any person is liable to imprisonment for 14 years.
+(1A) A person who, during a public disorder, fires a firearm at a dwelling-house or other building with reckless disregard for the safety of any person is liable to imprisonment for 16 years.
+(1B) A person who, in the course of an organised criminal activity, fires a firearm at a dwelling-house or other building with reckless disregard for the safety of any person is liable to imprisonment for 16 years.
+(2) In the prosecution of an offence under this section, it is not necessary to prove that a person was actually placed in danger by the firing of the firearm.
+(3) If, on the trial of a person for an offence under this section, the jury is not satisfied that the accused is guilty of the offence but is satisfied on the evidence that the person is guilty of an offence under section 93G or 93H, it may find the person not guilty of the offence charged but guilty of an offence under section 93G or 93H, and the accused is liable to punishment accordingly.
+(4) If, on the trial of a person for an offence under subsection (1A) or (1B), the jury is not satisfied that the accused is guilty of the offence but is satisfied on the evidence that the person is guilty of an offence under subsection (1), it may find the person not guilty of the offence charged but guilty of an offence under subsection (1), and the accused is liable to punishment accordingly.

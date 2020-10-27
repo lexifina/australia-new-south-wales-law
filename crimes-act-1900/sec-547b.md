@@ -1,0 +1,3 @@
+# 547B Public mischief
+(1) Any person who, by any means, knowingly makes to a police officer any false representation that an act has been, or will be, done or that any event has occurred, or will occur, which act or event as so represented is such as calls for an investigation by a police officer, shall be liable on conviction before the Local Court to imprisonment for 12 months, or to a fine of 50 penalty units, or both.
+(2) For the purposes of subsection (1), a person shall be deemed to make a representation to a police officer if the person makes the representation to any other person and the nature of the representation reasonably requires that other person to communicate it to a police officer and that person does so communicate it.
