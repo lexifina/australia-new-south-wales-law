@@ -1,0 +1,6 @@
+# 57A Reduction of period of initial registration or renewal of registration
+(1) The Minister may, on the recommendation of the Authority, reduce the duration of the initial period of registration, or renewal of registration, of a non-government school by issuing a further certificate of registration for the school specifying that the period of registration has been reduced and that the registration is now to have effect on a provisional basis for the period specified in the further certificate.
+(2) The Minister may do so only if the Minister is not satisfied that the requirements for, or the conditions of, registration are being complied with at the non-government school.
+(3) The Minister may reduce the duration of the initial period of registration, or a renewal of registration, of a non-government school on more than one occasion.
+(4) A person who conducts a non-government school that has the duration of its initial period of registration, or renewal of registration, reduced under this section must, as soon as practicable, notify the parents of students at the school in writing that the period has been reduced and the consequences of the reduction.
+Maximum penalty-5 penalty units.

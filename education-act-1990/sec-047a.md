@@ -1,0 +1,4 @@
+# 47A Effect of section 47 on certain contracts
+The operation of section 47 is not to be regarded as giving rise to any implication that it is a term of any contract (whether or not written) between the proprietor of a registered non-government school and a parent of any child enrolled at the school that the school comply with the requirements imposed by or under this Act for registration of non-government schools or that failure to comply with any such requirement in itself gives rise to any civil cause of action.
+Note-
+Non-government schools are given protection from civil liability in tort for breach of a statutory duty (including liability for damages sought in an action for breach of contract or any other action) under Part 5 of the Civil Liability Act 2002 by virtue of the Civil Liability Regulation 2003.
