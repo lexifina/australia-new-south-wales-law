@@ -1,0 +1,4 @@
+# 39E Notice of claims
+Notice of a claim under this Part shall be given in writing:
+(a) in the case of a notice given to a licensed insurer, as soon as practicable after the person entitled to make the claim becomes aware of the identity of the licensed insurer, but not in any case later than 30 days after the person giving the notice could, with reasonable diligence, have ascertained the identity, and
+(b) in the case of a notice given to the Nominal Defendant, as soon as practicable after the person entitled to make the claim becomes aware of the fact that the motor vehicle was an uninsured vehicle or that the identity of the vehicle could not be established, but not in any case later than 30 days after the person giving the notice could, with reasonable diligence, have ascertained that fact.

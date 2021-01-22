@@ -1,0 +1,2 @@
+# 47A Power of insurer to intervene in legal proceedings
+An insurer may apply to the court to be joined as a party to legal proceedings brought against a defendant who is insured under a third-party policy with the insurer in order to argue that in the circumstances of the case it has no obligation under the policy to indemnify the defendant.

@@ -1,0 +1,20 @@
+# 66A Joinder of insurer where false claim alleged
+(1) Where:
+(a) court proceedings have been commenced against a person in respect of a claim, and
+(b) the person's insurer has given the plaintiff particulars alleging that the claim has not been made in good faith,
+the insurer may apply to the court to be joined as a party to the proceedings.
+(2) If the court gives the insurer leave to be joined as a party, the insurer may call as a witness any person able to give evidence relating to the occurrence out of which the claim arose or evidence of other matters relating to the claim, including a person who was, at the time of the occurrence, the owner or the driver of the vehicle.
+(3) The insurer may examine the witness as to the occurrence out of which the claim arose and may also, with the leave of the court, examine the witness as to:
+(a) any other claim in which the witness was involved either as a claimant, a witness or an owner or driver of the motor vehicle, and
+(b) the credibility of the witness.
+(4) If the court gives leave to do so, the insurer may:
+(a) cross-examine the witness, and
+(b) lead other evidence to refute the evidence given by the witness,
+as to any or all of the matters as to which the insurer might have examined the witness under subsection (3).
+(5) Any right to examine or cross examine a witness arising under this section is additional to and not in diminution of any right to examine or cross-examine the person arising under any other law.
+(6) This section applies despite section 53 of the Evidence Act 1898.
+(7) Subsections (3)-(6) apply to:
+(a) the Self Insurance Corporation as defendant in relation to claims referred to in section 147B, and
+(b) a licensed insurer as defendant in relation to any claim,
+in the same way as those subsections apply to a licensed insurer who is granted leave to be joined as a party.
+(8) This section applies to court proceedings commenced before or after the date of commencement of this section.

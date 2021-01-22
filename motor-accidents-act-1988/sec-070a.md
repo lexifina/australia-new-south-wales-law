@@ -1,0 +1,2 @@
+# 70A Claimant's prospects of future economic loss
+A court shall not award damages for future economic loss or damages for diminution of future economic capacity unless the claimant first satisfies the court that there is at least a 25 per cent likelihood that the claimant will sustain a future economic loss or that there is at least a 25 per cent likelihood that the claimant will sustain a diminution of future economic capacity, as the case requires.

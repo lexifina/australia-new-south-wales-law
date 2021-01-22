@@ -1,0 +1,22 @@
+# 43A Late making of claims
+(1) The objects of this section are:
+(a) to ensure that the issue of the lateness of a claim is dealt with as soon as possible after receipt of the claim, and
+(b) to ensure that any delay caused to the consideration of the substantive claim by the lateness issue is kept to a minimum, and
+(c) to ensure that the lateness issue is either resolved or made a mutually apparent substantive issue at an early date.
+(2) A claim may be made more than 6 months after the relevant date for the claim under section 43 (in this section called a late claim) if the claimant provides a full and satisfactory explanation for the delay in making the claim. The explanation is to be provided in the first instance to the third-party insurer concerned (if there is one) or to the Nominal Defendant.
+(3) Evidence as to any delay in the onset of symptoms relating to the injury suffered by the injured person as a result of the motor accident may be given in any such explanation.
+(4) A late claim may not be made more than 12 months after the relevant date for the claim under section 43 unless, in addition to the provision of a full and satisfactory explanation, the total damages of all kinds likely to be awarded to the claimant if the claim succeeds are not less than 10 per cent of the maximum amount that may be awarded for non-economic loss under section 79 or 79A as at the date of the relevant motor accident.
+(5) Subsection (4) does not apply to a claimant who is legally incapacitated because of the claimant's age or mental capacity.
+(6) This subsection applies if the late claim is made against the Nominal Defendant or a person who is insured by a third-party insurer. A reference in this subsection to an insurer includes a reference to the Nominal Defendant.
+(a) If, within 2 months after receiving a late claim for which no explanation for delay is provided, the insurer does not reject the claim or ask the claimant to provide a full and satisfactory explanation for the delay in making the claim, the insurer (and the person against whom the claim is made) lose the right to challenge the claim on the ground of delay.
+(b) If, within 2 months after receiving an explanation for delay in the making of a late claim, the insurer does not reject the explanation, the insurer (and the person against whom the claim is made) lose the right to challenge the claim on the ground of delay.
+(c) If court proceedings are commenced in respect of a late claim, an insurer (or the person against whom the claim is made) may apply to have the proceedings dismissed on:
+(i) the ground of delay, or
+(ii) in the case of a late claim that is made more than 12 months after the relevant date for the claim under section 43, the ground of the amount of damages,
+or both, only within 2 months after the statement of claim is served on the defendant and received by the insurer. The insurer (or the person against whom the claim is made) may only apply to have the proceedings dismissed on the ground of delay if the insurer (or the person) has not lost the right to challenge the claim on the ground of delay.
+(7) A court must dismiss proceedings commenced in respect of a late claim if the court is satisfied that the claimant does not have a full and satisfactory explanation for the delay in making the claim and, alternatively or in addition in the case of a late claim that is made more than 12 months after the relevant date for the claim under section 43, that the total damages of all kinds likely to be awarded to the claimant if the claim succeeds are less than 10 per cent of the maximum amount that may be awarded for non-economic loss under section 79 or 79A as at the date of the relevant motor accident.
+Note-
+The combined effect of sections 43 and 43A is as follows:
+A claim generally must be made within 6 months after the date of the accident or the date of death.
+If, however, a claim is made between 6 months and 12 months after the date of the accident or death, a full and satisfactory explanation for the delay in making the claim must be provided.
+A claim cannot be made after 12 months unless a full and satisfactory explanation for the delay is provided AND the damages of all kinds that would be awarded were the claim to succeed are at least 10% of the maximum damages that could be awarded for non-economic loss (see sections 79 and 79A) as at the date of the accident.
