@@ -1,0 +1,4 @@
+# 3E Meaning of "close friend or relative"
+(1) A person is a close friend or relative of another person for the purposes of this Act if the person maintains both a close personal relationship with the other person through frequent personal contact and a personal interest in the other person's welfare. However, a person is not to be regarded as a close friend or relative if the person is receiving remuneration (whether from the other person or some other source) for, or has a financial interest in, any services that he or she performs for the other person in relation to the person's care.
+(2) The Division Head of the Guardianship Division of the Tribunal may issue guidelines, not inconsistent with subsection (1), specifying the circumstances in which a person is to be regarded as a close friend or relative of another person.
+(3) In this section, remuneration does not include a carer's pension.

@@ -1,0 +1,3 @@
+# 25K Tribunal cannot make financial management order in certain circumstances
+(1) The Tribunal does not have jurisdiction to make a financial management order other than an interim financial management order in respect of a person if the question of the person's capability to manage his or her own affairs is before the Supreme Court.
+(2) The Tribunal does not have jurisdiction to make any financial management order (including an interim financial management order) in respect of a person if an order made under the NSW Trustee and Guardian Act 2009 or the Mental Health Act 2007 is in force in respect of any part of the person's estate.

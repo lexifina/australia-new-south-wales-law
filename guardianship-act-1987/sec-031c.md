@@ -1,0 +1,6 @@
+# 31C Service of applications
+(1) The applicant for directions must, as soon as practicable after the application has been made, cause a copy of the application to be served on-
+(a) the person who has a disability, and
+(b) the Public Guardian.
+(1A) Before conducting a hearing into the application, the Tribunal must cause a notice specifying the date on which, and the time and place at which, the Tribunal will conduct the hearing to be served on each person on whom a copy of the application is required to be served under subsection (1).
+(2) Failure to serve a copy of an application, or a notice, in accordance with this section does not vitiate the decision of the Tribunal on the application.

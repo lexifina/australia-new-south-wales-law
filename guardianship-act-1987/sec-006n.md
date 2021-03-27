@@ -1,0 +1,2 @@
+# 6N Evidence as to appointor's capacity
+In any proceedings in which the question of whether, on a particular day or during a particular period, the appointor of an enduring guardian was a person in need of a guardian is in issue, the certificate of a medical practitioner to the effect that the appointor was, on that day or during that period, totally or partially incapable of managing his or her person because of a disability is evidence of the fact that the appointor was a person in need of a guardian.

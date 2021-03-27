@@ -1,0 +1,2 @@
+# 31G Jurisdiction of the Supreme Court not affected
+Nothing in this Part limits the jurisdiction of the Supreme Court with respect to the guardianship of persons.
