@@ -1,0 +1,5 @@
+# 14B Consultation and planning
+(1) Racing NSW is to prepare business plans for its activities from time to time.
+(2) Racing NSW is to undertake formal consultation on a regular basis with RICG and other horse racing industry stakeholders in connection with the initiation, development and implementation of policies for the promotion, strategic development and welfare of the horse racing industry.
+(3) Racing NSW is to prepare an initial strategic plan for the horse racing industry within 12 months after the commencement of this section and is to prepare a further strategic plan for the horse racing industry every 3 years after the initial strategic plan is prepared. Each strategic plan must be prepared in consultation with RICG and other horse racing industry stakeholders.
+(4) The annual report of Racing NSW is to include a progress report on implementation of the business plan of Racing NSW and the strategic plan for the horse racing industry over the period to which the annual report relates.

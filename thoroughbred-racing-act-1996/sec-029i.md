@@ -1,0 +1,4 @@
+# 29I Review of Intra-Code agreement
+(1) Racing NSW may from time to time undertake a review of the Intra-Code agreement for the purpose of ensuring that the agreement is in the best interests of the horse racing industry as a whole in New South Wales.
+(2) Following such a review, Racing NSW may invite the other parties to the Intra-Code agreement to submit a proposal (a review proposal) for such changes to the agreement as may be necessary or desirable for ensuring that the agreement remains in the best interests of the horse racing industry as a whole in New South Wales.
+(3) The first review of the Intra-Code agreement under this section is to be commenced within 6 months after the commencement of this section. An invitation to submit a review proposal cannot be made less than 3 years after any previous invitation for the submission of a review proposal has been made under this section.

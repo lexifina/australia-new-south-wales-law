@@ -1,0 +1,2 @@
+# 29B Race clubs to provide information and documents
+Racing NSW may give a direction in writing to a registered race club requiring the club to provide specified documents or furnish specified information to Racing NSW within a time specified in the direction, being documents or information that Racing NSW considers will be of assistance in connection with the exercise of its functions referred to in section 13(1)(b), (b1) or (c) or 29A.
