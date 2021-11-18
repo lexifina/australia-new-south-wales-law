@@ -6,6 +6,10 @@ being an injury caused by the negligence (that is, the failure to exercise reaso
 (2) This Part does not apply to-
 (a) an award of damages pursuant to an action under the Compensation to Relatives Act 1897, or
 (b) an award of damages for mental harm (within the meaning of Part 3) to a person who was not an offender in custody at the time of the incident that resulted in the mental harm.
+(2A) This Part does not apply to, and is taken never to have applied to, an injury arising from child abuse.
 (3) Part 2 is subject to this Part.
 (4) Section 19 (Third party contributions) extends to an award of damages to which this Part applies as if that section were a provision of this Part.
 (5) A reference in Divisions 2-5 to an offender includes a reference to a person who, subsequent to the injury concerned, ceases to be an offender.
+(6) In this section-
+child means a person under the age of 18 years.
+child abuse, of a child, means sexual abuse or physical abuse of the child but does not include an act that is lawful at the time it takes place.

@@ -11,4 +11,10 @@ victim claim means a claim for personal injury damages in respect of-
 victim trust fund means offender damages awarded to an offender that are held on trust under this Division.
 (2) The definition of victim claim in this section-
 (a) operates whether or not a person whose conduct is alleged to constitute an offence has been, will be or is capable of being proceeded against or convicted of any offence concerned, and
-(b) extends to conduct of a person that would have constituted an offence if the person had not been suffering from a mental illness at the time of the conduct (whether or not the person was acquitted of an offence concerning that conduct by reason of mental illness or was found by a court not to be fit to be tried for an offence concerning that conduct by reason of such an illness).
+(b) extends to conduct of a person that would have constituted an offence if the person had not at the time of the conduct had-
+(i) a mental health impairment, or
+(ii) a cognitive impairment, or
+(iii) both, and
+(c) applies whether or not-
+(i) a special verdict of act proven but not criminally responsible is entered concerning that conduct, or
+(ii) the person was found by a court to be unfit to be tried for an offence.
