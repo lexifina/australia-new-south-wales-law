@@ -8,4 +8,4 @@ Maximum penalty-Imprisonment for 2 years.
 (2) An offence against this section is a summary offence.
 (3) In this section-
 restricted data means data held in a computer, being data to which access is restricted by an access control system associated with a function of the computer.
-(4) Proceedings for an offence against this section must be commenced not later than 12 months from when the offence was alleged to have been committed.
+(4) Proceedings for an offence against this section must be commenced within 3 years of the date on which the offence was alleged to have been committed.
