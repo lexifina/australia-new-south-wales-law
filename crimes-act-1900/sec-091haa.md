@@ -1,9 +1,14 @@
-# 91HAA Exception
-A person does not commit an offence under section 91H of possessing child abuse material if-
-(a) the possession of the material occurred when the accused person was under the age of 18 years, and
-(b) a reasonable person would consider the possession of the material by the accused person as acceptable having regard to each of the following (to the extent relevant)-
-(i) the nature and content of the material,
-(ii) the circumstances in which the material was produced and came into the possession of the accused person,
-(iii) the age, intellectual capacity, vulnerability or other relevant circumstances of the child depicted in the material,
-(iv) the age, intellectual capacity, vulnerability or other relevant circumstances of the accused person at the time the accused person first came into possession of the material and at the time that the accused person's possession of the material first came to the attention of a police officer,
-(v) the relationship between the accused person and the child depicted in the material.
+# 91HAA Administering a digital platform used to deal with child abuse material
+(1) A person (the administrator) is guilty of an offence if-
+(a) the administrator administers, or assists in the administration of, a digital platform, and
+(b) the digital platform is used by another person to deal with child abuse material, and
+(c) the administrator-
+(i) intends that the digital platform be used by another person to deal with child abuse material, or
+(ii) is aware that the digital platform is being used by another person to deal with child abuse material.
+Maximum penalty-imprisonment for 14 years.
+(2) In proceedings for an offence against this section, it is not necessary to prove the identity of the person using the digital platform to deal with child abuse material.
+(3) In this section-
+administer, a digital platform, includes the following-
+(a) design, create, manage or maintain the digital platform, part of the digital platform or a function of the digital platform,
+(b) provide a device to host the digital platform, part of the digital platform or a function of the digital platform,
+(c) facilitate the operation and use of the digital platform, part of the digital platform or a function of the digital platform.
