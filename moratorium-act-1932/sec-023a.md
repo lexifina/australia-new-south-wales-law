@@ -1,0 +1,2 @@
+# 23A Council not to bring suit for charging order in certain events
+No suit shall be brought by the council of any municipality or shire to enforce the charge for rates on land whilst such land is subject to any mortgage registered under either the Registration of Deeds Act 1897, or the Real Property Act 1900, to which the provisions of this Part of this Act apply, unless the mortgagee under such mortgage is in possession of the mortgaged land or he or any receiver appointed by him is in receipt of the rents and profits thereof.

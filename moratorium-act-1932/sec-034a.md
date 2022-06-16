@@ -1,0 +1,2 @@
+# 34A Mortgage of land excluding personal covenant to be trustee investment
+A mortgage of land in New South Wales shall be deemed an investment authorised by the Trustee Act 1925-1942, notwithstanding the fact that no action, suit or proceeding for the payment by the mortgagor of any principal moneys secured by the mortgage or interest thereon will lie at the instance of the mortgagee upon any covenant or agreement for such payment contained in the mortgage.

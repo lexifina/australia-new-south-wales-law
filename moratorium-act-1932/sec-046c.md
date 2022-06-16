@@ -1,0 +1,2 @@
+# 46C Statutes of limitations not to run
+During such time as any right or remedy of the mortgagee of any property or the vendor of any land against the mortgagor or mortgaged property or the purchaser or purchased land is or has been, by reason of this Act or any Act hereby repealed, suspended, time shall not run against such mortgagee or vendor under the provisions of any Statute of Limitations barring such right or remedy of the mortgagee or vendor against the mortgagor, mortgaged property, purchaser or purchased land.
