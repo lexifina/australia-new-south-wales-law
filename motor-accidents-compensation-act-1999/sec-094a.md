@@ -1,0 +1,9 @@
+# 94A Commission may assess costs
+(1) In making an assessment and specifying damages under section 94 in respect of a claim, the Commission may include in the assessment an assessment of the claimant's costs (including costs for legal services and fees for medico-legal services) in the matter.
+(2) An assessment of those costs may also be made (whether or not an assessment has been made under subsection (1)) if a court does not determine a matter after the issue of a certificate under section 94 but remits the matter for further assessment under this Part.
+(3) In making an assessment under this section, the Commission-
+(a) may have regard to the amount of any written offer of settlement made by either party to the matter, and
+(b) must give effect to any requirement of a court under section 151 (3), and
+(c) must give effect to any requirement of the regulations under Chapter 6 as to costs that may be included in an assessment or award of damages or fixing maximum fees and costs,
+(d) must have regard to the principles and matters referred to in section 200 of the Legal Profession Uniform Law (NSW).
+(4) A claimant or an insurer (or an Australian legal practitioner acting for a claimant or an insurer in respect of the relevant claim) has the same right of appeal against an assessment made under this section as the claimant, insurer or legal practitioner would have under section 89 of the Legal Profession Uniform Law Application Act 2014 if the assessment were a decision of a costs assessor under Part 7 of that Act in respect of a bill of costs.

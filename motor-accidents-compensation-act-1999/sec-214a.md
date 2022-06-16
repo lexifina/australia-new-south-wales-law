@@ -1,0 +1,9 @@
+# 214A Payment and collection of Fund levy
+(1) The Fund levy for a relevant period is payable to the Authority by each person to whom a third-party policy is issued during the relevant period and is to be collected, in conjunction with the payment of the premium for the policy, on behalf of the Authority by the insurer who issues the policy.
+(2) A licensed insurer is not to issue a third-party policy to a person unless the Fund levy payable by the person has been paid. Section 14 (Cancellation of third-party policies) applies in respect of the Fund levy payable in connection with the issue of a third-party policy in the same way as it applies in respect of the premium payable for the policy.
+(3) Fund levies collected by a licensed insurer are to be paid to the Authority at the times and in accordance with such arrangements as the Authority may notify to the insurer from time to time.
+(4) If a payment required to be made by a licensed insurer has not been paid as and when required under those arrangements-
+(a) the insurer is guilty of an offence and liable to a penalty not exceeding 100 penalty units, and
+(b) the amount of the required payment together with interest calculated at the rate of 15% per annum compounded quarterly (or, where another rate is prescribed by the regulations, that other rate) may be recovered from the insurer as a debt due to the Authority.
+(5) A certificate purporting to be signed by the chief executive of the Authority as to the amount of a payment required to be made under this section by a licensed insurer specified in the certificate and the due date for payment is admissible in proceedings under this section and is evidence of the matters specified in the certificate.
+(6) The obligation of a licensed insurer to make a payment under this section in respect of any period during which the person was a licensed insurer does not cease merely because the person subsequently ceases to be a licensed insurer.

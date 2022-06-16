@@ -1,0 +1,4 @@
+# 7L Special provision where child and driver at fault
+In a case in which this Division would confer a special entitlement to recover damages in respect of the death of or injury to a child but for the fact that the motor accident was caused by the fault of the owner or driver of the motor vehicle in the use or operation of the vehicle, a liability for damages of the kind to which that special entitlement relates (including any such liability of an insurer under section 83 or 84) is not to be reduced on account of the contributory negligence of the child (even though this Division does not confer that special entitlement in the case).
+Note.
+The special entitlement to damages conferred by this Division is only applicable where the owner/driver is not at fault. Where the owner/driver is at fault, this section prevents a reduction in special entitlement type damages that would otherwise result from the contributory negligence of the child.

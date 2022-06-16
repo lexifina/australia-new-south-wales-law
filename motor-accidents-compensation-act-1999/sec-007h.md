@@ -1,0 +1,2 @@
+# 7H No recovery by Nominal Defendant unless owner or driver actually at fault
+The Nominal Defendant is not entitled to recover any amount under section 39 from the owner or driver of a motor vehicle in respect of amounts properly paid by the Nominal Defendant in connection with the operation of this Division unless the motor accident concerned was actually caused by the fault of the owner or driver of the motor vehicle in the use or operation of the vehicle.

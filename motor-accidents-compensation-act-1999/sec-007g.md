@@ -1,0 +1,2 @@
+# 7G Recovery of contribution from person actually at fault
+A person whose liability for damages in respect of the death of or injury to a person results from the person being deemed under this Division to be a person whose fault caused the death or injury is entitled to recover contribution in respect of that liability from a person (whether or not the driver of a motor vehicle) whose fault actually caused the death or injury.
