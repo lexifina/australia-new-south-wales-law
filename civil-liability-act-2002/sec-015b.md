@@ -9,7 +9,7 @@ dependants, in relation to a claimant, means-
 (a) such of the following persons as are wholly or partly dependent on the claimant at the time that the liability in respect of which the claim is made arises-
 (i) the person to whom the claimant is legally married (including a husband or wife of the claimant),
 (ii) a de facto partner of the claimant,
-Note-
+Note.
 "De facto partner" is defined in section 21C of the Interpretation Act 1987.
 (iii) a child, grandchild, sibling, uncle, aunt, niece, nephew, parent or grandparent of the claimant (whether derived through subparagraph (i) or (ii), adoption or otherwise),
 (iv) any other person who is a member of the claimant's household, and
@@ -22,7 +22,7 @@ gratuitous domestic services means services of a domestic nature for which the p
 (i) for at least 6 hours per week, and
 (ii) for a period of at least 6 consecutive months, and
 (d) there will be a need for the services to be provided for those hours per week and that consecutive period of time and that need is reasonable in all the circumstances.
-Note-
+Note.
 Section 18 provides that a court cannot order the payment of interest on damages awarded for any loss of capacity of a claimant to provide gratuitous domestic services to the claimant's dependants.
 (3) If a dependant of the claimant received (or will receive) assisted care during the 6-month period referred to in subsection (2)(c)(ii) and the court is satisfied that the periods of that care were (or will be) short-term and occasional, the court may-
 (a) in determining whether the claimant would have provided gratuitous domestic services to the dependant during a particular week for at least the 6 hours referred to in subsection (2)(c)(i), disregard the week if assisted care was (or will be) provided during that week, and

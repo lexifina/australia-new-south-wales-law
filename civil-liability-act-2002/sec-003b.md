@@ -11,7 +11,7 @@
 (e) civil liability relating to an award to which Chapter 5 of the Motor Accidents Compensation Act 1999 applies (including an award to and in respect of which that Chapter applies pursuant to section 121 (Application of common law damages for motor accidents to railway and other public transport accidents) of the Transport Administration Act 1988)-the whole Act except the provisions that subsection (2) provides apply to motor accidents,
 (e1) civil liability relating to an award to which Part 4 of the Motor Accident Injuries Act 2017 applies-the whole Act except the provisions that subsection (2) provides apply to motor accidents,
 (f) civil liability relating to an award to which Division 3 of Part 5 of the Workers Compensation Act 1987 applies-the whole Act (other than Part 1B),
-Note-
+Note.
 Section 151E(2A) of the Workers Compensation Act 1987 provides that Division 3 of Part 5 of that Act does not apply to an award of damages that arises from abuse against a child (whether arising under Part 1B of this Act or the common law).
 (g) civil liability for compensation under the Workers Compensation Act 1987, the Workers Compensation (Bush Fire, Emergency and Rescue Services) Act 1987, the Workers' Compensation (Dust Diseases) Act 1942 or the Anti-Discrimination Act 1977 or a benefit payable under the Sporting Injuries Insurance Act 1978-the whole Act,
 (h) civil liability for financial assistance for economic loss under the Victims Rights and Support Act 2013-the whole Act.

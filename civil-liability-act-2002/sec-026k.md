@@ -3,7 +3,7 @@
 award of damages means an award of damages by a court (including such an award pursuant to judgment entered in accordance with an agreement between the parties to a claim for damages).
 offender means a person to whom an award of offender damages is made.
 offender damages means personal injury damages awarded pursuant to an award to which this Part applies.
-Note-
+Note.
 For the purposes of this Division, this Part has an extended application. See Part 7 of Schedule 1.
 victim claim means a claim for personal injury damages in respect of-
 (a) an injury to a person caused by conduct of an offender that, on the balance of probabilities, constitutes an offence, or
