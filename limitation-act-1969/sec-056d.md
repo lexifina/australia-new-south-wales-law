@@ -1,0 +1,2 @@
+# 56D Prior expiry of limitation period
+An order for the extension of a limitation period, and an application for such an order, may be made under this Division even though the limitation period has already expired.

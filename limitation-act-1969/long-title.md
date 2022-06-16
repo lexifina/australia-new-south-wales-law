@@ -1,0 +1,2 @@
+# Long title
+An Act to amend and consolidate the law relating to the limitation of actions; to repeal section 5 of the Imperial Act known as the Common Informers Act 1588 and certain other Imperial enactments; to repeal the unrepealed portion of the Act passed in the fourth year of the reign of William the Fourth number seventeen and certain other enactments; to amend the Compensation to Relatives Act of 1897, as amended by subsequent Acts, and certain other enactments; to make further provision concerning estates tail; and for purposes connected therewith.

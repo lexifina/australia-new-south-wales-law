@@ -1,0 +1,2 @@
+# 60F Purpose of this Subdivision
+The purpose of this Subdivision is to provide a procedure for a further discretionary extension of limitation periods where the plaintiff was unaware of the fact, nature, extent or cause of the injury, disease or impairment at the relevant time. This procedure is available for causes of action accruing on or after 1 September 1990, and also (by the operation of Schedule 5) for causes of action that accrued before that date.

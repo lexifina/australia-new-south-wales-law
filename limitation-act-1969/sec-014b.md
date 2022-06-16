@@ -1,0 +1,9 @@
+# 14B Defamation
+(1) An action on a cause of action for defamation is not maintainable if brought after the end of a limitation period of 1 year running from the date of the publication of the matter complained of.
+(2) The 1-year limitation period referred to in subsection (1) is taken to have been extended as provided by subsection (3) if a concerns notice is given to the proposed defendant on a day (the notice day) within the period of 56 days before the limitation period expires.
+(3) The limitation period is extended for an additional period of 56 days minus any days remaining after the notice day until the 1-year limitation period expires.
+Example-
+Assume a concerns notice is given 7 days before the limitation period expires. This means that there are 6 days left after the notice day before the period expires. Consequently, this subsection would operate to extend the limitation period by 56 minus 6 days, that is, 50 days.
+(4) In this section-
+concerns notice has the same meaning as in the Defamation Act 2005.
+date of publication, in relation to the publication of matter in electronic form, means the day on which the matter was first uploaded for access or sent electronically to a recipient.

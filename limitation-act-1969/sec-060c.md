@@ -1,0 +1,3 @@
+# 60C Ordinary action (including surviving action)
+(1) This section applies to a cause of action, founded on negligence, nuisance or breach of duty, for damages for personal injury, but does not apply to a cause of action arising under the Compensation to Relatives Act 1897.
+(2) If an application is made to a court by a person claiming to have a cause of action to which this section applies, the court, after hearing such of the persons likely to be affected by the application as it sees fit, may, if it decides that it is just and reasonable to do so, order that the limitation period for the cause of action be extended for such period, not exceeding 5 years, as it determines.
