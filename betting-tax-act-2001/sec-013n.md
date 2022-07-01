@@ -1,0 +1,8 @@
+# 13N Appropriation and payment of revenue to Responsible Gambling Fund
+(1) The Treasurer is, for the period from 1 January 2019 to 30 June 2019, to pay $2,500,000 to the Responsible Gambling Fund established under section 115 of the Casino Control Act 1992.
+(2) That amount is to be paid from the Consolidated Fund, which is appropriated accordingly.
+(3) The Treasurer may, for subsequent financial years, pay to the Responsible Gambling Fund from the Consolidated Fund other amounts appropriated by Parliament.
+(4) Any amount paid under this section is to be the subject of the creation and operation of a trust deed appointing trustees and containing provisions approved by the Minister administering the Casino Control Act 1992 (the Minister) relating to the expenditure of that money for purposes relating to responsible gambling.
+(5) The trustees may make recommendations to the Minister as to the application of money (appropriate to the trust deed) for purposes relating to responsible gambling and the Minister may pay money out of the Responsible Gambling Fund in accordance with any such recommendations.
+(6) The trustees, when making recommendations for payment of money out of the Responsible Gambling Fund, are required to take into account any policy guidelines issued to the trustees by the Minister for the purpose of giving effect to the provisions of the trust deed relating to expenditure for purposes relating to responsible gambling.
+(7) The Minister may also pay money out of the Responsible Gambling Fund for any purpose that is consistent with the provisions of the trust deed but only after consulting with the trustees on the proposed expenditure.
