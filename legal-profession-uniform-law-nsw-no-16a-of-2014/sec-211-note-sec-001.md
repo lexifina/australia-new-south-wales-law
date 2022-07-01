@@ -1,0 +1,2 @@
+# 1
+Section 45 provides that the designated local regulatory authority must not grant or renew an Australian practising certificate unless it is satisfied that the applicant has, or will have on or before the grant or renewal, professional indemnity insurance in accordance with this Law and the Uniform Rules. This does not apply if the applicant is not required to have professional indemnity insurance.
