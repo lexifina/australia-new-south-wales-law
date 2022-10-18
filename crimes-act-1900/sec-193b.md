@@ -1,4 +1,4 @@
-# 193B Money laundering
+# 193B Money laundering-proceeds of crime
 (1) A person who deals with proceeds of crime-
 (a) knowing that it is proceeds of crime, and
 (b) intending to conceal that it is proceeds of crime,

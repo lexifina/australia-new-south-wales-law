@@ -5,3 +5,6 @@
 (2) To avoid doubt, it is not necessary, in order to prove for the purposes of an offence under this Part that property will be an instrument of crime, to establish-
 (a) an intention or risk that a particular offence will be committed in relation to the property, or
 (b) an intention or risk that a particular person will commit an offence in relation to the property.
+(3) To avoid doubt, it is not necessary to establish the following in order to prove, for the purposes of an offence under this Part, that property is proceeds of general crime-
+(a) an offence or a type of offence was committed in relation to the property,
+(b) a particular person committed an offence or a type of offence in relation to the property.
