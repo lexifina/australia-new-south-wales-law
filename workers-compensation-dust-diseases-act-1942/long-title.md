@@ -1,0 +1,2 @@
+# Long title
+An Act to make further and more extensive provisions regarding the payment of compensation in the case of workers who suffer death or disablement owing to the disease known as silicosis of the lungs, or owing to other diseases of the pulmonary or respiratory organs caused by exposure to silica dust; to validate certain payments; to repeal the Workmen's Compensation (Silicosis) Act 1920-1936, as amended by subsequent Acts; and for purposes connected therewith.

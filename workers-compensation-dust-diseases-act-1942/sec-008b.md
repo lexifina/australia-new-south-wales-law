@@ -1,0 +1,4 @@
+# 8B Interim award
+(1) The Authority may, where it is satisfied that compensation is payable under this Act to any person, and pending its final determination as to the amount of such compensation, make an interim award for the payment of such amount of compensation to that person as does not exceed the least compensation to which the person is, in the opinion of the Authority, entitled.
+(2) Upon the making of an award in favour of such person pursuant to section 8 (1), the interim award in such person's favour shall terminate and the amounts which have been paid under the interim award shall be deducted from the amount payable under the award made under that subsection.
+(3) An interim award made in favour of any person may be terminated by the Authority at any time before the making of an award in favour of that person pursuant to section 8 (1).
