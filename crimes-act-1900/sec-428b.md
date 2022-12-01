@@ -141,8 +141,8 @@ Making or using false official instrument to pervert the course of justice
 General offence of perverting the course of justice
 321 (1)
 Corruption of witnesses and jurors
-322
-Threatening or intimidating judges, witnesses, jurors etc
+322(1)
+Threats or intimidation-judges and other persons connected with judicial proceedings
 323
 Influencing witnesses and jurors
 328
