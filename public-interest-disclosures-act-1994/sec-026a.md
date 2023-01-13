@@ -1,0 +1,6 @@
+# 26A Transitional disclosure procedure when public authority becomes separate office within another public authority
+(1) If a public authority becomes a separate office within another public authority (the new public authority), a disclosure made to the principal officer of the separate office during the transition period is taken to have been made to the principal officer of the new public authority.
+(2) The transition period is the period beginning when the public authority becomes a separate office within the new public authority and ending when either of the following happens-
+(a) a procedure is established by the new public authority that provides for the reporting of allegations of corrupt conduct, maladministration or serious and substantial waste of public money by officers of the separate office,
+(b) an existing procedure of the new public authority is varied or confirmed to be applicable to the reporting of allegations of corrupt conduct, maladministration or serious and substantial waste of public money by officers of the separate office.
+(3) A public authority can be the new public authority under this section even if the public authority is not newly created and even if it is formed by the amalgamation of 2 or more existing public authorities that become separate offices of the new public authority.
