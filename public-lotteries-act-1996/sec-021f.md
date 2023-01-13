@@ -1,0 +1,4 @@
+# 21F Immediate suspension of licence
+(1) The Minister may suspend a licence immediately if the Minister considers there is a sufficient ground for the suspension or cancellation of the licence and the circumstances are so extraordinary that it is imperative to suspend the licence immediately to ensure that the integrity of the conduct of a public lottery is not jeopardised in a material way or the public interest is not adversely affected in a material way.
+(2) An immediate suspension is effected by giving written notice of the suspension (a suspension notice) to the licensee and then following the show cause procedure provided for by this Division.
+(3) The suspension takes effect when the suspension notice is given and continues to have effect until the show cause procedure is completed.

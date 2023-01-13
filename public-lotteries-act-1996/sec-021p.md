@@ -1,0 +1,5 @@
+# 21P Savings and transitional arrangements
+(1) The rules for the conduct of games of keno that are in force under the existing keno licence immediately before the revocation of that licence continue in force as the rules made and approved under this Act for the conduct of games of keno under a new keno licence (but without affecting any later amendment of those rules).
+(2) The prize fund kept for the purposes of Division 1 of Part 5 by the licensee under the existing keno licence becomes and is taken to be the prize fund kept for that purpose by the licensee under a new keno licence.
+(3) Any approval in force under this Act in respect of the existing keno licence immediately before the revocation of that licence is taken to have been given in respect of a new keno licence for which the approval has any relevant operation.
+(4) A game of keno being conducted under the existing keno licence immediately before the revocation of that licence is to be continued and completed under a new keno licence.

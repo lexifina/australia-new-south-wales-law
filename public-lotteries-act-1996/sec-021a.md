@@ -1,0 +1,9 @@
+# 21A Review of suitability of licensee
+(1) The Minister may from time to time determine whether in the opinion of the Minister the licensee under an operator licence and each close associate of the licensee remains a suitable person to be concerned in or associated with the management and operation of the business conducted under the licence.
+(2) For the purpose of determining whether the licensee or any close associate of the licensee is a suitable person to be concerned in or associated with the management and operation of the business conducted under the licence, the Minister is to have regard to the same matters to which the Minister is required to have regard in deciding whether an applicant or close associate of an applicant is a suitable person for that purpose.
+(3) The Minister may require the licensee under an operator licence to pay to the Minister such reasonable costs as may be incurred by or on behalf of the Minister in conducting any inquiry or investigation for the purposes of a determination under this section.
+(4) It is a condition of an operator licence that the licensee must-
+(a) provide such information (including necessary consents to facilitate the provision of information) as the Minister may reasonably request for the purpose of making a determination under this section, and
+(b) pay the costs that the Minister requires the licensee to pay under this section in connection with any inquiry or investigation conducted for the purposes of a determination under this section.
+(5) The Minister may recover from a licensee (as a debt due to the Crown) any costs that the Minister has required the licensee to pay under this section.
+(6) The Minister may give a certificate as to the amount of the reasonable costs incurred by or on behalf of the Minister in conducting any inquiry or investigation for the purposes of a determination under this section, and such a certificate is in any proceedings evidence of the matter certified.
