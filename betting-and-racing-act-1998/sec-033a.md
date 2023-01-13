@@ -1,0 +1,8 @@
+# 33A Relevant racing control body may grant race field information use approvals
+(1) The relevant racing control body in relation to an intended race (or class of races) to be held at any race meeting on a licensed racecourse in New South Wales may grant approval to a person to use NSW race field information (a race field information use approval) in respect of that race or class of races if the person has made an application for that approval under this Division.
+(2) A relevant racing control body may (but need not) impose any of the following kinds of conditions on a race field information use approval that it grants-
+(a) a condition that the holder of the approval pay a fee or a series of fees of an amount or amounts and in the manner specified in the approval (being a fee or fees imposed in accordance with any requirements prescribed by the regulations),
+(b) such other conditions as may be specified in the approval (being conditions of a kind that are prescribed as permissible conditions by the regulations).
+(3) Any fee that is payable under a race field information use approval is a debt due to the relevant racing control body that granted the approval and is recoverable as such in a court of competent jurisdiction.
+(4) A relevant racing control body that grants a race field information use approval may, by written notice to the holder of the approval, cancel or vary the terms of the approval on any grounds prescribed by the regulations.
+(5) If a relevant racing control body cancels or varies a race field information use approval, the body must provide the holder of the approval with written reasons indicating why the approval was cancelled or varied (as the case may be).

@@ -1,0 +1,16 @@
+# 36C Giving of notices and other documents
+(1) For the purposes of this Act, a notice or other document may be given to a person (or a notice or other document may be served on a person)-
+(a) in the case of an individual-
+(i) by delivering it personally to the individual, or
+(ii) by posting it, addressed to the individual at the individual's residential address, business address or address for service of notices, or
+(iii) by leaving it with a person apparently aged 16 years or more at the individual's residential address or business address, or
+(iv) by sending it by means of electronic communication or facsimile transmission, addressed to the individual at the individual's address for service of electronic communications or facsimile transmissions, in accordance with the individual's information technology requirements with respect to the receipt of electronic communications or facsimile transmissions, or
+(b) in the case of a corporation-
+(i) by delivering it personally to a person concerned in the corporation's management, or
+(ii) by posting it, addressed to the corporation at the corporation's business address or address for service of notices, or
+(iii) by leaving it with a person apparently aged 16 years or more at the corporation's business address, or
+(iv) by sending it by means of electronic communication or facsimile transmission, addressed to the corporation at the corporation's address for service of electronic communications or facsimile transmissions, in accordance with the corporation's information technology requirements with respect to the receipt of electronic communications or facsimile transmissions.
+(2) A reference in this section to a person's address of any particular kind includes a reference to the address of that kind-
+(a) as last known to the Secretary, or
+(b) as nominated by the person and provided to the Secretary.
+(3) In this section, business address in relation to a person includes the address of any racecourse of which the person is the licensee.

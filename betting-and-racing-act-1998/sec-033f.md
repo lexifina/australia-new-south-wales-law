@@ -1,0 +1,2 @@
+# 33F Effect of race field information use approval limited
+For the avoidance of doubt, the granting of a race field information use approval does not operate to authorise the holder of the approval to do (or omit to do) anything in relation to a race to be held at any race meeting on a licensed racecourse in New South Wales other than to use the NSW race field information to which the approval relates in accordance with the terms of the approval.
