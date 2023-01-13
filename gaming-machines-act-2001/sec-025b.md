@@ -1,0 +1,15 @@
+# 25B Effect of lease of gaming machine entitlements
+(1) The following provisions apply to a lease of a gaming machine entitlement held by a hotel or club (the lessor venue) to another hotel or club (the lessee venue)-
+(a) the lease operates as a lease by the licensee for the time being of the lessor venue to the licensee for the time being of the lessee venue (with the result that a transfer of the licence of the lessor venue or lessee venue does not affect the operation or continuation of the lease and does not require any assignment of lease),
+(b) during the lease the lessee venue has the benefit of the gaming machine entitlement and the lessor venue does not have the benefit of the gaming machine entitlement,
+(c) during the lease the gaming machine entitlement is considered to be a gaming machine entitlement acquired and held by the lessee venue and counts towards the total number of gaming machine entitlements held by the lessee venue,
+(d) the gaming machine entitlement is not considered to be held by the lessor venue during the lease,
+(e) during the lease the gaming machine threshold for the lessor venue is reduced by the number of entitlements leased.
+Note-
+Section 32A (Caps on gaming machine entitlements in particular areas) provides that for the purposes of a cap under that section the gaming machine threshold for a venue is not to be reduced by a lease of gaming machine entitlements.
+Gaming machine tax (which is imposed on profits from a gaming machine) is payable by the hotel or club where the gaming machine is kept. When a gaming machine entitlement is leased, it is the lessee venue that is liable for that tax because the gaming machine is kept by the lessee venue.
+(2) At the end of the lease, the gaming machine threshold for the lessee venue is reduced by the number of entitlements leased unless a threshold increase application that was made together with an application for approval of the lease was accompanied by an LIA, or was not required to be accompanied by an LIA because of section 35 (2) (a).
+(3) While any gaming machine entitlement of a hotel or club is leased, the hotel or club licence cannot be removed under the Liquor Act 2007 to other premises unless-
+(a) those other premises are situated in the same local statistical area as the previous premises, or
+(b) those other premises are situated in the same local government area as the previous premises and the classification of the local statistical area in which those other premises are situated is the same as or ranked lower than the classification of the local statistical area in which the previous premises were situated.
+(4) The Authority is not to decrease the gaming machine threshold for a venue because the venue has not acquired its approved increase in gaming machine entitlements before the end of the limited period for doing so (as required by section 37) to the extent that the gaming machine threshold has already been reduced under this section at the end of a lease of gaming machine entitlements.

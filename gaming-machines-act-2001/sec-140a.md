@@ -1,0 +1,2 @@
+# 140A Protection from personal liability
+Anything done or omitted to be done by a person who is an employee of the CMS licensee in exercising the functions conferred or imposed on the person by or under this Act, or in the course of the administration of this Act, does not, if it was done or omitted to be done in good faith, subject the person personally to any action, liability, claim or demand.

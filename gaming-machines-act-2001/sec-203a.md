@@ -1,0 +1,3 @@
+# 203A Forfeiture and seizure of gaming machines
+(1) If, in any proceedings before it, a court determines that this Act or the regulations, or a condition of a gaming-related licence, has been contravened in relation to an approved gaming machine, the court may order the forfeiture to the Crown of the gaming machine and any money found in it.
+(2) A police officer may seize and carry away anything that the police officer reasonably suspects may be liable to forfeiture under this section or which a court has ordered to be forfeited to the Crown, including any money in an approved gaming machine at the time of its seizure.

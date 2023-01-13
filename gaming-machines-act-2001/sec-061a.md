@@ -1,0 +1,8 @@
+# 61A Limit on number of MTGMs in clubs
+(1) Except as provided by section 61B, an application for authorisation to keep an MTGM on the premises of a club cannot be granted if-
+(a) the total number of terminals forming part of MTGMs kept on the premises is more than 15% of the total number of gaming machine entitlements held in respect of the club licence concerned, or
+(b) the authorisation would result in the total number of terminals forming part of MTGMs kept on the premises being more than 15% of the total number of gaming machine entitlements held in respect of the club licence concerned.
+(2) Subsection (1) applies only if the application relates to an increase in the number of MTGMs authorised to be kept on the club premises.
+(3) If, at the commencement of this section (as substituted by the Gaming Machines Amendment Act 2008) the total number of terminals forming part of MTGMs kept on the premises of a club is more than 15% of the total number of gaming machine entitlements held in respect of the club licence concerned, the club must, within 5 years of that commencement, reduce the total number of those terminals to no more than 15% of the total number of entitlements so held.
+(4) If, by the end of that 5-year period, the club has not reduced the total number of terminals in accordance with subsection (3), the authorisation to keep any MTGM that is over the 15% threshold is automatically cancelled.
+(5) An application for authorisation to keep an MTGM on the premises of a club cannot be granted if the application relies on an increase in the number of gaming machine entitlements held by the club that results from a lease of those gaming machine entitlements.
