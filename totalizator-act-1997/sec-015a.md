@@ -1,0 +1,12 @@
+# 15A Consideration and fees for licences
+(1) The Minister may determine that an amount is payable as consideration for the grant of a licence under this Act, except a licence granted to a racing club to authorise the operation of an on-course totalizator. Different amounts may be determined for different licences.
+(2) The Minister may determine a periodic licence fee for a licence under this Act, except a licence granted to a racing club to authorise the operation of an on-course totalizator and a licence granted to TAB or a wholly owned subsidiary of TAB under section 14 or 15. Any such fee is payable in accordance with the regulations. Different fees may be determined for different licences.
+(3) The Minister can require payment of an amount of consideration payable under this section by payment in money or by the issue of shares to the State or as the Minister may otherwise direct.
+(4) A licence for which an amount of consideration has been determined to be payable under this section is not to be granted until the amount has been paid or arrangements satisfactory to the Minister have been made for its payment.
+(5) The regulations may make provision for or with respect to any fee payable under this section and in particular may provide for any of the following-
+(a) the periods in respect of which a fee is payable,
+(b) times for payments of fees,
+(c) payment by instalments,
+(d) penalties for late payment,
+(e) suspension or cancellation of a licence for failing to pay a fee,
+(f) the circumstances in which a fee (or part of a fee) may be refunded.

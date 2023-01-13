@@ -1,0 +1,2 @@
+# 32A Exemption for nominated company
+The other provisions of this Division do not apply to or in respect of the nominated company or a related body corporate of the nominated company (other than a licensee or a subsidiary of a licensee), in relation to its entitlement to voting shares in TAB Limited, during any period during which the exemption granted to the nominated company and any related body corporate by section 37A of the Totalizator Agency Board Privatisation Act 1997 is in force.
