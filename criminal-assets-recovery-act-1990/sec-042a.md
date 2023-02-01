@@ -1,0 +1,3 @@
+# 42A Disposal of seized property to Commission
+(1) Anything seized pursuant to section 49 of the Law Enforcement (Powers and Responsibilities) Act 2002 may under subsection (3) of that section be directed by a court or Magistrate to be disposed of by being delivered into the custody or control of the Commission if the court or Magistrate is satisfied that the thing seized is proposed to be used in evidence in any proceedings under this Act.
+(2) Anything so delivered to the custody or control of the Commission is taken to have been seized (when it was delivered) pursuant to a search warrant under this Division.

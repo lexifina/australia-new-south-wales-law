@@ -1,0 +1,2 @@
+# 52H Powers of NSW Trustee and Guardian in relation to interstate restraining orders
+If an interstate restraining order registered under this Act directs an official of the jurisdiction in which it was made to take control of the property, the NSW Trustee and Guardian may, in accordance with an agreement between the NSW Trustee and Guardian and the official, exercise the same powers in relation to the property as the official would have been able to exercise if the property were located in that State.

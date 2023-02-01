@@ -1,0 +1,25 @@
+# 10A Proceedings for restraining orders
+(1) Application for order The Commission may apply to the Supreme Court, ex parte, for a restraining order in respect of specified interests, a specified class of interests, or all the interests, in property of any person (including interests acquired after the making of the order).
+(2) The Commission may apply to the Supreme Court, ex parte, for a restraining order in respect of specified interests, or a specified class of interests, in property that are held in a false name.
+(3) The Commission may only apply for a restraining order that relates to interests in property derived from external serious crime related activity if the person who has the interests is domiciled in New South Wales or the property is situated in New South Wales.
+(4) Notice to affected person of application Despite the application for a restraining order being made ex parte, the Supreme Court may, if it thinks fit, require the Commission to give notice of the application to a person who the Court has reason to believe has a sufficient interest in the application. A person who is required to be notified is entitled to appear and adduce evidence at the hearing of the application.
+(5) Determination of applications The Supreme Court must make a restraining order if the application for the order is supported by an affidavit of an authorised officer stating that-
+(a) in the case of an application in respect of an interest referred to in subsection (1)-the authorised officer suspects that-
+(i) the person whose interest is the subject of the application has engaged in a serious crime related activity or serious crime related activities, or
+(ii) the person whose interest is the subject of the application has acquired serious crime derived property because of any such activity of the person or of another person, or
+(iii) the interest is serious crime derived property, or
+(iv) the person has not disclosed an interest in property in evidence or a warranty or other representation given or made by the person in proceedings relating to an application for an assets forfeiture order, proceeds assessment order or unexplained wealth order, or examination proceedings under this Act, and the interest to which the application relates is capable of being the subject of an order under section 31A or 31B because of that non-disclosure, or
+(v) the person's unexplained wealth is at least-
+(A) for unexplained wealth that is money-$250,000, or
+(B) otherwise-$2,000,000,
+and stating the grounds on which that suspicion is based, and
+(b) (Repealed)
+(c) in the case of an application in respect of an interest referred to in subsection (2)-the authorised officer suspects that the interest is fraudulently acquired property that is illegally acquired property and stating the grounds on which that suspicion is based,
+and the Court considers that, having regard to the matters contained in any such affidavit and any evidence adduced under subsection (4), there are reasonable grounds for any such suspicion.
+(6) The Supreme Court may grant an application under this section for a restraining order for interests in property derived from external serious crime related activity only if the application is supported by an affidavit of an authorised officer stating that the officer has made due enquiry and is satisfied that no action has been taken under a law of the Commonwealth or any place outside this State (including outside Australia) against any interests in property of the person concerned that are the subject of the application as a result of the external serious crime related activity.
+(7) Undertakings by State as to costs or damages The Supreme Court may refuse to make a restraining order if the State refuses or fails to give to the Court such undertakings as the Court considers appropriate as to the payment of damages or costs, or both, in relation to the making and operation of the order.
+(8) For the purposes of an application for a restraining order, the Commission may, on behalf of the State, give to the Supreme Court such undertakings as to the payment of damages or costs, or both, as the Court requires.
+(9) Urgent applications by telephone or other means of communication An authorised officer may, on behalf of the Commission, apply for a restraining order by telephone, radio, facsimile, email or other means of communication if the application is supported by a statement of the officer that-
+(a) the order is required urgently as there is a risk that funds in a specified financial institution (being an interest in property in respect of which the order is sought) may be withdrawn or transferred to a place outside New South Wales (including outside Australia), and
+(b) it is not practicable for the authorised officer to appear in person.
+(10) If it is not possible for the application to be made directly to the Supreme Court by the applicant, the application may be transmitted to the Supreme Court by another person on behalf of the applicant.

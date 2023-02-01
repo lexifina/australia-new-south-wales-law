@@ -1,0 +1,2 @@
+# 52E Duration of registration
+A registered interstate assets forfeiture order, registered interstate crime related property declaration or registered interstate restraining order is enforceable in this State under this Act until its registration is cancelled under section 52F, even if the order or declaration has already ceased to be in force under the law under which the order or declaration was made.

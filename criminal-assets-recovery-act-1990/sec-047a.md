@@ -1,0 +1,3 @@
+# 47A Legal professional privilege
+(1) The fact that a document contains or may contain information that is the subject of legal professional privilege does not prevent seizure of the document under the authority of a search warrant issued under this Division.
+(2) If a person objects to the seizure of a document under the authority of such a search warrant on the ground that the document contains or may contain information that is the subject of legal professional privilege, any information, document or thing obtained as a direct or indirect consequence of the seizure of the document is not admissible in any criminal proceedings against the person entitled to claim that privilege.
