@@ -1,0 +1,9 @@
+# 42B Applications for freezing notices
+(1) An authorised officer may apply to an authorised justice for a freezing notice in respect of specified property of a person if the person (the defendant) has been, or is about to be, charged with, or has been convicted of, a serious offence and the authorised officer has reasonable grounds for believing that-
+(a) if the defendant has not been convicted of the offence, the defendant committed the offence, and
+(b) the property is tainted property or substitutable tainted property in relation to that offence or the defendant derived benefits because of having committed the offence or, if the offence is a drug trafficking offence, the property is the defendant's proceeds of drug trafficking.
+(2) An authorised officer may apply to an authorised justice for a freezing notice in respect of the property of a person if another person (the defendant) has been, or is about to be, charged with, or has been convicted of, a serious offence and the authorised officer has reasonable grounds for believing that-
+(a) the property is tainted property in relation to the offence with which the defendant has been or is about to be charged, or of which the defendant has been convicted, or is the defendant's proceeds of drug trafficking, or
+(b) the property is subject to the effective control of the defendant and the defendant has derived a benefit, directly or indirectly, from the commission of the serious offence.
+(3) An application for a freezing notice (other than a telephone freezing notice) must be in writing in the form prescribed by the regulations and must be made by the applicant in person.
+(4) The applicant must provide (either orally or in writing) any further information that the authorised justice requires concerning the grounds on which the freezing notice is sought.

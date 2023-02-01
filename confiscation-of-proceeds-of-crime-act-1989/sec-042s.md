@@ -1,0 +1,4 @@
+# 42S Return of property
+(1) If a freezing notice ceases to be in force and the property concerned is not subject to any other order under this Act, the person who is lawfully entitled to it may apply to the Attorney General for the return of the property or for payment of an amount equal to the value of the property together with interest calculated from the date, and at the rate, prescribed by the regulations.
+(2) The Attorney General must, if satisfied that the person is lawfully entitled to the property, return the property or pay the amount, as the case requires, not later than 6 months after receipt of the application.
+(3) If the person who is lawfully entitled to property or to be paid an amount under this section cannot be ascertained or an application is not made within 6 months of the freezing notice ceasing to be in force, the property is to be dealt with as if it had been forfeited under this Act.
