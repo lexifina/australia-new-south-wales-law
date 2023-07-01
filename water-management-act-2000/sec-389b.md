@@ -1,0 +1,2 @@
+# 389B Gas and other petroleum activities-enforcement by EPA
+Schedule 2A to the Protection of the Environment Operations Act 1997 (Enforcement of gas and other petroleum legislation) applies to this Act, and the operation of this Act is subject to that Schedule.

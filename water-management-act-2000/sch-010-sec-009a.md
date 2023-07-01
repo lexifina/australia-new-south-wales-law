@@ -1,0 +1,3 @@
+# 9A Conditions relating to food safety and essential dairy care
+(1) If an entitlement authorised water to be extracted for the purposes of food safety or essential dairy care at times of low flows when extraction of the water would not otherwise be allowed, an access licence that replaces that entitlement is taken to contain the same authorisation.
+(2) An access licence referred to in subclause (1) is also subject to a mandatory condition that the authorisation ceases to have effect if the activity for which the extraction of water is permitted ceases to be conducted at the same location or is not carried out in the same manner as it was carried out immediately before the entitlement concerned was replaced by the access licence.

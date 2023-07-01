@@ -1,0 +1,3 @@
+# 10 Powers of Minister with respect to production and retention of certain instruments
+(1) The Minister may require any person who may have possession or control of an instrument relating to an access licence or holding in an access licence that is the subject of any matter that may be recorded in the Access Register to produce the instrument.
+(2) The Minister may retain an instrument relating to an access licence that is the subject of any matter that may be recorded in the Access Register (whether or not produced under subclause (1)) until it is no longer required for action in connection with an application for registration of the matter in the Access Register.

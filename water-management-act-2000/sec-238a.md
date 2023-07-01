@@ -1,0 +1,2 @@
+# 238A Termination charges
+In addition to any other charge that they may fix under this Part, the members of a private irrigation trust may fix termination charges payable by a landholder or former landholder in connection with the trust ceasing to supply water to the landholder or former landholder (whether because of the transformation of the landholder's water entitlement to an access licence or otherwise).

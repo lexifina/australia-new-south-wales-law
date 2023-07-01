@@ -1,0 +1,6 @@
+# 87B Access licence certificate
+(1) The Minister may from time to time issue a certificate in the approved form in respect of an access licence (an access licence certificate).
+(2) If the Minister issues an access licence certificate, the Minister must cancel, wholly or partially as the case requires, any access licence certificate superseded by the new certificate that is available to the Minister. For that purpose, the Minister may require production to the Minister of the superseded certificate.
+(3) If an access licence certificate is lost, mislaid or destroyed, the person to whom it was issued (or a person having legal authority to act on the person's behalf) may apply in the approved form to the Minister for the issue of a new access licence certificate.
+(4) The application is to be supported by such evidence as the Minister may require.
+(5) The Minister may, if satisfied that an access licence certificate has been lost, mislaid or destroyed, issue a new access licence certificate or new access licence certificates for the licence or holding in an access licence to which the lost, mislaid or destroyed certificate relates and may record in the Access Register that the new certificate or certificates have been issued.

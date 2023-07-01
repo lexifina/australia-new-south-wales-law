@@ -1,0 +1,2 @@
+# 87AC No compensation payable for reductions in water allocations under certain replacement management plans
+The holder of an access licence is not entitled to any compensation in respect of reductions in water allocations for the access licence resulting from provisions included in a management plan that replaces another management plan if the replaced management plan authorised the inclusion of amendments containing provisions of that kind in the replaced management plan.

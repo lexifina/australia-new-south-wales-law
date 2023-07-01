@@ -1,0 +1,5 @@
+# 2 Share component of new access licence
+The share component of the new access licence-
+(a) in a case where all the co-holders consented to the application under section 74 (1)-is to be allocated between the original access licence and the new access licence in accordance with the directions in the application, or
+(b) in a case where co-holders who hold a majority share of the holdings under the original access licence consented to the application under section 74 (1)-is to be allocated between the original access licence and the new access licence in the same proportions as the extinguished holdings bear to the whole of the holdings in the original access licence, or
+(c) in a case where co-holders holding a majority of the water entitlements under the original access licence did not consent to the application under section 74 (1)-the share component for the original access licence is to be distributed between the original access licence and the new access licence in accordance with the order of the Supreme Court under section 74.

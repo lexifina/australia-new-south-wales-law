@@ -1,0 +1,7 @@
+# 340C Revocation or variation
+(1) A notice given under this Part may be revoked or varied by a subsequent notice or notices.
+(2) A notice may be varied by modification of, or addition to, its terms and specifications.
+(3) Without limiting the above, a notice may be varied by extending the time for complying with the notice.
+(4) A notice may only be revoked or varied by the Minister or by the person who gave it.
+Note-
+See also section 11 (1) (e) of the Natural Resources Access Regulator Act 2017 and Schedule 2 to that Act.

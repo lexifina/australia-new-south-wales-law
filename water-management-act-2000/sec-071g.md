@@ -1,0 +1,3 @@
+# 71G Minister may require production or surrender of access licence certificate before recording matters in Access Register
+(1) The Minister may require the access licence certificate for an access licence to be produced to the Minister before the Minister records any dealing, security interest or changes to co-holder's tenancy arrangements under the licence in the Access Register.
+(2) The Minister may require the access licence certificate for an access licence to be surrendered to the Minister before the Minister records the surrender of the access licence to which that certificate relates in the Access Register.

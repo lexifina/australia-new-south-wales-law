@@ -1,0 +1,11 @@
+# 55A Application of Part
+(1) This Part applies to-
+(a) each part of the State or each water source, and
+(b) each category or subcategory of access licence that relates to that part of the State or that water source,
+that is declared by proclamation to be a part of the State or water source, and category or subcategory of access licence, to which this Part applies.
+Editorial note-
+For declarations proclaimed under this subsection see Gazettes No 110 of 1.7.2004, p 5004; No 120 of 29.9.2006, p 8440; No 127 of 27.10.2006, pp 8906, 8907; No 83 of 29.6.2007, p 3967; No 11 of 31.1.2008, p 213; No 76 of 27.6.2008, p 5871; No 93 of 26.6.2009, p 3581 and No 109 of 31.7.2009, p 4665, and proclamations published on the NSW legislation website: 2010 (342) LW 1.7.2010; 2010 (739) LW 17.12.2010; 2011 (152) LW 3.3.2011; 2011 (153) LW 3.3.2011; 2011 (521) LW 30.9.2011; 2011 (576) LW 11.11.2011; 2011 (677) LW 16.12.2011; 2012 (28) LW 27.1.2012; 2012 (135) LW 30.3.2012; 2012 (231) LW 1.6.2012; 2012 (352) LW 3.8.2012; 2012 (464) LW 14.9.2012; 2012 (496) LW 4.10.2012; 2016 (350) LW 24.6.2016; 2016 (600) LW 30.9.2016; 2019 (318) LW 5.7.2019 and 2020 (290) LW 19.6.2020. From April 2021, PCO is no longer updating notes in provisions of in force titles about related gazette notices. To search for related gazette notices, please use the Gazette Search functionality.
+(2) Despite subsection (1), specified provisions of this Part may be declared by proclamation to apply to the whole of the State, and apply accordingly.
+Editorial note-
+See Gazette No 263 of 20.12.2002, p 10752 for proclamation applying section 71L (renumbered as section 71Z) to the whole of the State on and from 20 December 2002. From April 2021, PCO is no longer updating notes in provisions of in force titles about related gazette notices. To search for related gazette notices, please use the Gazette Search functionality.
+(3) To avoid doubt, the repeal, replacement or amendment of a management plan so as to remove, add or change the description of a water source described in a proclamation made under this section does not affect the application of this Part to the water source as effected by a proclamation previously made under this Part.
