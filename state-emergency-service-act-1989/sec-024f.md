@@ -1,0 +1,6 @@
+# 24F Contribution payable in instalments
+The annual contribution is to be paid by the Treasurer in instalments on or before the following dates-
+(a) 1 August,
+(b) 1 October,
+(c) 1 January,
+(d) 1 April.

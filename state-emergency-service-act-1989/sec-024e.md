@@ -1,0 +1,5 @@
+# 24E Treasurer to pay contributions
+(1) The Treasurer is to pay an annual contribution to the Fund for each financial year.
+(2) The annual contribution payable is the SES funding amount.
+(3) The Treasurer may direct the payment of additional contributions to the Fund, subject to any terms and conditions approved by the Treasurer.
+(4) The annual contribution, and any additional contributions, are to be paid out of money provided by Parliament.
