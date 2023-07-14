@@ -1,0 +1,2 @@
+# Long title
+An Act to make provision with respect to the recovery of damages for injury or death caused by medical practitioners and other health care providers; to make professional indemnity insurance compulsory for medical practitioners and to regulate the provision of that insurance; to protect medical practitioners, nurses and certain other health practitioners from liability when providing voluntary health care in an emergency; and for other purposes.
