@@ -1,0 +1,3 @@
+# 26B Appointee of foreign authority may, in certain circumstances, administer oath
+(1) In this section foreign authority means a court, judge, person or body authorised by the law of a place outside New South Wales to take or receive evidence in that place.
+(2) For the purpose of proceedings (other than criminal proceedings) before a foreign authority, the foreign authority, or a person authorised by the foreign authority to take and receive evidence in New South Wales, may administer an oath to a person in New South Wales for the purpose of taking and receiving that evidence subject, in the case of a foreign authority that is not a court or judge, to the consent of the Chief Justice of the Supreme Court being first obtained.
