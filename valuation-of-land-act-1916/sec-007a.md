@@ -1,0 +1,3 @@
+# 7A Improved value of strata
+(1) The improved value of a stratum is the capital sum which the fee-simple of the stratum might be expected to realise if offered for sale on such reasonable terms and conditions as a bona-fide seller would require.
+(2) In determining the improved value of any stratum being premises occupied for trade, business, or manufacturing purposes, such value shall not include the value of any plant, machines, tools or other appliances which are not fixed to the premises or which are only so fixed that they may be removed from the premises without structural damage thereto.

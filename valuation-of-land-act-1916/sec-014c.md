@@ -1,0 +1,5 @@
+# 14C Valuation of land in the Western Division
+(1) In making a valuation for use by a rating or taxing authority of land in the Western Division, the Valuer-General is to assume-
+(a) if the land is freehold land, that the land is, as freehold land, subject to such restrictions on the use and disposition of the land as would be applicable if the land were held under and in accordance with a Western lands lease (within the meaning of Schedule 3 to the Crown Land Management Act 2016) that authorised the use to which the land was put as at the date to which the valuation of the land relates, and
+(b) if the land is not freehold land and is held under a lease or other tenure under the Crown Land Management Act 2016, or any other Act, that the land is freehold land and that it is, as freehold land, subject to such restrictions on the use and disposition of the land as are applicable to the land by reason of its being the subject of the lease or other tenure.
+(2) The restrictions referred to in subsection (1) are to be assumed to apply to land at the date to which the valuation of the land relates.
