@@ -1,0 +1,5 @@
+# 52A Amount of ordinary rate for year commencing 1 July 1995 and later years
+(1) The City Council may resolve that the amount of the ordinary rate that is to be levied on a parcel of rateable land for the year commencing on 1 July 1995 or for any subsequent year is to be not more than a specified percentage higher than the amount of the ordinary rate levied on the same parcel of rateable land for the previous year.
+(2) The specified percentage is to be stated in the City Council's resolution and must be the percentage approved by the Minister for the relevant year. The Minister may approve a nil percentage.
+(3) The City Council must levy the ordinary rate in accordance with its resolution.
+(4) The City Council's resolution does not apply to a parcel of rateable land that did not exist as that parcel of rateable land for the whole of the previous year (because, for example, it was exempt from rating for the whole or a part of that year or it is a lot in a subdivision created during that year).
