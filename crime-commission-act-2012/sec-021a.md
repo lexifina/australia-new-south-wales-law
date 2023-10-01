@@ -1,0 +1,4 @@
+# 21A Provisions relating to directions as to presence at hearings
+(1) This section applies where a hearing before the Commission involves a person (the charged person) who is the subject of a current charge for an offence.
+(2) A direction must not be given under section 21 for a person to be present during any part of the hearing that involves the charged person, unless the Commission or person presiding at the Commission is of the opinion that the presence of the first mentioned person is reasonably necessary to assist the Commission to exercise its functions properly.
+(3) A direction must not be given under section 21 for a person to be present at any part of the hearing while the charged person is being questioned about the subject matter of the offence, if the first mentioned person is a member of an investigative agency and is involved in the investigation of the charged person in relation to the offence.
