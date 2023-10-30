@@ -1,0 +1,7 @@
+# 133F Discretion to supply other information to birth parents
+(1) A designated person may supply a birth parent with prescribed information held by an information source about an adopted person who is less than 18 years of age without production of the amended birth certificate or the integrated birth certificate of the adopted person or authority to supply the adoption information if, in the opinion of the designated person, the information could not be used to identify the adopted person or his or her adoptive parents.
+(2) A birth parent of an adopted person may request the Secretary or a principal officer to take such action as is reasonable in the circumstances to ascertain from the adopted person's adoptive parents information of a kind prescribed by the regulations as to the current physical and emotional well-being of the adopted person.
+(3) A birth parent of an adopted person is entitled to receive from the Secretary (or from an information source authorised to supply the information) any information obtained in response to a request made under this section-
+(a) that the Secretary considers does not identify, or could not be used to identify, the adoptive parents, and
+(b) if, in the opinion of the Secretary, it would promote the welfare and best interests of any of the parties concerned.
+(4) In this section, a reference to a birth parent of an adopted person includes a reference to a presumptive father of an adopted person.

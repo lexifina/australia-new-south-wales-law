@@ -1,0 +1,2 @@
+# Long title
+An Act with respect to the adoption of children and access of information relating to an adoption; to repeal the Adoption of Children Act 1965 and the Adoption Information Act 1990; to amend the Births, Deaths and Marriages Registration Act 1995 with respect to registration of adoptions and adopted persons' birth records; to make consequential amendments to other Acts; and for other purposes.

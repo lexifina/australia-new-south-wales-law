@@ -1,0 +1,5 @@
+# 130A Functions of Secretary in relation to overseas adoptions
+(1) The Secretary must give the Registrar a record of an adoption that is recognised under section 108 or 113 if the adoption was organised by or under the authority of the Secretary.
+(2) The record given to the Registrar must contain the information and particulars prescribed by the regulations and must be accompanied by a copy of the adoption compliance certificate issued for the adoption.
+(3) The Secretary may require the adoptive parent or adoptive parents of an adopted child, or the adopted child if the child has attained the age of 18 years, to provide the Secretary with such information or documents relating to the adoption or the identification of the adopted child as the Secretary may reasonably require.
+(4) The Secretary is not required to give the Registrar a record of an adoption under this section (and the Registrar is not required to register the adoption under the Births, Deaths and Marriages Registration Act 1995) if the Secretary is not able to ascertain the information and particulars that the record is required to contain.

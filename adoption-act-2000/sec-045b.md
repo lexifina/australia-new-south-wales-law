@@ -1,0 +1,3 @@
+# 45B Consideration of wishes of parents consenting to adoption
+(1) A general consent of the parent of a child to the adoption of the child, as referred to in section 53, may express the wishes of the parent as to the preferred background, beliefs or domestic relationship of any prospective adoptive parents of the child.
+(2) Nothing in the Anti-Discrimination Act 1977 prevents the Secretary or a principal officer of an adoption service provider from identifying (consistently with the best interests of the child) prospective adoptive parents who reflect those wishes in the adoption selection process under this Part.

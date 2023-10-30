@@ -1,0 +1,3 @@
+# 45G Background information about prospective adoptive parents to be made available to birth parents
+(1) If an application to adopt a child is made by an authorised carer, background information relating to the authorised carer that is obtained by the Secretary or principal officer in connection with the application is, at the request of the birth parents of the child, to be provided to the birth parents before any adoption order may be made in relation to that child.
+(2) In this section, background information relating to an authorised carer includes information about the carer's social and cultural background, religious beliefs, domestic relationship and living arrangements, but does not include any information that identifies the carer.
