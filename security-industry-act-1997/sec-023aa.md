@@ -1,0 +1,3 @@
+# 23AA Special conditions-authority to carry firearms
+(1) It is a Tier 3 condition of every class 1F licence that the licensee must not carry on the security activity authorised by the licence unless the licensee is authorised by a licence or permit under the Firearms Act 1996 to possess or use a firearm.
+(2) If the holder of a class 1F licence is found guilty of an offence under the Firearms Act 1996 in relation to the unauthorised possession or use of a firearm, the person cannot be found guilty of an offence under section 30 of this Act of failing to comply with the condition imposed by this section in respect of that unauthorised possession or use.

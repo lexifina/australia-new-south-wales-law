@@ -1,0 +1,13 @@
+# 23A Special conditions-uniforms must be worn when carrying firearms
+(1) It is a Tier 2 condition of every class 1F licence that, if the licensee is an armed security guard, the licensee must not carry a firearm unless the licensee is wearing a recognisable security guard's uniform.
+(2) It is a Tier 2 condition of every master licence that, if the master licensee employs a person as an armed security guard, the master licensee must not allow any firearm in the master licensee's possession (including those firearms that have been acquired by the master licensee in connection with the master licensee's business) to be carried by an armed security guard who is not wearing a recognisable security guard's uniform.
+(3) It is a Tier 2 condition of every master licence that, if the master licensee employs a person as an armed security guard, the master licensee must not allow any person employed by the master licensee to carry a firearm while carrying on security activities for the master licensee unless the person is an armed security guard who is wearing a recognisable security guard's uniform.
+(4) If a police officer discovers an armed security guard carrying a firearm while the armed security guard is not wearing a recognisable security guard's uniform, the police officer may seize the firearm.
+(5) If an armed security guard carries a firearm while the armed security guard is not wearing a recognisable security guard's uniform, the Commissioner must-
+(a) suspend, in accordance with section 25, the armed security guard's class 1F licence, and
+(b) serve a notice on the master licensee who employs the armed security guard (or, if the security guard is self- employed and holds a master licence, serve a notice on the armed security guard as holder of a master licence), personally or by post-
+(i) stating that the armed security guard's class 1F licence has been suspended and the reasons for suspending it, and
+(ii) requesting that the master licensee provide the Commissioner with reasons why the master licence should not be revoked.
+(6) The Commissioner may, if the Commissioner is satisfied there is a genuine reason, authorise in writing a person employed as an armed security guard to carry a firearm while not wearing a recognisable security guard's uniform.
+(7) An authorisation under subsection (6) remains in force for such time as is specified in the authorisation unless it is sooner revoked by the Commissioner.
+(8) The conditions set out in subsections (1)-(3) do not apply in relation to an armed security guard authorised under subsection (6), but only while the armed security guard is carrying the Commissioner's written authorisation.

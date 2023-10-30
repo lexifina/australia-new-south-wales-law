@@ -1,0 +1,2 @@
+# 23E Special conditions-class 1 licences
+A class 1 licence that is granted on application by a person who has not, during the 3 years immediately before the application, been authorised by a class 1 licence to carry on the security activity to which the proposed licence relates is subject to a Tier 3 condition that the person undertake and complete, to the satisfaction of the Commissioner, such approved training, assessment or instruction as may be required by the Commissioner, within 6 months (or such longer period as the Commissioner allows) of the grant of the licence.
