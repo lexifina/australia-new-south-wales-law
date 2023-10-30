@@ -1,0 +1,4 @@
+# 115A Appeals from forensic procedure orders made by Magistrate
+(1) An appeal against an order made by a Magistrate under this Act authorising the carrying out of a forensic procedure on a person may be made to the Supreme Court under Part 5 of the Crimes (Appeal and Review) Act 2001 as if the order were a sentence arising from a court attendance notice dealt with under Part 2 of Chapter 4 of the Criminal Procedure Act 1986.
+(2) An appeal against a Magistrate's refusal to make an order under this Act authorising the carrying out of a forensic procedure on a person may be made to the Supreme Court under Part 5 of the Crimes (Appeal and Review) Act 2001 as if the refusal were an order dismissing a matter under Part 2 of Chapter 4 of the Criminal Procedure Act 1986.
+(3) The Crimes (Appeal and Review) Act 2001 applies to an appeal arising under this section with such modifications as are made by or in accordance with the regulations under that Act.

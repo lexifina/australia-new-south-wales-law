@@ -1,0 +1,2 @@
+# 75N Carrying out of forensic procedure on untested former offender in custody
+If a court orders the carrying out of a forensic procedure to which this Part applies on an untested former offender, the court may order that a police officer, together with a person who, under Part 6 as applied by section 75E, may carry out the forensic procedure, be permitted to attend on the former offender to enable the forensic procedure to be carried out.

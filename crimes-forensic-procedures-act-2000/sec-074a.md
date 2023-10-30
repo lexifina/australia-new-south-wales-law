@@ -1,0 +1,2 @@
+# 74A Carrying out of forensic procedure following conviction
+If a court orders the carrying out of a forensic procedure to which this Part applies on a serious indictable offender, the court may order that a police officer, together with a person who, under Part 6 as applied by section 65, may carry out the forensic procedure, be permitted to attend on the offender to enable the forensic procedure to be carried out.
