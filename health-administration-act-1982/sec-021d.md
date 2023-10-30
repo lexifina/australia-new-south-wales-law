@@ -1,0 +1,2 @@
+# 21D Functions of assessors in relation to incidents
+An assessor is to carry out a preliminary risk assessment of the incident and is to provide advice (in writing or otherwise) to the relevant health services organisation to assist the organisation in understanding the events comprising the incident and the measures required to appropriately manage the incident and remove or mitigate any risk.

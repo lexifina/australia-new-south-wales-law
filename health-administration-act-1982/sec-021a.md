@@ -1,0 +1,16 @@
+# 21A Definitions
+In this Part-
+assessor means an assessor appointed under Division 2.
+health practitioner has the same meaning it has in the Health Practitioner Regulation National Law (NSW).
+health service includes any administrative or other service related to a health service.
+impairment has the same meaning it has in the Health Practitioner Regulation National Law (NSW).
+incident reviewer-see section 21L.
+performance or impairment issue, in relation to a health practitioner, means-
+(a) professional misconduct, unsatisfactory professional conduct or unsatisfactory professional performance by the health practitioner, or
+(b) the health practitioner suffering from an impairment.
+professional misconduct and unsatisfactory professional conduct have the same meanings as they have in Part 8 of the Health Practitioner Regulation National Law (NSW).
+relevant health services organisation-see section 21B.
+reportable incident means an incident of a type prescribed by the regulations or set out in a document adopted by the regulations.
+serious adverse event review means a root cause analysis or any other type of review prescribed by the regulations.
+serious adverse event review team means a serious adverse event review team appointed under Division 3.
+unsatisfactory professional performance means professional performance that is unsatisfactory within the meaning of Division 5 of Part 8 of the Health Practitioner Regulation National Law (NSW).
