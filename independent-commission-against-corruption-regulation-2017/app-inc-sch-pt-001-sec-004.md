@@ -1,0 +1,2 @@
+# 4 Divestiture at the direction of the Premier
+In addition to clauses 1-3, a Minister must promptly divest any interest if the Premier, being satisfied that the interest has the potential to give rise to a conflict of interest, directs the Minister to do so. Transferring the interest to a family member or to a trust in which the Minister or a family member has a beneficial interest does not constitute divestment for these purposes.

@@ -1,0 +1,3 @@
+# 8 Corrupt private benefits
+(1) A Minister must not solicit, accept, or agree to solicit or accept, any private benefit as an inducement or reward for doing or not doing something in the exercise of official functions or for showing or not showing favour or disfavour to any person in the exercise of official functions.
+(2) A Minister must not improperly encourage or solicit the giving of any private benefit to any other person as an inducement or reward for that person, the Minister or any other person doing or not doing something in the exercise of official functions or for showing or not showing favour or disfavour to any person in the exercise of official functions.

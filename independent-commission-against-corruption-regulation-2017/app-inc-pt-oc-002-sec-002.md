@@ -1,0 +1,4 @@
+# 2 Compliance with oaths of office
+A Minister must comply with their oaths of office as a Member of the Executive Council and as a Minister of the Crown.
+Note.
+A Member of the Executive Council swears (or affirms) that "I will perform the functions and duties of an Executive Councillor faithfully and to the best of my ability and, when required to do so, freely give my counsel and advice to the Governor or officer administering the Government of New South Wales for the time being for the good management of the public affairs of New South Wales, and that I will not directly or indirectly reveal matters debated in the Council and committed to my secrecy, but that in all things be a true and faithful councillor". In addition, a Minister swears (or affirms) that "I will perform the functions and duties of [the relevant Ministerial office] faithfully and to the best of my ability".

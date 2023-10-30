@@ -1,0 +1,4 @@
+# 5 Lawful directions to the public service
+(1) A Minister must not knowingly issue any direction or make any request that would require a public service agency or any other person to act contrary to the law.
+(2) A Minister who seeks advice from a public service agency that is subject to the Minister's direction must not direct that agency to provide advice with which the agency does not agree.
+(3) For the avoidance of doubt, this section does not prevent Ministers discussing or disagreeing with the advice of a public service agency, making a decision contrary to agency advice or directing an agency to implement the Minister's decision (whether or not the agency agrees with it). Nor does this section prevent an agency changing its advice if its own view changes, including following discussions with the Minister.
