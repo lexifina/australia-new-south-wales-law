@@ -1,0 +1,3 @@
+# 8 Confirmation of vesting
+(1) The Minister may, by notice in writing, confirm a transfer of particular assets, rights or liabilities by operation of this Part.
+(2) Such a notice is conclusive evidence of that transfer.

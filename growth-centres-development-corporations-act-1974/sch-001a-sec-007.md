@@ -1,0 +1,4 @@
+# 7 No duties on transfer
+Duty under the Duties Act 1997 is not chargeable for or in respect of-
+(a) a transfer to which this Part applies, or
+(b) anything certified by the Minister as having been done in consequence of such a transfer (for example, the transfer or conveyance of an interest in land).

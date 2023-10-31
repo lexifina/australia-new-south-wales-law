@@ -1,0 +1,2 @@
+# 5 Date of vesting
+A transfer to which this Part applies takes effect on the date specified in the order giving rise to the transfer.
