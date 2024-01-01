@@ -11,7 +11,9 @@ Maximum penalty-
 (b) in the case of a corporation-500 penalty units.
 (2) In determining whether an alleged offender has committed an offence against this section, it is irrelevant whether the alleged offender's assumptions or beliefs about an attribute of another person or a member of a group of persons referred to in subsection (1) (a)-(f) were correct or incorrect at the time that the offence is alleged to have been committed.
 (3) In determining whether an alleged offender has committed an offence against this section of intentionally or recklessly inciting violence, it is irrelevant whether or not, in response to the alleged offender's public act, any person formed a state of mind or carried out any act of violence.
-(4) A prosecution for an offence against this section is not to be commenced without the approval of the Director of Public Prosecutions.
+(4) A prosecution for an offence against this section may be commenced only by-
+(a) the Director of Public Prosecutions, or
+(b) a police officer.
 (5) In this section-
 gender identity means the gender related identity, appearance or mannerisms or other gender related characteristics of a person (whether by way of medical intervention or not), with or without regard to the person's designated sex at birth.
 intersex status means the status of having physical, hormonal or genetic features that are-

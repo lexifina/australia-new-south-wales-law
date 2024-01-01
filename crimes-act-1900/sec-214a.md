@@ -3,7 +3,11 @@
 (a) causes damage to the major facility, or
 (b) seriously disrupts or obstructs persons attempting to use the major facility, or
 (c) causes the major facility, or part of the major facility, to be closed, or
+Editorial note-
+On 13 December 2023, the Supreme Court of New South Wales in Kvelde v State of New South Wales[2023] NSWSC 1560 declared that section 214A(1)(c), to the extent that the paragraph makes it an offence for persons engaged in the conduct specified in the paragraph to cause part of the major facility to be closed is invalid.
 (d) causes persons attempting to use the major facility to be redirected.
+Editorial note-
+On 13 December 2023, the Supreme Court of New South Wales in Kvelde v State of New South Wales[2023] NSWSC 1560 declared that section 214A(1)(d) is invalid.
 Maximum penalty-200 penalty units or imprisonment for 2 years, or both.
 (2) It is a defence to the prosecution of an offence against this section if the person charged proves that the person had a reasonable excuse for the conduct.
 (3) A person does not commit an offence under this section if the conduct forms part of the following-
