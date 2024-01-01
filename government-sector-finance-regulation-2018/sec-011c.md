@@ -1,0 +1,2 @@
+# 11C Prescribed subdelegate for delegated expenditure functions in relation to New South Wales Electoral Commission
+For the purposes of section 9.9(5), table, item 3, paragraph (b) of the Act, the Electoral Commissioner is prescribed as an entity to which the accountable authority for the New South Wales Electoral Commission (the Commission) may subdelegate an expenditure function of a Minister in relation to the Commission.

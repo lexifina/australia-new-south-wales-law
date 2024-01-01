@@ -1,0 +1,3 @@
+# 11F Prescribed delegates and subdelegates for delegated expenditure functions in relation to Law Enforcement Conduct Commission
+(1) For the purposes of section 9.9(2)(f) of the Act, a Commissioner of the Law Enforcement Conduct Commission (the Commission) is prescribed as an entity to which a Minister may delegate an expenditure function of the Minister in relation to the Commission.
+(2) For the purposes of section 9.9(5), table, item 4, paragraph (b) of the Act, a Commissioner of the Commission is prescribed as an entity to which the accountable authority for the Commission may subdelegate an expenditure function of a Minister in relation to the Commission.

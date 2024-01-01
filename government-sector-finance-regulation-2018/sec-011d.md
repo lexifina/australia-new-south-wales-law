@@ -1,0 +1,2 @@
+# 11D Prescribed subdelegates for delegated expenditure functions in relation to Independent Commission Against Corruption
+For the purposes of section 9.9(5), table, item 3, paragraph (b) of the Act, a Commissioner of the Independent Commission Against Corruption (the Commission) is prescribed as an entity to which the accountable authority for the Commission may subdelegate an expenditure function of a Minister in relation to the Commission.
