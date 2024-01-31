@@ -1,0 +1,2 @@
+# Long title
+An Act to amend a number of Acts to permanently implement regulatory reforms relating to particular measures previously implemented temporarily as a result of the COVID-19 pandemic; to amend the Constitution Act 1902 and the Constitution (COVID-19 Emergency Measures) Regulation 2020 to extend particular provisions; and to amend the Interpretation Act 1987 to clarify the requirements for tabling documents in a House of Parliament.
