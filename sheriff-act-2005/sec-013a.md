@@ -1,0 +1,2 @@
+# 13A Nature of proceedings for offences
+Proceedings for an offence under this Act or the regulations may be dealt with summarily before the Local Court.
