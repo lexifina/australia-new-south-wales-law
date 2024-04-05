@@ -1,0 +1,5 @@
+# 2 Development that is allowed
+Exempt development and development for the purpose of the following may be carried out without development consent-
+landscape maintenance works (including tree planting, repaving and replacement of street furniture); public utility undertakings.
+Development for the purpose of the following and subdivision of land may be carried out only with development consent-
+advanced technology businesses; aids to navigation; car parks and car parking stations (if their only use is ordinarily incidental to other uses allowed within the zone); centre-based child care facilities; clubs; commercial support premises; community facilities; drainage; educational establishments; hotels; light industries; medical centres; motels; offices ancillary to trade-related enterprises; open space; passenger transport terminals; public transport infrastructure (not including car parks or car parking stations); recreation areas; recreation facilities; remediation of land; restaurants; roads; service stations; serviced apartments; shops; tourist facilities; trade-related enterprises; vehicle rental centres; warehouses.

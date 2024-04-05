@@ -1,0 +1,5 @@
+# 2 Development that is allowed
+Exempt development and development for the purpose of the following may be carried out without development consent-
+aids to navigation; gardening; landscape maintenance works (including tree planting, repaving and replacement of street furniture); other maintenance works; public utility undertakings.
+Development for the purpose of the following and subdivision of land may be carried out only with development consent-
+artworks; boat landing and hire facilities; boat ramps and berths; car parks; clubs; community facilities; drainage; identifying or interpretive signage ancillary to another use allowed on the site; kiosks; landscaping (except landscape maintenance works); outdoor eating areas (if linked to kiosks within the zone or restaurants in adjoining zones); recreation areas; recreation facilities; remediation of land; roads; other land uses incidental or ancillary to the land uses lawfully carried out within the zone at the commencement of this Chapter.
