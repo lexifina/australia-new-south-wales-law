@@ -1,0 +1,2 @@
+# 41D Objective of central register-surrogacy arrangements
+The objective of the central register, in relation to surrogacy arrangements, is to ensure that an adult whose parentage has been transferred as a result of a parentage order, affected parties in relation to a surrogacy arrangement and gamete providers under a surrogacy arrangement have access to certain information about the surrogacy arrangement, including identifying information in some circumstances.

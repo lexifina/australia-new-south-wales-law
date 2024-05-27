@@ -1,0 +1,7 @@
+# 41F Disclosure of information to person about birth parents, gamete providers and siblings
+(1) The Secretary must, on application by a person who is an adult and whose parentage was transferred by a parentage order, disclose to the person the name of a birth parent of the person and any other information relating to the birth parent held on the central register that the regulations require the Secretary to disclose.
+(2) The Secretary must, on application by a person who is an adult and whose parentage was transferred by a parentage order, disclose to the person the name of any gamete provider under the surrogacy arrangement concerned and any other information relating to the gamete provider held on the central register that the regulations require the Secretary to disclose.
+(3) The Secretary must, on application by an adult person whose parentage has been transferred by a parentage order, disclose to the person the following information held on the central register-
+(a) such non-identifying information relating to the person's biological siblings as may be prescribed by the regulations,
+(b) such other information (including identifying information) relating to a biological sibling as the sibling has consented to being disclosed under this section, but only in accordance with that consent.
+(4) A biological sibling can consent to the disclosure of information under this section only if he or she has attained the age of 18 years.

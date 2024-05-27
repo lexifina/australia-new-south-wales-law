@@ -1,0 +1,3 @@
+# 55A Use of enforcement powers in connection with Surrogacy Act 2010
+(1) An inspector may exercise any function conferred on the inspector by this Part in connection with the enforcement of this Act or the regulations for the purpose of ascertaining whether or not a provision of the Surrogacy Act 2010 or the regulations under that Act is being or has been contravened by an ART provider or in connection with the provision of ART treatment.
+(2) For that purpose, a reference in this Part to this Act or the regulations includes a reference to the Surrogacy Act 2010 or the regulations under that Act.
