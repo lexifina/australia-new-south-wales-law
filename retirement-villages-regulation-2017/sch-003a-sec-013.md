@@ -1,0 +1,2 @@
+# 13 Representations about ownership of units
+An operator must not make any representation to a prospective resident that the prospective resident will acquire ownership of a unit within the retirement village, unless the operator intends to enter into a contract with the prospective resident following the purchase of a strata-titled, community-titled or company-titled unit in the retirement village.

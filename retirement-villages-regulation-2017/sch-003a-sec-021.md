@@ -1,0 +1,2 @@
+# 21 Operators must review policies where conflicts of interest have been undisclosed
+As soon as is practicable after becoming aware of a conflict of interest that has not been disclosed in accordance with rule 17, the operator must review all relevant internal policies and procedures to ensure that future conflicts of interest are properly disclosed, and ensure all staff are made aware of the policies and procedures.

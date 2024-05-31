@@ -1,0 +1,9 @@
+# 8 Operators must act with honesty, fairness and professionalism
+(1) An operator must act honestly, fairly and professionally with all parties to negotiations, transactions or any other dealings relating to a resident or prospective resident.
+(2) An operator must not misinform or otherwise mislead or deceive any parties to negotiations, transactions or any other dealings relating to a resident or prospective resident.
+(3) An operator must not engage in high pressure tactics, harassment or harsh or unconscionable conduct in negotiations, transactions or any other dealings relating to a resident or prospective resident.
+(4) In this rule-
+parties to negotiations, transactions or any other dealings includes the following-
+(a) the resident or prospective resident concerned,
+(b) the relatives of the resident or prospective resident concerned,
+(c) any other person acting on behalf of the resident or prospective resident concerned (including members of the Residents Committee of the retirement village).
