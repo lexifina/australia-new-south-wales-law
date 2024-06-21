@@ -1,0 +1,2 @@
+# 28A Evidentiary certificates
+A certificate issued by the Commissioner of Corrective Services NSW that states that an order under Part 2 or 3 imposed on a specified offender was suspended under section 10, 10C, 18C or 18D and the date of the expiry of the order in accordance with the section concerned is admissible in any legal proceedings despite any Act or law to the contrary and is evidence of the facts so stated.

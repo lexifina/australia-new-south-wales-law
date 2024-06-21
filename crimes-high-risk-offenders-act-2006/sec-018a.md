@@ -1,0 +1,4 @@
+# 18A Interim detention order
+The Supreme Court may make an order for the interim detention of an offender if, in proceedings on an application for a continuing detention order, it appears to the Court-
+(a) that the offender's current custody (if any) will expire before the proceedings are determined, and
+(b) that the matters alleged in the supporting documentation would, if proved, justify the making of an extended supervision order or continuing detention order.

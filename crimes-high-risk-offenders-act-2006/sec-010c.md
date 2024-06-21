@@ -1,0 +1,13 @@
+# 10C Term of interim supervision order
+(1) An interim supervision order commences on the day fixed in the order for its commencement (or if no such day is fixed, as soon as it is made) and expires at the end of-
+(a) such period (not exceeding 28 days from the day on which it commences) as is specified in the order, or
+(b) if the order is suspended for any period-the period specified in paragraph (a) plus each period during which the order is suspended.
+(1AA) However, the Supreme Court may defer the operation of an interim supervision order in relation to an offender who is in current custody for a period of up to 7 days (the deferral period) if-
+(a) the Court considers that it is necessary to detain the offender for the deferral period to enable arrangements to be made for supervision of the offender in the community, and
+(b) it does not appear to the Court that an interim detention order can be made for the interim detention of the offender.
+(1AB) On the deferral of the operation of an interim supervision order, the Supreme Court may order that the offender concerned be detained for a specified period (not exceeding the deferral period) after the offender's current custody expires.
+(1AC) As soon as practicable after making an order under subsection (1AB) the Supreme Court must issue a warrant for the committal of the offender for the specified period after the offender's current custody expires.
+(1AD) A warrant under subsection (1AC) is sufficient authority for the offender to be kept in custody in accordance with the terms of the warrant.
+(1A) An interim supervision order, and the offender's obligations under that interim supervision order, are suspended during any period the offender is in lawful custody, whether under this or any other Act or law.
+(2) An interim supervision order may be renewed from time to time, but not so as to provide for the supervision of the offender under such an order for periods totalling more than 3 months.
+(3) Any day or part of a day on which an interim supervision order is suspended does not count towards the 3-month limit referred to in subsection (2).

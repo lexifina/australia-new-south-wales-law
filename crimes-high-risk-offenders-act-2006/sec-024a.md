@@ -1,0 +1,2 @@
+# 24A Attorney General etc to act on behalf of State
+The Attorney General (or any other person prescribed by the regulations) is entitled to act on behalf of the State for the purposes of applications made under this Act.
