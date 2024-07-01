@@ -1,0 +1,2 @@
+# Long title
+An Act to provide for the concurrent administration of law and equity in the Supreme Court; to amend and consolidate the law with respect to the administration of justice and the procedure and practice of the Supreme Court; to repeal the Common Law Procedure Act 1899, the Equity Act 1901 and certain other Acts; to amend the Partnership Act 1892 and certain other Acts; and for purposes connected therewith.

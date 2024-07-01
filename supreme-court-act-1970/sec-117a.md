@@ -1,0 +1,6 @@
+# 117A Powers: associate Judge in Court of Appeal
+(1) In this section, associate Judge in the Court of Appeal means an associate Judge or acting associate Judge assigned to the Court of Appeal or an associate Judge or acting associate Judge directed by the Chief Justice to act in the Court of Appeal.
+(2) An associate Judge in the Court of Appeal may exercise such powers of the Court of Appeal (and only such powers) as are exercisable by a Judge of Appeal under section 46 and are, by or under this or any other Act, conferred upon an associate Judge assigned to the Court of Appeal.
+(3) A judgment given or an order made by an associate Judge in the Court of Appeal may be discharged or varied by the Court of Appeal.
+(4) Subject to subsection (3), a judgment given or an order made or direction given by an associate Judge in the Court of Appeal shall have effect as a judgment or order or direction of the Court of Appeal, whether or not the judgment, order or direction is within the powers mentioned in this section of an associate Judge in the Court of Appeal.
+(5) An associate Judge in the Court of Appeal shall constitute the Court of Appeal for the purpose of the exercise of the powers mentioned in subsection (2).
