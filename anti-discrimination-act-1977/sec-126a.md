@@ -1,0 +1,7 @@
+# 126A Exemption for special needs programs and activities
+(1) Nothing in Parts 3-4C renders unlawful anything done by a person in good faith for the purposes of or in the course of any program or activity for which certification is in force under this section as a special needs program or activity.
+(2) The Minister may certify a program or activity to be a special needs program or activity if satisfied that its purpose or primary purpose is the promotion of access, for members of a group of persons affected by any form of unlawful discrimination to which this Act applies in an area of discrimination to which this Act applies, to facilities, services or opportunities to meet their special needs or the promotion of equal or improved access for them to facilities, services and opportunities.
+(3) (Repealed)
+(4) Certification for a program or activity remains in force for the period specified in the certification or (if no period is specified) until the certification is withdrawn.
+(5) Certification may be withdrawn by the Minister at any time by giving notice in writing to the person who appears to the Minister to be the person who is in charge of the program or who has responsibility for the activity concerned.
+(6) A person who is in charge of a program or activity may apply to the Tribunal for an administrative review under the Administrative Decisions Review Act 1997 of a decision of the Minister under this section concerning the certification of the program or activity.

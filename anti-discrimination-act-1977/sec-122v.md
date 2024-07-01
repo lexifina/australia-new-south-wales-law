@@ -1,0 +1,2 @@
+# 122V Exercise of functions by State authorities pursuant to arrangement
+Where an arrangement under section 122U is in force, the President, the Board or any member of staff of the Board may, subject to the terms of the arrangement and to any agreement made or authorisation given pursuant to the arrangement, exercise a function of the Human Rights and Equal Opportunity Commission or a function of a prescribed person within the meaning of section 3 (1) of the Human Rights and Equal Opportunity Commission Act 1986 of the Commonwealth.

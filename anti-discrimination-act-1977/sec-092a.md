@@ -1,0 +1,3 @@
+# 92A Settlement or resolution of complaint
+(1) If at any stage of the President's investigation of a complaint the President is satisfied that the complaint, or part of the complaint, has been settled or resolved by agreement between the parties, the President may terminate the complaint, or part of the complaint.
+(2) If the President terminates a complaint, or part of a complaint, under this section, the complainant has no right under section 93A to require the President to refer the complaint, or part of the complaint, to the Tribunal.

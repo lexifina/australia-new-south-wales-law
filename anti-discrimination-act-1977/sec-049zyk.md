@@ -1,0 +1,2 @@
+# 49ZYK Exception-voluntary retirement or severance schemes
+Nothing in this Division renders it unlawful to offer to a person who is an employee, commission agent, contract worker or partner, on the ground of the length of service of that person, participation in a voluntary phased-in retirement scheme, voluntary retirement scheme, retirement incentives scheme, voluntary severance scheme or other like scheme.

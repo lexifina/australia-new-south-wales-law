@@ -1,0 +1,4 @@
+# 22H Land
+It is unlawful for a person to sexually harass another person in the course of dealing (whether as principal or agent) with that other person in connection with-
+(a) disposing of, or offering to dispose of, an estate or interest in land to the other person, or
+(b) acquiring, or offering to acquire, an estate or interest in land from the other person.
