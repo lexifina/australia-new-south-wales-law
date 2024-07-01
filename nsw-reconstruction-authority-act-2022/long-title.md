@@ -1,0 +1,2 @@
+# Long title
+An Act to establish the NSW Reconstruction Authority; to provide for the Authority's functions and powers; to provide for other matters to assist NSW communities to recover from disasters and improve resilience for potential disasters; to make related amendments to the Environmental Planning and Assessment Act 1979, the Government Sector Employment Act 2013 and the State Emergency and Rescue Management Act 1989; and for related purposes.
