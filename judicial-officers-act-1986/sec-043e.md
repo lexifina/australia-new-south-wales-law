@@ -1,0 +1,8 @@
+# 43E Service in NSW court of judicial officer of another jurisdiction
+(1) This section applies to a judicial officer of a corresponding court who is appointed to act as a judicial officer of a NSW court in accordance with a judicial exchange arrangement.
+(2) While acting as a judicial officer of the NSW court, the judicial officer of the corresponding court has all the powers, authorities, privileges and immunities of, and is taken to be for all purposes, a judicial officer of the NSW court.
+(3) Despite subsection (2), the laws of this jurisdiction concerning-
+(a) the remuneration, allowances and other conditions of service of judicial officers, and
+(b) the pension or other superannuation entitlements of judicial officers and related provisions, and
+(c) the removal or suspension of judicial officers from office,
+do not apply to the judicial officer of the corresponding court while acting as a judicial officer of the NSW court.

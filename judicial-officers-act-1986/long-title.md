@@ -1,0 +1,2 @@
+# Long title
+An Act relating to the tenure of judicial office; to constitute a Judicial Commission of New South Wales; to confer on the Commission functions relating to sentencing consistency, judicial education and certain other matters; to provide for the examination of complaints against Judges and other judicial officers; to provide for their suspension, removal and retirement in certain circumstances; and for other purposes.

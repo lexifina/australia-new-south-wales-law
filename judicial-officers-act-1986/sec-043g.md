@@ -1,0 +1,4 @@
+# 43G Other arrangements not affected
+This Division does not limit or affect any other arrangements under which-
+(a) a judicial officer of another jurisdiction may be appointed or act as a judicial officer of this jurisdiction, or
+(b) a judicial officer of this jurisdiction may be appointed or act as a judicial officer of another jurisdiction.

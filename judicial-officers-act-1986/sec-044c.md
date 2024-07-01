@@ -1,0 +1,2 @@
+# 44C Immunity of officers performing duties of judicial officers
+A registrar, an associate Judge of the Supreme Court, a Commissioner of the Land and Environment Court, an authorised justice, an authorised officer (within the meaning of the Criminal Procedure Act 1986) or any other officer of a court has, when performing the duties of a judicial officer (including ministerial duties), the same protection and immunity as the judicial officer has in the performance of those duties.
