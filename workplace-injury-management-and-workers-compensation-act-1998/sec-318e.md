@@ -1,0 +1,2 @@
+# 318E Offers made at mediation not to be disclosed to court
+The amount of any offer of settlement made by a party in the course of mediation of a claim is not to be specified in any pleading, affidavit or other document filed in or in connection with court proceedings on the claim, and is not to be disclosed to or taken into account by the court, before the court's determination of the amount of damages in the proceedings.

@@ -1,0 +1,6 @@
+# 235B Remedy available where claim fraudulent
+(1) This section applies to a claimant or insurer if it is established that, for the purpose of obtaining a financial advantage, the claimant or insurer did or omitted to do anything (including the making of a statement) concerning an injury or any claim relating to an injury with knowledge that the doing of the thing or the omission to do the thing was false or misleading.
+(2) If this section applies to a claimant-
+(a) a person who has a liability in respect of a payment, settlement, compromise or judgment relating to the claim is relieved from that liability to the extent of the financial advantage so obtained by the claimant, and
+(b) a person who has paid an amount to the claimant in connection with the claim (whether under a settlement, compromise or judgment, or otherwise) is entitled to recover from the claimant the amount of the financial advantage so obtained by the claimant and any costs incurred in connection with the claim.
+(3) If this section applies to an insurer, the claimant is entitled to recover from the insurer as a debt the amount of the financial advantage so obtained by the insurer and any costs incurred by the claimant in connection with the claim.
