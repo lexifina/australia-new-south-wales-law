@@ -1,0 +1,2 @@
+# 93Z No compensation or other industrial remedies
+The Industrial Relations Commission or any other court or tribunal does not have jurisdiction under any Act or law to order the reinstatement or re-employment of a person contrary to a termination of employment by this Part or order the payment of damages or compensation (on any ground) for any such termination or other related matter done or omitted in accordance with this Part.

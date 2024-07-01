@@ -1,0 +1,16 @@
+# 47A Appointment on merit to senior positions
+(1) Application of section This section applies to and in respect of appointments under section 47 to senior positions in the Teaching Service.
+(2) Appointments to senior positions Appointments to vacant senior positions are to be made by the Secretary. It does not matter whether the person appointed to such a position is or is not already an officer.
+(3) Advertising vacancies If it is proposed to make an appointment to a vacant senior position, the Secretary must advertise the vacancy in such manner as the Secretary thinks appropriate. Without limiting the manner in which the vacancy is advertised, the advertisement is to be in a form that is accessible to persons who are not employed in the Teaching Service.
+(4) Merit appointment Appointments to vacant senior positions are to be made by the Secretary on the basis of the merit of the applicants for appointment.
+(5) Determining merit of applicants For the purpose of determining the merit of persons eligible for appointment to a vacant senior position, the Secretary is to have regard to-
+(a) the nature and duties of the position, and
+(b) the abilities, qualifications, experience, standards of work performance and personal qualities of those persons that are relevant to the performance of those duties.
+(6) Selection process In deciding to appoint a person to a vacant senior position-
+(a) the Secretary may only select a person who has applied for appointment to the vacant position, and
+(b) the Secretary must, from among the applicants eligible for appointment to the vacant position, select the applicant who has, in the opinion of the Secretary, the greatest merit.
+(7) Appointment from eligibility list Despite subsection (3), the Secretary need not advertise a vacant senior position if the Secretary proposes to make an appointment to the position from an eligibility list created by the Secretary in relation to the position (being of a list of those persons who applied for appointment to the position and who are eligible for appointment but not selected for appointment, as arranged in order of merit as determined in accordance with subsection (5)).
+(8) Any such eligibility list is applicable not only to the position in relation to which it was created but also to any other position that the Secretary determines it should be applicable to on the basis that the position is substantially the same as the position in relation to which the list was created.
+(9) Industrial relations jurisdiction excluded The appointment or failure to appoint a person to a vacant senior position, or any matter, question or dispute relating to such an appointment or failure, is not an industrial matter for the purposes of the Industrial Relations Act 1996. This subsection applies whether or not any person has been appointed to the vacant senior position.
+(10) Other legal proceedings excluded No proceedings, whether for an order in the nature of prohibition, certiorari or mandamus or for a declaration or injunction or for any other relief, lie in respect of the appointment or failure to appoint a person to a senior position, the entitlement or non-entitlement of a person to be so appointed or the validity or invalidity of any such appointment.
+(11) Subsection (10) does not affect the operation of section 60.
