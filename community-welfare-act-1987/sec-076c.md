@@ -1,0 +1,6 @@
+# 76C False or misleading statements
+A person must not, in any application under this Act or in connection with an inquiry made by an employee in relation to any such application-
+(a) make a statement, or
+(b) furnish information,
+that the person knows to be false or misleading in a material particular.
+Maximum penalty-5 penalty units.
