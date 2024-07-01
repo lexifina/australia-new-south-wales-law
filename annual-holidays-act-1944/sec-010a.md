@@ -1,0 +1,7 @@
+# 10A Disclosure of information
+(1) Subject to subsection (2), a person who is, or was at any time, an inspector or a public servant authorised under section 10 (4) shall not disclose any information relating to any manufacturing or commercial secrets or working processes and obtained by the person in connection with the administration or execution of this Act or the regulations made thereunder.
+(2) Subsection (1) does not operate to prevent the disclosure of information where that disclosure is-
+(a) made in connection with the administration or execution of this Act or the regulations made thereunder,
+(b) made with the prior permission of the Minister, or
+(c) ordered by a court, or by any other body or person authorised by law to examine witnesses, in the course of, and for the purpose of, the hearing and determination by that court, body or person of any matter or thing.
+(3) The Minister may grant the permission referred to in subsection (2) (b) only if the Minister is satisfied that to do so would be in the public interest.

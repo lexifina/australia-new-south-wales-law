@@ -1,0 +1,2 @@
+# 4B Protection of annual holiday entitlements on transfer of business
+Part 8 of Chapter 2 of the Industrial Relations Act 1996 applies for the purposes of determining a worker's entitlements under this Act when the worker is employed by an employer as a result of the transfer of business (within the meaning of that Part) to that employer from another employer on or after the commencement of this section.
