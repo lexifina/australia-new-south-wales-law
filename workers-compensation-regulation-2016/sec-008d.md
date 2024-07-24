@@ -1,0 +1,3 @@
+# 8D Alignment of relevant earning period with pay period-Schedule 3, clause 2(3)(b) of 1987 Act
+(1) The relevant earning period for a worker in employment may be adjusted to align the relevant earning period with any regular interval at which the worker is entitled to receive payment of earnings for work performed in the employment.
+(2) The relevant earning period is not to be adjusted as provided by this clause unless the insurer is reasonably satisfied that the amount of pre-injury average weekly earnings calculated by reference to the period as so adjusted is not less than the amount that it would have been but for the adjustment.
