@@ -1,0 +1,4 @@
+# 106G Inspection of food safety supervisor certificates
+(1) If a person is appointed for the purposes of this Division as food safety supervisor for premises on which food to which this Division applies is processed and sold by retail in the course of carrying on a food business, the proprietor of the food business must ensure that a copy of the person's food safety supervisor certificate is kept on the premises and is produced for inspection on request by an authorised officer.
+(2) If a person is appointed for the purposes of this Division as food safety supervisor for a mobile catering business, the proprietor of the business must ensure that a copy of the person's food safety supervisor certificate is kept at the proprietor's business address and is produced for inspection on request by an authorised officer.
+Maximum penalty-25 penalty units in the case of an individual and 50 penalty units in the case of a corporation.
