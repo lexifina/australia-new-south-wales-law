@@ -1,0 +1,7 @@
+# 12C Registration of access agreements
+(1) A government agency that, under a public infrastructure access regime, enters into an agreement for the granting of access to services provided by means of infrastructure facilities owned, controlled or operated by it must notify the Tribunal of that fact.
+(2) The agency must also provide the Tribunal with a copy of the agreement if the Tribunal requests it, and with such details of the agreement as the Tribunal may request.
+(3) The Tribunal must register the agreement and record the registration in the register maintained under section 12E, including in that record the names of the parties to the agreement, the service to which it relates, the date when it was made and such other details as the regulations prescribe.
+(4) To remove any doubt, it is declared that an agreement registered under this section is a document within the meaning of section 22A and therefore may be made available to the public, subject to that section.
+(5) A failure to comply with this section in relation to an agreement, or a failure by the Tribunal to register it, does not affect the validity of the agreement.
+(6) Nothing in this section or section 12B prevents the Minister, at the request of a party to a proposed agreement under an access regime, from submitting to the Tribunal a draft of the agreement before the party enters into it, or prevents the Tribunal from giving advice to the Minister in relation to it.

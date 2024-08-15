@@ -1,0 +1,8 @@
+# 24FA Recommendations and advice
+(1) Any recommendations or advice authorised or required to be made or given by the Tribunal under its regulatory functions may be of a general or specific nature.
+(2) A Minister may, by order in writing, following consultation with, and with the agreement of, the Tribunal, establish protocols as to the procedures to be adopted for or with respect to the seeking, making or giving of any such recommendations or advice to that Minister, including protocols as to-
+(a) the provision of advice and information to the Tribunal to enable the Tribunal to exercise its functions with respect to such recommendations or advice effectively and efficiently, and
+(b) the circumstances in which the Tribunal's recommendations or advice need not be sought, made or given (except where a recommendation or advice is required by an Act to be made or given).
+(3) If the Tribunal makes or gives any recommendation or advice referred to in this section to a Minister, that Minister is to consider but is not bound by the recommendation or advice.
+(4) A copy of each order made under this section is to be published in the Gazette as soon as practicable after it has been made.
+(5) The provisions of an Act conferring on the Tribunal the regulatory function of making or giving recommendations or advice to a Minister for or with respect to a contravention of an operating licence or of the conditions of a licence or authorisation, or of an endorsement attached to a licence, do not apply to or affect any power that the Tribunal has to impose a monetary penalty in respect of such a contravention.

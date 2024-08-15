@@ -1,0 +1,8 @@
+# 12A Investigations and reports on industry and other matters
+(1) The Tribunal is to conduct investigations and make reports on any matter with respect to pricing, industry or competition that is referred to the Tribunal by the Minister.
+(2) If the Minister so directs, a report by the Tribunal on an investigation under this section that relates to one or more access regimes is to include general guidelines for those access regimes.
+(2A) Without limiting subsection (1), a matter relating to any adverse or unforeseen consequences of applying competitive neutrality principles (within the meaning of Part 4C) to a public authority (within the meaning of that Part) or class of public authorities may be referred by the Minister to the Tribunal for investigation and report under this section.
+(3) The Tribunal may request the Minister to refer a matter to the Tribunal under this section and is to cause a copy of any such request to be published in the Gazette within 28 days after the request is made.
+(4) If the Minister has referred a matter to the Tribunal for investigation and report, the Minister may withdraw or amend the reference at any time before the Minister has received the report from the Tribunal. The Minister must give written reasons for the withdrawal or amendment to the Tribunal, and the Tribunal is to cause a copy of those reasons to be published in the Gazette within 28 days after they are given to the Tribunal.
+(5) In this section-
+industry means industry of any kind (including any business or activity relating to goods or services), and a reference to industry is a reference to industry in general, a particular industry, a part of an industry, or a group or groups of particular industries.
