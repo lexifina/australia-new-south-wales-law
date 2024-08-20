@@ -1,0 +1,2 @@
+# 11B Deemed refusal of application
+If the Secretary has not determined an application for an exemption before the end of the period of 40 days after the application was made to the Secretary (or such longer period as the Secretary determines with the consent in writing of the applicant), the Secretary is taken, for the purposes of section 12, to have made a decision to refuse to grant the exemption.
