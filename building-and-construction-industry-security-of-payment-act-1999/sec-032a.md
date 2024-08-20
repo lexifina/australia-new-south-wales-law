@@ -1,0 +1,3 @@
+# 32A Finding of jurisdictional error in adjudicator's determination
+(1) If, in any proceedings before the Supreme Court relating to any matter arising under a construction contract, the Court makes a finding that a jurisdictional error has occurred in relation to an adjudicator's determination under this Part, the Court may make an order setting aside the whole or any part of the determination.
+(2) Without limiting subsection (1), the Supreme Court may identify the part of the adjudicator's determination affected by jurisdictional error and set aside that part only, while confirming the part of the determination that is not affected by jurisdictional error.

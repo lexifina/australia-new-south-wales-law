@@ -1,0 +1,3 @@
+# 26C Contravention of requirement by principal contractor
+(1) If a principal contractor discharges the principal contractor's obligation to pay money owed under a contract to the respondent in contravention of a requirement under this Division to retain the money, the principal contractor becomes jointly and severally liable with the respondent in respect of the debt owed by the respondent to the claimant (but only to the extent of the amount of money to which the contravention relates).
+(2) The principal contractor can recover as a debt from the respondent any amount that the claimant recovers from the principal contractor pursuant to a right of action conferred by this section.
