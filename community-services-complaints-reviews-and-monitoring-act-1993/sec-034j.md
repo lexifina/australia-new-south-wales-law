@@ -1,0 +1,5 @@
+# 34J Application of Ombudsman Act 1974
+(1) The provisions of section 31B (1) (a)-(c) and (e), (2) (a) and (3) of the Ombudsman Act 1974 apply to and in respect of the exercise of functions by the Team and reports prepared by the Team in the same way as those provisions apply to and in respect of the exercise of functions by the Ombudsman and reports made by the Ombudsman.
+Note.
+Section 31B of the Ombudsman Act 1974 provides for the monitoring of the exercise of functions by the Ombudsman and review of reports of the Ombudsman by the Committee on the Ombudsman, the Law Enforcement Conduct Commission and the Crime Commission.
+(2) In addition to the functions that the Committee on the Ombudsman, the Law Enforcement Conduct Commission and the Crime Commission has in relation to the Team under subsection (1), the Committee has the function of examining trends and changes in services and issues affecting children, and reporting to both Houses of Parliament any changes that the Committee thinks desirable to the functions and procedures of the Team.
