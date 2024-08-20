@@ -1,0 +1,6 @@
+# 12A Business and storage premises: pawnbrokers
+(1) An applicant for a licence to carry on the business of a pawnbroker, or of a pawnbroker and a second-hand dealer, or an applicant for the renewal of such a licence, must nominate in the application all premises that the applicant will make use of, whether as business premises or storage premises, for the purposes of carrying on the licensed business.
+(2) A licensee who for any reason ceases to carry on business or to store goods at the premises nominated under this section, or who commences to carry on business or to store goods at other premises, must notify the Secretary in writing of that fact and of the address of the other premises within 14 days of doing so.
+Maximum penalty-50 penalty units.
+(3) It is a condition of a licence to carry on the business of a pawnbroker, or of a pawnbroker and a second-hand dealer, that the licensee carries on the business only from the premises nominated in the application for the licence, or later notified to the Secretary under subsection (2).
+(4) It is not a breach of such a condition for the licensee to carry on the business from other premises for a period of up to 14 days if the licensee notifies the Secretary of that fact within 14 days of commencing to use those premises.

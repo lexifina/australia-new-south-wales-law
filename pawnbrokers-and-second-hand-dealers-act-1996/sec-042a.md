@@ -1,0 +1,12 @@
+# 42A Service of documents
+(1) A document that is authorised or required by this Act or the regulations to be served on a person may be served by the following methods-
+(a) for an individual-by personal delivery to the person,
+(b) by post to the address specified by the person for the service of documents of that kind,
+(c) for an individual who has not specified an address for service by post-by post to the residential or business address of the person last known to the person serving the document,
+(d) for a corporation-by post to the registered or other office of the corporation or by leaving the document at the office with a person apparently over the age of 16 years,
+(e) by email to an email address specified by the person for the service of documents of that kind,
+(f) by other electronic means to an address or location specified by the person for the service of documents of that kind,
+(g) by another method authorised by the regulations for the service of documents of that kind.
+(2) Nothing in this section affects the operation of a provision of a law or of the rules of a court authorising a document to be served on a person by another method.
+(3) In this section-
+serve includes give or send.

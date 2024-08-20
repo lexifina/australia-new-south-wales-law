@@ -1,0 +1,2 @@
+# 36B Decision to take no further action
+The Secretary may, at any stage of a matter that is the subject of consideration by the Secretary under this Part, determine to take no further action in respect of the matter, whether or not the matter is the subject of a notice under section 34 (or that section as applied by section 36A) and whether or not the Secretary determines that the ground of any such notice has been substantiated.
