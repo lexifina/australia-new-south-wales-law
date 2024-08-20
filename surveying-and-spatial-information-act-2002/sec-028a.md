@@ -1,0 +1,4 @@
+# 28A Staff
+Persons may be employed in the Public Service under the Government Sector Employment Act 2013 to enable the Board to exercise its functions.
+Note-
+Section 59 of the Government Sector Employment Act 2013 provides that the persons so employed (or whose services the Board makes use of) may be referred to as officers or employees, or members of staff, of the Board. Section 47A of the Constitution Act 1902 precludes the Board from employing staff.

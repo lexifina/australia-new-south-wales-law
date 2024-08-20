@@ -1,0 +1,2 @@
+# Long title
+An Act to make provision with respect to the functions of the Surveyor-General, the registration of surveyors, the control of surveys and the constitution and functions of the Board of Surveyors and Spatial Information; to repeal the Surveyors Act 1929, the Survey Co-ordination Act 1949 and certain other Acts and instruments; to make consequential amendments to certain other Acts and instruments; and for other purposes.
