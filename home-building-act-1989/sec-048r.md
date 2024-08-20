@@ -1,0 +1,2 @@
+# 48R Order must include warning regarding non-compliance
+An order made under this Part (other than an interim order or a direction) must include a warning, in the form prescribed by the regulations, that if the person against whom the order is made fails to comply with the order the failure to comply will be recorded with the other information kept about the person in the register kept under section 120.

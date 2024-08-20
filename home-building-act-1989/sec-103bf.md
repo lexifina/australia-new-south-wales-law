@@ -1,0 +1,6 @@
+# 103BF Filing of premiums
+(1) A licensed insurer must file its premiums with the Authority on the occasions or with the frequency that is required by the Insurance Guidelines and may (subject to any limitations specified in those Guidelines as to the frequency with which premiums may be filed) file its premiums with the Authority at any other times that the insurer considers appropriate.
+(2) A licensed insurer must also file its premiums with the Authority whenever required to do so by the Authority by notice in writing to the insurer. The notice must allow a period of at least 8 weeks after the notice is served for premiums to be filed.
+(3) An insurer files its premiums by filing with the Authority a full set of the insurance premiums it proposes to charge for the contracts of insurance together with any additional information, including actuarial reports, that the Authority may reasonably require.
+(4) A licensed insurer must pay to the Authority any fees that are required by the Insurance Guidelines to be paid by insurers in connection with the filing of premiums by insurers.
+(5) It is a condition of a licence granted to a licensed insurer under this Act that the insurer must comply with this section.

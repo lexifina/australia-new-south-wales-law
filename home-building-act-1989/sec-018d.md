@@ -1,0 +1,5 @@
+# 18D Extension of statutory warranties
+(1) A person who is a successor in title to a person entitled to the benefit of a statutory warranty under this Act is entitled to the same rights as the person's predecessor in title in respect of the statutory warranty.
+(1A) A person who is a non-contracting owner in relation to a contract to do residential building work on land is entitled (and is taken to have always been entitled) to the same rights as those that a party to the contract has in respect of a statutory warranty.
+(1B) Subject to the regulations, a party to a contract has no right to enforce a statutory warranty in proceedings in relation to a deficiency in work or materials if the warranty has already been enforced in relation to that particular deficiency by a non-contracting owner.
+(2) This section does not give a successor in title or non-contracting owner of land any right to enforce a statutory warranty in proceedings in relation to a deficiency in work or materials if the warranty has already been enforced in relation to that particular deficiency, except as provided by the regulations.

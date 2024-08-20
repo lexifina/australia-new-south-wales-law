@@ -1,0 +1,11 @@
+# 22A Suspension of contractor licences-failure to insure
+(1) If the Secretary is of the opinion that the holder of a contractor licence has not complied or is unable to comply with any requirements of Part 6 or any requirements of the regulations relating to insurance applicable to the doing of work of a kind authorised by the contractor licence, the Secretary may, by notice in writing served on the holder of the contractor licence, inform the holder that the contractor licence will be suspended unless the holder complies with subsection (2) within the period specified in the notice.
+(2) The holder of the contractor licence must provide such documentation or information as the Secretary requires in order to satisfy the Secretary that the holder has complied or is able to comply with any requirements of Part 6 and any requirements of the regulations relating to insurance applicable to the doing of work of a kind authorised by the contractor licence.
+(3) The Secretary may, by notice in writing served on the holder of the contractor licence, suspend the contractor licence from a date specified for that purpose in the notice if the documentation or information referred to in subsection (2) has not been provided within the period specified in the notice under subsection (1).
+(4) Within 7 days after a contractor licence is so suspended, the holder of the contractor licence must-
+(a) lodge the suspended contractor licence with the Secretary, or
+(b) if unable to lodge the suspended contractor licence with the Secretary, provide the Secretary with a statement signed by the holder and providing accurate and complete details of why the contractor licence cannot be lodged.
+Maximum penalty-40 penalty units in the case of a corporation and 20 penalty units in any other case.
+(5) If the holder of the suspended contractor licence provides the documentation or information referred to in subsection (2), the Secretary must, as soon as practicable, revoke the suspension by notice in writing, unless the contractor licence has expired.
+(6) The revocation takes effect on a day specified for that purpose in the notice.
+(7) On the revocation of the suspension of a contractor licence under this section, the Secretary must return the contractor licence (if it has not expired) to its holder.

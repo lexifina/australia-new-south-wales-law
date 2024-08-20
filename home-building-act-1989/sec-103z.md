@@ -1,0 +1,7 @@
+# 103Z Authority may take certain legal proceedings
+(1) If-
+(a) the liquidator of an insolvent insurer applies to any court for directions in relation to any particular matter arising under the winding up, or
+(b) the exercise by the liquidator of an insolvent insurer of any of the liquidator's functions, whether under this Part or not, is challenged, reviewed or called into question in proceedings before the Tribunal or any court, or
+(c) any other matter that concerns or may affect the operation of this Part is raised in proceedings before the Tribunal or any court,
+the Authority may intervene at any stage of the proceedings before the Tribunal or that court, by an Australian legal practitioner or an agent, and the Authority thereupon becomes a party to, and has all the rights of a party to, those proceedings before the Tribunal or that court, including the right to appeal against any order, judgment or direction of the Tribunal or the court.
+(2) In any case in which the Attorney General might take proceedings on the relation or on behalf of or for the benefit of a beneficiary who is (or who would but for the dissolution of the insolvent insurer be) entitled, under an insolvent insurer's policy, to be indemnified against a claim or judgment arising from or relating to the policy, being proceedings for or with respect to enforcing or securing the observance of any provision made by or under this Part, any Act or any rule of law, the Authority is taken to represent sufficiently the interests of the public and may take the proceedings in its own name.

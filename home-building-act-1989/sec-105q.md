@@ -1,0 +1,10 @@
+# 105Q Administrative reviews of licensing decisions by Civil and Administrative Tribunal
+(1) A person may apply to the Civil and Administrative Tribunal for an administrative review under the Administrative Decisions Review Act 1997 of any of the following decisions of the Authority under this Part-
+(a) a decision to refuse the person's application for a licence,
+(b) a decision to impose a condition on the person's licence,
+(c) a decision to vary any condition imposed on the person's licence,
+(d) a decision to refuse to grant approval to the person to assign a licence,
+(e) a decision to suspend the person's licence,
+(f) a decision to impose a fine on the person,
+(g) a decision to cancel the person's licence.
+(2) Despite the provisions of Division 2 of Part 3 of Chapter 3 of the Administrative Decisions Review Act 1997, the Tribunal may not order that a decision referred to in subsection (1) be stayed pending the determination of an application for its administrative review.

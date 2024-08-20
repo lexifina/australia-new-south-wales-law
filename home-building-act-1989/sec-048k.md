@@ -1,0 +1,13 @@
+# 48K Jurisdiction of Tribunal in relation to building claims
+(1) The Tribunal has jurisdiction to hear and determine any building claim brought before it in accordance with this Part in which the amount claimed does not exceed $500,000 (or any other higher or lower figure prescribed by the regulations).
+(2) The Tribunal has jurisdiction to hear and determine any building claim whether or not the matter to which the claim relates arose before or after the commencement of this Division, except as provided by this section.
+(3) The Tribunal does not have jurisdiction in respect of a building claim relating to building goods or services that have been supplied to or for the claimant if the date on which the claim was lodged is more than 3 years after the date on which the supply was made (or, if made in instalments, the date on which the supply was last made).
+(4) The Tribunal does not have jurisdiction in respect of a building claim relating to building goods or services that are required under a contract to be supplied to or for the claimant on or by a specified date or within a specified period but which have not been so supplied if the date on which the claim was lodged is more than 3 years after the date on or by which the supply was required under the contract to be made or, if required to be made in instalments, the last date on which the supply was required to be made.
+(5) The fact that a building claim arises out of a contract that also involves the sale of land does not prevent the Tribunal from hearing that building claim.
+(6) The Tribunal does not have jurisdiction in respect of a building claim arising out of a building cover contract required to be entered into under this Act if the date on which the claim was lodged is more than 10 years after the date on which the residential building work the subject of the claim was completed.
+(7) The Tribunal does not have jurisdiction in respect of a building claim arising from a breach of a statutory warranty implied under Part 2C if the date on which the claim is lodged is after the end of the period within which proceedings for a breach of the statutory warranty must be commenced (as provided by section 18E).
+(8) The Tribunal does not have jurisdiction in respect of a building claim relating to-
+(a) a contract for the supply of goods or services to which none of subsections (3), (4), (6) and (7) applies, or
+(b) a collateral contract,
+if the date on which the claim was lodged is more than 3 years after the date on which the contract was entered into.
+(9) This section has effect despite clause 5 (Relationship between Tribunal and courts and other bodies in connection with Division functions) of Schedule 4 to the Civil and Administrative Tribunal Act 2013.

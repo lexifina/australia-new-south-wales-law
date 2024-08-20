@@ -1,0 +1,19 @@
+# 105Z Power of Supreme Court to deal with licence holders unable to meet liabilities
+(1) The Supreme Court may, on the application of the Authority, make such orders as the Supreme Court considers necessary or desirable for the purpose of protecting the interests of the persons covered under building cover contracts entered into by a licence holder or a former licence holder.
+(2) The Supreme Court may make such an order if it is satisfied that the licence holder or former licence holder-
+(a) is not able to meet the licence holder's liabilities under the contracts or may not be able to do so, or
+(b) has acted or may act in a manner that is prejudicial to the interests of the persons covered under the contracts.
+(3) Without limiting the generality of subsection (1), the Supreme Court may make the following orders-
+(a) an order regulating the administration and payment of claims under the contracts,
+(b) an order prohibiting or regulating the transfer or disposal of, or other dealing in, the assets of the licence holder or former licence holder,
+(c) an order requiring the licence holder or former licence holder to discharge its liabilities under the contracts out of its assets and the assets of any related body corporate (within the meaning of the Corporations Act 2001 of the Commonwealth),
+(d) an order appointing a receiver or receiver and manager, having such powers as the Supreme Court orders, of the property or part of the property of the licence holder or former licence holder or of any such related body corporate.
+(4) If an application is made to the Supreme Court for an order under subsection (1), the Supreme Court may, if in its opinion it is desirable to do so, before considering the application, grant an interim order, being an order of the kind applied for that is expressed to have effect pending the determination of the application.
+(5) If an application is made to the Supreme Court for an order under subsection (1), the Supreme Court is not to require the Authority, as a condition of granting an interim order, to give any undertaking as to damages.
+(6) The Authority is to give the Australian Prudential Regulation Authority and the Australian Securities and Investments Commission notice of its intention to apply for an order under this section.
+(7) The Australian Prudential Regulation Authority and the Australian Securities and Investments Commission each has a right to appear and be heard in proceedings for an order under this section.
+(8) If the Supreme Court has made an order under this section, the Supreme Court may, on application by the Authority or by any person affected by the order, make a further order rescinding or varying the first mentioned order.
+(9) A person who contravenes, whether by act or omission, an order made by the Supreme Court under this section that is applicable to the person is guilty of an offence.
+Maximum penalty-100 penalty units or imprisonment for 6 months, or both.
+(10) The Supreme Court is not to exercise its powers under this section in respect of a corporation that is in the course of being wound up.
+(11) The powers of the Supreme Court under this section are in addition to any other powers of the Supreme Court.

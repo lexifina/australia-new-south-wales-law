@@ -1,0 +1,7 @@
+# 49A Investigation of residential building work
+(1) The Secretary may authorise a person (an inspector) to investigate residential building work.
+(2) For the purposes of making an investigation in relation to common property in a strata scheme, within the meaning of the Strata Schemes Management Act 2015, or association property in a scheme, within the meaning of the Community Land Management Act 2021, an inspector may enter and inspect the common property or the association property.
+(3) The owners corporation, a person who has exclusive use of the common property concerned and a caretaker or manager of the common property must provide reasonable assistance to enable an inspection of the common property to be carried out by an inspector under this section.
+(4) To avoid doubt, for this section, common property or association property is not a dwelling under this Act.
+(5) The relevant association that has the use of the association property concerned and, if the use of the association property has been restricted to a particular owner or owners, the particular owner or owners, and the caretaker or manager of the association property, if any, must provide reasonable assistance to enable an inspection of the association property to be carried out by an inspector under this section.
+(6) To avoid doubt, a person may be authorised under section 126 by the Secretary for the purposes of this section.

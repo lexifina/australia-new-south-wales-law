@@ -1,0 +1,3 @@
+# 18C Warranties as to work by others
+(1) A person who is the immediate successor in title to an owner-builder, a holder of a contractor licence, a former holder or a developer who has done residential building work on land is entitled to the benefit of the statutory warranties as if the owner-builder, holder, former holder or developer were required to hold a contractor licence and had done the work under a contract with that successor in title to do the work.
+(2) For the purposes of this section, residential building work done on behalf of a developer is taken to have been done by the developer.

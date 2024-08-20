@@ -1,0 +1,3 @@
+# 92C Operation of contract of insurance in relation to non-contracting owners
+(1) If the holder of a contractor licence enters into a contract to do residential building work on land and a contract of insurance that complies with this Act is in force in relation to that work, the benefit of the contract of insurance is taken to extend (and to have always extended) to any non-contracting owner in relation to the land at the time the contract to do residential building work was entered into as if the non-contracting owner were a person on whose behalf the work is done.
+(2) Subsection (1) applies irrespective of whether or not the contract of insurance concerned contains a term to the same effect as that subsection.
