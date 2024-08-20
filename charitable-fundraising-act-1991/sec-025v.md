@@ -1,0 +1,6 @@
+# 25V Withdrawal or variation of undertaking
+(1) A person who has given an undertaking may, at any time, with the written agreement of the Secretary-
+(a) withdraw the undertaking, or
+(b) vary the undertaking.
+(2) However, the provisions of the undertaking cannot be varied to provide for a different alleged contravention of the Act.
+(3) The Secretary must make notice of the withdrawal or variation of an undertaking publicly available on a NSW Government website or by other appropriate electronic means.

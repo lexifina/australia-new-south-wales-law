@@ -1,0 +1,9 @@
+# 25B Identity cards
+(1) The Secretary must issue an authorised officer with an identity card.
+(2) The identity card must-
+(a) be in the form approved by the Secretary, and
+(b) contain a recent photograph of the person.
+(3) An authorised officer must not exercise a function conferred by or under this Act unless an identity card has been issued to the authorised officer by the Secretary.
+(4) A person who has ceased to be an authorised officer must not, without reasonable excuse, fail to return to the Secretary, within the period specified by the Secretary in a request for the return of the card, any identity card issued to the person by the Secretary.
+Maximum penalty-10 penalty units.
+(5) This section does not apply to an authorised officer who is a police officer authorised under section 25A (2).

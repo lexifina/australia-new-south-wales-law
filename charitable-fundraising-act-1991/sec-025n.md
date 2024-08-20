@@ -1,0 +1,5 @@
+# 25N Extension of time for complying with compliance notice
+(1) An authorised officer may, by written notice given to a person or organisation, extend the compliance period for a compliance notice.
+(2) However, the authorised officer may extend the compliance period only if the period has not ended.
+(3) In this section-
+compliance period means the period ending on the day stated in the compliance notice by which a person or organisation is required to comply with the notice and includes that period as extended under this section.

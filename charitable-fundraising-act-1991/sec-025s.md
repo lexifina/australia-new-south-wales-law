@@ -1,0 +1,5 @@
+# 25S Notice of decision and reasons for decision
+(1) The Secretary must give the person seeking to give an undertaking written notice of the Secretary's decision to accept or reject the undertaking and of the reasons for the decision.
+(2) The Secretary must make publicly available, on a NSW Government website or by other appropriate electronic means-
+(a) notice of a decision to accept an undertaking, and
+(b) the reasons for the decision.

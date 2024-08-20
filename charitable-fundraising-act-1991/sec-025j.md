@@ -1,0 +1,3 @@
+# 25J Care to be taken
+(1) An authorised officer must do as little damage as possible when exercising a function under this Act.
+(2) If damage is caused by a person exercising a power to enter premises, a reasonable amount of compensation is recoverable as a debt owed by the Crown to the owner of the premises, unless the occupier hindered or obstructed the exercise of that power.

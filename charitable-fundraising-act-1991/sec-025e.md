@@ -1,0 +1,3 @@
+# 25E Power of entry
+(1) An authorised officer may enter premises (other than premises or any part of premises used only for residential purposes) without the occupier's consent and without obtaining a search warrant.
+(2) An authorised officer may enter any premises with the occupier's consent or the authority of a search warrant.

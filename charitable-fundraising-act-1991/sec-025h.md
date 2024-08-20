@@ -1,0 +1,13 @@
+# 25H Provision of information and documents
+(1) The Secretary or an authorised officer may, by written notice given to a person, require the person to do one or more of the following within the period specified in the notice-
+(a) produce, in accordance with the notice, accounts and statements relating to any matter for which a power may be exercised under this Division,
+(b) provide written answers to questions about any matter for which a power may be exercised under this Division,
+(c) verify by statutory declaration an account, statement or answer that is produced or provided,
+(d) attend at a specified time and place and give evidence or produce documents in the person's custody with respect to any matter for which a power may be exercised under this Division,
+(e) furnish copies of, or extracts from, a document in the person's custody or under the person's control that relates to any matter for which a power may be exercised under this Division.
+(2) The notice must specify a reasonable time for compliance with the notice and may specify the manner in which the accounts, statements or documents are to be produced.
+(3) A person to whom a document or thing is produced under this Division-
+(a) must provide a receipt for the document or thing, and
+(b) may make copies of, or take extracts from, the document or thing, and
+(c) may examine the document or thing, and
+(d) must make the document or thing available for inspection by any other person who would be entitled to inspect the document or thing if it were not in the possession of the person conducting the inquiry.
