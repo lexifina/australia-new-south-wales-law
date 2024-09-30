@@ -1,0 +1,3 @@
+# 135ZI Maintaining eligibility for payments other than catastrophic or exceptional extension payments
+(1) The Commissioner may, at any time by written notice given to an incapacitated police officer who is receiving a payment under the scheme, other than a catastrophic or exceptional extension payment, require the police officer to give the Commissioner information that relates to the police officer's injury or eligibility or receipt of payments.
+(2) The Commissioner may decide to cease payments to an incapacitated police officer if the police officer fails to comply with a notice under subclause (1).

@@ -1,0 +1,11 @@
+# 140D Allowance for acting in executive roles
+(1) If, under section 33 (5) of the Act, the Commissioner appoints a member of the NSW Police Force (whether or not a NSW Police Force senior executive) to act in the role of a NSW Police Force senior executive, the person so appointed is entitled to be paid an allowance under this clause for acting in that role.
+(2) Subject to this clause, the amount of the allowance to be paid is the difference between the salary of the person's usual role and the notional salary of the NSW Police Force senior executive role to which the person is appointed to act.
+(3) The amount of the allowance to be paid is proportionate to the duties to be performed by the person in the NSW Police Force senior executive role and is to be determined by the Commissioner before the person starts acting in that role.
+(4) An allowance under this clause is not to be paid-
+(a) for acting in a NSW Police Force senior executive role for a single period of less than 5 ordinary working days (except where the Commissioner otherwise determines), or
+(b) in the case where the appointment to act is for a period of less than 3 months-for any unbroken period of leave of more than 5 ordinary working days taken by the person during the period that the person is appointed to act in a NSW Police Force senior executive role.
+(5) Subclause (4) (a) does not prevent an allowance being paid under this clause to a person who works part-time.
+(6) In this clause-
+notional salary, in relation to a NSW Police Force senior executive role to which a person is appointed to act, means the total amount of the remuneration package that corresponds to a point, as determined by the Commissioner for the purposes of the acting appointment, within the remuneration range for the role, less the superannuation guarantee amount payable in respect of a person employed in the role at that remuneration point.
+superannuation guarantee amount means the minimum amount payable to a superannuation fund or scheme in respect of a person that is sufficient to avoid an individual superannuation guarantee shortfall, within the meaning of the Superannuation Guarantee (Administration) Act 1992 of the Commonwealth, in respect of the person.

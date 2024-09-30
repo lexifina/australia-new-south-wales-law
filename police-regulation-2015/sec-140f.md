@@ -1,0 +1,2 @@
+# 140F Allowance for secondments
+A member of the NSW Police Force who is seconded to a government sector agency within the meaning of the Government Sector Employment Act 2013 is entitled to be paid an allowance at the same rate as the person would be entitled under clause 140C or 140D had the secondment been a temporary assignment or acting appointment (as the case requires) for which an allowance is payable under those clauses.

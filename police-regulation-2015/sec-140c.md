@@ -1,0 +1,8 @@
+# 140C Allowance for temporary assignment of non-executive administrative employees to higher non-executive roles
+(1) A non-executive administrative employee who is, under the rules made under the Government Sector Employment Act 2013, temporarily assigned by the Commissioner to another non-executive role in the NSW Police Force is entitled to be paid an allowance under this clause if the other role is at a higher classification of work than the employee's current classification of work.
+(2) Subject to this clause, the amount of the allowance to be paid to the non-executive administrative employee who is temporarily assigned to another role is the difference between the salary of the employee's usual role and the point in the salary range of the other role that the Commissioner determines is appropriate having regard to the capabilities, knowledge and experience of the employee.
+(3) The amount of the allowance to be paid is proportionate to the duties to be performed by the employee in the other role and is to be determined by the Commissioner before the employee starts the temporary assignment.
+(4) An allowance under this clause is not to be paid-
+(a) for a temporary assignment to another role that is for a single period of less than 5 ordinary working days (except where the Commissioner otherwise determines), or
+(b) in the case where the temporary assignment is for a period of less than 3 months-for any unbroken period of leave of more than 5 ordinary working days taken by the employee during the temporary assignment.
+(5) Subclause (4) (a) does not prevent an allowance being paid under this clause to a non-executive administrative employee who works part-time.
