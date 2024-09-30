@@ -1,0 +1,3 @@
+# 22A Stamp duty exemption
+(1) Unless the Treasurer otherwise directs in a particular case, neither the University nor the Council is liable to duty under the Duties Act 1997, in respect of anything done by the University or Council for the purposes of the borrowing of money or the investment of funds of the University under this Act.
+(2) The Treasurer may direct in writing that any other specified person is not liable to duty under the Duties Act 1997 in respect of anything done for the purposes of the borrowing of money or the investment of funds of the University under this Act, and the direction has effect accordingly.
