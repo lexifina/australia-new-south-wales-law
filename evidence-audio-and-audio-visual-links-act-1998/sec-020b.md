@@ -1,0 +1,4 @@
+# 20B Giving evidence or making submissions by audio link
+Evidence must not be given, and a submission must not be made, by audio link under this Act unless the courtroom or other place where a NSW court is sitting, and the place where the evidence would be given or the submission would be made, are equipped with audio link facilities that enable-
+(a) persons who are at the courtroom or other place to hear the person giving the evidence or making the submission, and
+(b) persons who are at the place where the evidence is given or the submission is made to hear persons at the courtroom or other place.

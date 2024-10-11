@@ -1,0 +1,4 @@
+# 5C Premises to be considered part of court
+(1) Any place within or outside New South Wales at which audio link or audio visual link facilities are being used for the purpose of a person giving evidence or making a submission in any proceeding under Part 1A or 1B is taken to be part of the NSW court that is sitting at a courtroom or other place for the purpose of conducting the proceeding.
+(2) Subsection (1) has effect, for example, for the purposes of the laws relating to evidence, procedure, contempt of court or perjury.
+(3) Subsection (1) also has the effect that any offence committed at the place where the person giving the evidence or making the submission is located is to be taken to have been committed at the courtroom or other place where the court is sitting for the purposes of the laws in force in New South Wales.
