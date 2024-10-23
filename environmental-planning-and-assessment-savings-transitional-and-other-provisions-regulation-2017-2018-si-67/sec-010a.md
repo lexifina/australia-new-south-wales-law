@@ -1,0 +1,3 @@
+# 10A Mining and Petroleum Gateway Panel
+(1) The Mining and Petroleum Gateway Panel constituted by the Minister under clause 17N of the State Environmental Planning Policy (Mining, Petroleum Production and Extractive Industries) 2007 immediately before the substitution of that clause by Schedule 11.7 to the amending Act is taken to have been constituted under that clause, as so substituted, as a subcommittee of the Independent Planning Commission.
+(2) A person holding office as a member of the Panel immediately before the substitution of clause 17N is taken to have been appointed as a member of the Panel (as constituted in accordance with this clause) for the balance of the person's term of office.

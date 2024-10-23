@@ -1,0 +1,2 @@
+# 15A Transitional provision relating to affordable housing
+Until the commencement of Part 5B of the Act (to be inserted by Schedule 3 to the Environmental Planning and Assessment Amendment Act 2008), section 94F(3)(b) of the Act is to be construed as if the reference to a condition authorised to be imposed by a LEP (which before the commencement of Schedule 1 to that Act included a reference to a condition authorised to be imposed by a regional environmental plan) were a reference to a condition authorised to be imposed by a SEPP or a LEP.

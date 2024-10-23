@@ -1,0 +1,3 @@
+# 11B Planning instruments-local plan-making authority for pending proposals
+(1) A gateway determination may authorise a council to make a local environmental plan in accordance with section 3.34(2)(g) of the Act, as inserted by the amending Act, even if it relates to a planning proposal made before the commencement of section 3.34(2)(g) of the Act.
+(2) A delegation under the Act to a council to make a local environmental plan in relation to a planning proposal that was the subject of a gateway determination made before that commencement is taken to be an authorisation under section 3.34(2)(g) of the Act.

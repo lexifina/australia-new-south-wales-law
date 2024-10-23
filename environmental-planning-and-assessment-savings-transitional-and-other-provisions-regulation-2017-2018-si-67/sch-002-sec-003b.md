@@ -1,0 +1,15 @@
+# 3B Provisions applying with respect to approval of concept plans
+(1) This clause applies to development (other than an approved project) for which a concept plan has been approved under Part 3A, before or after the repeal of Part 3A, and so applies whether or not the project or any stage of the project is or was a transitional Part 3A project.
+(2) After the repeal of Part 3A, the following provisions apply to any such development (whether or not a determination was made under section 75P(1)(b) when the concept plan was approved)-
+(a) if Part 4 applies to the carrying out of the development, the development is taken to be development that may be carried out with development consent under Part 4 (despite anything to the contrary in an environmental planning instrument),
+(b) if Part 5 applies to the carrying out of the development, the development is taken to be development that may be carried out without development consent under Part 4 (despite anything to the contrary in an environmental planning instrument),
+(c) any development standard that is within the terms of the approval of the concept plan has effect,
+(d) a consent authority must not grant consent under Part 4 for the development unless it is satisfied that the development is generally consistent with the terms of the approval of the concept plan,
+(e) a consent authority may grant consent under Part 4 for the development without complying with any requirement under any environmental planning instrument relating to a master plan,
+(f) the provisions of any environmental planning instrument or any development control plan do not have effect to the extent to which they are inconsistent with the terms of the approval of the concept plan,
+(g) this clause applies instead of section 75P(2), but any direction, order or determination made under section 75P(2) in connection with the concept plan continues to have effect.
+(3) If a determination was not made under section 75P(1)(b) in relation to the project (or any stage of the project) when any such concept plan was approved and the project (or that stage) can no longer be approved under Part 3A, Part 4 is taken to apply to the carrying out of the development in relation to the project (or that stage) for the purposes of subclause (2) (unless an environmental planning instrument provides that it is development that may be carried out without development consent or it is exempt development).
+(4) For the purposes of determining whether development to which Part 4 applies is State significant development, a provision of this clause that permits the development to be carried out with development consent under Part 4 is taken to be a provision of an environmental planning instrument.
+(5) This clause does not apply to development that is State significant infrastructure.
+(5A) Subclause (2)(f) does not apply to the provisions of State and Environmental Planning Policy (Transport and Infrastructure) 2021, Chapter 6.
+(6) The amendments made to this Schedule by the Environmental Planning and Assessment Amendment (Transitional) Regulation 2016 extend to things done before the commencement of those amendments.

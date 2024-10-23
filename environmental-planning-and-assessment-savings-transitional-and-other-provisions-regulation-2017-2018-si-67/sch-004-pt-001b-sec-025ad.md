@@ -1,0 +1,8 @@
+# 25AD Further transitional provisions: 2005 Amending Act
+(1) In this clause-
+deemed DCP means a master plan, in force under a provision of an environmental planning instrument immediately before the relevant commencement, that is taken to be a development control plan under section 74D of the Act because of clause 95 of Schedule 6 to the Act, and includes a master plan that is taken to be a development control plan as provided by subclause (4).
+relevant commencement means the date on which Schedule 2 to the 2005 Amending Act commences.
+2005 Amending Act means the Environmental Planning and Assessment Amendment (Infrastructure and Other Planning Reform) Act 2005.
+(2) Effect of section 74C on deemed DCPs Section 74C(2) and (5) of the Act (as inserted by the 2005 Amending Act) does not render invalid any deemed DCP until such time as the principal local environmental planning instrument applying to the land concerned adopts the applicable mandatory provisions of the Standard Instrument.
+(3) Amendment of deemed DCPs A deemed DCP may be amended or revoked only in accordance with the procedures provided in relation to the making of the master plan by the environmental planning instrument under which it was made. Accordingly, section 74C(4) of the Act does not apply in relation to a deemed DCP.
+(4) Pending master plans Any master plan lodged under a provision of an environmental planning instrument but not made or adopted as at the relevant commencement may, after that commencement, proceed to be made or adopted as if the amendments made to the Act and this Regulation by Schedules 2 and 7.3 to the 2005 Amending Act had not been made. Once it is made or adopted, the master plan is taken to be a development control plan under section 74D of the Act.

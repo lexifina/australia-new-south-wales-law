@@ -1,0 +1,5 @@
+# 8C Time limits for dealing with applications and other matters
+The following time limits are prescribed for dealing with applications and other matters under Part 3A of the Act-
+(a) The time within which the Secretary is to notify the proponent of environmental assessment requirements with respect to a project or concept plan is 28 days after the proponent requests the Secretary to prepare those requirements.
+(b) The time within which the Secretary is to accept the environmental assessment with respect to a project or concept plan, or require the proponent to submit a revised environmental assessment, under section 75H of the Act is 21 days after the environmental assessment is received by the Secretary.
+(c) The time within which the Secretary is required to send copies of submissions received or a report of the issues raised in those submissions to the proponent and others under section 75H(5) of the Act (or to notify the proponent that no submissions were received) is 10 days after the end of the public consultation period for the project or concept plan.

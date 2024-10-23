@@ -1,0 +1,5 @@
+# 8L Transitional provision-objections under Mining Act in relation to Part 3A projects
+(1) The reference in clause 28(b) of Schedule 1 to the Mining Act 1992 to any person who is entitled to make submissions in relation to the granting of development consent to use land for the purpose of obtaining minerals or for one or more mining purposes (the relevant development) is taken to include-
+(a) if the relevant development is development to which Part 3A of the Act applies-a reference to any person who is entitled, under section 75H of the Act, to make a written submission in relation to the approval of that project, or
+(b) if the Secretary has, under clause 8J(3) of this Regulation, accepted a period of public exhibition of an environmental impact assessment with respect to the relevant development before it becomes a project to which Part 3A of the Act applies-a reference to any person who was entitled to make a written submission during the public exhibition period in relation to the relevant development.
+(2) Pursuant to Part 1 of Schedule 6 to the Act, this clause is taken to have commenced on the commencement of Part 3A of the Act.
