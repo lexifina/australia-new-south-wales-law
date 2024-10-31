@@ -1,0 +1,2 @@
+# 71A Date of payment by direct deposit
+A payment made to the Secretary or the Chief Commissioner for the purposes of this Act or the Gaming Machine Tax Act 2001 by means of payment to a bank, building society or credit union for direct deposit to the credit of the Secretary or the Chief Commissioner is taken to have been paid to the Secretary or the Chief Commissioner, as the case may be, on the date of payment to that bank, building society or credit union.

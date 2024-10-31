@@ -1,0 +1,11 @@
+# 17A Transitional provisions
+(1) A condition to which, pursuant to section 9A (as in force immediately before its amendment by the amending Act), the certificate of registration of a club was subject immediately before 1 July 1983 is taken to be a condition imposed on that day under section 9A, as amended by the amending Act.
+(2) A fee paid by a registered club before 1 July 1983 for renewal of its certificate of registration on and from that day is taken to be the fee paid by the club under section 15, as amended by the amending Act, in respect of the licensing period that commenced on that day.
+(3) The provisions of this Act, as amended by the amending Act, that relate to the reassessment of a registration fee apply to and in respect of a fee paid by a registered club before 1 July 1983 for renewal of its certificate of registration as if the fee so paid had been assessed as a registration fee under this Act, as amended by the amending Act.
+(4) Section 16, as amended by the amending Act, applies to and in respect of a certificate of registration of a club in force immediately before 1 July 1983 in the same way as it applies to and in respect of such a certificate granted on or after that day unless renewal of the certificate of registration was refused before 1 July 1983 or is, pursuant to an application made before that day, refused on or after that day.
+(5) Where a notice given before 1 July 1983 would, if the amending Act had not been enacted, have been duly given for the purposes of this Act, it is taken to have been duly given for the purposes of this Act, as amended by the amending Act.
+(6) An objection to an application taken under this Act before 1 July 1983 and not finally heard and determined before that day is to be heard and determined as if the amending Act had not been enacted.
+(7) This clause is taken to have commenced on 1 July 1983 (the date of commencement of the amending Act).
+(8) Subclauses (1)-(6) re-enact (with minor modifications) clauses 2-7 of Schedule 10 to the amending Act. Subclauses (1)-(6) are transferred provisions to which section 30A of the Interpretation Act 1987 applies.
+(9) In this clause-
+amending Act means the Registered Clubs (Liquor) Amendment Act 1982.
