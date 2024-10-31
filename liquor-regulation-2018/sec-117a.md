@@ -1,0 +1,2 @@
+# 117A Exemption relating to trading hours for small bars on 31 December
+On 31 December in any year, the licensee of a small bar or an employee or agent of the licensee is exempt from so much of section 9 of the Act as would prohibit the licensee, employee or agent from selling or supplying liquor for consumption on the licensed premises from the start of the standard trading period for that day until 2 am on the next succeeding day.

@@ -1,0 +1,4 @@
+# 83B Transitional provisions consequent on Liquor Amendment (Miscellaneous) Regulation 2019
+(1) Despite clause 63(3), the holder of a licence issued or transferred on or after 1 September 2018 and on or before 31 March 2019 is not required to hold a recognised competency card with a current licensee endorsement or current advanced licensee endorsement until 31 May 2019.
+(2) For the purposes of clause 63(6)(a), a licensee who notifies the Authority of the appointment of a manager under section 69 of the Act on or after 1 September 2018 and on or before 31 March 2019 is taken to have given the notice on 1 April 2019.
+(3) For the purposes of clause 63(6)(b), a person approved to act as the secretary of a registered club under section 33 of the Registered Clubs Act 1976 on or after 1 September 2018 and on or before 31 March 2019 is taken to have been approved on 1 April 2019.
