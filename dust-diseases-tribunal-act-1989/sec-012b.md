@@ -1,0 +1,3 @@
+# 12B Damages for non-economic loss after death of plaintiff
+(1) The purpose of this section is to enable the estate of a person whose death has been caused by a dust-related condition to recover damages for the person's pain or suffering, or for any bodily or mental harm suffered by the person, or for curtailment of the person's expectation of life, provided proceedings commenced by the person were pending before the Tribunal at the person's death.
+(2) Section 2 (2) (d) of the Law Reform (Miscellaneous Provisions) Act 1944 does not apply in relation to proceedings commenced by a person before his or her death and pending before the Tribunal at his or her death, where the cause of action is for damages in respect of a dust-related condition.
