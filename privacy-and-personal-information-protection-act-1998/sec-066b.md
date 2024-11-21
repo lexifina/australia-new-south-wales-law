@@ -1,0 +1,7 @@
+# 66B Fees
+(1) A public sector agency may charge a fee for any of the following matters-
+(a) giving an individual a copy of health information,
+(b) giving an individual an opportunity to inspect and take notes of the health information,
+(c) amending health information at the request of an individual,
+(d) any other matter prescribed by the regulations.
+(2) Any fee charged must not exceed such fee (if any) prescribed by the regulations for the matter concerned.

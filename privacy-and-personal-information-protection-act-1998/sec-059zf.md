@@ -1,0 +1,3 @@
+# 59ZF Exemption for Privacy Commissioner from certain principles
+(1) The Information and Privacy Commission is not required to comply with the information protection principles under section 9, 13, 14 or 17 or Health Privacy Principle 3, 6, 7 or 10 in relation to information disclosed by Cyber Security NSW to the Information and Privacy Commission for the purposes of this Part.
+(2) The Information and Privacy Commission is not required to comply with the information protection principles under section 18 or 19 or Health Privacy Principle 11 if the information is disclosed to Cyber Security NSW to enable Cyber Security NSW to exercise its functions.

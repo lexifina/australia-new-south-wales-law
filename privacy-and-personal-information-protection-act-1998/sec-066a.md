@@ -1,0 +1,9 @@
+# 66A Protection from liability
+(1) Civil proceedings do not lie against a person in respect of loss, damage or injury of any kind suffered by another person by reason only of any of the following acts done in good faith-
+(a) the making of a complaint or application under this Act,
+(b) the making of a statement to, or the giving of a document or information to, the Privacy Commissioner, whether or not pursuant to a requirement under section 37.
+(2) If a public sector agency provides an individual with access to personal information under this Act, and the access was required by section 14 (Access to personal information held by agencies), or an employee, officer or agent of the public sector agency believed in good faith that the access was required by section 14-
+(a) no action for defamation or breach of confidence lies against the public sector agency, any employee, officer or agent of the agency or the Crown by reason of the provision of access, and
+(b) no action for defamation or breach of confidence in respect of any publication involved in, or resulting from, the giving of access lies against the person who provided the personal information to the public sector agency by reason of the person having supplied the information to the agency, and
+(c) the public sector agency, or any employee, officer or agent of the public sector agency, or any other person concerned in giving access to the personal information is not guilty of an offence merely because of the giving of access.
+(3) The provision of access to personal information in the circumstances referred to in subsection (2) must not be taken to constitute, for the purposes of the law relating to defamation or breach of confidence, an authorisation or approval of the publication of the health information by the person to whom access to the information is provided.
