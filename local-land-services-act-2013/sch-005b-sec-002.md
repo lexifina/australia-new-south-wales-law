@@ -1,0 +1,3 @@
+# 2 Terms of office of members
+(1) A member of the Panel holds office, subject to this Act and the regulations, for such period (not exceeding 3 years) as is specified in the member's instrument of appointment.
+(2) A member is eligible (if otherwise qualified) for re-appointment.

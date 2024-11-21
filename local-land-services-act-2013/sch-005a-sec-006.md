@@ -1,0 +1,3 @@
+# 6 No stacking of maximum distances for clearing
+(1) The maximum distances of clearing of native vegetation authorised by this Schedule in relation to linear or fixed point infrastructure are not cumulative.
+(2) Accordingly, if the maximum distance for an item of infrastructure overlaps with the maximum distance for another item of infrastructure on the land concerned, those distances are not to be combined to form a composite distance or area. For example, if a road is situated next to a pipeline, the maximum distance of clearing is not the sum of the maximum distance for the road and the maximum distance for the pipeline.

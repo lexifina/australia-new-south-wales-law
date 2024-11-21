@@ -1,0 +1,3 @@
+# 60P Limitation on planning instruments requiring consent for clearing only
+(1) An environmental planning instrument under the Environmental Planning and Assessment Act 1979 (other than a State environmental planning policy or so much of a local environmental plan that adopts a mandatory provision of a standard instrument under that Act) may not be made to require development consent or other authorisation only for the clearing of native vegetation in an area of the State to which this Part applies. Any such requirement in an environmental planning instrument has no effect.
+(2) This section does not affect the imposition of conditions relating to the clearing of native vegetation on a development consent of any other kind.

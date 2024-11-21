@@ -1,0 +1,26 @@
+# 14 Disclosure of pecuniary interests
+(1) If-
+(a) a member has a pecuniary interest in a matter being considered or about to be considered at a meeting of the Panel, and
+(b) the interest appears to raise a conflict with the proper performance of the member's duties in relation to the consideration of the matter,
+the member must, as soon as possible after the relevant facts have come to the member's knowledge, disclose the nature of the interest at a meeting of the Panel.
+(2) A member has a pecuniary interest in a matter if the pecuniary interest is the interest of-
+(a) the member, or
+(b) the member's spouse or de facto partner or a relative of the member, or a partner or employer of the member, or
+(c) a company or other body of which the member, or a nominee, partner or employer of the member, is a member.
+(3) However, a member is not taken to have a pecuniary interest in a matter as referred to in subclause (2) (b) or (c)-
+(a) if the member is unaware of the relevant pecuniary interest of the spouse, de facto partner, relative, partner, employer or company or other body, or
+(b) just because the member is a member of, or is employed by, a council or a statutory body or is employed by the Crown, or
+(c) just because the member is a member of a company or other body that has a pecuniary interest in the matter, so long as the member has no beneficial interest in any shares of the company or body.
+(4) A disclosure by a member at a meeting of the Panel that the member, or a spouse, de facto partner, relative, partner or employer of the member-
+(a) is a member, or is in the employment, of a specified company or other body, or
+(b) is a partner, or is in the employment, of a specified person, or
+(c) has some other specified interest relating to a specified company or other body or to a specified person,
+is a sufficient disclosure of the nature of the interest in any matter relating to that company or other body or to that person which may arise after the date of the disclosure and which is required to be disclosed under subclause (1).
+(5) Particulars of any disclosure made under this clause must be recorded by the Panel and that record must be open at all reasonable hours to inspection by any person.
+(6) After a member has disclosed the nature of an interest in any matter, the member must not, unless the Minister or the Panel otherwise determines-
+(a) be present during any deliberation of the Panel with respect to the matter, or
+(b) take part in any decision of the Panel with respect to the matter.
+(7) For the purposes of the making of a determination by the Panel under subclause (6), a member who has a direct or indirect pecuniary interest in a matter to which the disclosure relates must not-
+(a) be present during any deliberation of the Panel for the purpose of making the determination, or
+(b) take part in the making by the Panel of the determination.
+(8) A contravention of this clause does not invalidate any decision of the Panel.
