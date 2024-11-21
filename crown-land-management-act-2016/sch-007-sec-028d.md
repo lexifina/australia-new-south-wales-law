@@ -1,0 +1,2 @@
+# 28D Application of new purchase provisions and commenced ancillary provisions after transitional purchase period
+To avoid doubt, the new purchase provisions and the commenced ancillary provisions continue to apply after the end of the transitional purchase period in relation to any leases and any resulting new incomplete purchases resulting from the application of those provisions during the period.
