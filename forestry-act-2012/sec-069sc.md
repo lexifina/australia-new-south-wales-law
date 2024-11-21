@@ -1,0 +1,4 @@
+# 69SC Enforcement cost recovery
+(1) The Corporation is required to pay to the Environment Protection Authority such annual licence fees in relation to integrated forestry operations approvals as are determined by the Ministers granting those approvals.
+(2) Any such annual licence fees are payable for the purpose of the recovery of the reasonable costs incurred by the Environment Protection Authority in exercising its function of monitoring the carrying out of forestry operations to which this Part applies and the function of enforcing compliance with the requirements of integrated forestry operations approvals.
+(3) Until any such annual licence fees are determined, the Corporation is required to pay to the Environment Protection Authority the annual licence fees payable in respect of the environment protection licences deemed to have been granted under Division 3 before its repeal by the Forestry Legislation Amendment Act 2018.

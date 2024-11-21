@@ -1,0 +1,2 @@
+# Long title
+An Act to provide for the dedication, management and use of State forests and other Crown-timber land for forestry and other purposes; to constitute the Forestry Corporation of New South Wales as a statutory State owned corporation and to specify its objectives and functions; to repeal the Forestry Act 1916 and the Timber Marketing Act 1977 and to amend certain other legislation; and for related purposes.
