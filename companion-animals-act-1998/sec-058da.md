@@ -1,0 +1,3 @@
+# 58DA Departmental Chief Executive to be notified of making or revocation of declaration
+(1) An authorised officer of a council who makes a declaration under this Division must give notice of the declaration to the Departmental Chief Executive within 7 days.
+(2) A council that revokes a declaration under this Division must give notice of the revocation to the Departmental Chief Executive within 7 days.

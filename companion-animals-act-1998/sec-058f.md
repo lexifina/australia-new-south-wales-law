@@ -1,0 +1,3 @@
+# 58F Persons authorised to provide certain information to councils
+(1) Any person (other than a council) who is authorised by or under this Act to identify or register companion animals may, despite any other Act or law, provide any information (including the person's opinion as to the breed or temperament of a dog) to a council that may result in any action being taken under this Division in relation to a dog.
+(2) A person does not incur any criminal or civil liability (including liability for breaching any duty of confidentiality) for providing any such information to a council if the information is provided in good faith.
