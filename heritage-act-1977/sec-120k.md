@@ -1,0 +1,6 @@
+# 120K Failure to comply with order-carrying out of work by Heritage Council
+(1) If a person fails to comply with the terms of an order given to the person under this Division, the Heritage Council may do all such things as are necessary or convenient to give effect to the terms of the order, including the carrying out of any work required by the order.
+(2) Any expenses incurred under this section by the Heritage Council together with all associated costs may be recovered by the Heritage Council in any court of competent jurisdiction as a debt due to the Heritage Council by the person required to comply with the order.
+(3) This section does not affect the owner's right to recover any amount from any lessee or other person liable for the expenses of repairs.
+(4) A reference in this section to costs is a reference to costs incurred by the Heritage Council in seeking to recover the expenses otherwise than by proceedings in a court, but this section does not prevent the Heritage Council from receiving costs as between party and party in respect of those proceedings.
+(5) The Heritage Council may exercise its functions under this section irrespective of whether the person required to comply with the order has been prosecuted for an offence against this Act.

@@ -1,0 +1,4 @@
+# 170B Referral to panel of submissions relating to items of local heritage significance
+(1) This section applies if a submission is made under Part 3 of the Environmental Planning and Assessment Act 1979 objecting to the identification of an item as an item of heritage significance (however described) in a proposed local environmental plan.
+(2) A council that is the relevant planning authority under that Act for the proposed local environmental plan may (but need not) refer the submission, or any matter related to the submission, to a panel constituted by the council under section 23I of that Act for assessment by the panel under that Act.
+(3) Nothing in this section affects the operation of Part 3 of the Environmental Planning and Assessment Act 1979 with respect to issues raised in a submission or limits any matter that may be referred to a panel under that Act by a council.

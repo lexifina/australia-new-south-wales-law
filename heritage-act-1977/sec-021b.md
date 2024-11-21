@@ -1,0 +1,5 @@
+# 21B Publication of certain submissions
+(1) Any written submission in relation to State significant development that is made by the Heritage Council to a consent authority, or to any other person or body having functions under the Environmental Planning and Assessment Act 1979 with respect to the approval of that development, is to be made publicly available on the internet by the Heritage Council within 14 days after the submission is made.
+(2) In this section, State significant development means-
+(a) development that, were it not State significant development, State significant infrastructure or a transitional Part 3A project under the Environmental Planning and Assessment Act 1979, would require approval under Part 4 of this Act or an excavation permit under section 139 of this Act, or
+(b) development that is State significant development, State significant infrastructure or a transitional Part 3A project under the Environmental Planning and Assessment Act 1979 and that impacts on an item of State heritage significance that is not on the State Heritage Register or the subject of an interim heritage order.
