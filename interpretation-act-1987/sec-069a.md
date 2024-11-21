@@ -1,0 +1,4 @@
+# 69A Evidence of publication of Australian standards or other publications
+If an Act or statutory rule applies, adopts or incorporates by way of reference any publication, or any provision of a publication, of Standards Australia, any other body or any person expressly or impliedly identified in the Act or statutory rule, evidence of the publication or provision may be given in any proceedings-
+(a) by the production of a document purporting to be a copy of it and purporting to be published by or on behalf of Standards Australia or the other body or person concerned, or
+(b) by the production of a document purporting to be a copy of it and purporting to be published on the NSW legislation website or in the Gazette, or printed by the authority of the Government of the Commonwealth, a State or a Territory.
