@@ -1,0 +1,5 @@
+# 54A Personal representative of deceased person may appeal on person's behalf
+(1) A reference in sections 49, 50 and 50A to a person includes, where the person has died, the person's personal representative acting on behalf of the person.
+(2) In this section, personal representative, in relation to a person who has died, means-
+(a) in the case of a person who died wholly or partially intestate-any person who appears to the Committee to be entitled to obtain a grant of letters of administration of the estate of the person, and
+(b) in the case of a person who died testate-any person who appears to the Committee to be entitled to receive the relevant payment under the will of the person.

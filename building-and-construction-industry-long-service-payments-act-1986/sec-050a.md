@@ -1,0 +1,3 @@
+# 50A Appeal against limitation of long service payment by operation of deemed minimum and maximum rates of pay
+(1) A person who has received a notification under section 32B and is dissatisfied with the calculation of the long service payment may appeal to the Committee.
+(2) The Committee, in determining the appeal, may confirm the calculation of the long service payment or set it aside and make a new calculation in substitution for that calculation.
