@@ -1,0 +1,7 @@
+# 101K Reporting to Parliament
+(1) A copy of a report furnished to the Presiding Officer of a House of Parliament under this Part must be laid before that House on the next sitting day of that House after it is received by the Presiding Officer.
+(2) The Team may include in a report a recommendation that the report be made public forthwith.
+(3) If a report includes a recommendation that a report be made public forthwith, a Presiding Officer of a House of Parliament may make it public whether or not that House is in session and whether or not the report has been laid before that House.
+(4) A report that is made public by a Presiding Officer of a House of Parliament before it is laid before that House attracts the same privileges and immunities as if it had been laid before that House.
+(5) A Presiding Officer need not inquire whether all or any of the conditions precedent have been satisfied as regards a report purporting to have been furnished in accordance with this Part.
+(6) In this Part, a reference to a Presiding Officer of a House of Parliament is a reference to the President of the Legislative Council or the Speaker of the Legislative Assembly. If there is a vacancy in the office of President, the reference to the President is taken to be a reference to the Clerk of the Legislative Council and, if there is a vacancy in the office of the Speaker, the reference to the Speaker is taken to be a reference to the Clerk of the Legislative Assembly.
