@@ -1,0 +1,9 @@
+# 31D Vacancies
+(1) A member of the Joint Committee ceases to hold office-
+(a) when the Legislative Assembly is dissolved or expires by the effluxion of time, or
+(b) if the member becomes a Minister of the Crown or a Parliamentary Secretary, or
+(c) if a member ceases to be a member of the Legislative Council or Legislative Assembly, or
+(d) if, being a member of the Legislative Council, the member resigns the office by instrument in writing addressed to the President of the Legislative Council, or
+(e) if, being a member of the Legislative Assembly, the member resigns the office by instrument in writing addressed to the Speaker of the Legislative Assembly, or
+(f) if the member is discharged from office by the House of Parliament to which the member belongs.
+(2) Either House of Parliament may appoint one of its members to fill a vacancy among the members of the Joint Committee appointed by that House.

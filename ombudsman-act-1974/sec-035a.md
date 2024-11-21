@@ -1,0 +1,5 @@
+# 35A Immunity of Ombudsman and others
+(1) The Ombudsman shall not, nor shall an officer of the Ombudsman, be liable, whether on the ground of want of jurisdiction or on any other ground, to any civil or criminal proceedings in respect of any act, matter or thing done or omitted to be done for the purpose of executing this or any other Act unless the act, matter or thing was done, or omitted to be done, in bad faith.
+(2) Civil or criminal proceedings in respect of any act or omission referred to in subsection (1) shall not be brought against the Ombudsman or an officer of the Ombudsman without the leave of the Supreme Court.
+(3) The Supreme Court shall not grant leave under subsection (2) unless it is satisfied that there is substantial ground for the contention that the person to be proceeded against has acted, or omitted to act, in bad faith.
+(4) An Australian legal practitioner assisting the Ombudsman or representing a person at an inquiry held by the Ombudsman has the same protection and immunity as a barrister has in appearing for a party in proceedings in the Supreme Court.

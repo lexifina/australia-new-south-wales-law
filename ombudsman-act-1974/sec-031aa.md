@@ -1,0 +1,5 @@
+# 31AA Provisions relating to reports
+(1) Tabling A copy of a report made or furnished to the Presiding Officer of a House of Parliament under this Part must be laid before that House on the next sitting day of that House after it is received by the Presiding Officer.
+(2) Public reports If a report includes a recommendation by the Ombudsman that the report be made public forthwith, the Presiding Officer of a House of Parliament may make it public whether or not that House is in session and whether or not the report has been laid before that House.
+(3) Privileges and immunities A report that is made public by the Presiding Officer of a House of Parliament before it is laid before that House attracts the same privileges and immunities as it would if it had been laid before that House.
+(4) Report procedures A Presiding Officer need not inquire whether all or any conditions precedent have been satisfied as regards a report purporting to have been made or furnished in accordance with this Act.

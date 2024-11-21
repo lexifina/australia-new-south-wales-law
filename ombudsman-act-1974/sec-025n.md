@@ -1,0 +1,3 @@
+# 25N Reporting on Aboriginal programs
+(1) The Ombudsman may provide a report on any matter concerning an Aboriginal program (including any recommendations for improvements in the delivery of the program) to the Minister responsible for the program and to any other Minister or public authority affected, in the opinion of the Ombudsman, by the report.
+(2) The Minister responsible for the program is to furnish a copy of the report to the Presiding Officer of each House of Parliament within 1 month after receiving the report. Section 31AA applies to a copy of a report furnished under this section in the same way as it applies to a report under Part 4.

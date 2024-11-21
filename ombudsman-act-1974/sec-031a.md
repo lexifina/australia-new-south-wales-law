@@ -1,0 +1,3 @@
+# 31A Constitution of Joint Committee
+(1) As soon as practicable after the commencement of this Part and the commencement of the first session of each Parliament, a joint committee of members of Parliament, to be known as the Committee on the Ombudsman, the Law Enforcement Conduct Commission and the Crime Commission, is to be appointed.
+(2) The Joint Committee has and may exercise the functions conferred or imposed on it by or under this Act, the Law Enforcement Conduct Commission Act 2016, the Government Information (Information Commissioner) Act 2009, the Privacy and Personal Information Protection Act 1998, the Inspector of Custodial Services Act 2012, the Crime Commission Act 2012, or any other Act.
