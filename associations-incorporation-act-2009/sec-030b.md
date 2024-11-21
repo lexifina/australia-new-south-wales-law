@@ -1,0 +1,2 @@
+# 30B Personal liability of committee members
+A matter or thing done or omitted to be done by a committee member, or by a person acting under the direction of a committee member, does not, if the matter or thing was done or omitted to be done in good faith for the purpose of exercising the committee member's functions under this Act, subject the committee member or person so acting personally to any action, liability, claim or demand.
