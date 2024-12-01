@@ -1,0 +1,2 @@
+# 39L Immediate destruction where security or other issues
+A qualified police officer may make an order to destroy a substance in accordance with a provision of this Division at any time if the officer is of the opinion that, because of the amount of the substance or for any other reason, the substance could not reasonably be securely retained for the period of notice that would otherwise be required under that provision.
