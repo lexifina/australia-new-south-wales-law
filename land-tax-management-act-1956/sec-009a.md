@@ -1,0 +1,8 @@
+# 9A Concession for unutilised land value
+(1) This section applies to land if an unutilised value allowance (as ascertained under Division 3 of Part 7) is entered in the Register in respect of the land.
+(2) For the purpose of assessing land tax, the land value of the land is to be reduced by the unutilised value allowance.
+(3) However, if the land is sold or otherwise disposed of or it ceases to be used or occupied solely as the site of a single dwelling-house, a person whose liability to pay land tax in respect of the land has been assessed in accordance with this section must, within 1 month, inform the Chief Commissioner of the date on which the land was sold or otherwise disposed of or ceased to be so used or occupied.
+(4) Liability for land tax in respect of the year in which the land is sold, disposed of, or ceases to be used or occupied solely as the site of a single dwelling-house, and in each of the preceding years (up to a maximum of 4 preceding years) in which the person's liability to pay land tax was assessed in accordance with this section is to be reassessed as if subsection (2) had not applied to the land.
+(5) For the purposes of section 9 (3) (c) of the Taxation Administration Act 1996, any such reassessment is authorised to be made more than 5 years after the initial assessment.
+(6) Any such re-assessment is not a relevant land tax assessment for the purposes of section 35 (1) (b) of the Valuation of Land Act 1916 if it is based on the same land value or average value on which the original land tax assessment was based (before the reduction was made under subsection (2) of this section).
+(7) In this section, single dwelling-house has the same meaning as in Division 2 of Part 8 of Chapter 15 of the Local Government Act 1993.

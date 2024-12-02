@@ -1,0 +1,2 @@
+# 10AA Concession for home owners who purchase under approved shared equity schemes
+The principal place of residence exemption extends to land used and occupied as the principal place of residence of a natural person who owns the land, even if the land is jointly owned by any other person, if the land was acquired by the natural person under an approved shared equity scheme (within the meaning of the Duties Act 1997).

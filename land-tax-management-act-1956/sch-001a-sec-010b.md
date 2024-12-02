@@ -1,0 +1,5 @@
+# 10B Concession for multiple-occupancy land
+(1) This clause applies if land owned by one person, or by 2 or more joint owners, is the site of a flat that is used and occupied by the owner, or by one of them, as a principal place of residence, and there is also situated on the land one or more other flats that are used, or adapted for use, as a separate occupation to that of the owner (not being an excluded residential occupancy that may be disregarded under clause 4).
+(2) Section 9C applies in respect of the land as if the land were mixed use land.
+(3) For the purposes of applying Division 5A of Part 1B of the Valuation of Land Act 1916 to the land, a reference in that Division to that part of the land that is occupied or used for non-residential purposes is to be read as a reference to that part of the land that is adapted for use as a separate occupation to that of the owner (and which is not an excluded residential occupancy that may be disregarded under clause 4).
+(4) This clause does not apply to land comprised of one or more strata lots.
