@@ -1,0 +1,3 @@
+# 5BA Surcharge land tax-residence requirement applying to principal place of residence exemption for retirement visa holders
+(1) Section 5B applies to a retirement visa holder in the same way as it applies to a permanent resident, subject to any modifications prescribed by the regulations.
+(2) However, in the application of that section to the liability of a retirement visa holder to pay surcharge land tax in respect of residential land for a land tax year, the residence requirement is satisfied if the person used and occupied the land as the person's principal place of residence for a continuous period of 200 days in the previous land tax year.
