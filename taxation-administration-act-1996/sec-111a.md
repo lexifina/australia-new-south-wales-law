@@ -1,0 +1,2 @@
+# 111A Refusal by Chief Commissioner to exercise functions
+The Chief Commissioner may refuse to exercise any function under a taxation law concerning an instrument, transaction or return (including the stamping or marking of an instrument) if any information, evidence, instrument or record concerning the instrument, transaction or return is not provided to the Chief Commissioner in accordance with a requirement of a taxation law.

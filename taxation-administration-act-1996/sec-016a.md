@@ -1,0 +1,4 @@
+# 16A Land tax assessments-special provisions
+The validity of a land tax assessment for a land tax year (within the meaning of the Land Tax Management Act 1956) is not affected by an objection or appeal under the Valuation of Land Act 1916 in relation to a land tax assessment for a subsequent land tax year, even if the objection or appeal results in a change to a land valuation on which the earlier land tax assessment was partly based.
+Note.
+Under the Land Tax Management Act 1956 land tax assessments are based on an average value of land, being an average of the land value of the land in respect of the most recent 3 land tax years. This section prevents an objection to a land tax assessment from affecting the validity of previous land tax assessments that were based on one or 2 of the same land values.

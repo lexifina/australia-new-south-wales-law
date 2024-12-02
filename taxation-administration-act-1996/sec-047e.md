@@ -1,0 +1,4 @@
+# 47E Defences
+In proceedings for the recovery of a corporate tax liability from a director or former director of a corporation under this Division, it is a defence to the recovery of the corporate tax liability from the director or former director if the director or former director establishes that-
+(a) the director or former director took all reasonable steps that were possible in the circumstances to ensure that the corporation rectified the failure to pay the corporate tax liability before the end of the compliance period for the compliance notice served on the director or former director, or
+(b) the director or former director was unable, because of illness or for some other similar good reason, to take steps to ensure that the corporation rectified the failure to pay the corporate tax liability before the end of the compliance period for the compliance notice served on the director or former director.

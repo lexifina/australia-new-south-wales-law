@@ -1,0 +1,4 @@
+# 80G How reportable information may be collected
+(1) The Chief Commissioner or the head of a Public Service agency may collect reportable information by requiring a person providing information for the purposes of a function carried out under a taxation law, or a law administered by the Minister to whom the Public Service agency is responsible, to provide the reportable information.
+(2) Without limiting subsection (1), the Chief Commissioner or the head of a Public Service agency may require reportable information to be provided in connection with the lodgment of an instrument, or the making of an application, under a taxation law or a law administered by the Minister to whom the Public Service agency is responsible.
+(3) Nothing in this section limits the circumstances in which the Chief Commissioner or the head of a Public Service agency may collect reportable information.
