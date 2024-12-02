@@ -15,5 +15,5 @@ is liable, on conviction before the Local Court, to imprisonment for 2 years, or
 (2) In this section-
 Intimidation means the causing of a reasonable apprehension of injury to a person or to the person's spouse, de facto partner, child or dependant, or of violence or damage to any person or property, and intimidate has a corresponding meaning.
 Injury includes any injury to a person in respect of the person's property, business, occupation, employment, or other source of income, and also includes any actionable wrong of any nature.
-Note-
+Note.
 De facto partner is defined in section 21C of the Interpretation Act 1987.

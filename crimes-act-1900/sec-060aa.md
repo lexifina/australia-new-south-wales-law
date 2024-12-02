@@ -11,12 +11,13 @@ frontline health worker means-
 (a) a person employed or otherwise engaged to provide medical or other health treatment to patients-
 (i) in a hospital, or
 (ii) in a health institution under the control of a local health district or statutory health corporation under the Health Services Act 1997, or
-(b) a member of the Ambulance Service of NSW,
+(a1) a medical practitioner or other person employed or otherwise engaged to provide services in a medical practice, or
+(b) a member of the Ambulance Service of NSW, or
 (c) a person employed or otherwise engaged by the St John Ambulance Australia (NSW) who, in that capacity, provides medical care, or
 (d) a member of Hatzolah who, in that capacity, provides medical care, or
-(e) a person who is employed or otherwise engaged to provide community first responder services,
-(f) a person employed or otherwise engaged to provide community health services,
-(g) pharmacy staff,
+(e) a person who is employed or otherwise engaged to provide community first responder services, or
+(f) a person employed or otherwise engaged to provide community health services, or
+(g) pharmacy staff, or
 (h) a person employed or otherwise engaged to provide security services-
 (i) in a hospital, or
 (ii) in a health institution under the control of a local health district or statutory health corporation under the Health Services Act 1997.
@@ -43,7 +44,9 @@ a teacher who provides services to detainees in a detention centre
 (n) a sheriff's officer, or
 (o) a recognised law enforcement officer within the meaning of the Police Act 1990, or
 (p) a special constable within the meaning of section 82L of the Police Act 1990, or
-(q) an officer of an approved charitable organisation, within the meaning of the Prevention of Cruelty to Animals Act 1979, who performs investigation, confiscation or other law enforcement functions.
+(q) a person who, under the Prevention of Cruelty to Animals Act 1979, is an appointed officer who-
+(i) is employed by an approved charitable organisation, and
+(ii) exercises investigation, confiscation or other law enforcement functions.
 pharmacy staff includes-
 (a) a pharmacist, and
 (b) a pharmacy assistant or another person employed or otherwise engaged to provide services at a pharmacy.

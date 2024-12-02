@@ -16,7 +16,7 @@ person acting for a parent of a child means a person-
 (i) is a step-parent of the child, a de facto partner of a parent of the child, a relative (by blood or marriage) of a parent of the child or a person to whom the parent has entrusted the care and management of the child, and
 (ii) is authorised by a parent of the child to use physical force to punish the child, or
 (b) who, in the case of a child who is an Aboriginal or Torres Strait Islander (within the meaning of the Children and Young Persons (Care and Protection) Act 1998), is recognised by the Aboriginal or Torres Strait Islander community to which the child belongs as being an appropriate person to exercise special responsibilities in relation to the child.
-Note-
+Note.
 "De facto partner" is defined in section 21C of the Interpretation Act 1987.
 (7) This section does not apply to proceedings arising out of an application of physical force to a child if the application of that force occurred before the commencement of this section.
 (8) The Attorney General is to review this section to determine whether its provisions continue to be appropriate for securing the policy objectives of the section. The review is to be undertaken as soon as possible after the period of 3 years from the commencement of this section. A report on the outcome of the review is to be tabled in each House of Parliament within 6 months after the end of the period of 3 years.
