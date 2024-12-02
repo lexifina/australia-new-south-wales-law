@@ -1,0 +1,2 @@
+# 20B Power to accept lease or licence relating to certain land
+The Trust may, with the consent of the Minister, from time to time enter into an agreement as lessee, sub-lessee or licensee in respect of the upper surface, and the airspace above the upper surface, of the land bridge erected, near the Art Gallery of New South Wales, over part of the road link (or the proposed road link) between the Cahill Expressway and Mill Pond Road, Botany, known as the Eastern Distributor.

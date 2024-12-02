@@ -1,0 +1,6 @@
+# 22C Proof of certain matters not required
+In any legal proceedings, proof is not required (until evidence is given to the contrary) of-
+(a) the constitution of the Trust, or
+(b) any resolution of the Trust, or
+(c) the appointment of, or the holding of office by, any trustee, or
+(d) the presence of a quorum at any meeting of the Trust.
