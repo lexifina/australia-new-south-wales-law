@@ -1,0 +1,4 @@
+# 36B Special provisions relating to Crown lands subject of land claim
+(1) Despite anything to the contrary in the Crown Lands Act 1989, if an Aboriginal Land Council has appealed to the Court against a refusal of a land claim made by it in relation to any land, the Crown Lands Minister must not, by any act or omission, cause anything to occur in relation to that land that would cause a claim (if any) lodged in relation to that land before the final determination of the appeal to be unsuccessful.
+(2) Subsection (1) does not prohibit the extension or continuance of an existing lawful use of the land to which the claim relates or anything done with the consent of the relevant Aboriginal Land Council.
+(3) If an Aboriginal Land Council has appealed to the Court against the refusal of a land claim or part of a land claim, a land claim may not be made in relation to the land the subject of the appeal until the final determination of the appeal.

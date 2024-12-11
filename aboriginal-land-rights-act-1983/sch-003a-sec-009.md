@@ -1,0 +1,3 @@
+# 9 Confirmation of vesting
+(1) The Minister may, by notice in writing, confirm a transfer of particular assets, rights and liabilities by operation of this Schedule.
+(2) Such a notice is conclusive evidence of that transfer.

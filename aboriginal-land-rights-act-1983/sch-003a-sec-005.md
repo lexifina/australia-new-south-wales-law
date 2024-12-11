@@ -1,0 +1,4 @@
+# 5 Consideration for vesting
+(1) A transfer order may specify the consideration on which the order is made and the value or values at which the assets, rights or liabilities are transferred.
+(2) The consideration and value or values cannot exceed the optimised deprival value of those assets, rights or liabilities.
+(3) In this clause, optimised deprival value means a value determined by the application of the Guidelines on Accounting Policy for Valuation of Government Trading Enterprises prepared by the Steering Committee on National Performance Monitoring of Government Trading Enterprises, agreed on by the Commonwealth and States and published in October 1994.

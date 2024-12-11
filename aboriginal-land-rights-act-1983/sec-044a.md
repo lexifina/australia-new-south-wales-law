@@ -1,0 +1,4 @@
+# 44A Payment of rates by NSW Aboriginal Land Council
+(1) Where rates payable under an Act referred to in section 44 have been unpaid for a period of not less than 12 months in respect of a rating year commencing on 1 January 1985 or any subsequent date, the New South Wales Aboriginal Land Council shall, within 30 days after receipt of a notice from the appropriate rating authority specifying the total of the amount unpaid, the amount of any interest accrued on that amount and any extra charges, pay that total to that rating authority.
+(2) A rating authority may recover an amount unpaid after the expiration of the period of 30 days referred to in subsection (1) from the New South Wales Aboriginal Land Council as a debt in a court of competent jurisdiction.
+(3) The New South Wales Aboriginal Land Council may recover an amount paid under this section from the Local Aboriginal Land Council in whose area the land subject to the rate is situated.

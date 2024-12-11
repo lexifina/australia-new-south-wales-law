@@ -1,0 +1,3 @@
+# 137D Administration may follow plan failure
+(1) A failure by the New South Wales Aboriginal Land Council to approve a proposed community, land and business plan within 3 months after the plan is first referred to a meeting of the Council for approval is, for the purposes of section 223, a ground that justifies the appointment of an administrator (without any requirement for a report referred to in section 223(3)).
+(2) A substantial failure by the New South Wales Aboriginal Land Council to comply with its community, land and business plan is, for the purposes of section 223, a ground that justifies the appointment of an administrator (without any requirement for a report referred to in section 223(3)).

@@ -1,0 +1,7 @@
+# 2 Vesting of undertaking in transferee
+When any assets, rights or liabilities are transferred by a transfer order, the following provisions have effect (subject to the order)-
+(a) those assets of the transferor vest in the transferee by virtue of this Schedule and without the need for any conveyance, transfer, assignment or assurance,
+(b) those rights and liabilities of the transferor become by virtue of this Schedule the rights and liabilities of the transferee,
+(c) all proceedings relating to those assets, rights or liabilities commenced before the transfer by or against the transferor or a predecessor of the transferor and pending immediately before the transfer are taken to be proceedings pending by or against the transferee,
+(d) any act, matter or thing done or omitted to be done in relation to those assets, rights or liabilities before the transfer by, to or in respect of the transferor is (to the extent that that act, matter or thing has any force or effect) taken to have been done or omitted by, to or in respect of the transferee,
+(e) a reference in any Act, in any instrument made under any Act or in any document of any kind to the transferor or a predecessor of the transferor is (to the extent that it relates to those assets, rights or liabilities but subject to regulations or other provisions under Schedule 4), to be read as, or as including, a reference to the transferee.
