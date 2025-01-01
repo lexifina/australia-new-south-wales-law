@@ -1,0 +1,2 @@
+# 104ZF Refund if property transferred to persons who are no longer foreign on transfer
+If surcharge purchaser duty has been paid on an agreement for the sale or transfer of residential-related property and the Chief Commissioner is satisfied that none of the transferees in respect of a transfer made in conformity or partial conformity with the agreement are foreign persons, the Chief Commissioner must reassess and refund that duty if an application is made within 5 years of the initial assessment.

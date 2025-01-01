@@ -1,0 +1,4 @@
+# 157B Beneficial owner-meaning
+(1) If a person who acquires or holds an interest in a landholder acquires or holds that interest as bare trustee for another person, the other person is a beneficial owner of that interest in the landholder.
+(2) If a person who is a beneficial owner of an interest in a landholder (whether as a result of subsection (1) or as a result of one or more applications of this subsection) holds that interest as bare trustee for another person, that other person is also a beneficial owner of that interest in the landholder.
+(3) For the purposes of this Part, the ultimate beneficial owner of an interest in a landholder is any beneficial owner of the interest in the landholder who does not hold that interest as bare trustee for another person.

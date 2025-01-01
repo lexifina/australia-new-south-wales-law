@@ -1,0 +1,14 @@
+# 104ZKA Exemption for certain permanent residents in respect of principal place of residence
+(1) No surcharge purchaser duty is chargeable on a transfer, or an agreement for the sale or transfer, of residential-related property if each transferee under the transfer or agreement who would otherwise be liable to pay that duty is an exempt permanent resident.
+(2) A transferee under a transfer or agreement is an exempt permanent resident if-
+(a) the transferee is a permanent resident when a liability for duty charged by Chapter 2 on the transfer or agreement arises (or would arise but for a concession or exemption from duty under that Chapter), and
+(b) the Chief Commissioner is satisfied that the transferee intends to use and occupy the residential land to which the residential-related property relates as a principal place of residence in accordance with the residence requirement.
+(3) If there is more than one transferee under the transfer or agreement who is a foreign person (a foreign transferee) and the Chief Commissioner is satisfied that at least one, but not all, of those transferees is an exempt permanent resident-
+(a) surcharge purchaser duty is to be reduced in proportion to the share or shares in the residential-related property transferred to foreign transferees who are exempt permanent residents, and
+(b) none of those exempt permanent residents is liable to pay surcharge purchaser duty on the transfer or agreement.
+(4) The residential land must be used and occupied by the exempt permanent resident as his or her principal place of residence for a continuous period of at least 200 days within the first 12 months after the liability date. This requirement is referred to as the residence requirement.
+(5) The liability date is the date on which liability to surcharge purchaser duty first arose in respect of the share in the residential-related property transferred, or agreed to be transferred, to the exempt permanent resident.
+(6) If the residence requirement is not complied with in relation to the residential land, the Chief Commissioner must assess or reassess the surcharge purchaser duty chargeable on the transfer or agreement as if the exemption under this section had never applied.
+(7) A reference in this section to the use and occupation of residential land as a principal place of residence in accordance with the residence requirement includes-
+(a) in the case of a land use entitlement, a reference to the use and occupation of the building or part of the building to which the entitlement relates, as a principal place of residence in accordance with the residence requirement, and
+(b) in the case of a utility lot (within the meaning of the Strata Schemes Management Act 2015), a reference to the use of the utility lot in conjunction with a strata lot used and occupied as a principal place of residence in accordance with the residence requirement.

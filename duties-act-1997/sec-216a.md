@@ -1,0 +1,2 @@
+# 216A Calculation of dutiable proportion-goodwill and intellectual property
+For the purposes of this Chapter, if the property secured by a mortgage includes the goodwill of a business or intellectual property, the goodwill or intellectual property is taken to be property in New South Wales to the extent that it would have comprised a business asset under Chapter 2 if it had been transferred to the mortgagor immediately before the liability date, which has a value equivalent to the dutiable value of such a transfer.

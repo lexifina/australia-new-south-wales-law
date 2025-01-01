@@ -1,0 +1,11 @@
+# 104E Concession
+(1) The purchaser or transferee under an agreement for the sale or transfer, or the transfer, of residential property or vacant residential land is entitled to be granted a duty concession under this Division in respect of the agreement or transfer if the Chief Commissioner is satisfied that-
+(a) the purchaser or transferee (or at least one of the purchasers or transferees if there is more than one purchaser or transferee) is the owner of residential property that will be acquired by an authority of the State (or was the owner from whom the authority of the State acquired the property), and
+(b) the authority of the State has entered into a binding agreement to acquire (or has acquired) that residential property because it is or was LFAI-affected.
+(2) Despite subsection (1) (a), the Chief Commissioner may grant a duty concession under this Division to a purchaser or transferee who is not or was not (at any time or at the applicable time) the owner (or the only owner) of the LFAI-affected property concerned if the Chief Commissioner is satisfied that it would be fair and reasonable for the duty concession to be granted to the purchaser or transferee.
+(3) Without limiting subsection (2), the Chief Commissioner may be satisfied that it would be fair and reasonable for a duty concession to be granted to a purchaser or transferee who is or was an owner, but not the only owner, of the LFAI-affected property concerned if the Chief Commissioner is satisfied that each other owner has consented to the making of the application for the duty concession.
+(4) If a duty concession is granted under this Division in respect of an agreement or transfer, any ad valorem duty chargeable under this Chapter on the agreement or transfer is to be reduced by the amount of ad valorem duty that (but for section 308) would be (or would have been) chargeable to the authority of the State on-
+(a) the transfer to the authority of the State of the LFAI-affected property concerned, or
+(b) any other dutiable transaction effected to acquire the LFAI-affected property.
+(5) Duty cannot be reduced under this Division to less than $0.
+(6) Only one duty concession may be granted under this Division for each acquisition of LFAI-affected property by an authority of the State.

@@ -1,0 +1,7 @@
+# 74A Application of scheme to multiple occupancy contracts
+(1) The provisions of this Part apply in respect of an agreement for the sale or transfer of a parcel of land on which 2 or more homes are built or being built (a multiple occupancy contract) as if-
+(a) the multiple occupancy contract were a separate agreement or transfer in relation to each home built or to be built on the land as an exclusive occupancy, and
+(b) the purchasers or transferees who will be entitled to occupy a home as an exclusive occupancy are the only purchasers or transferees under the separate agreement or transfer relating to the home.
+(2) Any such separate agreement or transfer is taken to be an agreement or transfer for the whole of the property if it is for all of the land to be used or occupied for the purposes of the exclusive occupancy.
+(3) In this Part, a reference to the dutiable property the subject of the agreement or transfer is a reference to that part of the land that is to be used or occupied for the purposes of the exclusive occupancy.
+(4) For the purposes of this section, a home that is being acquired or built under a multiple occupancy contract is an exclusive occupancy only if the Chief Commissioner is satisfied that a person is or will be entitled to occupy the home as a place of residence to the exclusion of other persons who, under the contract, are to occupy the other home or homes built or being built on the relevant land.

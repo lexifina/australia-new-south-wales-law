@@ -1,0 +1,9 @@
+# 275A Partial exemption for certain transactions by charitable and benevolent bodies
+(1) If the Chief Commissioner is satisfied, in relation to any dutiable transaction by which an exempt charitable or benevolent body acquires land or an interest in land, that the land concerned is used or to be used by the charitable or benevolent body partly for an exempt purpose, the dutiable value of the land concerned is, for the purposes of charging duty under Chapter 2 or 2A, to be reduced by the portion of that dutiable value that is referable to the portion of the land used or to be used for an exempt purpose.
+(2), (3) (Repealed)
+(4) If the Chief Commissioner is satisfied, in relation to a mortgage given by or on behalf of a charitable or benevolent body, that the land the subject of the mortgage is used or to be used partly for an exempt purpose, the amount secured by the mortgage is, for the purpose of charging duty under Chapter 7, to be reduced by the proportion of the amount secured that is referable to the portion of the land used or to be used for an exempt purpose.
+(5) If the Chief Commissioner is satisfied, in relation to an acquisition of an interest in a landholder by a charitable or benevolent body, that any of the land holdings of the landholder are used or to be used for an exempt purpose, the unencumbered value of that land holding is to be disregarded when calculating the duty chargeable on the acquisition under Chapter 4.
+(6) This section does not limit section 275.
+(7) In this section-
+charitable or benevolent body means any body corporate, society, institution or other organisation that, in the opinion of the Chief Commissioner, is of a charitable or benevolent nature, or has as its primary object the promotion of the interests of Aborigines.
+exempt purpose means a purpose approved by the Chief Commissioner under section 275.

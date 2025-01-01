@@ -1,0 +1,5 @@
+# 104ZC Transfer of property subject to a statutory trust to a beneficial owner
+(cf section 56A)
+(1) This section applies if residential-related property that is vested in a person as trustee of a statutory trust as a consequence of the making of an order under section 66G of the Conveyancing Act 1919 is transferred or agreed to be transferred by the trustee to one or more of the beneficial owners of the residential-related property who are foreign persons.
+(2) For the purposes of calculating surcharge purchaser duty on the vesting of the residential-related property, the dutiable value of the residential-related property is to be calculated by deducting from the unencumbered value of the residential-related property or the consideration for the transfer or agreement, whichever is the greater, the proportion of that amount that is the same as the proportion of any foreign transferee's beneficial interest in the residential-related property immediately before the transfer or agreement.
+(3) A reference in this section to a foreign transferee is a reference to a transferee who is a foreign person.
