@@ -1,0 +1,6 @@
+# 20S Dividends
+(1) A statutory SOC is to have a share dividend scheme, as provided in its constitution, in a form approved by the Treasurer.
+(2) The board of a statutory SOC and the voting shareholders may agree that payments required to be made by the SOC or any of its subsidiaries in respect of dividends will be applied in the purchase of shares by shareholders in the SOC.
+(3) If any such payments are applied in the purchase of shares, the payments may be appropriated for that purpose without being paid into the Consolidated Fund.
+(4) Otherwise, dividends declared for a statutory SOC or any of its subsidiaries and payable to voting shareholders are to be paid to the Treasurer on behalf of the State for payment into the Consolidated Fund.
+(5) Nothing in this section affects the operation of section 5.4 of the Government Sector Finance Act 2018 in relation to statutory SOCs. However, if the Treasurer requires a statutory SOC to pay an amount by way of a financial distribution under that section, the Treasurer must include in the notice to be published under that section in the Gazette the reasons for requiring the payment to be made under that section rather than pursuant to the share dividend scheme under this section.

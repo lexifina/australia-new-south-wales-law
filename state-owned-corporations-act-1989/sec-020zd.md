@@ -1,0 +1,17 @@
+# 20ZD Persons having dealings with statutory SOCs or property
+(1) A person having dealings with a statutory SOC is entitled to make, in relation to those dealings, the assumptions referred to in subsection (3). In any proceedings relating to those dealings, any assertion by the SOC that the matters that the person is so entitled to assume were not correct must be disregarded.
+(2) A person having dealings with another person (the apparent owner) who has acquired or purports to have acquired title to property from a statutory SOC (whether directly or indirectly) is entitled to make, in relation to the acquisition or purported acquisition of title from the SOC, the assumptions referred to in subsection (3). In any proceedings in relation to those dealings, any assertion by the SOC or by the apparent owner that the matters that the person is so entitled to assume were not correct must be disregarded.
+(3) The assumptions that a person is, because of subsection (1) or (2), entitled to make are-
+(a) that, at all relevant times, the SOC's foundation charter and this Act have been complied with, and
+(b) that, at all relevant times, the SOC's constitution has been complied with, and
+(c) that a person who appears from publicly available information to be a director, the chief executive officer or a secretary of the SOC has been duly appointed and has authority to exercise the functions customarily exercised by a director, by the chief executive officer or by a secretary, as the case may be, of a body carrying on a business of the kind carried on by the SOC, and
+(d) that a person who is held out by the SOC to be an officer or agent of the SOC has been duly appointed and has authority to exercise the powers and perform the duties customarily exercised or performed by an officer or agent of the kind concerned, and
+(e) that an officer or agent of the SOC who has authority to issue a document on behalf of the SOC has authority to warrant that the document is genuine and that an officer or agent of the SOC who has authority to issue a certified copy of a document on behalf of the SOC has authority to warrant that the copy is a true copy, and
+(f) that a document has been duly sealed by the SOC if it bears what appears to be an impression of a seal of the SOC and the sealing of the document appears to be attested by a person who, because of paragraph (c), may be assumed to be a director of the SOC or the SOC's chief executive officer, and
+(g) that the directors, chief executive officer, employees and agents of the SOC have properly performed their duties to the SOC.
+(4) This section does not entitle a person to make an assumption, and does not prevent an assertion being made in relation to an assumption, if-
+(a) the person has actual knowledge that the assumption is not correct, or
+(b) the person's connection or relationship with the SOC is such that the person ought to know that the assumption is not correct.
+(5) If, because of subsection (4), a person is not entitled to make a particular assumption-
+(a) if the assumption is in relation to dealings with the SOC-subsection (1) does not apply to any assertion by the SOC in relation to the assumption, or
+(b) if the assumption is in relation to an acquisition or purported acquisition from the SOC of title to property-subsection (2) does not apply to any assertion by the SOC or another person in relation to the assumption.

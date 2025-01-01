@@ -1,0 +1,10 @@
+# 37A Modification of Environmental Planning and Assessment Act 1979 in its application to certain proposals
+(1) In this section-
+development means development within the meaning of Part 4 of the Planning Act.
+State owned corporation means a company SOC.
+the Planning Act means the Environmental Planning and Assessment Act 1979.
+(2) The Planning Act applies to development by a State owned corporation, except as provided by this section.
+(3) Part 5 of the Planning Act applies to development proposed to be carried out by a State owned corporation that is development, or of a class or description of development, that the Minister administering the Planning Act certifies in writing is of State or regional significance. That Part so applies to the development as if it were an activity within the meaning of that Part whether or not development consent under Part 4 of the Planning Act would otherwise be required or has been obtained in relation to the development. Part 4 of the Planning Act accordingly does not apply.
+(4) The Minister administering the Planning Act may direct, by notice in writing to a State owned corporation, that the corporation is required to obtain an environmental impact statement under Part 5 of that Act in respect of development to which subsection (3) applies. Accordingly, the State owned corporation is taken to be the determining authority under Part 5 of that Act and must obtain the approval of that Minister under Division 4 of Part 5 of that Act before carrying out the development.
+(5) If an environmental impact statement is not required to be obtained in respect of development to which subsection (3) applies, the State owned corporation is not to carry out the activity unless it has obtained the approval of the Minister administering the Planning Act. Before giving that approval, that Minister is required to comply with section 111 of that Act as if that Minister were the determining authority.
+(6) Development to which subsection (3) applies must not include any act, matter or thing that is prohibited by an environmental planning instrument made under the Planning Act.

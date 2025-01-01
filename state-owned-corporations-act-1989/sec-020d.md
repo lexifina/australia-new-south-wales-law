@@ -1,0 +1,2 @@
+# 20D Ministerial direction
+For the purposes of or incidental to the transfer from an authority to a statutory SOC, a subsidiary of a statutory SOC or any other person of any assets, rights or liabilities under this Act or under the Act by which the name of the statutory SOC is inserted in Schedule 5, the authority is, in the exercise of its functions, subject to the control and direction of the Minister.

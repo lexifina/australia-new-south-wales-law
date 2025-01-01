@@ -1,0 +1,2 @@
+# 7A Ministerial direction
+For the purposes of or incidental to the transfer from an authority to a company SOC, a subsidiary of a company SOC or any other person of any assets, rights or liabilities under this Act or under the Act by which the name of the company SOC is inserted in Schedule 1, the authority is, in the exercise of its functions, subject to the control and direction of the Minister.
