@@ -1,0 +1,3 @@
+# 60G What constitutes "taking part in" emergency operations
+(1) A person is considered to be taking part in emergency operations only when the person is effectively devoting his or her time to those operations by making himself or herself available for those operations (even if not actively engaged in those operations at the time) in accordance with arrangements made with an emergency services organisation.
+(2) For example, travel to or from the place where emergency operations are being carried out, being on standby at or near that place and rest during those operations (in accordance with arrangements made with an emergency services organisation) constitute taking part in those operations.
