@@ -1,0 +1,2 @@
+# 131A Annual reporting information
+Without limiting the requirements of Division 7.3 of the Government Sector Finance Act 2018, the Secretary must include the number of public health orders made under section 62 (including specifying the conditions to which those orders related and the number of orders made in relation to each of those conditions) during the annual reporting period for the Ministry of Health under that Act in the annual reporting information prepared for the Ministry of Health.
