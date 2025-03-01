@@ -1,0 +1,3 @@
+# 143R Voluntary surrender of licence
+(1) A demolition licence holder may voluntarily surrender the licence document to the regulator.
+(2) The licence expires on the surrender of the licence document.
