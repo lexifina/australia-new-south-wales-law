@@ -1,0 +1,5 @@
+# 13C Driver licence orders
+(1) A court may make any of the following orders (driver licence orders) under section 13B (2)-
+(a) if the person is the holder of a learner licence or provisional licence-an order extending the person's learner licence period or provisional licence period, respectively, for a period of 6 months, or a lesser period specified in the order, with effect from the day on which the learner licence period or provisional licence period would otherwise end,
+(b) an order requiring the person not to incur the same or more than the threshold number of demerit points applying to the person under section 13E for a period of 6 months or a lesser period specified in the order, commencing on the day on which the order is made (the graffiti licence order period).
+(2) A court must not make an order under subsection (1) (b) if 10 or more demerit points have been recorded against the person in the demerit points register during the 3 year period immediately before the order is made.
