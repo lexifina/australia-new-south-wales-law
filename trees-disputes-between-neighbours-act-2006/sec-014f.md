@@ -1,0 +1,21 @@
+# 14F Matters to be considered by Court
+Before determining an application made under this Part, the Court is to consider the following matters-
+(a) the location of the trees concerned in relation to the boundary of the land on which the trees are situated and the dwelling the subject of the application,
+(b) whether the trees existed prior to the dwelling the subject of the application (or the window or part of the dwelling concerned where the dwelling has been altered or added to),
+(c) whether the trees grew to a height of 2.5 metres or more during the period that the applicant has owned (or occupied) the relevant land,
+(d) whether interference with the trees would, in the absence of section 6 (3), require any consent or other authorisation under the Environmental Planning and Assessment Act 1979 or the Heritage Act 1977 and, if so, whether any such consent or authorisation has been obtained,
+(e) any other relevant development consent requirements or conditions relating to the applicant's land or the land on which the trees are situated,
+(f) whether the trees have any historical, cultural, social or scientific value,
+(g) any contribution of the trees to the local ecosystem and biodiversity,
+(h) any contribution of the trees to the natural landscape and scenic value of the land on which they are situated or the locality concerned,
+(i) the intrinsic value of the trees to public amenity,
+(j) any impact of the trees on soil stability, the water table or other natural features of the land or locality concerned,
+(k) the impact any pruning (including the maintenance of the trees at a certain height, width or shape) would have on the trees,
+(l) any contribution of the trees to privacy, landscaping, garden design, heritage values or protection from the sun, wind, noise, smells or smoke or the amenity of the land on which they are situated,
+(m) anything, other than the trees, that has contributed, or is contributing, to the obstruction,
+(n) any steps taken by the applicant or the owner of the land on which the trees are situated to prevent or rectify the obstruction,
+(o) the amount, and number of hours per day, of any sunlight that is lost as a result of the obstruction throughout the year and the time of the year during which the sunlight is lost,
+(p) whether the trees lose their leaves during certain times of the year and the portion of the year that the trees have less or no leaves,
+(q) the nature and extent of any view affected by the obstruction and the nature and extent of any remaining view,
+(r) the part of the dwelling the subject of the application from which a view is obstructed or to which sunlight is obstructed,
+(s) such other matters as the Court considers relevant in the circumstances of the case.

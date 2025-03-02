@@ -1,0 +1,2 @@
+# 14G Appearance by local council or Heritage Council
+A local council or the Heritage Council (a relevant authority) may appear before the Court in any proceedings under this Part in relation to trees if the consent or other authorisation of the relevant authority to interfere with the trees would be required, in the absence of section 6 (3), under the Environmental Planning and Assessment Act 1979 or the Heritage Act 1977.
