@@ -1,0 +1,2 @@
+# 12A Persons under suspended orders to be treated as being supervised or detained under this Act
+A person in respect of whom an order under Part 2 or 3 has been made is to continue to be treated as being supervised or detained under this Act for the purposes of any definition for this Act set out in a provision of this Division that uses that expression even if the person's obligations under the order have been suspended.
