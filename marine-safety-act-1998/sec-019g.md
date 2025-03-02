@@ -1,0 +1,4 @@
+# 19G Commutation of forfeiture
+(1) The court that finds a person guilty of an offence referred to in section 19E (4) or 19F (1) may, at the time of making that finding, by order direct that the forfeiture that would otherwise be imposed under the relevant provision by that finding be commuted to a period of impounding specified in the order, if the court is satisfied that the forfeiture of the vessel will cause extreme hardship to the relevant owner of the vessel or any other person.
+(2) The period for which a vessel was impounded under section 19D is to be reckoned as counting towards a period of impounding imposed under this section.
+(3) A vessel impounded by an order of a court under this section is to be retained by the Commissioner of Police or Transport for NSW for the time required by the order, unless it is sooner released under this Division.

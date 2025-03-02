@@ -1,0 +1,4 @@
+# 28B Application of section 10 of Crimes (Sentencing Procedure) Act 1999
+(1) The provisions of section 10 of the Crimes (Sentencing Procedure) Act 1999 do not apply to or in respect of a person who is charged with an alcohol or drug offence if, at the time of or during the period of 5 years immediately before the court's determination in respect of the charge (whether such period commenced before or after the commencement of this section), the provisions of that section are or have been applied to or in respect of the person in respect of a charge for another alcohol or drug offence (whether of the same or a different kind).
+(2) In this section-
+alcohol or drug offence means an offence under section 24 or 26 or an offence of aiding, abetting, counselling or procuring the commission of such an offence.

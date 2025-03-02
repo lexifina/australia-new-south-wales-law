@@ -1,0 +1,10 @@
+# 19P Search warrants
+(1) A police officer may apply to an authorised warrants officer for a search warrant if the police officer has reasonable grounds for believing that there is or, within 72 hours, will be on any premises a vessel that has been operated as referred to in section 19A.
+(2) An authorised warrants officer to whom such an application is made may, if satisfied that there are reasonable grounds for doing so, issue a search warrant authorising a police officer named in the warrant-
+(a) to enter the premises, and
+(b) to search the premises for such a vessel, and
+(c) to seize such a vessel, and otherwise deal with it, in accordance with this Division.
+(3) Division 4 of Part 5 of the Law Enforcement (Powers and Responsibilities) Act 2002 applies to a search warrant issued under this section.
+(4) In this section-
+authorised warrants officer means an authorised officer within the meaning of the Law Enforcement (Powers and Responsibilities) Act 2002.
+premises has the same meaning as in the Law Enforcement (Powers and Responsibilities) Act 2002.

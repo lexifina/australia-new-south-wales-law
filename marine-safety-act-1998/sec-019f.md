@@ -1,0 +1,3 @@
+# 19F Forfeiture of vessel
+(1) A vessel that is used in connection with an offence specified in section 19A (1) that is a second or subsequent offence under that section within a 5-year period is, by the finding of guilt by the court, forfeited to the Crown unless already forfeited under section 19E or the court otherwise directs under section 19G.
+(2) Any forfeiture under this section is in addition to any other penalty that may be imposed for the offence concerned, but for the purposes of any rights of appeal against a penalty so imposed by the court finding the offence to be proven, the forfeiture is taken to be, or to be part of, that penalty.

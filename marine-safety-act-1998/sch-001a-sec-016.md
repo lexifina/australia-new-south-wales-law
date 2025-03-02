@@ -1,0 +1,5 @@
+# 16 Use of statutory declarations as evidence
+(1) A statutory declaration supplied for the purposes of clause 12 or 15 (3), if produced in any proceedings against the person named in the declaration and in respect of the camera recorded offence concerned, is admissible and is prima facie evidence that the person was the operator of the vessel at the time the offence occurred.
+(2) A statutory declaration that relates to more than one camera recorded offence does not constitute a statutory declaration under, or for the purposes of, clause 12 or 15 (3) unless each of the offences is a camera recorded offence detected by the same camera device at approximately the same time.
+(3) A court or law enforcement officer may have regard to a statutory declaration that is provided by a person in deciding, for the purposes of clause 12 or 14 (1), whether the person did not know and could not with reasonable diligence have ascertained the name and address of the person operating the vessel.
+(4) If a statutory declaration is provided by a person under subclause (3), it must include the matters (if any) prescribed by the regulations.

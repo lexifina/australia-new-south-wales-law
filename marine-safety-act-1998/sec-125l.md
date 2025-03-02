@@ -1,0 +1,3 @@
+# 125L Certificates relating to public ferry wharves
+(1) For the purposes of carrying out functions under this Division in relation to public ferry wharves, the Minister may, by notice in writing, direct the owner or person responsible for the maintenance of any such wharf to provide to the Minister a report from an appropriately qualified person as to the condition of the wharf within the time specified in the notice.
+(2) If a person is directed under this section to provide a report within a specified time and the report is not provided within that time, the Minister may obtain such a report and may recover from the person as a debt in any court of competent jurisdiction the reasonable charges and expenses incurred in obtaining the report.

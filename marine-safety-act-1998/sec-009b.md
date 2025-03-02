@@ -1,0 +1,17 @@
+# 9B Definitions
+(1) In this Part-
+applied provisions means the Commonwealth domestic commercial vessel national law that applies as a law of this State because of section 9C.
+Commonwealth administrative laws means the following Commonwealth Acts, regulations or other legislative instruments-
+(a) the Administrative Appeals Tribunal Act 1975 (excluding Part IVA),
+(b) the Freedom of Information Act 1982,
+(c) the Ombudsman Act 1976,
+(d) the Privacy Act 1988,
+(e) the regulations and other legislative instruments in force under any of those Acts.
+Commonwealth domestic commercial vessel national law means the provisions of the following Acts, regulations or other legislative instruments-
+(a) the Marine Safety (Domestic Commercial Vessel) National Law of the Commonwealth (being the provisions applying as a law of the Commonwealth because of section 4 of the Marine Safety (Domestic Commercial Vessel) National Law Act 2012 of the Commonwealth),
+(b) the regulations and other legislative instruments in force under that Law,
+(c) any other provision of a Commonwealth Act (or of a regulation or other legislative instrument in force under a Commonwealth Act) that is of a savings or transitional nature consequent on the enactment or amendment of that Law.
+(2) Terms used in this Part and also in the Commonwealth domestic commercial vessel national law have the same meanings in this Part as they have in that law.
+(3) In this Part, a reference to a Commonwealth Act includes a reference to-
+(a) that Commonwealth Act, as amended and in force for the time being, and
+(b) an Act enacted in substitution for that Act and, if it is amended, as amended and in force for the time being.

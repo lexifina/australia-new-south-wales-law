@@ -1,0 +1,2 @@
+# 9M Fees payable to officers or employees of State acting as delegates
+Regulations may be made under this Act for or with respect to fees payable to this State in relation to anything done under the Commonwealth domestic commercial vessel national law (as that law applies as a law of the Commonwealth), or under the applied provisions, by a delegate of the National Regulator, or an accredited person, who is an officer or employee of this State or an agency of this State.

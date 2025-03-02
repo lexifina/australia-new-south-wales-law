@@ -1,0 +1,2 @@
+# 9F Delegations by the National Regulator
+Any delegation by the National Regulator under the Commonwealth domestic commercial vessel national law, as that law applies to the Commonwealth, is taken to extend to, and have effect for the purposes of, the corresponding provision of the applied provisions.

@@ -1,0 +1,3 @@
+# 9N Infringement notice fines
+(1) Any amount paid to this State by the National Regulator under section 10 of the Marine Safety (Domestic Commercial Vessel) National Law Act 2012 of the Commonwealth in relation to an infringement notice is payable into the Waterways Fund established under the Ports and Maritime Administration Act 1995.
+(2) Any amount payable by this State under section 10 (2) of the Marine Safety (Domestic Commercial Vessel) National Law Act 2012 of the Commonwealth is payable out of that Fund.
