@@ -1,0 +1,4 @@
+# 162A Attorney acting with knowledge of termination or suspension of power
+(1) Where a power of attorney has terminated and an attorney under the power, knowing of the termination, does any act or thing under or in pursuance of the power, that attorney under the power is guilty of an indictable offence and liable to imprisonment for 5 years.
+(2) Where a power of attorney is suspended so far as concerns authority to an attorney to do an act or thing of any nature and an attorney under the power, knowing of the suspension, does an act or thing of that nature under or in pursuance of the power, that attorney under the power is guilty of an indictable offence and liable to imprisonment for 5 years.
+(3) This section applies only to acts or things done after the commencement of the Conveyancing (Powers of Attorney) Amendment Act 1983.

@@ -1,0 +1,13 @@
+# 163E Initial unsoundness of mind
+(1) Subject to this section, a power of attorney is not ineffective by reason that any act within the scope of the power is of a nature which is, at the time when the power is given, beyond the understanding of the principal through unsoundness of mind.
+(2) Subject to subsections (3) to (6), a power of attorney does not authorise an attorney under the power to do an act of a nature which is, at the time when the power is given, beyond the understanding of the principal through unsoundness of mind.
+(3) Where, on application by the principal under a power of attorney, it appears to the Court that the nature of the acts, or some one or more of the acts, within the scope of the power was not, at the time when the power was given, beyond the understanding of the principal through unsoundness of mind, the Court may by order confirm the power wholly or in part as the case requires.
+(4) Where, on application by the principal under a power of attorney, it appears to the Court that the principal has, before or during the proceedings on the application, affirmed the power wholly or in part, the Court may by order confirm the power wholly or in part as the case requires, but only to the extent to which it appears to the Court that the principal was, at the time of the affirmation, sufficiently of sound mind so to affirm.
+(5) Where, on application by the principal under a power of attorney (whether or not a protected power of attorney) it appears to the Court-
+(a) that the principal is incapable of affirming the power because-
+(i) the principal lacks capacity by reason of the continuation of unsoundness of mind that affected the principal when the principal gave the power, or
+(ii) the principal is incommunicate, and
+(b) that it is for the benefit of the principal that the power be confirmed wholly or in part,
+the Court may by order confirm the power wholly or in part as the case requires.
+(6) Where the Court makes an order under this section confirming a power of attorney wholly or in part, an act within the scope of the power to the extent so confirmed, done after the order takes effect by an attorney under the power, shall be as good for all purposes and between all persons as if at the time when the order takes effect the principal were of full capacity and in due form confirmed the power of attorney to the extent of the order of confirmation.
+(7) Subsection (5) applies only if and so far as a contrary intention is not expressed in the instrument creating the power, and shall have effect subject to the terms of the instrument creating the power.

@@ -1,0 +1,7 @@
+# 163 Registration of powers of attorney
+(1) Any instrument (whether executed before or after the commencement of this Act) creating a power of attorney for any purpose whatever may be registered.
+(2) Where such instrument is executed after the commencement of this Act no conveyance or other deed not being a lease or agreement for a lease for a term not exceeding three years, and no memorandum by this Act operating as a deed executed by the attorney under the power in pursuance of the power shall be of any force or validity whatsoever unless the instrument creating the power has been registered-
+Provided that on registration of the instrument creating the power every such conveyance deed or memorandum executed by the attorney under the power shall take effect as if the instrument creating the power had been registered before the execution of the conveyance deed or memorandum.
+(3) Any instrument revoking any such power may also be registered.
+(4) Every such conveyance and other deed and memorandum as is mentioned in subsection (2) executed by the attorney under a power of attorney before the commencement of the Conveyancing (Amendment) Act 1930, shall have the same effect as if that Act had been in operation at the time of the execution.
+(5) Nothing in the last preceding subsection shall affect the rights of any party to any proceeding at law or in equity concluded before or pending at the commencement of the Conveyancing (Amendment) Act 1930.
