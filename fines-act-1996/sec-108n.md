@@ -1,0 +1,6 @@
+# 108N Enforcement action in this jurisdiction prohibited during interstate enforcement action
+(1) The Commissioner is not to take any further action under this Act in relation to the enforcement of a NSW fine enforcement order in this jurisdiction if the Commissioner has requested enforcement action in a participating jurisdiction or the fine has been registered in another jurisdiction under Part 7 of the Service and Execution of Process Act 1992 of the Commonwealth.
+(2) However, the Commissioner may take further action in relation to the enforcement of the NSW fine enforcement order-
+(a) if the NSW fine ceases to be a registered fine under Part 7 of the Service and Execution of Process Act 1992 of the Commonwealth (in the case of enforcement action authorised in a participating jurisdiction because the fine was a registered fine under Part 7 of that Act), or
+(b) if the participating jurisdiction, or a person or body acting on its behalf, provides written notice to the Commissioner that the participating jurisdiction has ceased enforcement action in that jurisdiction in relation to the order (in any other case).
+(3) This section has effect despite anything to the contrary in this Act.

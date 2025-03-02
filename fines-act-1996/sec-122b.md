@@ -1,0 +1,3 @@
+# 122B Payment of penalty notice amounts received on behalf of others
+(1) Despite section 121 and subject to subsection (2), any amount payable under a penalty notice received, recovered or collected by the Commissioner under arrangements entered into with a person under section 114 (2) may be paid by the Commissioner to the person concerned in accordance with those arrangements.
+(2) The Commissioner may, in accordance with the arrangements concerned, deduct or retain from any amount paid or to be paid to a person under subsection (1) the Commissioner's fee or payment in relation to the penalty notices and amounts concerned.
