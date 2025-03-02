@@ -1,0 +1,3 @@
+# Long title
+An Act to establish statutory State owned corporations to operate the State's port facilities in the major ports; to transfer waterways management and other marine safety functions to the Minister; to enable Transport for NSW to exercise those waterways management functions; to provide for port charges, pilotage and other marine matters; to dissolve the Maritime Services Board and its subsidiaries; to repeal certain existing marine legislation and to amend other legislation; and for other purposes.
+long title: Am 2006 No 58, Sch 1.22 [1]; 2011 No 41, Sch 2 [1]; 2020 No 30, Sch 4.74[2].

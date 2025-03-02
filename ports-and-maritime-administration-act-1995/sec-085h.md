@@ -1,0 +1,3 @@
+# 85H Administrative reviews by NCAT
+(1) The regulations may provide that a person may apply to the Civil and Administrative Tribunal for the administrative review under the Administrative Decisions Review Act 1997 of a decision made in respect of the person under the regulations under section 85G in relation to a mooring licence issued by Transport for NSW.
+(2) The Minister is not to recommend the making of a regulation containing provisions for the purposes of subsection (1) unless the Minister certifies that the Minister administering the Civil and Administrative Tribunal Act 2013 has agreed to the provisions.
