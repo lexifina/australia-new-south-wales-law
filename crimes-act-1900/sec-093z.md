@@ -21,7 +21,7 @@ intersex status means the status of having physical, hormonal or genetic feature
 (b) a combination of female and male, or
 (c) neither female nor male.
 public act includes-
-(a) any form of communication (including speaking, writing, displaying notices, playing of recorded material, broadcasting and communicating through social media and other electronic methods) to the public, and
+(a) any form of communication (including speaking, writing, displaying notices, graffiti, playing of recorded material, broadcasting and communicating through social media and other electronic methods) to the public, and
 (b) any conduct (including actions and gestures and the wearing or display of clothing, signs, flags, emblems and insignia) observable by the public, and
 (c) the distribution or dissemination of any matter to the public.
 For the avoidance of doubt, an act may be a public act even if it occurs on private land.
