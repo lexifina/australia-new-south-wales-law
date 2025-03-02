@@ -1,0 +1,2 @@
+# Long title
+An Act to re-enact without any substantive changes provisions contained in the Children (Equality of Status) Act 1976 concerning the removal of legal disabilities of exnuptial children; to provide for parentage presumptions and parentage testing procedures; to repeal the Children (Equality of Status) Act 1976 and the Artificial Conception Act 1984; to amend consequentially various other Acts; and for related purposes.
