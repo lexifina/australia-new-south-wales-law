@@ -1,0 +1,2 @@
+# 11 Personal liability
+A matter or thing done or omitted to be done by the Review Panel, a member of the Review Panel or a person acting under the direction of the Review Panel does not, if the matter or thing was done or omitted to be done in good faith for the purpose of executing this or any other Act, subject a member or a person so acting personally to any action, liability, claim or demand.
