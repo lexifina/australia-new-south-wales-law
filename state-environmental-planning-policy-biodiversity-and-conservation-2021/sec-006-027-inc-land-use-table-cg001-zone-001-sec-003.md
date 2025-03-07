@@ -1,0 +1,2 @@
+# 3 Permitted with consent
+Aviation facilities; Boat building and repair facilities; Boat launching ramps; Boat lifts; Charter and tourism boating facilities; Commercial port facilities; Community facilities; Dredging; Flora and fauna enclosures; Marinas; Private landing steps; Public boardwalks; Public water recreational facilities; Public water transport facilities; Recreational or club facilities; Skids; Telecommunications facilities

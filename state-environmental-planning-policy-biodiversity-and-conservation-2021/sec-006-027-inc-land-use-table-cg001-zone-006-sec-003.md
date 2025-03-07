@@ -1,0 +1,2 @@
+# 3 Permitted with consent
+Boat building and repair facilities; Boat launching ramps; Boat lifts; Boat sheds; Charter and tourism boating facilities; Community facilities; Dredging; Floating boat platforms; Marinas; Mooring pens; Naval activities; Private landing facilities; Private landing steps; Private swimming enclosures; Public boardwalks; Public water recreational facilities; Public water transport facilities; Recreational or club facilities; Skids; Slipways; Telecommunications facilities
