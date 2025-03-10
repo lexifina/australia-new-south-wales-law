@@ -1,0 +1,3 @@
+# 15A Periodic updating of jury roll
+(1) The sheriff must supplement the jury roll for a jury district by adding to the roll particulars of each person who has been included on a supplementary jury roll for the district and who is not deleted from the supplementary roll by the sheriff under section 14D or pursuant to an order of a court or person under section 15.
+(2) The sheriff must cull from the jury roll for the time being in force for a district particulars of each person who has been included on the roll for 15 months (or such other period, not exceeding 2 years, as may be fixed by the regulations).
