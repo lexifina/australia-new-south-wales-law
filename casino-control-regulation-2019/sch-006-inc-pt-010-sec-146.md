@@ -1,0 +1,3 @@
+# 146 Time within which proceedings for offences may be commenced
+(1) Except as provided by subsection (2), proceedings for an offence under this Act may be commenced within but not later than 12 months after the date on which the offence is alleged to have been committed.
+(2) Proceedings for an offence under section 7, 8, 9, 40(5), 66, 69 or 92 may be commenced within but not later than 3 years after the date on which the offence is alleged to have been committed.

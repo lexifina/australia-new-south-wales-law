@@ -1,0 +1,2 @@
+# 143 Requirement for legal member of NICC to be present
+The NICC cannot determine any complaint made to it under this Part (including any decision to take any disciplinary action) unless a member of the NICC who is or has been a Judge, or who has been an Australian lawyer for at least 7 years, is present at the meeting of the NICC (or the committee of the NICC) at which the complaint is determined or the decision to take the action is made.

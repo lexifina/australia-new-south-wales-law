@@ -1,0 +1,18 @@
+# 80 Dealing with complaints
+(1) The Secretary may, after receiving a complaint under section 79, decide-
+(a) to deal with the complaint in accordance with this Division, or
+(b) to take no further action under this Division in relation to the complaint.
+(2) If the Secretary decides to deal with the complaint, the Secretary may-
+(a) convene a conference to hear submissions in relation to the complaint, or
+(b) invite written submissions from the licensee for the licensed premises to which the complaint relates, and from such other persons as the Secretary considers appropriate, and make a decision in relation to the complaint without convening a conference.
+(3) A conference, if convened, may deal with more than one complaint.
+(4) A complaint in relation to licensed premises that is being dealt with by the Secretary under this section may be extended to include other licensed premises if the Secretary is satisfied-
+(a) that the evidence given in support of the complaint would support a complaint against the other licensed premises, or
+(b) that, assuming that the complaint is shown to be justified, action taken in relation to the licensed premises the subject of the complaint will be ineffective unless similar action is taken in relation to the other licensed premises.
+(5) Any licensed premises in respect of which a complaint is extended as referred to in subsection (4) is, for the purposes of this Division, taken to be the subject of a complaint under this Division.
+(6) If, in relation to any such extended complaint, a conference is not convened, the Secretary must invite written submissions from the licensee for the licensed premises that are the subject of the extended complaint before making a decision in relation to the complaint.
+(7) If a conference is convened in relation to a complaint-
+(a) notice of the time and place of the conference is to be given to all complainants and the licensee or licensees as specified by the Secretary, and
+(b) the Secretary is not to make a decision in relation to the complaint unless each complainant and licensee who is present at the conference is given a reasonable opportunity to be heard.
+(8) A conference under this section is to be presided over by the Secretary and the procedure at the conference is to be determined by the Secretary.
+(9) Nothing in this section prevents the Secretary from taking other action in relation to a complaint under this Division or in relation to licensed premises that are the subject of a complaint under this Division.

@@ -1,0 +1,3 @@
+# 136 Requirement to contribute to costs of implementing local liquor accord
+(1) The Authority may give a direction to any licensee in an area to which an accord applies (including any licensee in the area who is not a party to the local liquor accord concerned) to contribute to the costs of promoting or giving effect to the accord.
+(2) The licensee is required to comply with any such direction.

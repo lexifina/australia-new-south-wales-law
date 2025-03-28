@@ -1,0 +1,23 @@
+# 61 Application for transfer of licence on dispossession of licensee
+(1) This section applies in relation to a licence if-
+(a) the licensee is evicted from the licensed premises, or
+(b) the owner of the licensed premises comes into, or becomes entitled to, possession of the licensed premises to the exclusion of the licensee, or
+(c) the owner of the licensed premises comes into possession of the premises, or
+(d) the licensee is not complying, or does not have the capacity to comply, with the requirement under section 91(1) to be responsible at all times for the personal supervision and management of the business of the licensed premises.
+(2) An application for a transfer of the licence may be made by the owner of the licensed premises.
+(3) The owner of the licensed premises who comes into, or is entitled to, possession of the premises is taken to be the licensee of the premises until-
+(a) the day that is 28 days after this section becomes applicable, or
+(b) the day on which an application is made under subsection (2),
+whichever first occurs.
+(4) If an application is made under subsection (2) not later than 28 days after this section becomes applicable, the applicant is, until the application is determined by the NICC, taken to be the licensee under the licence to which the application relates.
+(5) The NICC is not to determine an application for the transfer of a licence under this section unless-
+(a) the NICC is satisfied-
+(i) that notice of the application was given to the dispossessed licensee at least 3 clear days before the NICC determines the application (or that all reasonable steps necessary for giving notice were taken by or on behalf of the applicant and that failure to give notice was not due to any neglect or default of the applicant), and
+(ii) if so notified, that the dispossessed licensee has been given a reasonable opportunity to make submissions in relation to the application, and
+(b) the NICC is satisfied that any lessee of the licensed premises has been notified of the application for the transfer of the licence and been given a reasonable opportunity to make submissions in relation to the application, and
+(c) the NICC has taken any submissions made under this subsection into consideration.
+(5A) If-
+(a) an application under subsection (2) in respect of the licensed premises is not made within 28 days after this section becomes applicable, or
+(b) such an application is made but the transfer of the licence to the applicant is refused by the NICC,
+the licence is suspended until such time as the licence is transferred to another person.
+(6) Section 60 applies, with such modifications as are necessary, in relation to an application for the transfer of a licence under this section.

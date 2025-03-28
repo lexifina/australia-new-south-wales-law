@@ -1,0 +1,14 @@
+# 76 Self-exclusion of patrons from licensed premises
+(1) A person (the participant) may request a licensee to enter into an agreement (a self-exclusion agreement) with the person under which the person agrees to be prevented from entering or remaining on the licensed premises specified in the agreement.
+(2) A self-exclusion agreement is to be in the form approved by the NICC. The approved form may contain specified requirements that must be complied with in relation to such an agreement, including specifying the circumstances in which licensees are required to comply with a request to enter into an agreement. The approved form may also include provision for the manner in which a self-exclusion agreement may be terminated by the parties to the agreement.
+(3) If a request is made by a person to enter into a self-exclusion agreement, the licensee must enter into the agreement if the circumstances in which the request is made comply with the circumstances specified in the form approved by the NICC.
+(4) A self-exclusion agreement may, if the licensee who enters into the agreement is participating in a liquor accord, also apply in relation to any or all of the other licensed premises that are subject to the accord, but only if those other premises are specified in the agreement. In any such case, the licensee of each of the premises is taken to have entered into the agreement concerned.
+(5) Each of the parties to a self-exclusion agreement is required to comply with the terms of the agreement.
+(6) It is lawful for a responsible person for licensed premises specified in a self-exclusion agreement, using no more force than is reasonable in the circumstances-
+(a) to prevent the participant from entering the licensed premises, and
+(b) to remove the participant, or cause the participant to be removed, from the licensed premises.
+(7) No civil or criminal liability is incurred by a responsible person for licensed premises to which a self-exclusion agreement relates-
+(a) for any act done or omitted to be done in good faith, and in accordance with this section, to or in respect of the participant concerned, or
+(b) if the participant enters or remains on the licensed premises to which the agreement relates.
+(7A) This section does not limit or otherwise affect the civil liability of a person for negligence that causes personal injury to a person or the death of a person.
+(8) [Not applied]

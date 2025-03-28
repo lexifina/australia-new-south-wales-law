@@ -1,0 +1,8 @@
+# 99 Responsible sale, supply, service or promotion of liquor
+(1) The regulations under the Casino Control Act 1992 may make provision for or with respect to requiring or encouraging the adoption of responsible practices in the sale, supply, service and promotion of liquor.
+(2) In particular, the regulations under the Casino Control Act 1992 may make provision for or with respect to the following-
+(a) restricting or prohibiting the conduct of promotions or other activities (including the discounting or supply of liquor free of charge) that could result in misuse or abuse of liquor, such as binge drinking or excessive consumption,
+(b) the standards to be observed on licensed premises in the sale and service of liquor, for the purpose of preventing misuse or abuse of liquor,
+(c) requiring licensees, managers and other persons engaged in the sale, supply, service and promotion of liquor and other activities on the licensed premises to undergo courses of training that will promote responsible practices in those activities,
+(d) specifying the circumstances in which the Secretary may, in accordance with the regulations under the Casino Control Act 1992, require promotions or advertisements that involve the discounting of liquor to be accompanied by messages that encourage the responsible consumption of alcohol.
+(3) Without limiting subsection (2), the regulations under the Casino Control Act 1992 may adopt with or without modification the standards contained in an industry code of practice as standards to be observed on licensed premises in the sale, supply, service and promotion of liquor.
