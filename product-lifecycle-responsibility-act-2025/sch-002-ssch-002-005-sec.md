@@ -1,0 +1,2 @@
+# Part 4 Responsibilities with respect to industry waste reduction
+Omit the part.
