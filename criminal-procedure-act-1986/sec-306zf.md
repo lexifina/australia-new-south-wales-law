@@ -1,0 +1,3 @@
+# 306ZF Proceedings may be moved to allow use of closed-circuit television facilities
+(1) This section applies if a vulnerable person is entitled or permitted to give evidence by means of closed-circuit television facilities or any other similar technology under this Division.
+(2) If the court is not equipped with such facilities or technology, or it otherwise considers it appropriate to do so, the court may adjourn the proceeding or any part of the proceeding to a court or place that is equipped with such facilities or technology so that the vulnerable person's evidence may be given by such means.

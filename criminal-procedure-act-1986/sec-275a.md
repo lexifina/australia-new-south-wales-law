@@ -1,0 +1,2 @@
+# 275A NSW Police Force exhibits management system
+In any criminal proceedings, the production of one or more exhibit detail sheets certified by a member of the NSW Police Force to have been issued under the authority of the NSW Police Force exhibits management system, and relating to the whole or part of an exhibit identified in the sheets, is prima facie evidence of the dealings with that exhibit that are listed in the sheets, without proof of the signature or appointment of the person purporting to sign the sheets.

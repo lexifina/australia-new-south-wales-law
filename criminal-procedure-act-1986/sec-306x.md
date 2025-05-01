@@ -1,0 +1,2 @@
+# 306X Warning to jury
+If a vulnerable person gives evidence of a previous representation wholly or partly in the form of a recording made by an investigating official in accordance with this Division in any proceedings in which there is a jury, the judge must warn the jury not to draw any inference adverse to the accused person or give the evidence any greater or lesser weight because of the evidence being given in that way.

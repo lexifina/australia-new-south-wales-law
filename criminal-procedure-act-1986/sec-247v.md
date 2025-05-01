@@ -1,0 +1,3 @@
+# 247V Court powers to ensure efficient management and conduct of trial or sentencing hearing
+(1) On or after the commencement of the trial or sentencing hearing, the court may make such orders, determinations or findings, or give such directions or rulings, as it thinks appropriate for the efficient management and conduct of the trial or sentencing hearing.
+(2) Without limiting subsection (1), the court may order that any of the parties to the proceedings disclose any matter that was, or could have been, required to be disclosed under this Division before the commencement of the trial or sentencing hearing.

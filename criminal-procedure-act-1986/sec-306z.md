@@ -1,0 +1,2 @@
+# 306Z Transcripts of recordings
+The court may order that a transcript be supplied to the court or, if there is a jury, to the jury, or both, of all or part of evidence of a previous representation to which this Division applies made by a vulnerable person that is given in the form of a recording if it appears to the court that a transcript would be likely to aid its or the jury's comprehension of the evidence.

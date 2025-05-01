@@ -1,0 +1,25 @@
+# 306B Admission of evidence of complainant or special witness in new trial proceedings
+(1) If a person is convicted of a prescribed sexual offence and, on an appeal against the conviction, a new trial is ordered, the prosecutor may tender as evidence in the new trial proceedings a record of the original evidence of the complainant or a special witness.
+(2) For the purposes of this Division, the original evidence of the complainant or a special witness means all evidence given by the complainant or special witness in the proceedings from which the conviction arose (referred to in this Division as the original proceedings), including the evidence given by the complainant or special witness on examination in chief in the original proceedings and any further evidence given on cross-examination or re-examination in those proceedings.
+(3) Despite anything to the contrary in the Evidence Act 1995, or any other Act or law, a record of the original evidence of the complainant or a special witness is admissible in the new trial proceedings if-
+(a) the prosecutor gives written notice to the accused person, in accordance with the regulations, of the prosecutor's intention to tender the record under this section, and
+(b) the prosecutor gives written notice to the court of the prosecutor's intention to tender the record under this section, and
+(c) the notices referred to in paragraphs (a) and (b) are given no less than 21 days before the court commences hearing the new trial proceedings or within such other period as the court may allow.
+(4) The hearsay rule (within the meaning of the Evidence Act 1995) does not prevent the admission of a record of the original evidence of the complainant or a special witness under this Division or the use of that record to prove the existence of a fact that the complainant or special witness intended to assert by a representation made in the original evidence.
+(5) The court hearing the new trial proceedings does not have any discretion to decline to admit a record of the original evidence of the complainant or a special witness if it is admissible under this Division.
+(5A) If a record of original evidence of a special witness is admitted in new trial proceedings under this section, the special witness is not compellable to give further evidence about the same matters in the new trial proceeding unless the court is satisfied that it is necessary for the special witness to give further evidence-
+(a) to clarify any matters relating to the original evidence of the special witness, or
+(b) to canvass information or material that has become available since the original evidence was given, or
+(c) in the interests of justice.
+(5B) The court is to ensure that the special witness is questioned by any party to the new trial proceedings only in relation to matters that are relevant to the matters mentioned in subsection (5A).
+(5C) Subject to subsection (5B), if a special witness gives any further evidence under this section, the special witness is compellable (for the prosecution or the accused person) to give evidence.
+(5D) The court hearing the new trial proceedings may decline to admit a record of the original evidence of a special witness if, in the court's opinion, the accused person would be unfairly disadvantaged by the admission of the record, having regard to the following-
+(a) the completeness of the original evidence, including whether the special witness has been cross-examined on the evidence,
+(b) the effect of editing any inadmissible evidence from the original evidence,
+(c) the availability or willingness of the special witness to attend to give further evidence and to clarify any matters relating to the original evidence,
+(d) the interests of justice,
+(e) any other matter the court thinks relevant.
+(6) However, the court may give directions requiring a record of the original evidence of the complainant or a special witness to be altered or edited for the purpose of removing any statements that would not be admissible if the original evidence of the complainant or a special witness had been given orally before the court hearing the new trial proceedings in accordance with the usual rules and practice of the court.
+(7) In addition, a record of the original evidence of the complainant or a special witness may be altered or edited in accordance with an agreement between the prosecutor and the accused person or his or her Australian legal practitioner (if any).
+(8) This Division applies in respect of proceedings for a new trial in which a person stands charged with a prescribed sexual offence whether or not the person stands charged with that offence alone or together with any other offence (as an additional or alternative count) and whether or not the person is liable, on the charge, to be found guilty of any other offence.
+(9) This Division extends to proceedings for a new trial ordered before the commencement of this Division, including new trial proceedings that have been commenced or partly heard.

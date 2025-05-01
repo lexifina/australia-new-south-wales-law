@@ -1,0 +1,3 @@
+# 289H Use of evidence in concurrent or related domestic violence proceedings
+(1) This section applies if an application for an order under the Crimes (Domestic and Personal Violence) Act 2007 is made concurrently with proceedings for a domestic violence offence or arises from the circumstances of the alleged domestic violence offence.
+(2) If evidence is given wholly or partly in the form of a recorded statement in the proceedings for the domestic violence offence, that evidence may also be given in that form in the proceedings relating to the application for the order. Any such evidence is to be given in accordance with any rules made under the Crimes (Domestic and Personal Violence) Act 2007.

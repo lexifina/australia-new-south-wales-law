@@ -1,0 +1,3 @@
+# 289L Service of recorded statement
+(1) This section applies if an accused person is represented by an Australian legal practitioner in proceedings for a domestic violence offence in which it is proposed to give the evidence of a complainant wholly or partly in the form of a recorded statement.
+(2) The prosecutor must cause a copy of the recorded statement to be served on the Australian legal practitioner representing the accused person as soon as practicable after the proceedings are commenced or the prosecutor determines that evidence is to be given in the form of the recorded statement, whichever occurs later.

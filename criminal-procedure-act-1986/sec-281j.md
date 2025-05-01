@@ -1,0 +1,9 @@
+# 281J Return of designated terrorism evidence
+(1) A prosecuting authority may also serve a terrorism evidence notice in respect of evidence that it has provided to the accused person (including by subpoena or any other procedure) in or in connection with a criminal investigation or criminal proceedings that it later designates as terrorism evidence.
+(2) The notice is to identify the thing that has been designated as terrorism evidence, and is to be served on the accused person or the Australian legal practitioner who represents the accused person, in the same way as a notice under section 281I.
+(3) A terrorism evidence notice that is served under this section must also contain the following information-
+(a) that the accused person must return the designated terrorism evidence, if it is in the person's possession, to the prosecuting authority within the period of time specified in the notice (not being less than 7 days after the notice is served on the accused person),
+(b) that an unrepresented accused person may, after having returned the designated terrorism evidence, view or listen to the evidence at a place nominated by the prosecuting authority and under the supervision of the prosecuting authority,
+(c) the name and contact details of the person responsible for arranging for the unrepresented accused person to view or listen to the designated terrorism evidence on behalf of the prosecuting authority,
+(d) that an Australian legal practitioner representing an accused person may retain the designated terrorism evidence but is not to allow the accused person to view or listen to the designated terrorism evidence except under the supervision of the Australian legal practitioner,
+(e) that it is an offence for an accused person to be in possession of designated terrorism evidence and for an Australian legal practitioner to give possession of designated terrorism evidence to the accused person.

@@ -1,0 +1,8 @@
+# 291C Media access to proceedings held in camera
+(1) If a complainant gives evidence in proceedings in respect of a prescribed sexual offence from a place other than the courtroom by means of closed-circuit television facilities or other technology that enables communication between that place and the courtroom (whether under section 289V or 294B or Part 6), and the proceedings, or the part of the proceedings concerned, are held in camera under this Division, a media representative may, unless the court otherwise directs, enter or remain in the courtroom while the evidence is given from that other place. This subsection does not apply to proceedings in respect of an offence under section 78A or 78B of the Crimes Act 1900.
+(2) The fact that proceedings in respect of a prescribed sexual offence, or any part of such proceedings, are held in camera under this Division does not prevent the court from making such arrangements as the court considers reasonably practicable to allow media representatives to view or hear the evidence while it is given, or to view or hear a record of that evidence, as long as the media representatives are not present in the courtroom or other place where the evidence is given during the in camera proceedings.
+Note.
+For example, the court may permit media representatives to view the proceedings from a place other than the courtroom by means of closed-circuit television facilities.
+(3) In this section-
+media representative, in relation to any proceedings, means a person engaged in preparing a report of the proceedings for dissemination through a public news medium.
+Subdivision 3 Directions to jury-consent

@@ -1,0 +1,7 @@
+# 306V Admissibility of recorded evidence
+(1) The hearsay rule and the opinion rule (within the meaning of the Evidence Act 1995) do not prevent the admission or use of evidence of a previous representation to which this Division applies given by a vulnerable person under this Division in the form of a recording made by an investigating official.
+(2) Evidence of a previous representation to which this Division applies of a vulnerable person who is not the accused person in a proceeding that is given by the vulnerable person in the form of a recording made by an investigating official is not to be admitted unless it is proved that the accused person and his or her Australian legal practitioner (if any) were given, in accordance with the regulations, a reasonable opportunity to listen to and, in the case of a video recording, view the recording.
+(3) However, if the requirements of any regulations made under subsection (2) have not been complied with, the recording may be admitted if the court is satisfied that-
+(a) the parties consent to the recording being admitted, or
+(b) the accused person and his or her Australian legal practitioner (if any) have been given a reasonable opportunity otherwise than in accordance with such regulations to listen to or view the recording and it would be in the interests of justice to admit the recording.
+(4) The court may rule as inadmissible the whole or any part of the contents of a recording adduced as evidence under this Division.

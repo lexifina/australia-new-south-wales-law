@@ -1,0 +1,10 @@
+# 247X Miscellaneous provisions
+(1) A statement about any matter that is made by or on behalf of the defendant for the purposes of complying with requirements for preliminary disclosure imposed by or under this Division does not constitute an admission of that matter by the defendant.
+(2) The court may make orders to resolve any dispute between the parties to criminal proceedings about-
+(a) the requirements for preliminary disclosure imposed by or under this Division, or
+(b) the use of anything disclosed under this Division (including restrictions on publication or further disclosure).
+(3) Nothing in this Division prevents any voluntary preliminary disclosure by the defendant to the prosecutor of any information, document or other thing that the defendant proposes to adduce in evidence in the proceedings.
+(4) This Division does not limit any obligation (arising otherwise than under this Division) for preliminary or pre-trial disclosure that is capable of being complied with concurrently with requirements imposed by or under this Division, but this Division prevails to the extent of any inconsistency with any such obligation. Any such obligation extends to obligations imposed by the common law, the rules of court, the Uniform Rules made under Part 9.2 of the Legal Profession Uniform Law (NSW) and prosecution guidelines issued by the Director of Public Prosecutions or any other prosecuting authority.
+(5) However, this Division does not affect any immunity that applies by law to the disclosure of any information, document or other thing, including, for example, legal professional or client legal privilege, public interest immunity and sexual assault communications privilege under Division 2 of Part 5 of Chapter 6.
+(6) Nothing in this Division limits any powers that a court has apart from this Division in relation to proceedings.
+(7) The provisions of this Division prevail over the provisions of the Evidence Act 1995 to the extent of any inconsistency with those provisions.

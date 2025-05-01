@@ -1,0 +1,3 @@
+# 306P Application of Part
+(1) To the extent that this Part applies to children, this Part applies (unless a contrary intention is shown) in relation to evidence given by a child who is under the age of 16 years at the time the evidence is given.
+(2) To the extent that this Part applies to cognitively impaired persons, this Part applies (unless a contrary intention is shown) in relation to evidence given by a cognitively impaired person in the manner provided by this Part only if the court is satisfied that the facts of the case may be better ascertained if the person's evidence is given in such a manner.

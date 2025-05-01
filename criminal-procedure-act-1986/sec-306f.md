@@ -1,0 +1,5 @@
+# 306F Access to audio visual or audio recording
+(1) If a record of the original evidence of the complainant or a special witness tendered or proposed to be tendered by the prosecutor under this Division is an audio visual recording or audio recording, the accused person, and his or her Australian legal practitioner (if any), are not entitled to be given possession of the record or a copy of it (despite anything to the contrary in this Act or the Evidence Act 1995).
+(2) However, the accused person and his or her Australian legal practitioner (if any) are to be given reasonable access to the recording to enable them to listen to it and, if the record is an audio visual recording, view it.
+(3) This may require access to be given on more than one occasion.
+(4) The regulations may make provision for the procedures to be followed in connection with the giving of access under this section, and may provide for the giving of access to other persons assisting the accused person or his or her Australian legal practitioner.

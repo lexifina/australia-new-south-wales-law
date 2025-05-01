@@ -1,0 +1,2 @@
+# 306ZG Use of closed-circuit television or similar technology
+Closed-circuit television facilities or similar technology used under this Division for the giving of evidence by a vulnerable person are to be operated in such a manner that the persons who have an interest in the proceeding are able to see the vulnerable person (and any person present with the vulnerable person) on the same or another television monitor.
