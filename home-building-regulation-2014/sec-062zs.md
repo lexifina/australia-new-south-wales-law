@@ -1,0 +1,2 @@
+# 62ZS Amount of cover where one or more dwellings
+The terms of an alternative indemnity contract may provide that the minimum amount of cover otherwise payable under section 102 of the Act or this Regulation, in respect of a dwelling in a building or complex containing more than one dwelling, may be reduced by not more than an amount calculated by dividing the amount of any claim paid by the provider in relation to common property of the building or complex by the number of dwellings contained in the building or complex.

@@ -1,0 +1,7 @@
+# 62Y Contributions or membership payments
+(1) A provider must not demand or collect an amount for fidelity fund cover, except in accordance with this Part.
+(2) The provider must file with the Authority the amount of contributions or membership payments proposed to be collected from members of the fidelity fund.
+(3) The provider may, on and from the proposed commencement date for the contribution or membership payment, request payment of a contribution or membership payment that has not been rejected by the Authority within the period allowed under this clause for rejecting a contribution or membership payment. Except as provided by clause 62ZA, the provider must not demand the payment of any other contribution or membership payment on and from that proposed commencement date.
+(4) The proposed commencement date for a contribution or membership payment is the date specified in a filed contribution or membership payment as the date on and from which the proposed contribution or membership payment will be collected. The proposed commencement date cannot be earlier than the end of the period allowed for rejecting a contribution or membership payment but can be changed (with notice to the Authority) to accommodate a change in the period allowed for rejecting a contribution or membership payment.
+(5) The period allowed for rejecting a contribution or membership payment is the period specified in the Insurance Guidelines.
+(6) A contribution or membership payment may only be rejected as provided by this clause or clause 62ZA.

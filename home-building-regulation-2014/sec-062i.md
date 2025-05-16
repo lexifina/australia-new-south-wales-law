@@ -1,0 +1,2 @@
+# 62I Misrepresentation or non-disclosure
+The rules of a fidelity fund must provide (and are taken to provide) that the trustee is not entitled either to refuse to pay a claim or to cancel the fidelity fund cover on the ground that the cover was obtained by misrepresentation or non-disclosure by the contractor or that contributions or membership payments or other fees payable in respect of the fidelity fund cover or the fund were not paid so long as, in the latter case, a certificate evidencing the cover has been given or the provider has otherwise accepted cover.

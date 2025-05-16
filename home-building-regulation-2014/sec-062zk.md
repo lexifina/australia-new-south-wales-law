@@ -1,0 +1,2 @@
+# 62ZK Misrepresentation or non-disclosure
+The terms of an alternative indemnity contract must provide (and are taken to contain) that the provider is not entitled either to refuse to pay a claim under the alternative indemnity contract or to cancel that contract on the ground that the contract was obtained by misrepresentation or non-disclosure by the contractor or that the charges under the contract were not paid so long as, in the latter case, a certificate evidencing the alternative indemnity product cover has been given or the provider has otherwise accepted cover.

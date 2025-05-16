@@ -1,0 +1,7 @@
+# 62X Insurance Guidelines for the determination of contributions or membership payments
+(1) The Insurance Guidelines may provide for the determination of contributions or membership payments payable by members of, or contributors to, fidelity funds for fidelity fund cover for a loss that is required to be covered by or under this Part.
+(2) Insurance Guidelines may (without limiting the generality of subclause (1))-
+(a) specify the manner in which contributions or membership payments are to be determined and the factors to be taken into account in determining those contributions or membership payments, and
+(b) require providers to specify how they have determined contributions or membership payments, and
+(c) specify the nature of the additional information and reports that the Authority may require the provider to furnish with the contributions or membership payments they file or to justify contributions or membership payments they have filed (including with respect to estimated investment earnings, the verification of assumptions, estimated profit, capital allocation to alternative indemnity product cover business under the Act and other relevant matters), and
+(d) specify the maximum fee payable to the agents of the providers and the maximum administration expenses relating to acquisition or to fidelity fund cover that providers may include in the determination of contributions or membership payments (including a specified maximum amount or a specified maximum percentage of contribution or membership payment).

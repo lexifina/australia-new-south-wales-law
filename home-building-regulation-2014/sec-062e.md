@@ -1,0 +1,3 @@
+# 62E Loss to be covered by fidelity fund cover
+(1) Fidelity fund cover that is proposed to provide cover instead of a contract of insurance required by section 92 of the Act, as permitted by section 104B of the Act, must provide cover for each risk that is required by section 99 (1)-(3) of the Act to be covered by a contract of insurance.
+(2) Fidelity fund cover that is proposed to provide cover instead of a contract of insurance required by section 96 of the Act, as permitted by section 104B of the Act, must provide cover for each risk that is required by section 100 of the Act to be covered by a contract of insurance.

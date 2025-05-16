@@ -1,0 +1,6 @@
+# 62ZZA Filing of charges
+(1) A licensed provider must file its charges with the Authority on the occasions or with the frequency that is required by the Insurance Guidelines and may (subject to any limitations specified in those Guidelines as to the frequency with which charges may be filed) file its charges with the Authority at any other times that the provider considers appropriate.
+(2) A licensed provider must also file its charges with the Authority whenever required to do so by the Authority by notice in writing to the provider. The notice must allow a period of at least 8 weeks after the notice is served for charges to be filed.
+(3) A licensed provider files its charges by filing with the Authority a complete set of the charges proposed to be collected for all alternative indemnity contracts together with any additional information, including actuarial reports, that the Authority may reasonably require.
+(4) A licensed provider must pay to the Authority any fees that are required by the Insurance Guidelines to be paid by providers in connection with the filing of charges by providers.
+(5) It is a condition of a licence granted to a licensed provider under the Act that the provider must comply with this clause.

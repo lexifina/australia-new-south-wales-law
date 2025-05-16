@@ -1,0 +1,2 @@
+# 62B Persons who may arrange fidelity fund cover
+Fidelity fund cover may be entered into for the purposes of Part 6 of the Act by a contractor, or by a beneficiary in respect of the work done, and may be arranged by any such person.
