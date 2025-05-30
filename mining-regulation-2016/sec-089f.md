@@ -1,0 +1,2 @@
+# 89F Further actions that may be ordered-the Act, s 394
+For the Act, section 394(2)(e), a decision-maker may, for a specified period or an indefinite period, disqualify or prohibit a declared person from being involved in a financial or operating decision about activities under an authorisation or activity approval, whether or not the authorisation or activity approval is in force at the time the order is given.
