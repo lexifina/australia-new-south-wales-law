@@ -1,0 +1,3 @@
+# 50A Prohibition on political donations in cash that exceed $100
+(1) It is unlawful for a person to make a political donation in cash that exceeds the value of $100.
+(2) It is unlawful for a person to accept a political donation in cash that exceeds the value of $100.

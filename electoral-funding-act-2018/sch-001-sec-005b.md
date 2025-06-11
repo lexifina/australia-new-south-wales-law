@@ -1,0 +1,17 @@
+# 5B Adjustment of office accommodation amount excluded from electoral expenditure caps
+(1) The adjustable amount specified in section 7(4B) applies for the first election period that is current when the provision commences and is then to be adjusted for inflation for subsequent election periods as provided by this clause.
+(2) An election period is the period between the end of an election day and the end of the election day of a successive general election.
+Note-
+State general elections and local government general elections have different election periods.
+(3) For subclause (2), if a local government general election is held on the day specified by the Local Government Act 1993, section 287(1) and another local government general election is held on a different day, the other local government general election must be disregarded.
+Note-
+The election period for local government general elections is the ordinary 4-year cycle and early or late elections caused by mergers or other causes are to be disregarded so long as one or more elections are held on the ordinary schedule.
+(4) The adjustable amounts that are to apply for a subsequent election period are to be determined by multiplying the adjustable amounts that applied for the previous election period by the increase in the Consumer Price Index during that previous election period.
+(4A) Despite subclauses (1)-(4), if a subsequent Saturday has been appointed for a local government general election under the Local Government Act 1993, section 288, the adjustable amounts that would have applied to the election, except for the delay, continue to apply to the delayed election.
+Note-
+Under the Local Government Act 1993, section 288, if the Minister for Local Government is of the opinion that it would be impracticable or inconvenient to hold an election on the Saturday scheduled by that Act, the Minister may appoint a subsequent Saturday for the election, being a Saturday not more than 28 days later than the day when the election should have been held.
+(5) The increase in the Consumer Price Index during an election period is to be calculated as where-
+A is the Consumer Price Index number for the last quarter for which the number was published before the start of the election period.
+B is the Consumer Price Index number for the last quarter for which the number was published before the end of the election period.
+(6) If is less than 1 (as a result of deflation), is deemed to be 1.
+(7) Before the start of each election period after the election period that is current when this clause commences, the Electoral Commission is to publish notice on the NSW legislation website and its website of the amount of each adjustable amount for the election period that results from an adjustment under this clause.
