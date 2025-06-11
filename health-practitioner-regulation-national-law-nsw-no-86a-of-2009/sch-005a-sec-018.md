@@ -1,0 +1,2 @@
+# 18 Accrued leave entitlements [NSW]
+A transferred employee retains any rights to sick leave, annual leave or long service leave accrued or accruing immediately before the transfer of employment (other than accrued leave for which the employee has, on ceasing to be an employee of the Government Service or relevant former board, been paid the monetary value under any other entitlement of the employee).

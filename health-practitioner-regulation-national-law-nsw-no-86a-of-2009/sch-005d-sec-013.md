@@ -1,0 +1,6 @@
+# 13 Tribunal may award costs [NSW]
+(1) The Tribunal may order the complainant (if any), the registered health practitioner or student concerned, or any other person entitled to appear (whether as of right or because leave to appear has been granted) at an inquiry or appeal before the Tribunal to pay costs to another person as decided by the Tribunal.
+(2) When an order for costs has taken effect, the Tribunal is, on application by the person to whom the costs have been awarded, to issue a certificate setting out the terms of the order and stating that the order has taken effect.
+(3) The person in whose favour costs are awarded may file the certificate in the District Court, together with an affidavit by the person as to the amount of the costs unpaid, and the Registrar of the District Court must enter judgment for the amount unpaid together with any fees paid for filing the certificate.
+(3A) The Tribunal may fix the amount of costs itself or order that the amount of costs be assessed by a costs assessor under the legal costs legislation (as defined in section 3A of the Legal Profession Uniform Law Application Act 2014) or on any other basis.
+(4) This clause applies instead of section 60 (Costs) of the Civil and Administrative Tribunal Act 2013.

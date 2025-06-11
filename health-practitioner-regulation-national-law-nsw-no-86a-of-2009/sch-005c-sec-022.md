@@ -1,0 +1,2 @@
+# 22 Minutes [NSW]
+A Council must cause full and accurate minutes to be kept of the proceedings of each meeting of the Council.

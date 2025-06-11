@@ -1,0 +1,2 @@
+# 42 Sexual touching and sexual act include former acts of indecency
+The reference in paragraph (b) of the definition of sex or violence offence in section 138 (1) to sexual touching or sexual acts is taken, in a reference to an offence committed before the amendment of that definition by the Criminal Legislation Amendment (Child Sexual Abuse) Act 2018, to include a reference to acts of indecency.

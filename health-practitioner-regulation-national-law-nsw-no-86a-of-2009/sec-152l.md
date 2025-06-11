@@ -1,0 +1,4 @@
+# 152L Some matters to be dealt with as complaints [NSW]
+(1) If an Impaired Registrants Panel recommends that a registered health practitioner or student agree to conditions being imposed on the practitioner's or student's registration or to having the practitioner's or student's registration suspended and the practitioner or student fails to agree with the recommendation, the Council must deal with the matter that was the subject of the referral to the Panel as a complaint against the practitioner or student.
+(2) If the Panel recommends that a matter referred to it be dealt with as a complaint, the Council must deal with the matter as a complaint against the health practitioner or student concerned.
+(3) In any other case that the Council thinks it appropriate to do so, the Council may treat a matter that has been referred to an Impaired Registrants Panel as grounds for a complaint under this Law and may deal with the matter accordingly.

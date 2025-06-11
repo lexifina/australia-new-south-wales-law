@@ -1,0 +1,2 @@
+# 165K When hearings may be closed to public [NSW]
+Despite section 49 (2) of the Civil and Administrative Tribunal Act 2013, the Tribunal may make an order that a hearing for proceedings under this Law be conducted wholly or partly in private only if it is satisfied that it is desirable to do so in the public interest for reasons connected with the subject-matter of the proceedings or the nature of the evidence to be given.

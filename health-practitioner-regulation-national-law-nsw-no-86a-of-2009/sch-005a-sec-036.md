@@ -1,0 +1,5 @@
+# 36 Application of amendment concerning requirement for reinstatement order before registration [NSW]
+(1) Without limiting section 287, section 149E, as inserted by the Health Practitioner Regulation Legislation Amendment Act 2014, extends to persons whose registrations as health practitioners were cancelled, or who were disqualified from being registered as health practitioners, by the Tribunal (or a predecessor of the Tribunal) before the commencement of section 149E.
+Note.
+Section 287 makes provision for cancellations of registration and disqualifications from registration made under corresponding prior Acts to continue to have effect under this Law as if they were decisions made by the responsible tribunal under this Law. As a result, subclause (1) includes such cancellations and disqualifications as well as cancellations and disqualifications under this Law. The subclause also extends to decisions made by the former health practitioner tribunals before their abolition and replacement by the Tribunal.
+(2) However, subclause (1) does not affect any application for registration that was made and granted before the commencement of section 149E.

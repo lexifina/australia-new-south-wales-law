@@ -1,0 +1,7 @@
+# 151A Referral of matters by courts [NSW]
+(1) A court in this jurisdiction before which a person is convicted of an offence, or is made the subject of a criminal finding for a sex or violence offence or a drug related offence, must cause notice of the conviction or criminal finding, and of any penalty imposed on the person, to be given to the Executive Officer of a Council for a health profession if the court has reasonable grounds to believe that the person is or was, at the time the offence was committed, registered in the health profession.
+(2) If a coroner has reasonable grounds to believe the evidence given or to be given in proceedings conducted or to be conducted before the coroner may indicate a complaint could be made about a person who is or was registered in a health profession, the coroner may give a transcript of that evidence to the Executive Officer of the Council for the health profession.
+(3) If a notice or a transcript of evidence is given to the Executive Officer under this section-
+(a) a complaint is taken to have been made to a Council about the person to whom the notice or transcript relates; and
+(b) the Executive Officer must give written notice of the notice or transcript of evidence to the National Board for the health profession in which the person is or was registered.
+(4) The coroner is not the complainant in relation to a complaint taken to have been made under subsection (3) and sections 144D(1), 144E and 144F do not apply to the complaint.

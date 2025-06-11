@@ -1,0 +1,2 @@
+# 19 Transfer payments [NSW]
+A transferred employee is not entitled to receive any payment or other benefit (including in the nature of severance pay or redundancy or other compensation) merely because the employee ceased to be an employee of the Government Service or relevant former board, or the employee's contract of employment with the Government Service or relevant former board was terminated, as a result of the transfer of employment.
