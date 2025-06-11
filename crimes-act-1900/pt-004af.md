@@ -1,1 +1,1 @@
-# Part 4AF Major facilities
+# Part 4AF Major facilities or places of worship
