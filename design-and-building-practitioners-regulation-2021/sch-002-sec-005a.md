@@ -1,0 +1,12 @@
+# 5A Design practitioner-architectural (low rise)
+(1) Qualifications Must-
+(a) hold full registration as an architect within the meaning of the Architects Act 2003, and
+(b) be recorded as a practising architect in the register maintained by the Registrar of the NSW Architects Registration Board constituted under that Act.
+(2) Knowledge Must know and understand the following-
+(a) the Act and this Regulation,
+(b) the Environmental Planning and Assessment Act 1979, including regulations and instruments made under that Act, to the extent that the legislation is relevant to this class of registration,
+(c) the Building Code of Australia, Volumes 1 and 2, including documents adopted by reference in the Building Code of Australia, to the extent that the documents are relevant to this class of registration,
+(d) building design, including methods, materials and planning, to the extent that this knowledge is relevant to this class of registration.
+(3) Skills Must be able to do the following-
+(a) interpret, apply and assess compliance with the relevant requirements of the Building Code of Australia,
+(b) apply and assess compliance with relevant standards relating to the design of a building, including materials, finishes, fittings, components and systems of a building, to the extent that the standards are relevant to this class of registration.
