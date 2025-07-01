@@ -1,0 +1,5 @@
+# 154M Certain provisions extended to scheme agents
+(1) A reference in section 163, 164 or 169 to a licensed insurer or insurer includes, in the application of the section to any matter concerning the Nominal Insurer, a reference to a scheme agent acting on behalf of the Nominal Insurer in connection with that matter.
+(2) Except as may otherwise be provided by the regulations, a reference in any of the following provisions of the 1998 Act and Personal Injury Commission Act 2020 to a licensed insurer or insurer includes, in the application of the provision to any matter concerning the Nominal Insurer, a reference to a scheme agent acting on behalf of the Nominal Insurer in connection with that matter-
+Sections 43, 45, 47, 50, 52, 56-59, 65, 66, 69, 71-75, 76, 107, 108, 113, 117, 118, 126, 136, 141, 232, 235A, 235B, 238, 260, 261, 264, 266-272, 274-276, 279, 280, 281, 282, 284, 287, 291, 295, 301, 308, 330, 337 and 345 of the 1998 Act.
+Section 51 of the Personal Injury Commission Act 2020.

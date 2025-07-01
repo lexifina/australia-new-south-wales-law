@@ -1,0 +1,3 @@
+# 38A Special provision for workers with highest needs
+(1) If the determination of the amount of weekly payments of compensation payable to a worker with highest needs in accordance with this Subdivision results in an amount that is less than $788.32, the amount is to be treated as $788.32.
+(2) If the amount specified in subsection (1) is varied by operation of Division 6A, a weekly payment of compensation payable to a worker with highest needs before the date on which the variation takes effect is, for any period of incapacity occurring on and after that date, to be determined by reference to that amount as so varied.

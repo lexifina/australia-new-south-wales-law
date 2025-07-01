@@ -1,0 +1,2 @@
+# 4A Directors of uninsured employer not entitled to compensation
+If an employer that is a corporation had not obtained, or was not maintaining in force, at the relevant time a policy of insurance for the full amount of the employer's liability under this Act in respect of an injured worker and the injured worker was at the relevant time a director of the corporation, the injured worker is not entitled to any compensation under this Act in respect of that liability.

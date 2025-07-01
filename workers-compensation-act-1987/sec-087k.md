@@ -1,0 +1,2 @@
+# 87K Commutation payment taken to be payment of compensation
+Payment of a lump sum to which liability in respect of any weekly payment of compensation has been wholly or partially commuted under this Division or section 51, or redeemed under section 15 of the former Act (as applied by Schedule 6 to this Act), is taken for the purposes of this Act, the 1998 Act and the former Act (as applied by this Act) to be payment of the compensation concerned in pursuance of the liability to pay the compensation concerned.

@@ -1,0 +1,4 @@
+# 151I Calculation of past and future loss of earnings
+(1) In awarding damages, the court is to disregard the amount (if any) by which the injured or deceased worker's net weekly earnings would (but for the injury or death) have exceeded the amount that is the maximum amount of weekly payments of compensation under section 34 (even though that maximum amount under section 34 is a maximum gross earnings amount).
+(2) The maximum amount of weekly payments of compensation under section 34 for a future period is to be the amount that the court considers is likely to be the amount for that period having regard to the operation of Division 6 of Part 3 (Indexation of amounts of benefits).
+(3) This section applies even though weekly payments of compensation to the worker concerned are not subject to the maximum amount prescribed under section 34.

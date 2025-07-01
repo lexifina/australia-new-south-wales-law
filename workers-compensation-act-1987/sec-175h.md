@@ -1,0 +1,4 @@
+# 175H Joint and several liability of group members
+(1) If an employer who is a member of a group fails to pay an amount that the employer is required to pay under this Part (including any premium payable for a policy of insurance required under this Part and any sum recoverable by the Nominal Insurer under this Part from the employer), every member of the group is liable jointly and severally to pay the amount.
+(2) If 2 or more persons are jointly or severally liable to pay an amount as referred to in this section, the person entitled to payment may recover the whole of the amount from them, or any of them, or any one of them.
+(3) A person who pays an amount in accordance with the liability imposed by this section has such rights of contribution or indemnity from the other person or persons as are just.

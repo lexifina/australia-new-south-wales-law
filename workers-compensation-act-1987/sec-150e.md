@@ -1,0 +1,14 @@
+# 150E Meaning of "substantive law"
+In this Division-
+a State's legislation about damages for a work related injury means-
+(a) for this State-Part 5 of this Act and Chapter 7 of the 1998 Act, and any other provision of this Act or the 1998 Act providing for the interpretation of anything in that Part or Chapter, and
+(b) for any other State-any provisions of a law of the State that is declared by the regulations to be the State's legislation about damages for a work related injury.
+substantive law includes-
+(a) a law that establishes, modifies, or extinguishes a cause of action or a defence to a cause of action, and
+(b) a law prescribing the time within which an action must be brought (including a law providing for the extension or abridgment of that time), and
+(c) a law that provides for the limitation or exclusion of liability or the barring of a right of action if a proceeding on, or arbitration of, a claim is not commenced within a particular time limit, and
+(d) a law that limits the kinds of injury, loss or damage for which damages or compensation may be recovered, and
+(e) a law that precludes the recovery of damages or compensation or limits the amount of damages or compensation that can be recovered, and
+(f) a law expressed as a presumption, or rule of evidence, that affects substantive rights, and
+(g) a provision of a State's legislation about damages for a work related injury, whether or not it would be otherwise regarded as procedural in nature,
+but does not include a law prescribing rules for choice of law.

@@ -1,0 +1,3 @@
+# 3AA Compensation for further losses-occupational diseases
+(1) If compensation has been paid or has become payable under section 16 of the former Act for a loss of a thing (being an occupational disease within the meaning of section 71 of this Act), section 71 applies to the determination of compensation under Division 4 of Part 3 of this Act for a further loss of that thing regardless of whether the description of the loss in section 16 of the former Act differs from the corresponding description of the loss in the Table to Division 4 of Part 3.
+(2) This clause is enacted to avoid doubt and, accordingly, is taken to have applied from the commencement of Division 4 of Part 3 of this Act.

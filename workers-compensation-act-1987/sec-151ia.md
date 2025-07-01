@@ -1,0 +1,2 @@
+# 151IA Retirement age
+In awarding damages for future economic loss due to deprivation or impairment of earning capacity or (in the case of an award of damages under the Compensation to Relatives Act 1897) loss of expectation of financial support, the court is to disregard any earning capacity of the injured worker after pension age (as defined in the Social Security Act 1991 of the Commonwealth for persons other than veterans).

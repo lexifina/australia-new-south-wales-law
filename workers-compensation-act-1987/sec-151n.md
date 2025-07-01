@@ -1,0 +1,6 @@
+# 151N Contributory negligence-generally
+(1) The common law and enacted law as to contributory negligence apply to awards of damages, except as provided by this section.
+(2) Damages for deprivation or impairment of earning capacity are not to be reduced because of contributory negligence below the amount that the court estimates would have been payable by way of a commutation of weekly payments of compensation under Division 9 of Part 3 if the person concerned were eligible to be paid a lump sum under that Division.
+(3) In an action for the award of damages founded on a breach of a statutory duty imposed on a defendant, contributory negligence on the part of the injured worker is not a complete defence, but the damages recoverable are to be reduced by such percentage as the court thinks just and equitable having regard to the person's share in the responsibility for the damages.
+(4) Part 3 of the Law Reform (Miscellaneous Provisions) Act 1965 applies to an action for damages referred to in subsection (3).
+(5) In an action for the award of damages under the Compensation to Relatives Act 1897, section 13 of the Law Reform (Miscellaneous Provisions) Act 1965 does not apply so as to prevent the reduction of damages by the contributory negligence of the deceased person.

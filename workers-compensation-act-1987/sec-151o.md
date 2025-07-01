@@ -1,0 +1,2 @@
+# 151O Defence of voluntary assumption of risk
+The defence of volenti non fit injuria is not available in an action for the award of damages but, where that defence would otherwise have been available, the amount of any damages is to be reduced to such extent as is just and equitable on the presumption that the injured or deceased person was negligent in failing to take sufficient care for his or her own safety.

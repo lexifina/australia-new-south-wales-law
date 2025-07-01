@@ -1,0 +1,6 @@
+# 211B Government employers covered by Government managed fund scheme to be self-insurers
+(1) Any Government employer covered for the time being by the Government's managed fund scheme is taken to be a self-insurer for the purposes of this Act.
+(2) The Government's managed fund scheme is any arrangement under which the self-insurer liabilities (within the meaning of section 216) of particular Government employers covered by the arrangement are paid by the Government of the State or by the Self Insurance Corporation on its behalf.
+(3) The Self Insurance Corporation may enter into an arrangement with the Authority under which the Corporation acts on behalf of Government employers for the purpose of paying contributions under this Act and for other purposes of this Act.
+(4) The other provisions of this Division do not apply to self-insurers referred to in this section. However, the Authority may, with the approval of the Treasurer, impose conditions on the authority conferred by this section on such self-insurers (being conditions of a kind that the authority could impose on the licence of a self-insurer under this Division).
+(5) This section does not apply to any Government employers who are separately licensed under this Division as self-insurers.
