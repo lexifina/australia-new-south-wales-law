@@ -1,0 +1,2 @@
+# 378P Undertakings
+The court may refuse to make a restraining order if the person making the application refuses or fails to give to the court such undertakings as the court considers appropriate with respect to the payment of damages or costs, or both, in relation to the making or operation of the order.

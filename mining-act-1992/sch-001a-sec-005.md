@@ -1,0 +1,6 @@
+# 5 Consideration for grant of controlled release prospecting title
+(1) An invitation for competitive selection applications can include a requirement for applications to include an undertaking that the applicant will pay an amount specified in the application or an amount determined through a competitive selection process as consideration offered for the grant of the controlled release prospecting title.
+(2) The process for competitive selection can include the public release of information as to the consideration offered by applicants for the grant of a controlled release prospecting title.
+(3) The amount of consideration undertaken to be paid by an applicant for the grant of a controlled release prospecting title is a factor that can be a relevant consideration in the competitive selection process.
+(4) The grant of a controlled release prospecting title can be delayed until the amount of any consideration payable for the grant of the title is paid or arrangements for payment or security for payment that are satisfactory to the decision-maker have been entered into.
+(5) Any amount paid as consideration for the grant of a controlled release prospecting title is not refundable in the event of the title being cancelled.

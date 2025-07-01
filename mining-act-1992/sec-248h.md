@@ -1,0 +1,4 @@
+# 248H Assistance to be given to inspectors
+(1) This section applies for the purpose of enabling an inspector to exercise any of the powers of an inspector under this Part in connection with any premises.
+(2) The Secretary may, by written notice given to the owner or occupier of the premises, require the owner or occupier to provide such reasonable assistance and facilities as are specified in the notice within a specified time and in a specified manner.
+(3) Assistance and facilities can be required under this section, whether they are of the same kind as, or a different kind from, any prescribed by the regulations.

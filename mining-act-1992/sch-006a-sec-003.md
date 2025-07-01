@@ -1,0 +1,12 @@
+# 3 Purposes and objects
+(1) The Parliament, being satisfied because of information that has come to light as a result of investigations and proceedings of the Independent Commission Against Corruption known as Operation Jasper and Operation Acacia, that the grant of the relevant licences, and the decisions and processes that culminated in the grant of the relevant licences, were tainted by serious corruption (the tainted processes), and recognising the exceptional nature of the circumstances, enacts the Mining Amendment (ICAC Operations Jasper and Acacia) Act 2014 for the following purposes-
+(a) restoring public confidence in the allocation of the State's valuable mineral resources,
+(b) promoting integrity in public administration above all other considerations, including financial considerations, and deterring future corruption,
+(c) placing the State, as nearly as possible, in the same position as it would have been had those relevant licences not been granted, recognising that it is not practicable in the circumstances to achieve, through financial adjustments or otherwise, an alternative outcome in relation to the relevant licences based on what would have happened had the relevant licences been granted pursuant to processes other than the tainted processes.
+(2) To those ends, the specific objects of the Mining Amendment (ICAC Operations Jasper and Acacia) Act 2014 are as follows-
+(a) to cancel the relevant licences and ensure that the tainted processes have no continuing impact and cannot affect any future processes (such as for the grant of further authorities) in respect of the relevant land,
+(b) to ensure that the State has the opportunity, if considered appropriate in the future, to allocate mining and prospecting rights in respect of the relevant land according to proper processes in the public interest,
+(c) to ensure that no person (whether or not personally implicated in any wrongdoing) may derive any further direct or indirect financial benefit from the tainted processes,
+(d) to protect the State against the potential for further loss or damage and claims for compensation, without precluding actions for personal liability against individuals, including public officials, who have been implicated in the tainted processes and have not acted honestly and in good faith.
+Note.
+The Mining Amendment (ICAC Operations Jasper and Acacia) Act 2014 inserted this Schedule into this Act.

@@ -1,0 +1,3 @@
+# 118A Delegations of functions under Environmental Planning and Assessment Act 1979
+(1) This clause applies to the exercise of a function purported to be delegated by the Minister under section 153A of the Environmental Planning and Assessment Act 1979 before the substitution of section 363 (1) of this Act by the 2008 Act, whether the delegation was for the purposes associated with functions under this Act or any other Act administered by the Minister.
+(2) The delegation of any such function is taken to have been validly done on and from the date of the delegation if the delegation could have been made had section 363 (1), as so substituted been in force when the delegation was made.

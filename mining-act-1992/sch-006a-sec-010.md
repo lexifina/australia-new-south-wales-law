@@ -1,0 +1,5 @@
+# 10 Obtaining exploration information
+(1) For the purposes of Part 12 (Powers of entry and inspection) of this Act, the obtaining of exploration information or any record of exploration information is considered to be for purposes connected with the administration of this Act.
+(2) Accordingly, section 248B (Requirement to provide information and records) extends to authorise an inspector to require a person to furnish exploration information or any record of exploration information.
+(3) Any core or sample that is exploration information furnished under section 248B becomes the property of the State.
+(4) In this clause, exploration information means information obtained from, used for the purposes of or in connection with, or comprising the results of, any test, study, survey, analysis or research conducted by or on behalf of the holder of a relevant licence in respect of relevant land or a relevant licence and includes any core or sample taken on or from relevant land under a relevant licence.

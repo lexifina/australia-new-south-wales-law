@@ -1,0 +1,5 @@
+# 3 Protection of the environment must be taken into account in considering applications
+(1) The relevant decision-maker must take into account the need to conserve and protect the environment in or on the land over which the authorisation is sought (or, in the case of a variation, to which it applies) in considering an application to which this Schedule applies.
+(2) The relevant decision-maker may cause such studies (including environmental impact studies) to be carried out as the relevant decision-maker considers necessary to assist in making a decision on the application.
+(3) If public money is spent under subclause (2) in having studies carried out or engaging persons to provide advice, the relevant decision-maker may, by written notice, require the applicant concerned to reimburse the Government, within the time specified in the notice, for the money, or any part of the money, reasonably incurred.
+(4) The relevant decision-maker may recover from the applicant any unpaid amounts specified in the notice as a debt in a court of competent jurisdiction.

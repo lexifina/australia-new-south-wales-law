@@ -1,0 +1,2 @@
+# 281B Compensation payable by holders of authority
+If compensation is payable under section 24MD or 24NA of the Commonwealth Native Title Act in respect of an act to which this Division applies that is attributable to the State, the holder of the authority concerned at the time of the grant, renewal or variation is declared, in accordance with section 24MD (4) (b) (i) or 24NA (as the case requires) of that Act, to be liable to pay the compensation.

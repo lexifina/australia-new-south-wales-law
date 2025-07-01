@@ -1,0 +1,3 @@
+# 246X Lifting of protection
+(1) Documents prepared in relation to a voluntary audit cease to be protected if the person asserting or relying on the protection uses or relies on (or attempts to use or rely on) the whole or any part of one or more of the documents, whether directly or indirectly, in any proceedings connected with the administration or enforcement of this Act, the environment protection legislation or such other legislation, if any, as may be prescribed.
+(2) This section does not apply where the person is using or relying on (or attempting to use or rely on) a document for the purpose of establishing that the document is protected.

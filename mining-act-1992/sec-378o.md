@@ -1,0 +1,5 @@
+# 378O Making of restraining order
+On an application under section 378N, the court may make a restraining order in relation to the defendant's property, if it is satisfied (on the information contained in or accompanying the application) that-
+(a) the defendant has committed the relevant offence, and
+(b) amounts are or are likely to be payable under section 378ZA or 378ZB, and
+(c) it is appropriate to make an order under this section in the circumstances of the case.

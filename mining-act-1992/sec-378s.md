@@ -1,0 +1,4 @@
+# 378S Registration of restraining orders
+(1) If a restraining order applies to property of a particular kind and the provisions of any law of the State provide for the registration of title to, or charges over, property of that kind, the authority responsible for administering the provisions is required, on application by any person, to record the particulars of the order in the register kept under those provisions.
+(2) If the particulars of a restraining order are so recorded, a person who afterwards deals with the property is, for the purposes of section 378R (2), taken to have notice of the charge created by this Act on the making of the order.
+(3) If a restraining order applies to land under the provisions of the Real Property Act 1900, a caveat may be lodged under that Act in relation to the order.
