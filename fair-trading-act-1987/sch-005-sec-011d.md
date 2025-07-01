@@ -1,0 +1,8 @@
+# 11D Fair Trading Amendment Act 2003
+(1) In this clause, amending Act means the Fair Trading Amendment Act 2003.
+(2) The amendments made to sections 23A and 23C by the amending Act do not apply to or in respect of a notice served on a person under section 23A before the commencement of those amendments, and sections 23A and 23C (as in force immediately before that commencement) apply in relation to a person on whom such a notice has been served as if those amendments had not been made.
+(3) Division 3 of Part 3, as amended by the amending Act, does not apply to or in respect of an order made under section 34 (as in force immediately before the commencement of the amendments to that Division), and the provisions of that Division (as in force immediately before that commencement) apply to any such order as if those amendments had not been made.
+(4) Division 3 of Part 4, as inserted by the amending Act, does not apply to or in respect of a credit purchase agreement (within the meaning of the Door-to-Door Sales Act 1967) made before the repeal of that Act by the amending Act, and the repealed Act continues to apply to any such agreement as if the repealed Act had not been repealed.
+(5) Section 66A, as inserted by the amending Act, extends to unlawful conduct occurring before the commencement of that section.
+(6) Section 68 (2), as amended by the amending Act, does not apply to a cause of action accruing before the commencement of the amendment to that subsection.
+(7) Section 68 (2), as in force immediately before the commencement of the amendment to that section by the amending Act, continues to apply to or in respect of a cause of action accruing before that commencement as if the amendment had not been made.

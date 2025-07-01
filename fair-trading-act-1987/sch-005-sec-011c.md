@@ -1,0 +1,8 @@
+# 11C Fair Trading Legislation Amendment Act 1997
+(1) In this clause, amending Act means the Fair Trading Legislation Amendment Act 1997.
+(2) The Property Services Council, Home Building Advisory Council and Motor Dealers Council are abolished on the commencement of the provisions of the amending Act repealing the provisions that respectively constitute them.
+(3) A person ceases to hold office as member or Chairperson of such a council on the abolition of the council concerned. The person is not entitled to be paid any remuneration or compensation by reason of ceasing to hold any such office.
+(4) The Property Services Council Statutory Interest Account is to be closed on the establishment of the Property Services Statutory Interest Account under the Property, Stock and Business Agents Act 1941, as amended by the amending Act.
+(5) The Property Services Council Compensation Fund is to be closed on the establishment of the Property Services Compensation Fund under the Property, Stock and Business Agents Act 1941, as amended by the amending Act.
+(6) The Property Services Council Administration Account is to be closed by the Director-General on the repeal by the amending Act of section 25 of the Property, Stock and Business Agents Act 1941, and the amount standing to its credit is to be paid to the Department of Fair Trading Operating Account.
+(7) Section 64C of the Property, Stock and Business Agents Act 1941, as inserted by the amending Act, extends to claims, expenses and costs incurred in connection with the Property Services Council Compensation Fund before the commencement of that section.

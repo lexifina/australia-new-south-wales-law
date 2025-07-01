@@ -1,0 +1,7 @@
+# 58A Definitions
+In this Part-
+authorised seller, in relation to an event or a ticket for an event, means-
+(a) if the event organiser has authorised a person to supply the ticket on behalf of the event organiser, or to resupply the ticket after acquiring it from the authorised seller-that person, or
+(b) in any other case-any event organiser for the event.
+event organiser-see section 58C.
+resale restriction-see section 58B.

@@ -1,0 +1,2 @@
+# 11H Fair Trading Amendment (Funeral Goods and Services) Act 2007
+Part 5F, as inserted by the Fair Trading Amendment (Funeral Goods and Services) Act 2007, does not apply to a supply of funeral goods or services as referred to in that Part that occurs pursuant to an arrangement entered into with a consumer before an information standard that is relevant to the supply is first prescribed under that Part.
