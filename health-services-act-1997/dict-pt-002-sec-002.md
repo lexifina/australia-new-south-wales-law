@@ -1,0 +1,2 @@
+# 2 References to control of hospitals, health institutions, health services or health support services
+A reference in this Act to a hospital, health institution, health service or health support service controlled by the Crown or any public health organisation or other body or person includes a reference to a hospital, health institution or service that is conducted by or on behalf of such an organisation, body or person.

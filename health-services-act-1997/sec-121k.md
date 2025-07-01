@@ -1,0 +1,3 @@
+# 121K Delegation of employer functions
+(1) If the employer of a NSW Health Service senior executive is a board, the employer functions of the board under this Chapter in relation to the executive (other than the function of employing or terminating the employment of the executive) may be delegated by the board to the chairperson or any other member of the board.
+(2) If the employer of a NSW Health Service senior executive is a chief executive, the employer functions of the chief executive under this Chapter in relation to the senior executive may be delegated by the chief executive to any member of the NSW Health Service (other than the senior executive) or to any person employed in the Public Service.

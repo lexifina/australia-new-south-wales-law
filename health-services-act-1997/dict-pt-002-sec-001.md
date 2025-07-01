@@ -1,0 +1,7 @@
+# 1 References to acts, omissions or things of affiliated health organisations
+(1) A reference in this or any other Act (however expressed) to any act, omission or thing of an affiliated health organisation in relation to any of its recognised establishments or recognised services-
+(a) in the case of an affiliated health organisation that is unincorporated-is a reference to an act, omission or thing of the governing body of the organisation or a member of that body (as the case may be) in relation to that establishment or service, or
+(b) in the case of an affiliated health organisation that is incorporated-is a reference to an act, omission or thing of the corporate body constituting the organisation in relation to that establishment or service.
+(2) A reference in this or any other Act (however expressed) to-
+(a) a hospital, health institution, health service or health support service of an affiliated health organisation is a reference to a hospital, health institution, health service or health support service that is a recognised establishment or recognised service of the organisation, or
+(b) the staff, assets, rights or liabilities of an affiliated health organisation is a reference to the staff, assets, rights or liabilities of the organisation relating solely or principally to the operation of the recognised establishments or the provision of the recognised services of the organisation.

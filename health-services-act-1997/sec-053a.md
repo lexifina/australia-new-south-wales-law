@@ -1,0 +1,5 @@
+# 53A Combined management or assistance in management of public hospitals, health institutions, health services or health support services
+(1) Any two or more statutory health corporations may, by agreement, jointly control and manage any public hospital, health institution, health service or health support service.
+(2) A statutory health corporation may, by agreement, manage any public hospital, health institution, health service or health support service under the control of another statutory health corporation, or assist in that management, for and on behalf of that other statutory health corporation.
+(3) A statutory health corporation must not enter into an agreement under this section without the approval of the Minister.
+(4) A public hospital, health institution, health service or health support service is not, for the purposes of this or any other Act, to be regarded as being under the control of a statutory health corporation because the statutory health corporation manages, or assists in the management of, the public hospital, health institution, health service or health support service for and on behalf of another statutory health corporation.

@@ -1,0 +1,12 @@
+# 116C Transfer of staff within the NSW Health Service on ground of redundancy
+(1) The Health Secretary may, on the ground of redundancy, direct the transfer of a member of the NSW Health Service (the staff member) from one position in the NSW Health Service to another position in the Service at a salary in accordance with any general determination under section 116A(1), but only if-
+(a) the Health Secretary is satisfied that-
+(i) the number of persons who are employed in or in connection with the public health organisation concerned exceeds the number that appears to be necessary for the effective, efficient and economical management of the functions and activities of the organisation, either generally or at a particular location, or
+(ii) the mix of skills or other expertise of the persons who are employed in or in connection with the public health organisation concerned appears to be unsuitable for the effective, efficient and economical management of the functions and activities of the organisation, either generally or at a particular location, and
+(b) the Health Secretary is satisfied that the staff member possesses the essential qualifications specified for the other position and the work assigned to the other position is appropriate to the skills and qualifications of the staff member, and
+(c) if the staff member is to be transferred to a position in connection with a declared affiliated health organisation-the affiliated health organisation has been consulted by the Health Secretary as to the suitability of the staff member to carry out duties in connection with the organisation having regard to the health care philosophy of the organisation.
+(2) If a staff member refuses a transfer from one position to another under this section, the Health Secretary may, if satisfied that the staff member has no valid reason for so refusing, dismiss the member from the NSW Health Service.
+(3) No compensation is payable in respect of the dismissal.
+(4) Nothing in this section affects the operation of Part 6 (Unfair dismissals) of Chapter 2 of the Industrial Relations Act 1996 or any other statutory right that a member of staff may have in relation to his or her dismissal from the NSW Health Service under this section.
+(5) Nothing in this section prevents the transfer, under any other law, of members of staff of the NSW Health Service.
+(6) This section does not apply to NSW Health Service senior executives.

@@ -1,0 +1,3 @@
+# 116B Special provisions relating to staff employed in connection with declared affiliated health organisations
+(1) A person cannot be employed under this Part to enable a declared affiliated health organisation to exercise its functions in connection with its recognised establishments and recognised services unless the affiliated health organisation is satisfied that the person is suitable to carry out duties in connection with the organisation having regard to the health care philosophy of the organisation.
+(2) Section 56 of the Anti-Discrimination Act 1977 applies in relation to the employment under this Part of staff in connection with a declared affiliated health organisation.

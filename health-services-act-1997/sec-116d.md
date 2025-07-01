@@ -1,0 +1,2 @@
+# 116D Health Secretary may arrange for use of services or facilities outside of NSW Health Service
+For the purposes of facilitating the exercising of functions within the public health system, the Health Secretary may arrange for the use of the services of any staff (including by way of secondment to the NSW Health Service) or facilities of any government sector agency (within the meaning of the Government Sector Employment Act 2013) or of a public or local authority.

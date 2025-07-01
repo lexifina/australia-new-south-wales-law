@@ -1,0 +1,6 @@
+# 121E Government sector employment rules and employment directions and conditions
+(1) The Public Service Commissioner may make government sector employment rules under section 12 of the Government Sector Employment Act 2013 on any matter relating to the employment of NSW Health Service senior executives (including, without limitation, matters of the kind referred to in section 36 of that Act).
+(2) The Public Service Commissioner must consult the Health Secretary before making any such rules.
+(3) This section does not limit any direction, or any condition referred to in section 122(2), that the Health Secretary is otherwise authorised to give or impose in relation to the employment of NSW Health Service senior executives. However, if any such direction or condition is inconsistent with the applicable government sector employment rules-
+(a) the direction or condition does not have any effect unless the Public Service Commissioner has agreed to the inconsistency (unless it is a direction or condition referred to in paragraph (b)), or
+(b) if the direction or condition relates to the health or safety of any person or persons or the provision of essential health services-the Health Secretary is to consult the Public Service Commissioner about the inconsistency (whether before or after the direction or condition is given or attached).

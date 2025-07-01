@@ -1,0 +1,3 @@
+# 7 Provision of staff and facilities for Administrator
+(1) Staff and facilities to assist the Administrator in exercising or performing his or her functions under this Schedule are to be provided by the National Health Funding Body constituted under the National Health Reform Act 2011 of the Commonwealth.
+(2) The Administrator is not entitled to delegate a function conferred on the Administrator under this Schedule to that body, to any such member of staff or to any other person or body.

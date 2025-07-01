@@ -1,0 +1,3 @@
+# 27 Transitional and validation provisions
+(1) If, on the commencement of this Schedule, corresponding provisions to this Schedule have not been enacted by another jurisdiction, the responsible Minister for that jurisdiction for the purposes of this Schedule is the Minister of that jurisdiction with portfolio responsibility for health.
+(2) Any thing done by a Minister of the Commonwealth or of a State before the commencement of this Schedule that would have been validly done if this Schedule, and the corresponding provisions of other jurisdictions, had been in force at the time is taken to have been validly done.

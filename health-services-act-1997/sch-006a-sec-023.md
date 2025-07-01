@@ -1,0 +1,9 @@
+# 23 Application of Commonwealth Acts
+(1) The following Acts apply (subject to subclause (2)) as laws of this jurisdiction to or in respect of the Administrator and any function exercised or performed by the Administrator-
+(a) the Archives Act 1983 of the Commonwealth,
+(b) the Australian Information Commissioner Act 2010 of the Commonwealth,
+(c) the Freedom of Information Act 1982 of the Commonwealth,
+(d) the Ombudsman Act 1976 of the Commonwealth,
+(e) the Privacy Act 1988 of the Commonwealth.
+(2) Each of those Acts so applies subject to the modifications made by regulations made under the National Health Reform Act 2011 of the Commonwealth with the agreement of all the members of the Standing Council on Health.
+(3) Until regulations referred to in subclause (2) are made, subclause (1) does not have effect and instead the legislation referred to in clause 22(a)-(d) and (f) applies to or in respect of the Administrator and any function exercised or performed by the Administrator.

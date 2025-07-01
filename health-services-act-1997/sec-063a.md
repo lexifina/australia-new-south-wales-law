@@ -1,0 +1,3 @@
+# 63A Criminal and disciplinary matters concerning employees of non-declared affiliated health organisations
+(1) In this section, non-declared organisation means an affiliated health organisation that is not a declared affiliated health organisation.
+(2) The provisions of Part 2 of Chapter 9 apply, with such modifications as are necessary, to and in respect of a non-declared organisation and its employees in the same way as those provisions apply to and in respect of a declared affiliated health organisation and the members of the NSW Health Service who are employed under Part 1 of Chapter 9 in connection with the declared affiliated health organisation.
