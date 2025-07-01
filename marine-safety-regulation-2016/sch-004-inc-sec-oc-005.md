@@ -1,0 +1,2 @@
+# Rule 29 of the International Regulations is modified by including the following NSW special Rule
+In addition to the requirements of Rule 29, a vessel engaged on pilotage duty between sunrise and sunset must exhibit when underway a flag that is of a size not less than 900 millimetres by 600 millimetres and is divided horizontally in 2 colours (the upper half being white and the lower half being red).
