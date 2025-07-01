@@ -1,0 +1,5 @@
+# 31K Appeals from decisions of Mental Health Review Tribunal under this Part
+(1) A restricted person may appeal to the Forensic Division of the Mental Health Review Tribunal against a decision of the Tribunal under Division 3 to refuse to approve the making of an application to the Registrar or a registering authority for registration of a change of name of the restricted person.
+(2) A restricted person may appeal against the determination of an appeal by the Forensic Division of the Mental Health Review Tribunal under this section to the Supreme Court in accordance with section 163 of the Mental Health Act 2007.
+(3) This section does not give a right of appeal against a decision of the Mental Health Review Tribunal that was made only because the Commissioner of Corrective Services refused to give concurrence under section 31D (3).
+(4) In this section, the Forensic Division of the Mental Health Review Tribunal has the same meaning as in the Mental Health and Cognitive Impairment Forensic Provisions Act 2020.

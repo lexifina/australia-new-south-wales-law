@@ -1,0 +1,2 @@
+# 31H Regulations for purposes of Division
+The regulations may make provision for or with respect to the making of applications under this Division, the giving of approvals and concurrences under this Division, consultation requirements for supervising authorities, exemptions from the requirements of any of the provisions of this Division and the modification of the application of the provisions of this Division in any specified circumstances.

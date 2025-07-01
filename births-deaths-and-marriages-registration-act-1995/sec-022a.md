@@ -1,0 +1,4 @@
+# 22A Child conceived using a donated gamete
+(1) A birth registration statement for a child may include a declaration that the child was conceived using a donated gamete and in such a case the Registrar must note in the Register that the statement included that declaration.
+(2) The Registrar must, when issuing a birth certificate to a person who is 18 years of age or more and to whom a declaration under subsection (1) relates, attach an addendum to the birth certificate noting that declaration and stating that further information may be available from the central register established under the Assisted Reproductive Technology Act 2007.
+(3) A birth certificate for a person must not include any information that indicates that the person may be a person who was conceived using a donated gamete.
