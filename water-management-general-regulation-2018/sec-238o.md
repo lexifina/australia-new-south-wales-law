@@ -1,0 +1,3 @@
+# 238O Obligations of duly qualified persons-checking
+(1) A duly qualified person who checks point-of-intake metering equipment for a water supply work for accuracy under Schedule 8, clause 9 must give a certificate to the person for whom the check is undertaken certifying whether or not the maximum permissible error of the metering equipment does or does not exceed plus or minus 5% in the field.
+(2) A duly qualified person who checks storage metering equipment for a water supply work for accuracy under Schedule 8, clause 9 must give a certificate to the person for whom the check is undertaken certifying whether or not the maximum permissible error of the metering equipment exceeds plus or minus 10mm in the field.
