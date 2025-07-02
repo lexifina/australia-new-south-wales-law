@@ -1,0 +1,5 @@
+# 26K Provisions relating to applications for review
+(1) An application for review following a failure of the Chief Commissioner to determine an objection must not be made unless the applicant has given written notice of the proposed application to the Chief Commissioner not less than 14 days before making the application.
+(2) The applicant's and respondent's cases on an application for review are not limited to the grounds of the objection.
+(3) The applicant has the onus of proving the applicant's case in an application for review.
+(4) If the applicant or respondent appeals against a decision of the Civil and Administrative Tribunal in an application for review to an Appeal Panel of the Tribunal, the applicant in the application for review continues to bear the onus of proving the applicant's case in the appeal if the Appeal Panel grants leave for the appeal to extend to a review of the merits of the decision.

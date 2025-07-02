@@ -1,0 +1,2 @@
+# 13F Chief Commissioner must repay excess
+If a public sector superannuation provider, after paying an amount to the Chief Commissioner under this Part, satisfies the Chief Commissioner that the amount so paid exceeds the amount that would have been paid to the person concerned, or is not unclaimed superannuation benefits that are required to be paid to the Chief Commissioner under this Act, the Chief Commissioner must refund to the public sector superannuation provider the amount of the excess.
