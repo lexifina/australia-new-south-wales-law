@@ -1,0 +1,3 @@
+# 63D Personal liability
+(1) A matter or thing done or omitted to be done by the Auditor-General or a member of staff of the Audit Office does not, if the matter or thing was done or omitted to be done in good faith for the purpose of executing this or any other Act, subject the Auditor-General or member personally to any action, liability, claim or demand.
+(2) For the purpose of determining whether the Crown is vicariously liable for any matter or thing done or omitted to be done by the Auditor-General or a member of staff of the Audit Office, it is declared for the avoidance of doubt that the Auditor-General and any such member is in the service of the Crown.

@@ -1,0 +1,4 @@
+# 33C Auditor-General may determine employment conditions
+(1) The Auditor-General may from time to time make determinations fixing the conditions and benefits of employment of the members of staff of the Audit Office and their salary, wages and other remuneration. Such a determination can provide for redundancy and severance payments and for remuneration packaging.
+(2) The conditions, benefits, salary, wages and other remuneration of a member of staff of the Audit Office are, except in so far as provision is otherwise made by law, such as may be fixed by a determination made under this section.
+(3) A member of staff may sue for and recover the amount of remuneration of the member that is determined under this section. For that purpose, the determination is taken to be a State industrial instrument.

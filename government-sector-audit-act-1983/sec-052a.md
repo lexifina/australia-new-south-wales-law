@@ -1,0 +1,3 @@
+# 52A Auditor-General's report to be presented to Parliament
+(1) The Auditor-General must, as soon as practicable after giving the statements and the opinion to the Treasurer under section 49(2), present the report prepared under section 52 (1) to each House of Parliament, if that House is then sitting.
+(2) If a House of Parliament is not sitting when the Auditor-General seeks to present a report to it under this section, the Auditor-General is to present the report to the Clerk of the House concerned to be dealt with in accordance with section 63C.
