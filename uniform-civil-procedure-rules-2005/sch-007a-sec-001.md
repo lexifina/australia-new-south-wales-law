@@ -1,0 +1,2 @@
+# 1 Application of code
+This code of conduct applies to any person (the Interpreter) who, whether or not for fee or any other reward, is engaged, appointed, volunteers or otherwise becomes involved in proceedings or proposed proceedings to act as an interpreter by interpreting or sight translating from any spoken or signed language (the other language) into English and from English into the other language for any person.
