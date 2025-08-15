@@ -1,0 +1,3 @@
+# 7A Meaning of "capital gain"
+(1) In this Act, capital gain, in relation to a resident's entitlement under a residence contract or the sharing of a capital gain under a village contract between the operator and a resident, means any increase between the amount that the resident paid for the residence right for the relevant premises and the amount that the next resident pays for a residence right for the same premises, less any costs associated with the subsequent sale or lease of the premises.
+(2) Fees and charges payable under a village contract are not to be included in the calculation of the capital gain.

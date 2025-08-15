@@ -1,0 +1,7 @@
+# 196C Obstruction etc of investigator
+(1) A person must not-
+(a) without reasonable excuse, refuse or fail to comply with any notice given or requirement made, or to answer any question asked, by an investigator under this Part, or
+(b) provide information or give evidence in purported compliance with a requirement made or question asked by an investigator under this Part knowing the information or evidence to be false or misleading in a material particular, or
+(c) wilfully delay, hinder or obstruct an investigator in the exercise of the investigator's functions under this Part.
+Maximum penalty-100 penalty units or imprisonment for 6 months, or both.
+(2) Despite any other provision of this Part, a natural person is excused from answering any question, providing any information, giving evidence or producing or permitting the inspection of a document in accordance with this Part on the ground that the answer, information, evidence or document may tend to incriminate the person.
