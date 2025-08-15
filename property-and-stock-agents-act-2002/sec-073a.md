@@ -1,0 +1,6 @@
+# 73A Underquoting in representations by real estate agents
+(1) A real estate agent or any person engaged by a real estate agent must not, in the course of marketing a residential property, make any statement to any person that indicates or suggests that the property may be sold for a price that is less than the estimated selling price for the property.
+(1A) A real estate agent must ensure that any person engaged by the real estate agent does not, in the course of marketing a residential property, make any statement to any person that indicates or suggests that the property may be sold for a price that is less than the estimated selling price for the property.
+(1B) It is a defence to a prosecution for an offence under subsection (1A) if the real estate agent establishes that the real estate agent took all reasonable precautions against committing the offence.
+(2) In addition to any penalty that it imposes under this section, a court may order that a person found guilty of an offence under this section is to pay to the credit of the Compensation Fund the whole or any part of any fees or commission paid to the real estate agent, or the person engaged by the real estate agent, in relation to the sale of the property concerned.
+Maximum penalty-200 penalty units.
