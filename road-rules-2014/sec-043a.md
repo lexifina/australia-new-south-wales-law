@@ -1,0 +1,7 @@
+# 43A Making a U-turn on a road related area with traffic lights
+A driver must not make a U-turn at a place with traffic lights where a road and road related area intersect unless there is a U-turn permitted sign at the place.
+Maximum penalty-20 penalty units.
+Note 1-
+Road includes a road related area-see rule 11(2).
+Note 2-
+Traffic lights is defined in the Dictionary and road related area is defined in rule 13.
