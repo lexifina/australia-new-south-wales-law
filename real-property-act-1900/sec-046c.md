@@ -1,0 +1,6 @@
+# 46C Registrar-General may register as proprietor person who is entitled to land by operation of statute
+(1) Where, by the operation of a statute, either directly or by reason of anything done in pursuance thereof-
+(a) land under the provisions of this Act became, before the commencement of the Real Property (Amendment) Act 1970, or becomes, after that commencement, vested in a person (other than the registered proprietor of the land) either alone or jointly or in common with that registered proprietor, or
+(b) land that is the site of a closed road or part thereof so became, or so becomes, vested in a person registered under this Act as the proprietor of adjoining land,
+the Registrar-General may, of the Registrar-General's own motion, and shall, at the written request (made in the approved form) of a person in whom there has been such a vesting on such evidence as appears to the Registrar-General sufficient, and after such notice (if any) to such person as the Registrar-General deems proper, register the person in whom any such land is vested as the proprietor of such estate therein as the Registrar-General deems to be appropriate, and for that purpose the Registrar-General may make such recordings in the Register and create such folios of the Register, as appears to the Registrar-General to be necessary or proper.
+(2)-(4) (Repealed)

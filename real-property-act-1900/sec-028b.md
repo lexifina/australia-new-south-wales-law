@@ -1,0 +1,2 @@
+# 28B Qualified folio may be created on primary application
+The Registrar-General may, upon a request made by the persons who have applied under Part 4 to bring any land under the provisions of this Act, and, where any mortgagee of the land has joined in the application, with the consent of that mortgagee, and upon withdrawal of the application, create, in accordance with the provisions of this Part, a qualified folio of the Register for any land the subject of the application.

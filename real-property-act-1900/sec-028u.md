@@ -1,0 +1,3 @@
+# 28U Defeasibility of limited title
+(1) Section 12 (3) (b) does not apply to or in respect of a correction made by the Registrar-General of any wrong description of parcels or of boundaries in relation to land included in a limited folio of the Register.
+(2) Where by any wrong description of parcels or of boundaries any land is incorrectly included in a limited folio of the Register, section 42 (1) does not operate to defeat any estate or interest in that land adverse to or in derogation of the title of the registered proprietor and not recorded in the folio, whether or not the registered proprietor is a purchaser or mortgagee of that land for value or derives title from such a purchaser or mortgagee.

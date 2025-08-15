@@ -1,0 +1,3 @@
+# 74LA Caveat lapses when order ceases to have effect
+(1) If the operation of a caveat is extended for a specified period by an order of the Supreme Court under this Part and no further order is made by the Court extending the operation of the caveat before the expiration of the period specified in the order, the caveat lapses on the expiration of that period.
+(2) If the operation of a caveat is extended until the further order of the Court by an order of the Supreme Court under this Part, the caveat lapses if the Registrar-General, on being satisfied that the proceedings in which the order was obtained have been finalised and that no further order is likely to be sought, makes a recording in the Register to the effect that the caveat has lapsed.

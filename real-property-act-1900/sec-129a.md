@@ -1,0 +1,2 @@
+# 129A Limits on amount recoverable generally
+The total compensation that is payable under this Part, in relation to loss or damage suffered by a person as a result of the person being deprived of land or any estate or interest in land, is limited to the market value of the land at the date on which compensation is awarded to that person plus any legal, valuation or other professional costs reasonably incurred by the person in making the claim.

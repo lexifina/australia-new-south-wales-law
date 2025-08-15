@@ -1,0 +1,6 @@
+# 13M Registration of instruments executed before creation of folio
+(1) The Registrar-General may record in a folio of the Register created for the purpose of bringing land referred to in section 13A or 13B under the provisions of this Act any transfer (other than a transfer by way of mortgage) or any mortgage, charge or covenant charge that affects the land if the transfer, mortgage, charge or covenant charge-
+(a) was executed, before the creation of the folio, by the registered proprietor for the time being recorded therein,
+(b) is in a form that is, in the opinion of the Registrar-General, an appropriate form for the transfer, mortgage or charging, as the case may be, of the land before its being brought under the provisions of this Act, and
+(c) is presented to the Registrar-General within 5 years next after the creation of the folio.
+(2) Section 13F applies to a recording of a mortgage, charge or covenant charge made pursuant to subsection (1) notwithstanding that the existence of the mortgage, charge or covenant charge is not disclosed in the records of land tenures or holdings kept by the Department, the Department of Industry or the Water Administration Ministerial Corporation.

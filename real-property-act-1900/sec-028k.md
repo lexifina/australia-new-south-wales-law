@@ -1,0 +1,2 @@
+# 28K Additional subsisting interests may be notified
+The registered proprietor of land for which a qualified folio of the Register has been created may lodge with the Registrar-General a memorandum in the approved form setting out particulars of any subsisting interest affecting that land and not already recorded in that folio, and the Registrar-General shall thereupon make such recording in that folio in respect of that subsisting interest as the Registrar-General considers appropriate.

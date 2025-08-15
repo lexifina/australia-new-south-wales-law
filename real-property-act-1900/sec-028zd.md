@@ -1,0 +1,6 @@
+# 28ZD Information and production of documents
+(1) The Registrar-General, for the purpose of bringing land under the provisions of this Act in accordance with this Part, may-
+(a) retain any deed in the possession of the Registrar-General which purports to convey or vest any estate or interest in the land,
+(b) require persons lodging any such deed to furnish a statement in the approved form supplying the particulars therein requested in relation to any such estate or interest, and
+(c) by notice in writing served on any person, require the person to produce within a period specified in the notice, being a period expiring not earlier than one month after the date of the notice, any deed or other document or the certificate which the person is able to produce and particulars whereof are specified in the notice, being a deed, document or certificate relating to any estate or interest in the land.
+(2) Any person who wilfully refuses or neglects to comply with any requirement under subsection (1) or who makes any statement pursuant to such a requirement that, to the person's knowledge, is false or misleading in a material particular shall be guilty of an indictable offence and shall be liable therefor to the penalty or punishment provided by section 141 (1).

@@ -1,0 +1,7 @@
+# 56A Postponement of mortgages
+(1) If two or more mortgages registered under this Act affect the same land, the mortgage which for the time being has priority over the other or others may, by a memorandum in the approved form registered under this Act, be postponed to the other or others in so far as the whole or a disposable part of that same land is concerned.
+(1A) The reference in subsection (1) to a disposable part of land is a reference to a lot or portion that may be disposed of without contravening section 23F of the Conveyancing Act 1919.
+(1B) Subsection (1) applies whether or not any one or more of the mortgages which affect the same land affects or affect other land.
+(2) A memorandum under this section shall not be registered when any registered mortgage intervenes between the mortgage to be postponed and the mortgage intended to have benefit of the postponement, unless the proprietor of the intervening mortgage joins in the memorandum.
+(3) The Registrar-General shall register a memorandum under this section by making such recording in the Register with respect to the memorandum as the Registrar-General thinks fit.
+(4) After registration of a memorandum under this section, the mortgages affected by the postponement shall be entitled in priority the one over the other as if they had been registered in the order in which by the memorandum they are expressed to have priority.

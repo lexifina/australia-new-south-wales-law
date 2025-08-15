@@ -1,0 +1,6 @@
+# 74D Caveator to have right to apply for an order extending the operation of the caveat
+(1) Where a caveat lodged under section 74B remains in force, the caveator may, whether or not a notice has been served on the caveator as referred to in section 74C (5), make, in the manner prescribed by rules of Court, an application to the Supreme Court for an order extending the operation of the caveat.
+(2) Subject to subsection (3), on the hearing of an application made under subsection (1), the Supreme Court may, if satisfied that the caveator's claim has or may have substance, make an order extending the operation of the caveat concerned for such period as is specified in the order or until the further order of that Court, but if that Court is not so satisfied, it shall dismiss the application.
+(3) Unless the Supreme Court has made an order dispensing with service, it may not hear an application made under subsection (1) unless it is satisfied that the primary applicant concerned has been served with a copy of the application before the hearing.
+(4) An order under subsection (2) may be made ex parte or otherwise.
+(5) When making an order under subsection (2), the Supreme Court may make such ancillary orders as it thinks fit.

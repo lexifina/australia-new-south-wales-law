@@ -1,0 +1,5 @@
+# 43A Protection as to notice of person contracting or dealing in respect of land under this Act before registration
+(1) For the purpose only of protection against notice, the estate or interest in land under the provisions of this Act, taken by a person under a dealing registrable, or which when appropriately signed by or on behalf of that person would be registrable under this Act shall, before registration of that dealing, be deemed to be a legal estate.
+(2) No person contracting or dealing in respect of an estate or interest in land under the provisions of this Act shall be affected by notice of any instrument, fact, or thing merely by omission to search in a register not kept under this Act.
+(3) Registration under Division 1 of Part 23 of the Conveyancing Act 1919 shall not of itself affect the rights of any person contracting or dealing in respect of estates or interests in land under the provisions of this Act.
+(4) Nothing in subsection (2) or (3) operates to defeat any claim based on a subsisting interest, within the meaning of Part 4A, affecting land comprised in a qualified folio of the Register.

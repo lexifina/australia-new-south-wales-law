@@ -1,0 +1,9 @@
+# 74K Power of Supreme Court to extend operation of a caveat lodged under section 74F
+(1) Where a caveator is served with a notice prepared under section 74I (1) or (2), 74J (1) or 74JA (3), the caveator may prepare, in the manner prescribed by rules of Court, an application to the Supreme Court for an order extending the operation of the caveat.
+(2) Subject to subsection (3), on the hearing of an application made under subsection (1), the Supreme Court may, if satisfied that the caveator's claim has or may have substance, make an order extending the operation of the caveat concerned for such period as is specified in the order or until the further order of that Court, or may make such other orders as it thinks fit, but, if that Court is not so satisfied, it shall dismiss the application.
+(3) Unless the Supreme Court has made an order dispensing with service, it may not hear an application made under subsection (1) unless it is satisfied that all interested parties disclosed by the notice which gave rise to the application have been served with copies of the application before the hearing.
+(4) An order under subsection (2) may be made ex parte or otherwise.
+(5) When making an order under subsection (2), the Supreme Court may make such ancillary orders as it thinks fit.
+(6) For the purposes of this section, a caveator served with a notice under section 74JA (3) (in relation to a restrictive covenant) is taken to have a claim that has substance if the caveator-
+(a) has a registered interest, or has or may have an equitable estate or interest, in land to which the benefit of the restrictive covenant is appurtenant, or
+(b) is recorded in the Register as having the right to release, vary or modify the restrictive covenant, or as being a person whose consent is required to a release, variation or modification of the restrictive covenant, and should have been so recorded.

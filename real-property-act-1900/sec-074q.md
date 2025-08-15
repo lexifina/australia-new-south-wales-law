@@ -1,0 +1,2 @@
+# 74Q Registrar-General not obliged to ensure that caveator is entitled to the subsisting estate or interest claimed in a caveat
+Except to the extent of ensuring that a caveat lodged under a provision of this Part apparently complies on its face with the requirements of this Part and with the requirements of any regulations or conveyancing rules made for the purposes of this Part, the Registrar-General is not required to be satisfied that the caveator is in fact entitled to the estate or interest claimed in the caveat or otherwise as to the validity of the caveat.

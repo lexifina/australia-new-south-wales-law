@@ -1,0 +1,2 @@
+# 74G Registrar-General to enter particulars of caveat lodged under section 74F in Register
+For the purpose only of acknowledging the receipt of a caveat lodged under section 74F, the Registrar-General shall, if satisfied that the caveat complies with the requirements made in respect of it by and under this Act, record in the Register such particulars of the caveat as the Registrar-General considers appropriate.

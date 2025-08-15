@@ -1,0 +1,11 @@
+# 28E Qualified folio may be created upon investigation by Registrar-General
+(1) The Registrar-General may cause notice to be given to any person (in this subsection referred to as the addressee) requiring the addressee, after making such inquiries as are necessary to enable the addressee to do so, within a time specified in the notice-
+(a) to furnish to the Registrar-General a statement supplying the particulars required by the notice in respect of land under common law title specified in the notice, being land the boundaries of which, in the opinion of the Registrar-General, are adequately defined without further survey definition,
+(b) to indicate in that statement whether the addressee claims a proprietary interest in the land,
+(c) where the addressee so claims a proprietary interest by virtue of an assurance or other disposition or by devolution in law-
+(i) to indicate the nature of that interest, and
+(ii) where the Registrar-General so requires, to include in the statement a list setting out in chronological order particulars of all instruments that evidence title to the interest claimed and of the existence of which the addressee is aware and to indicate in that list which of those instruments are in the addressee's possession or under the addressee's control,
+(d) where the addressee so claims a proprietary interest by the operation of any statute of limitations, to furnish to the Registrar-General such evidence in support of that claim as the addressee possesses, and
+(e) to produce to the Registrar-General such instruments, being instruments referred to in paragraph (c) (ii) that are in the possession of the addressee or under the addressee's control, as the Registrar-General may require.
+(2) Where a notice has been given under subsection (1) the Registrar-General may, in accordance with the provisions of this Part, create a qualified folio of the Register for any land specified in the notice.
+(3) Any person who wilfully refuses or neglects to comply with any requirement of a notice given to the person under subsection (1) or who makes any statement pursuant to such a notice that, to the person's knowledge, is false or misleading in a material particular shall be guilty of an indictable offence and shall be liable therefor to the penalty or punishment provided by section 141 (1).

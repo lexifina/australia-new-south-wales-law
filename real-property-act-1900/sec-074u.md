@@ -1,0 +1,2 @@
+# 74U Registrar-General to enter particulars of priority notice lodged under this Part
+For the purpose only of acknowledging the receipt of a priority notice lodged under this Part, the Registrar-General must, if satisfied that the notice complies with the requirements made in respect of it by and under this Act, record in the Register such particulars of the notice as the Registrar-General considers appropriate (including its current expiry date).

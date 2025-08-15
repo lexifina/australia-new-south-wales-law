@@ -1,0 +1,4 @@
+# 13D Bringing of other Crown land under Act
+(1) The Registrar-General may bring under the provisions of this Act any land to which this Part applies (not being land referred to in section 13A (1) or 13B (1)) by creating a folio of the Register recording "The State of New South Wales" as the proprietor of the land.
+(2) Where the Registrar-General creates a folio of the Register in respect of land to which subsection (1) applies, the Registrar-General may record in that folio such particulars relating to any dedication, reservation, lease, licence, permit, occupancy or other matter affecting that land from time to time as the Registrar-General considers appropriate.
+(3) The Registrar-General may, in respect of a lease the particulars of which are recorded in a folio of the Register pursuant to subsection (2), create a folio of the Register in the name of the person who, in the Registrar-General's opinion, is entitled to be the registered proprietor of the lease.

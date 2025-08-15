@@ -1,0 +1,3 @@
+# 28G Restriction on creation of qualified folio
+(1) Where the Registrar-General intends to bring land under the provisions of this Act by creating a qualified folio of the Register for that land and, pursuant to section 12 (1) (h) or 12 (1A), gives notice of that intention the Registrar-General shall, in the notice, specify a period (expiring not earlier than one month after the date of the notice) before the expiration of which that folio will not be created.
+(2) The Registrar-General shall not create a qualified folio of the Register if notice of intention to create the folio has been given and the period specified in the notice pursuant to subsection (1) has not expired.

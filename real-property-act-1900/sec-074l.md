@@ -1,0 +1,2 @@
+# 74L Strict compliance with formalities with respect to caveats not necessary
+If in any legal proceedings a question arises as to the validity of a caveat lodged under a provision of this Part, the court shall disregard any failure of the caveator to comply strictly with the requirements of this Part, and of any regulations or conveyancing rules made for the purposes of this Part, with respect to the form of the caveat.

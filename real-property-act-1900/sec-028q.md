@@ -1,0 +1,3 @@
+# 28Q Application of Act No 6, 1919, Part 4
+(1) To the extent that, but for this section, Part 4 of the Conveyancing Act 1919 would not apply to or in respect of land comprised in a qualified folio of the Register, it shall so apply, and shall be deemed always to have so applied after the commencement of the Real Property (Conversion of Title) Amendment Act 1967 as if the land were not land subject to the provisions of this Act.
+(2) Subsection (1) shall not operate to exclude the application, to and in respect of land comprised in a qualified folio of the Register, of such of the provisions of Part 4 of the Conveyancing Act 1919 as apply to and in respect of land under the provisions of this Act.
