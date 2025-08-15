@@ -1,0 +1,7 @@
+# 105I Review of this Division and other provisions
+(1) The Minister is to ensure that the operation of this Division and sections 54(1A) and (1B) and 213A during the 3 years after the commencement of those provisions is reviewed and that a report on the outcome of the review is made publicly available within 12 months after the end of that 3 year period.
+(2) At the same time as conducting the review under subsection (1), the Minister is to ensure that sections 54A, 55A(3), 71, 72, 79, 95, 174, 175, 187 and 202 are reviewed and a report on the outcome of that review is to be included in the report referred to in subsection (1).
+(3) The review of sections 71, 72, 95, 174 and 175 is limited to a review of the application of those sections to the rights and obligations of landlords, tenants, and co-tenants in cases where a domestic violence termination notice has been given.
+(4) The review of sections 187 and 202 is limited to a review of the application of those sections to proceedings brought under this Division or proceedings in which a party to the proceedings is in circumstances of domestic violence.
+Note.
+Sections 54(1A) and (1B), 54A, 55A(3), 71, 72, 79, 95, 174, 175, 187, 202 and 213A are provisions that relate to, or have relevance for, the rights and obligations of landlords, tenants and co-tenants in the context of a tenant, co-tenant, occupant or dependent child being a victim of domestic violence.

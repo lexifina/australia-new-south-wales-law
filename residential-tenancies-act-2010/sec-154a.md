@@ -1,0 +1,2 @@
+# 154A Termination notice for non-payment of amount payable on variation or cancellation of rent rebate
+If a tenant owes a landlord under a social housing tenancy agreement a debt arising under section 57 of the Housing Act 2001 or otherwise as a consequence of the variation or cancellation of a rent rebate, sections 87C, 88 and 89 apply as if the amount owed were rent and the failure to pay were a breach of the agreement.

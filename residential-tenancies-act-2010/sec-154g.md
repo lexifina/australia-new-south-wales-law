@@ -1,0 +1,3 @@
+# 154G Order for possession
+(1) If an order is made for termination of a social housing tenancy agreement, the order for possession must not specify a day that the order for possession is to take effect that is later than 28 days after the day on which the termination order is made unless the Tribunal is satisfied that there are exceptional circumstances justifying a later day.
+(2) The order for possession cannot be suspended for a period that would result in it taking effect later than 28 days after the day on which the termination order was made unless the Tribunal is satisfied that there are exceptional circumstances justifying a longer period of suspension.
