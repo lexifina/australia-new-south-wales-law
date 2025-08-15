@@ -1,0 +1,2 @@
+# 25A Authorisation for section 688 of Heavy Vehicle National Law (NSW) (Payments into Fund)
+For the purposes of section 688 of the Heavy Vehicle National Law (NSW), an amount equal to the regulatory component of the charges payable for the registration of a heavy vehicle as prescribed by the national regulations, is authorised to be paid into the National Heavy Vehicle Regulator Fund until Chapter 2 of that Law comes into force in New South Wales.
