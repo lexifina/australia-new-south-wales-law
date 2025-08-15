@@ -1,0 +1,5 @@
+# 6 Obligations relating to an easement for the provision of services
+(1) If an easement for services is created over or appurtenant to a stratum lot, the pipes or apparatus to which the easement relates are to be maintained in good order and repaired-
+(a) by the person or, if more than one, jointly by the persons, indicated as having responsibility for those matters in the instrument by which the easement is created or in any instrument in the approved form by which that easement is varied, or
+(b) if any such instrument does not indicate who is responsible for those matters, by the person or, if more than one, jointly by the persons entitled to an estate or interest in possession in the dominant tenement.
+(2) If a person has failed to carry out a responsibility imposed by subclause (1) on the person and at least 7 days have passed since that failure first arose, any other person entitled to an estate or interest in possession in the dominant or servient tenement may take all lawful steps necessary to ensure that the responsibility is carried out.

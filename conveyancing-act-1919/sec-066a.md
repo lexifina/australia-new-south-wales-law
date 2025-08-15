@@ -1,0 +1,7 @@
+# 66A Consents to the execution of a trust for sale
+(1) If the consent or request of more than two persons is by the disposition made requisite to the execution of a trust for sale or the exercise of a power of sale of any property, then, in favour of a purchaser, the consent of any two of such persons to the execution of the trust or the exercise of the power or to the exercise of any statutory or other powers vested in the trustees shall be deemed sufficient.
+(2) Where a person whose consent to or request for the execution of a trust for sale, or the exercise of a power of sale, of any property would, but for this subsection, be required in a disposition is a minor or is under mental disability, the person's consent or request is not, in favour of a purchaser, necessary for the execution of the trust or the exercise of the power but the trust may not be executed or the power exercised without-
+(a) where that person is a minor-the consent of the person's parent or testamentary or other guardian,
+(b) where that person is under mental disability-the consent of the person charged by law with the management and care of the person's property, or
+(c) where the relevant consent referred to in paragraph (a) or (b) cannot be obtained-the consent of the Court.
+(3) This section applies whether the trust for sale or power of sale is created or arises before or after the commencement of the Conveyancing (Amendment) Act 1930.

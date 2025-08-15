@@ -1,0 +1,2 @@
+# 4
+Such parties may introduce into or annex to any form in the first column any addition to, exception from, or qualification of the same, or may strike out or omit any words of or from such column; and a proviso which would give effect to the intention indicated by such addition, exception, qualification, striking out, or omission shall be taken to be added to the corresponding form in the second column.

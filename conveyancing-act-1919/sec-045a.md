@@ -1,0 +1,3 @@
+# 45A Reservation of easements etc in conveyances of land
+(1) In a conveyance of land a reservation of any easement, profit à prendre, right, liberty, or privilege not exceeding in duration the estate conveyed in the land, shall operate without any execution of the conveyance by the grantee of the land out of which the reservation is made, or any regrant by the grantee, so as to create the easement, profit à prendre, right, liberty, or privilege, and so as to vest the same in possession in the person (whether being the grantor or not) for whose benefit the reservation is made.
+(2) This section applies only to reservations made after the commencement of the Conveyancing (Amendment) Act 1930.

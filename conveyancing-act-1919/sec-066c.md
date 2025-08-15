@@ -1,0 +1,3 @@
+# 66C Implied trust for sale in personalty settlements
+(1) Where an instrument contains a power to invest money in the purchase of land, such land shall, unless the instrument otherwise provides, be held by the trustees on trust for sale, and the net rents and profits until sale, after keeping down costs of repairs properly payable out of income, insurance, and other outgoings, shall be paid or applied in like manner as the income of investments representing the purchase money would be payable or applicable if a sale had been made and the proceeds had been duly invested otherwise than in the purchase of land.
+(2) This section applies only to instruments coming into operation after the commencement of the Conveyancing (Amendment) Act 1930.

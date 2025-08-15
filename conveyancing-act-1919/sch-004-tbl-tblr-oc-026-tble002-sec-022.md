@@ -1,0 +1,2 @@
+# 22
+And also that the lessee may at or prior to the expiration of the lease take, remove, and carry away from the demised premises all fixtures, fittings, plant, machinery, utensils, shelving, counters, safes, or other articles upon the demised premises in the nature of trade or tenants' fixtures brought upon the demised premises by the lessee, but the lessee shall in such removal do no damage to the demised premises, or shall forthwith make good any damage which the lessee may occasion thereto.

@@ -1,0 +1,8 @@
+# 196AB Notice to produce electronic form plans and other documents
+(1) As soon as is practicable after a written demand of the Registrar-General requiring its production is served on a person who has lodged a plan or other document in electronic form for the purposes of this Act, the person is required to produce to the Registrar-General-
+(a) an electronically formatted version or a hard copy version of the plan, as directed by the Registrar-General, or the original hard copy version of the other document, in each case as it was when the plan or other document was lodged electronically, and
+(b) in the case of a plan, the approved form for signatures on which the signatures, seals, certificates, consents or other approvals required to authenticate, or to authorise the registration or recording of, the plan were endorsed.
+(2) This section applies only to a written demand served-
+(a) in the case of a plan or other document lodged for the purpose of its being registered or recorded, while the plan or other document is so lodged, or
+(b) in the case of a plan or other document that has been lodged otherwise than for the purpose of its being registered or recorded, before the period prescribed by the regulations (or any shorter period agreed to by the Registrar-General) has expired after the plan or other document was lodged, or
+(c) in the case of a plan or other document that has been registered or recorded, before the period prescribed by the regulations (or any shorter period agreed to by the Registrar-General) has expired after the plan or other document has been registered or recorded.

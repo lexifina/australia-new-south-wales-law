@@ -1,0 +1,2 @@
+# 23J Definition
+In this Division, plan of subdivision for lease purposes means a plan of subdivision (within the meaning of section 195) that is marked, in accordance with the regulations, to indicate that development consent to the subdivision has been granted under the Environmental Planning and Assessment Act 1979 subject to the condition that the subdivision is a subdivision for forestry lease purposes.

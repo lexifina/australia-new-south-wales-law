@@ -1,0 +1,21 @@
+# 88B Creation and release of easements, profits à prendre and restrictions on use of land by plans
+(1) In this section public road and road have the meanings respectively ascribed to those expressions by the Roads Act 1993.
+(2) A plan shall not be lodged with the Registrar-General for registration or recording under Division 3 of Part 23 unless it indicates in the manner prescribed in respect of the plan by regulations made under this Act or the Real Property Act 1900 or in the manner required by the lodgment rules-
+(a) what easements, if any, are intended to be created-
+(i) burdening land comprised in the plan and appurtenant to any existing roads shown on the plan, and
+(ii) appurtenant to any roads to be vested upon registration of the plan, and
+(b) what easements, if any, referred to in section 88A are intended to be created burdening land comprised in the plan and in whose favour those easements are intended to be created, and
+(c) what other easements or profits à prendre, if any, are intended to be created appurtenant to or burdening land comprised in the plan, and
+(c1) what easements or profits à prendre, if any, appurtenant to or burdening land comprised in the plan are intended to be released or partially released, and
+(d) what restrictions on the use of land or positive covenants, if any, are intended to be created benefiting or burdening land comprised in the plan.
+(3) On registration or recording under Division 3 of Part 23 of a plan upon which any easement, profit à prendre, restriction or positive covenant is indicated in accordance with paragraph (a), (b), (c) or (d) of subsection (2) then, subject to compliance with the provisions of this Division-
+(a) any easement so indicated as intended to be created as appurtenant to any existing public roads shown in the plan or any roads to be vested in the council upon registration of the plan shall be created and shall without any further assurance vest in the council by virtue of such registration and of this Act,
+(b) any easement so indicated as intended to be created pursuant to section 88A shall be created and shall without any further assurance vest in the relevant prescribed authority referred to in that section by virtue of such registration and of this Act,
+(c) any other easement, profit à prendre or any restriction on the use of land (not being a restriction as to user of the type that may be imposed under section 88D or 88E) so indicated as intended to be created shall-
+(i) be created,
+(ii) without any further assurance and by virtue of such registration or recording and of this Act, vest in the owner of the land benefited by the easement or profit à prendre or be annexed to the land benefited by the restriction, as the case may be, notwithstanding that the land benefited and the land burdened may be in the same ownership at the time when the plan is registered or recorded and notwithstanding any rule of law or equity in that behalf, and
+(iii) not be extinguished by reason of the owner of a parcel of land benefited by such easement, profit à prendre or restriction holding or acquiring a greater interest in a separate parcel of land burdened thereby, and
+(d) any restriction on the use of land or positive covenant that is of the type that may be imposed under section 88BA, 88D or 88E and is so indicated as intended to be created takes effect as if it had been so imposed.
+(3AA) On registration or recording under Division 3 of Part 23 of a plan on which a release of an easement or profit à prendre is indicated in accordance with subsection (2)(c1), the easement or profit à prendre is released.
+(3A) When creating a folio of the Register kept under the Real Property Act 1900 for land benefited by any easement, or for land burdened by any easement, restriction on the use of land or positive covenant, created by this section, the Registrar-General shall record in that folio, in such manner as the Registrar-General considers appropriate, the easement, restriction on the use of land or positive covenant, as the case may be.
+(4) Any restriction on the use of land or positive covenant created by this section shall for the purposes of this Act and the Real Property Act 1900, have effect as if it was contained in a deed.

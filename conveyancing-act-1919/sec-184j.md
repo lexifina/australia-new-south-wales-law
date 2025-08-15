@@ -1,0 +1,2 @@
+# 184J Provisions respecting certain Crown grants
+Registration under this Division of a grant by the Crown of lands or other hereditaments in New South Wales alienated before 1 January 1863, which has not been already enrolled in the Supreme Court or recorded by the Registrar-General shall have the same effect as if the grant had been recorded under section 6 (II) of the Registration of Deeds Act 1897, and that Act had not been repealed.

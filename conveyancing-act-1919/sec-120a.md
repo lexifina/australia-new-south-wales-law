@@ -1,0 +1,7 @@
+# 120A Abolition of interesse termini and as to reversionary leases
+(1) The doctrine of interesse termini is hereby abolished.
+(2) As from the commencement of the Conveyancing (Amendment) Act 1930 all terms of years shall, whether the interest is created before or after such commencement be capable of taking effect at law or in equity, according to the estate, interest, or powers of the grantor, from the date fixed for the commencement of the term, without actual entry.
+(3) A term, at a rent or granted in consideration of a fine, limited after the commencement of the Conveyancing (Amendment) Act 1930 to take effect more than twenty-one years from the date of the instrument purporting to create it, shall be void, and any contract made after such commencement to create such a term shall likewise be void.
+(4) Nothing in subsections (1) and (2) shall prejudicially affect the right of any person to recover any rent or to enforce or take advantage of any covenants or conditions, or, as respects terms or interests created before the commencement of the Conveyancing (Amendment) Act 1930, shall operate to vary any statutory or other obligations imposed in respect of such terms or interests.
+(5) Nothing in this Act affects the rule of law that a legal term, whether or not being a mortgage term, may be created to take effect in reversion expectant on a longer term, which rule is hereby confirmed.
+(6) In this section term of years includes a term for less than a year, or for a year or years and a fraction of a year or from year to year.

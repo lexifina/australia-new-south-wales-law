@@ -1,0 +1,3 @@
+# 23A Abolition of the double possibility rule
+(1) The rule of law prohibiting the limitation after a life interest to an unborn person of an interest in land to the unborn child or other issue of an unborn person is hereby abolished, but without prejudice to any other rule relating to perpetuities.
+(2) This section only applies to limitations or trusts created by an instrument coming into operation after the commencement of the Conveyancing (Amendment) Act 1930.

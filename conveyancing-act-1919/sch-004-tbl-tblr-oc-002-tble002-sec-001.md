@@ -1,0 +1,2 @@
+# 1
+That the mortgagor will keep all buildings or other improvements erected and made upon the land in as good and substantial repair as the same were in at the date of the mortgage, and that the mortgagee, the mortgagee's executors, administrators, and assigns, may at all convenient times, until such mortgage is redeemed, be at liberty, with or without surveyors or others, to enter into, and upon, such land to view and inspect the state of repair of such buildings and improvements.

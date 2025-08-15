@@ -1,0 +1,2 @@
+# 184H Mistakes in registration
+No registration of any instrument under this Division, or intended to be in pursuance of this Division, shall be defeated or made ineffectual by reason of any omission, misdescription or error in any case where the identity of the instrument in evidence with the one alleged to have been registered is established, and the substantial requirements of this Division, the regulations and the lodgment rules have been complied with.

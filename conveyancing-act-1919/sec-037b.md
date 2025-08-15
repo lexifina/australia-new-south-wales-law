@@ -1,0 +1,3 @@
+# 37B Voluntary alienation of land how far voidable as against purchasers
+(1) Every instrument (other than a will) which operates, or on registration would operate as a voluntary alienation of land, shall, if made with intent to defraud a subsequent purchaser, be voidable at the instance of a subsequent purchaser.
+(2) For the purposes of this section no such instrument (whether made before or after the commencement of the Conveyancing (Amendment) Act 1930) shall, if registered before a subsequent purchase, be deemed to have been made with intent to defraud by reason only of that purchase, or that the instrument was not made for valuable consideration.

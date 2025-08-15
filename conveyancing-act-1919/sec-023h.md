@@ -1,0 +1,2 @@
+# 23H Definitions
+In this Division, plan of subdivision for lease purposes means a plan of subdivision (within the meaning of section 195) of land within a caravan park or a manufactured home estate (within the meaning of the Local Government Act 1993) that is marked, in accordance with the regulations, so as to indicate that development consent to the subdivision has been granted under the Environmental Planning and Assessment Act 1979 subject to the condition that the subdivision is a subdivision for lease purposes.

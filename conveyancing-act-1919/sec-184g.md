@@ -1,0 +1,6 @@
+# 184G Instruments affecting land to take effect according to priority of registration
+(1) All instruments (wills excepted) affecting, or intended to affect, any lands in New South Wales which are executed or made bona fide, and for valuable consideration, and are duly registered under the provisions of this Division, the Registration of Deeds Act 1897, or any Act repealed by the Registration of Deeds Act 1897, shall have and take priority not according to their respective dates but according to the priority of the registration thereof only.
+(2) No instrument registered under the provisions of this Division or the Registration of Deeds Act 1897 shall lose any priority to which it would be entitled by virtue of registration thereunder by reason only of bad faith in the conveying party, if the party beneficially taking under the instrument acted bona fide, and there was valuable consideration given therefor.
+(3) In the case of an instrument that affects, or intends to affect, both land and an access licence under the Water Management Act 2000-
+(a) this section has effect in relation to the instrument to the extent to which the instrument affects, or intends to affect, the land, and
+(b) section 83A of the Water Management Act 2000 has effect to the extent to which the instrument affects, or intends to affect, the access licence.

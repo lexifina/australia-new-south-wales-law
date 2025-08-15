@@ -1,0 +1,2 @@
+# 66E Powers of court where trustees for sale refuse to exercise powers
+If the trustees for sale refuse to sell or to exercise any of the powers conferred by section 66D, or any requisite consent cannot be obtained, any person interested may apply to the court for a vesting or other order for giving effect to the proposed transaction or for an order directing the trustees for sale to give effect thereto, and the court may make such order as it thinks fit.

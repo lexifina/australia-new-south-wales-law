@@ -1,0 +1,2 @@
+# 21
+And the lessor doth hereby covenant with the lessee that he or she paying the rent hereby reserved, and performing the covenants hereinbefore on his or her part contained, shall and may peaceably possess and enjoy the demised premises for the term hereby granted, without any interruption or disturbance from the lessor or any other person or persons lawfully claiming by, from, or under him or her.

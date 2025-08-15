@@ -1,0 +1,11 @@
+# 3 Damage policy
+(1) In this clause, a damage policy for a building means a contract of insurance providing for the matters referred to in this clause in the event of the building being destroyed or damaged by fire, lightning or explosion, or any other occurrence specified in the policy.
+(2) A damage policy is to provide for the rebuilding of the building, or the replacement of the building by a similar building, in the event of its destruction so that the rebuilt or replacement building is no less extensive than the original building and is in a condition no worse than the original building was in when new.
+(3) A damage policy is to provide for the repair of damage to, or the restoration of the damaged part of, the building in the event of its being damaged but not destroyed, so that the repaired or restored part is no less extensive than the original part and is in a condition no worse than the original part was in when new.
+(4) A damage policy is to provide for the payment of expenses incurred in the removal of debris.
+(5) A damage policy is to provide for the remuneration of architects and other persons whose services are necessary as an incident to the rebuilding, replacement, repair or restoration.
+(6) A damage policy may provide that, instead of the work and the payments being carried out or made on the occurrence of any of the events specified in subclause (1), the liability of the insurer is, on the occurrence of any such event, limited to an amount specified in the policy that is not less than an amount calculated by adding together the following amounts-
+(a) the estimated cost, as at the date of commencement of the damage policy, of the rebuilding or replacement of the building in accordance with subclause (2),
+(b) the estimated cost, as at the date of commencement of the damage policy, of removing debris from the site of the building in the event of the building's being destroyed by an occurrence specified in the policy,
+(c) the fees (estimated as at the date of commencement of the damage policy) payable to architects and other professional persons employed in the course of the rebuilding or replacement referred to in paragraph (a),
+(d) the estimated amount by which expenditure referred to in the preceding paragraphs may increase during the period of 18 months following the date of commencement of the damage policy.

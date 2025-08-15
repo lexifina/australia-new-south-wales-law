@@ -1,0 +1,2 @@
+# 19
+And also that the lessee, or the sub-tenant for the time being, will from time to time, during the continuance of the lease at the proper times for that purpose, apply for and endeavour to obtain at the lessee's or sub-tenant's own expense all such licences as are or may be necessary for carrying the said trade or business of a licensed victualler or hotelkeeper in and upon the demised premises, and keeping the buildings open as and for a hotel.

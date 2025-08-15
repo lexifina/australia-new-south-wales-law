@@ -1,0 +1,2 @@
+# 1
+And the said lessee doth hereby for himself or herself and for his or her heirs, executors, administrators, and assigns, covenant with the said lessor that the lessee, the lessee's executors, administrators or assigns, will, during the said term, pay unto the said lessor, the lessor's executors, administrators, or assigns the rent hereby reserved, in manner hereinbefore mentioned, without any deduction whatsoever, other than any deduction which the lessee is by any Act of Parliament entitled to make.
