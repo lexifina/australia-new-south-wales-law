@@ -1,0 +1,11 @@
+# 6A Application of Act to short-term leases
+(1) Generally, Act not to apply to short-term leases Subject to subsection (2), this Act does not apply to a lease of a retail shop for a term of less than 6 months without any right for the lessee to extend the lease (whether by means of an option to extend or renew the lease or otherwise).
+(2) Exception for successive, extended or renewed leases for more than one year If the lessee has been in possession or entitled to be in possession of the retail shop without interruption for more than one year (whether by means of a series of 2 or more leases or by means of an extended or renewed lease or leases, or by any combination of those means), this Act applies to-
+(a) the lease on and from the day on which the lessee has been in possession or entitled to be in possession of the shop for more than one year, and
+(b) any succeeding lease or leases of the shop to the lessee, where possession or entitlement to possession is not interrupted.
+(3) Operation of provisions for disclosure statements Sections 11-12A do not apply to the lease referred to in subsection (2) (a), but apply to any succeeding lease referred to in subsection (2) (b).
+(4) (Repealed)
+(5) Operation of other provisions The regulations may provide that, if this Act applies to a lease because of subsection (2), specified provisions of this Act (other than section 11 and Part 2A) do not apply to or in respect of the lease or apply with prescribed modifications.
+(6) Certain interruptions do not break continuity The regulations may provide that interruptions for a prescribed period or of a prescribed kind are to be disregarded for the purposes of this section.
+(7) Holding over For the purposes of subsection (1), a provision for holding over by the lessee at the end of the term of the lease does not confer a right on the lessee to extend the lease if it operates at the discretion of each of the lessee and the lessor.
+(8) Assignment This section has effect in relation to a lease whether or not it is assigned to another person, but if it is assigned the period of possession or entitlement to possession by the assignee is taken to include any period of possession or entitlement to possession by the assignor and any previous assignor.

@@ -1,0 +1,8 @@
+# 12A Lessee not required to pay undisclosed outgoings
+(1) The lessee under a retail shop lease is not liable to pay any amount to the lessor in respect of any outgoings unless the liability to pay the amount was disclosed in the lessor's disclosure statement for the lease.
+(2) If the lessor's disclosure statement provided an estimate of the amount of any outgoing and the estimated amount is less than the actual amount, the following provisions apply-
+(a) if there was no reasonable basis for the estimate when the lessor's disclosure statement was given, the lessee's liability for any payment in respect of the outgoing is to be determined on the basis of the amount estimated (instead of the actual amount) and is to be reduced accordingly,
+(b) if the lessee's liability to pay an amount (the actual amount) in respect of an outgoing is reduced because there was no reasonable basis for an estimate of the outgoing, any liability of the lessee in respect of any subsequent increase in the outgoing is to be reduced in the same proportion as the actual amount was reduced.
+(3) This section does not apply to an outgoing in the nature of a tax, rate or levy that is imposed by or under an Act after the lessor's disclosure statement is given and that was not an outgoing of the lessor when the lessor's disclosure statement was given.
+(4) A lessee is entitled to recover from the lessor any amount paid to the lessor that the lessee was not liable to pay because of this section.
+(5) Costs associated with the advertising or promotion of a retail shop or retail shopping centre, or of any business carried on there, are not outgoings for the purposes of this section.

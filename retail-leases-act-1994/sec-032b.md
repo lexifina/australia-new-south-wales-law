@@ -1,0 +1,6 @@
+# 32B Appointment of specialist retail valuers
+(1) The Registrar may appoint specialist retail valuers on application under this Act.
+(2) The appointment of a specialist retail valuer is to be made from separate lists of nominees prepared separately by or on behalf of the persons for the time being holding or acting in the offices of President of the Australian Property Institute Limited (NSW Division), Chief Executive Officer of the Royal Institution of Chartered Surveyors, President of the Australian Valuers Institute and President of the Real Estate Institute of New South Wales Limited.
+(3) The parties to the retail shop lease concerned are to pay the costs of the application to the Registrar in equal shares.
+(4) The Registrar may attach such conditions as the Registrar considers appropriate to the appointment of a specialist retail valuer, including conditions about the fees that may be charged by the valuer in connection with valuations under this Act.
+(5) No matter or thing done or omitted to be done by a specialist retail valuer appointed by the Registrar subjects the valuer to any action, liability, claim or demand if the matter or thing was done in good faith for the purposes of a determination of rent by valuation carried out by a specialist retail valuer under a provision of this Act.

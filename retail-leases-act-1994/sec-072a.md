@@ -1,0 +1,10 @@
+# 72A Power of Tribunal to award interest
+(1) When the Tribunal orders on a retail tenancy claim or an unconscionable conduct claim that a person pay money to another person, the Tribunal may order that there is to be included, in the amount ordered to be paid, interest at a specified rate on the whole or any part of that amount for the whole or any part of the period between when the cause of action arose and when the order takes effect.
+(2) If the whole or part of an amount claimed under a retail tenancy claim or an unconscionable conduct claim is paid during proceedings in the Tribunal on the claim, prior to or without an order for payment being made in respect of the claim, the Tribunal may order that interest be paid at a specified rate on the whole or any part of the money paid for the whole or any part of the period between when the cause of action arose and the date of the payment.
+(3) The rate of interest specified by the Tribunal under this section must not exceed the rate at which interest is payable on a judgment debt of the District Court.
+(4) This section does not-
+(a) authorise the giving of interest on interest, or
+(b) apply in relation to any debt on which interest is payable as of right whether by virtue of any agreement or otherwise, or
+(c) affect the damages recoverable for the dishonour of a bill of exchange.
+(5) On a claim for the payment of money, the Tribunal may not order the payment of interest under subsection (1) in respect of the period after the date on which an appropriate settlement sum (or the first appropriate settlement sum) has been offered unless the special circumstances of the case warrant the making of such an order.
+(6) For the purposes of subsection (5), appropriate settlement sum is a sum offered by a party in settlement of a claim for the payment of money where the amount ordered to be paid (including interest accrued up to and including the date of the offer) does not exceed the sum offered by more than 10 per cent. Subsection (5) does not prevent an award of interest for the period before the settlement offer is made.
