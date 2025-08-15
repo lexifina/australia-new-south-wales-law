@@ -1,0 +1,3 @@
+# 2A Object of Act
+(1) The object of this Act is to protect the welfare of animals used in connection with research by requiring persons or organisations carrying out animal research or supplying animals for research to be authorised under this Act and by regulating the carrying out of animal research and the supply of animals for research by those persons or organisations.
+(2) Authorisations under this Act may be granted only for recognised research purposes. Recognised research purposes include purposes involving the use of animals for research, teaching, testing and the production of biological products.
