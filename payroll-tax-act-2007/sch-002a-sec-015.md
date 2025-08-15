@@ -1,0 +1,2 @@
+# 15 Application of Part
+This Part applies only to an employer who is a member of a group for which there is no designated group employer.

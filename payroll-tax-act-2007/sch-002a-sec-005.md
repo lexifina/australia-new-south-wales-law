@@ -1,0 +1,2 @@
+# 5 Application of Part
+This Part applies only to an employer who is not a member of a group.

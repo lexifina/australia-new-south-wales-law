@@ -1,0 +1,2 @@
+# 7 Payroll of employer not more than threshold
+An employer is not liable to pay payroll tax for a relevant period if the total taxable wages and interstate wages paid or payable by the employer (otherwise than as a member of a group) during that period is not more than the employer's threshold amount for that period, being the amount calculated in accordance with the following formula-
