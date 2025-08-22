@@ -1,0 +1,2 @@
+# 10A When contributions are to be paid by disposal facilities (except for trackable liquid waste)
+For the purposes of section 88(3)(b) of the Act, the occupier of a scheduled waste disposal facility must pay the contribution payable in respect of the waste (other than trackable liquid waste) received at the facility no later than 26 days after the end of the month in which the report in relation to that waste must be provided to the EPA in accordance with clause 22.

@@ -1,0 +1,2 @@
+# 25B Rebate of contribution
+The EPA may pay a rebate to the occupier of a scheduled waste facility that is not a scheduled waste disposal facility of an amount equivalent to any contribution under section 88 of the Act in respect of waste if the EPA is satisfied that the waste has been transported from the scheduled waste facility for recovery, recycling, processing or disposal to another facility that may lawfully be used as a waste facility and that the waste was received for lawful recovery, recycling, processing or disposal.
