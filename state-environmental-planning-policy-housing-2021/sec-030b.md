@@ -1,0 +1,6 @@
+# 30B Considerations before carrying out development
+(1) Before carrying out development under this division, the Aboriginal Housing Office must consider the AHO Design Guidelines NSW, published by the Aboriginal Housing Office in January 2020.
+(2) Before carrying out development under this division, the Land and Housing Corporation must consider-
+(a) Good Design for Social Housing, published by the Land and Housing Corporation, in partnership with the Government Architect NSW, in September 2020, and
+(b) the NSW Land and Housing Corporation Design Requirements, published by the Land and Housing Corporation in February 2023.
+(3) Before carrying out development under this division, Landcom must consider the Landcom Affordable Housing Design Guideline, published by Landcom, in partnership with the Government Architect NSW, in November 2023.
