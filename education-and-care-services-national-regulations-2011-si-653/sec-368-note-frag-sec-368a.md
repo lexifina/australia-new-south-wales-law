@@ -1,0 +1,5 @@
+# "368A Exceeding National Quality Standard: educational program and practice quality area
+(1) For Western Australia, an education and care service is entitled to be given an Exceeding National Quality Standard for the educational program and practice quality area if-
+(a) the service has a documented arrangement for a kindergarten programme to be provided by a school for children who are educated and cared for by the service; and
+(b) if the arrangement is generally available to children educated and cared for by the service, the service informs parents of the arrangement.
+(2) This regulation is in addition to regulation 62(2).".

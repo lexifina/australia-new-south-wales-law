@@ -1,0 +1,7 @@
+# 102AA Definition
+In this Division-
+education or early childhood service means-
+(a) a school; or
+(b) an education and care service; or
+(c) a children's service; or
+(d) any other service which provides education or care to children.

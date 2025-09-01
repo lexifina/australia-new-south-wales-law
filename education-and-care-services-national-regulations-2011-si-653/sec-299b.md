@@ -1,0 +1,2 @@
+# 299B Application of Subdivision 2
+This Subdivision applies if a service approval includes a rest period condition.
