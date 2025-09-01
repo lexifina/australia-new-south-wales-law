@@ -1,0 +1,3 @@
+# 165B Conduct capable of constituting unsatisfactory professional conduct or professional misconduct
+(1) Without limitation, conduct of a lawyer involving contravention of the local regulations, the Claim Farming Practices Prohibition Act 2025, Part 2 or the costs assessment rules is capable of constituting unsatisfactory professional conduct or professional misconduct, whether or not the lawyer has been convicted of an offence in relation to the contravention.
+(2) In this section, lawyer has the same meaning as it has in Chapter 5 of the Legal Profession Uniform Law (NSW) when used alone (see section 261 of that Law).
