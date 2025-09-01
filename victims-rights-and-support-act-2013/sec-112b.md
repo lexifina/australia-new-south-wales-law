@@ -1,0 +1,2 @@
+# 112B Provision of health information for benefit of victims of crime and family victims
+A victims rights agency is not required to comply with the Health Records and Information Privacy Act 2002, Schedule 1, clause 3, 4, 10 or 11 if compliance by the agency would prevent the disclosure of information to the responsible agency for a relevant victims register that is reasonably necessary to enable the responsible agency to comply with an obligation under an Act to notify a victim of crime or a family victim about the relevant victims register.
