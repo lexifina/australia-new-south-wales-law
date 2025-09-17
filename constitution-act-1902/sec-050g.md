@@ -5,4 +5,4 @@
 (a) to affect, in a manner prejudicial to any person (other than the State or an authority of the State), the rights of that person existing before the date of its publication, or
 (b) to impose liabilities on any person (other than the State or an authority of the State) in respect of anything done or omitted to be done before the date of its publication.
 (4) An administrative arrangements order may combine any 2 or more of the provisions authorised by this Part to be made by such an order.
-(5) If any question arises as to the employees included in any part of a Public Service agency who are transferred by an administrative arrangements order to another Public Service agency, the question may be referred to and determined by the Public Service Commissioner.
+(5) If any question arises as to the employees included in any part of a Public Service agency who are transferred by an administrative arrangements order to another Public Service agency, the question may be referred to and determined by the Secretary of the Premier's Department.
