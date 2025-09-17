@@ -1,0 +1,9 @@
+# 18D Meetings of the Rule Committee
+(1) The procedure for calling meetings of the Rule Committee and for the conduct of business at those meetings shall, subject to any procedure that is prescribed by or under this Act, be as determined by the Rule Committee.
+(2) Five members of the Rule Committee shall form a quorum and any duly convened meeting of the Rule Committee at which a quorum is present is competent to transact any business of the Rule Committee and shall have and may exercise all the powers, authorities, duties and functions of the Rule Committee.
+(3) The chairman of the Rule Committee or, in the absence of the chairman, the deputy chairman of that Committee shall preside at a meeting of that Committee.
+(4) In the absence from a meeting of the Rule Committee of both the chairman and the deputy chairman another member of the Rule Committee elected by the members present shall preside at the meeting.
+(5) The person presiding at a meeting of the Rule Committee has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
+(6) A decision supported by a majority of the votes cast at a meeting of the Rule Committee at which a quorum is present shall be the decision of that Committee.
+(7) The Chief Judge shall call the first meeting of the Rule Committee in such manner as the Chief Judge thinks fit and, subject to any decision of that Committee under subsection (1), may call other meetings of that Committee as and when the Chief Judge thinks necessary.
+(8) The Rule Committee may, if it thinks fit, transact any of its business by the circulation of papers among all the members of the Rule Committee for the time being, and a resolution in writing approved in writing by a majority of those members is to be taken to be a decision of the Rule Committee.

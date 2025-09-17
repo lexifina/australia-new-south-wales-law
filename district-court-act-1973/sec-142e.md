@@ -1,0 +1,3 @@
+# 142E Powers of registrar in relation to exercise by the Court of its special civil jurisdiction
+(1) The registrar has, in relation to the District Court in its special civil jurisdiction and to proceedings in the District Court in that jurisdiction, such of the powers, authorities, duties and functions that the Clerk of the Peace had in relation to Courts of Quarter Sessions when exercising the corresponding jurisdiction and in relation to similar proceedings in those courts before 1 July 1973 as are prescribed in the rules.
+(2) Subsection (1) is subject to the provisions of any enactment which commenced on or after 1 July 1973 and which relates to the jurisdiction referred to in that subsection.

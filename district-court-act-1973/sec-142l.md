@@ -1,0 +1,3 @@
+# 142L Special provision for evidence of exposure to noise
+Historical evidence and general medical or other expert evidence concerning exposure of workers to noise in employment with particular employers or in employment of a particular class, that has been admitted in any proceedings before the Compensation Court or before the Court in its exercise of its compensation jurisdiction, may, with the leave of the Court, be received as evidence in any other proceedings before the Court in its exercise of that jurisdiction, whether or not the proceedings are between the same parties.
+Subdivision 3 Appeals

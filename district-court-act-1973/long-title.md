@@ -1,0 +1,2 @@
+# Long title
+An Act to establish a District Court of New South Wales, to provide for the appointment of, and the powers, authorities, duties and functions of, Judges and other officers of the Court, to empower the Court to hear and dispose of certain civil and criminal proceedings; to abolish the several District Courts and Courts of Quarter Sessions; to repeal the District Courts Act 1912 and certain other Acts; to amend the Crimes Act 1900 and certain other Acts; and for purposes connected therewith.

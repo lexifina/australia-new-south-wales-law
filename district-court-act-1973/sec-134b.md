@@ -1,0 +1,3 @@
+# 134B Jurisdiction in proceedings for review of contracts
+(1) The Court shall have the same jurisdiction as the Supreme Court, and may exercise all the powers and authority of the Supreme Court, in proceedings in which relief under the Contracts Review Act 1980 is sought, where the amount or value of the consideration that has passed or would, if the contract were fully executed, pass from one contracting party to another does not exceed the amount for the time being specified in section 44 (1) (a), as determined by the Court.
+(2) Subsection (1) does not authorise the Court to exercise the powers conferred by section 10 of the Contracts Review Act 1980.
