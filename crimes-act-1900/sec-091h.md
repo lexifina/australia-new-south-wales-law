@@ -11,4 +11,4 @@ produce child abuse material includes-
 (c) enter into any agreement or arrangement to do so.
 (2) A person who produces, disseminates or possesses child abuse material is guilty of an offence.
 Maximum penalty-imprisonment for 10 years.
-(3) Proceedings for an offence under this section against a child or young person may only be instituted by or with the approval of the Director of Public Prosecutions.
+(3) Proceedings for an offence under this section against a child may only be instituted by or with the approval of the Director of Public Prosecutions.

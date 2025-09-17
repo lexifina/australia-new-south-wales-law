@@ -1,6 +1,6 @@
 # 91FA Definitions
 For the purposes of this Division-
-child means a person who is under the age of 16 years.
+child means a person who is under the age of 18 years.
 child abuse material-see section 91FB.
 data includes-
 (a) information in any form, or
@@ -10,4 +10,3 @@ deal, in relation to child abuse material, includes any of the following-
 (b) making child abuse material available for viewing, uploading or downloading,
 (c) facilitating the viewing, uploading or downloading of child abuse material.
 material includes any film, printed matter, data or any other thing of any kind (including any computer image or other depiction).
-young person means a person who is of or above the age of 16 years and under the age of 18 years.

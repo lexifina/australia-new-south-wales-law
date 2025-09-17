@@ -22,7 +22,7 @@ Aboriginal persons, the LGBTIQA+ community
 (b) particular elements of the Division.
 (6) A reference group must consist of members who have expertise in, or legal knowledge of, the subject matter for which the reference group is established.
 Examples of sectors, groups and organisations from which members of reference groups might be drawn-
-the domestic and family violence sector, the legal profession, the Judicial Commission of NSW, Aboriginal organisations and groups, the culturally and linguistically diverse sector, LGBTIQA+ groups, the disability sector, youth and childrens groups, victims and survivors of sexual or domestic and family violence and the families of victims and survivors
+the domestic and family violence sector, the legal profession, the Judicial Commission, Aboriginal organisations and groups, the culturally and linguistically diverse sector, LGBTIQA+ groups, the disability sector, youth and childrens groups, victims and survivors of sexual or domestic and family violence and the families of victims and survivors
 (7) In carrying out its purposes, the taskforce must consult with any reference group that is relevant to the particular purpose.
 (8) The taskforce must give the Minister a report in relation to its main purposes-
 (a) at least once in each 6 months during the period between the commencement of this provision and the commencement of the coercive control offence, and

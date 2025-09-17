@@ -1,6 +1,6 @@
 # 91HB Exception
 A person does not commit an offence under section 91H of possessing child abuse material if-
-(a) the possession of the material occurred when the accused person was under the age of 18 years, and
+(a) the possession of the material occurred when the accused person was a child, and
 (b) a reasonable person would consider the possession of the material by the accused person as acceptable having regard to each of the following (to the extent relevant)-
 (i) the nature and content of the material,
 (ii) the circumstances in which the material was produced and came into the possession of the accused person,

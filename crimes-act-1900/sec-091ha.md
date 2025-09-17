@@ -19,7 +19,7 @@
 (b) did not contravene any conditions of that approval.
 (9) Person producing, disseminating or possessing depictions of himself or herself It is a defence in proceedings for an offence against section 91H of possessing child abuse material if the only person depicted in the material is the accused person.
 (10) It is a defence in proceedings for an offence against section 91H of producing or disseminating child abuse material if-
-(a) the production or dissemination of the material occurred when the accused person was under the age of 18 years, and
+(a) the production or dissemination of the material occurred when the accused person was a child, and
 (b) the only person depicted in the material is the accused person.
 (11) Material that depicts a person other than the accused person is taken, for the purposes of this section, to depict only the accused person if the material would no longer be child abuse material were the depiction of the accused person to be removed.
 (12) The onus of proving under subsection (9) or (10) that material depicts the accused person and no other person lies with the accused person on the balance of probabilities.
