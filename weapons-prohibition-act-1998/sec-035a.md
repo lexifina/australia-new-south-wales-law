@@ -1,0 +1,2 @@
+# 35A Recognition of domestic violence orders
+Section 98ZJ (Recognition of disqualification to hold weapons permit) of the Crimes (Domestic and Personal Violence) Act 2007 does not apply to a recognised DVO if section 98ZH of that Act applies to the recognised DVO and requires the Commissioner to revoke a permit under this Act held by the person concerned or to refuse to issue a permit under this Act to the person concerned.
