@@ -1,0 +1,15 @@
+# 7C Power of detention to enable notice to be given
+(1) A police officer may exercise a power of detention under this section only if-
+(a) there are reasonable grounds to suspect that a person is a registrable person and that the person has not been given notice, or is otherwise unaware, of the person's reporting obligations, and
+(b) all other reasonably appropriate means of determining whether the person is a registrable person, or of notifying the person of reporting obligations, as the case requires, have been taken.
+(2) A police officer may detain the person if it is reasonably necessary to do so-
+(a) to enable a determination as to whether or not the person is a registrable person or, if the person is a registrable person, as to whether or not the person has been given notice, or is aware, of the person's reporting obligations, or
+(b) to enable the person to be given notice of those obligations if the person is not aware of them.
+(3) In detaining the person, the police officer must tell the person-
+(a) why the person is being detained, and
+(b) that the detention is authorised under this Act, and
+(c) that the person will be released immediately after the purpose of the detention is fulfilled.
+(4) The detained person-
+(a) must not be held for a period that is longer than is reasonably necessary to enable the purpose of the detention to be fulfilled, and
+(b) must not be held merely because the person has refused to sign an acknowledgement that the person has been given notice of the person's reporting obligations, and
+(c) must be released immediately after the purpose of the detention is fulfilled.
