@@ -1,0 +1,5 @@
+# 5D Distribution of income of investment pools
+(1) The Council shall, at the time the whole or any part of a fund referred to in subsection (2) (a) is withdrawn from an investment pool, and, in any event, at least once a year, distribute the income of an investment pool.
+(2) Where the Council distributes the income of an investment pool under subsection (1)-
+(a) it shall, in respect of a fund the subject of a trust which specifies that the income from the investment of that fund shall be applied for a purpose other than the general purposes of the State Library, credit the income of that investment pool to the account kept by it in respect of that fund proportionately according to the value of that fund or part at the date of distribution and the period for which that fund or part has formed part of the capital of that investment pool, and
+(b) it may, in respect of a fund, other than a fund referred to in paragraph (a), credit the income of that investment pool to any account kept by it.

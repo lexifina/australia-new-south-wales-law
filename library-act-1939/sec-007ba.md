@@ -1,0 +1,2 @@
+# 7BA Personal liability
+A matter or thing done or omitted to be done by the Council, a member of the Council, the State Librarian or a person acting under the direction of the Council or the State Librarian does not, if the matter or thing was done or omitted to be done in good faith for the purposes of executing this Act, subject a member of the Council, the State Librarian or a person so acting personally to any action, liability, claim or demand.
