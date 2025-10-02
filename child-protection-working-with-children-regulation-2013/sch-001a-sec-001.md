@@ -1,0 +1,5 @@
+# 1 Definitions
+In this schedule-
+CPI number means the Consumer Price Index (All Groups Index) for Sydney published by the Australian Bureau of Statistics in the latest published series of the index.
+fee means the application fee for a clearance under clause 17(1)(b).
+financial year means a period of 12 months commencing on 1 July.
