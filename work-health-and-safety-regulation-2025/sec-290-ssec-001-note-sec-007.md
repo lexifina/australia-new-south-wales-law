@@ -1,0 +1,12 @@
+# 7
+a sewer or sewerage or drainage works
+(2) This chapter does not apply to plant unless-
+(a) the plant is-
+(i) a ship or submarine, or
+(ii) a pipe or pipeline, or
+(iii) an underground tank, or
+(iv) designed or used to provide support, access or containment during work in connection with construction work, or
+(b) work on the plant relates to work that is carried out in connection with construction work, or
+(c) the plant is fixed plant on which outage work or overhaul work that involves or may involve work being carried out by 5 or more persons conducting businesses or undertakings at any point in time.
+Note-
+This chapter does not apply to the manufacture of plant-see section 289(3)(a).

@@ -1,0 +1,21 @@
+# 55D Control measures
+(1) A person conducting a business or undertaking must implement control measures-
+(a) to eliminate psychosocial risks so far as is reasonably practicable, and
+(b) if it is not reasonably practicable to eliminate psychosocial risks-to minimise the risks so far as is reasonably practicable.
+(2) In determining the control measures to implement, the person must have regard to all relevant matters, including-
+(a) the duration, frequency and severity of the exposure of workers and other persons to the psychosocial hazards, and
+(b) how the psychosocial hazards may interact or combine, and
+(c) the design of work, including job demands and tasks, and
+(d) the systems of work, including how work is managed, organised and supported, and
+(e) the design and layout, and environmental conditions, of the workplace, including the provision of-
+(i) safe means of entering and exiting the workplace, and
+(ii) facilities for the welfare of workers, and
+(f) the design and layout, and environmental conditions, of workers' accommodation, and
+(g) the plant, substances and structures at the workplace, and
+(h) workplace interactions or behaviours, and
+(i) the information, training, instruction and supervision given to workers.
+(3) In this section-
+workers' accommodation means premises to which the Act, section 19(4) applies.
+Note-
+WHS Act, section 19-see this regulation, section 9.
+Chapter 4 Hazardous work

@@ -1,0 +1,3 @@
+# 2
+A decision to impose a condition on a licence is a reviewable decision-see section 676.
+Subdivision 3 Issuing licence
