@@ -1,0 +1,4 @@
+# 33E Power of inspectors to require answers
+(1) An inspector may require a person whom the inspector suspects on reasonable grounds to have knowledge of matters in respect of which information is reasonably required for the purposes of this Act to answer questions in relation to those matters.
+(2) An inspector may, by notice in writing, require a corporation to nominate, in writing within the time specified in the notice, a director or officer of the corporation to be the corporation's representative for the purpose of answering questions under this section.
+(3) Answers given by a person nominated under subsection (2) bind the corporation.

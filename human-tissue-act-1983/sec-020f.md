@@ -1,0 +1,24 @@
+# 20F Restrictions as to legal proceedings involving infection by a prescribed contaminant involving blood
+(1) If-
+(a) a person has become infected with a prescribed contaminant, or a disease that is attributable to a prescribed contaminant, and
+(b) the contaminant was or may have been transmitted to that person as a result of a transfusion of blood or a blood product or of any other treatment involving the use of blood or a blood product,
+the provisions of subsection (3), (4) or (5) apply according to the circumstances of the case.
+(2) The regulations may make provision for or with respect to prescribing defences (in addition to those provided for in subsections (4) and (5)) as defences to proceedings of the kind referred to in subsections (4) and (5).
+(3) Proceedings for an offence (except an offence against section 20E) or in tort or for a breach of contract arising out of the transmission of a prescribed contaminant as referred to in subsection (1) may not be brought against the donor of the blood concerned in the infection, unless it is proved in the proceedings-
+(a) that the donor has previously been found guilty of an offence against section 20E or of an offence against a law of another State or a Territory that corresponds to that section, or
+(b) that the donor would have been found guilty of such an offence had the donor been charged with such an offence.
+(4) If proceedings for an offence or in tort or for a breach of contract arising out of the transmission of a prescribed contaminant as referred to in subsection (1) are brought against a person (other than the donor) in respect of a supply by that person, or an employee of that person, of blood or a blood product, it is a defence in those proceedings for the defendant to prove that-
+(a) at the time of supply, the defendant was an exempt supplier or an employee of an exempt supplier, and
+(b) if the defendant or an employee of the defendant removed the blood or the blood from which the blood product was derived or extracted from the donor-the defendant or that employee had, before supply, ensured that-
+(i) the donor had signed either a certificate of the kind referred to in section 20D or a similar document as to the medical suitability of the donor to provide blood for a purpose referred to in section 20C (a), and
+(ii) the blood or the blood from which the blood product was derived or extracted had been subjected to tests of a kind approved by the Minister for the purposes of this section and those tests had indicated that no prescribed contaminant was present in that blood, and
+(c) if the defendant or an employee of the defendant obtained the blood or blood product from another person-that other person was an exempt supplier or an employee of an exempt supplier, and
+(d) before the time when the blood or blood product was used for transfusion to, or for otherwise treating, the infected person, the defendant had not become aware that the blood or blood product was or was likely to have been contaminated with the prescribed contaminant concerned or, if before that time the defendant had become aware of that fact, the defendant had taken all reasonably practicable steps to ensure that the blood or blood product was not so used.
+(5) If proceedings for an offence or in tort or for a breach of contract arising out of the transmission of a prescribed contaminant as referred to in subsection (1) are brought against the person who carried out the transfusion or treatment or the employer or any supervisor of that person, it is a defence in those proceedings for the defendant to prove that-
+(a) if the defendant or an employee of the defendant removed the blood or the blood from which the blood product was derived or extracted from the donor directly, the defendant or that employee had ensured that-
+(i) the donor had signed either a certificate of the kind referred to in section 20D or a similar document as to the medical suitability of the donor to provide blood for a purpose referred to in section 20C (a), and
+(ii) the blood or the blood from which the blood product was derived or extracted had been subjected to tests of a kind approved by the Minister for the purposes of this section and those tests had indicated that no prescribed contaminant was present in that blood, and
+(b) if the defendant or an employee of the defendant obtained the blood or blood product from another person-that other person was an exempt supplier or an employee of an exempt supplier, and
+(c) when the transfusion or treatment was carried out, the defendant was not aware that the blood or blood product was or was likely to have been contaminated with the prescribed contaminant concerned.
+(6) In this section-
+prescribed contaminant means a contaminant prescribed by the regulations for the purposes of this section.

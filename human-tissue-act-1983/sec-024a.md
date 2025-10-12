@@ -1,0 +1,2 @@
+# 24A Authority to remove tissue where body of deceased child in care of State not at a hospital
+If the body of a deceased child who, immediately before his or her death, was in the care of the State, is at a place other than a hospital, the principal care officer for the child may, by instrument in writing or in any other manner prescribed by the regulations, authorise the removal of tissue from the deceased child's body for the purpose of its transplantation to the body of a living person.

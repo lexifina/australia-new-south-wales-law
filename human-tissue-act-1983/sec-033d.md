@@ -1,0 +1,8 @@
+# 33D Requirement to provide information and records
+(1) An inspector may, by notice in writing given to a person, require the person to furnish to the inspector such information or records (or both) as the inspector requires by the notice, being information that relates to the question of whether or not a provision of this Act, or any regulation made under this Act, is being or has been complied with or contravened.
+(2) A notice under this section-
+(a) must specify the manner in which information or records are required to be furnished and a reasonable time by which the information or records are required to be furnished, and
+(b) may only require a person to furnish existing records that are in the person's possession or that are within the person's power to obtain lawfully.
+(3) The inspector to whom any record is furnished under this Part may take copies of it.
+(4) If any record required to be furnished under this Part is in electronic, mechanical or other form, the notice requires the record to be furnished in written form, unless the notice otherwise provides.
+(5) This section applies whether or not a power of entry under this Act is being or has been exercised.

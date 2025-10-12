@@ -1,0 +1,11 @@
+# 31A Authority to use tissue removed for post-mortem examination for other purposes
+(1) If a designated officer for a hospital or forensic institution is satisfied, after making such inquiries as are reasonable in the circumstances in relation to a deceased person whose body is being retained at a hospital or forensic institution for the purposes of a post-mortem examination or has been the subject of a post-mortem examination at a hospital or forensic institution, that-
+(a) the person had, during the person's lifetime, given his or her consent in writing to the use after the person's death of tissue from the person's body for therapeutic, medical or scientific purposes, and
+(b) the consent had not been revoked,
+the designated officer may, by instrument in writing, authorise the use for therapeutic, medical or scientific purposes of any tissue removed from the body of the deceased person for the purposes of the post-mortem examination in accordance with the terms and any conditions of the consent.
+(2) An authority under subsection (1) is not to be given in respect of a deceased child.
+(3) If the designated officer is not satisfied as to the matters referred to in subsection (1), or the deceased person is a deceased child, and the designated officer is satisfied, after making such inquiries as are reasonable in the circumstances in relation to the deceased person, that-
+(a) the deceased person had not, during the person's lifetime, expressed an objection to the use after the person's death of tissue from the person's body for therapeutic, medical or scientific purposes, and
+(b) a senior available next of kin has given his or her consent in writing to the use of tissue from the body of the deceased person for therapeutic, medical or scientific purposes, and
+(c) there is no next of kin of the same or a higher order of the classes in paragraph (a) or (b) of the definition of senior available next of kin in section 4 (1) who objects to the use of tissue for those purposes,
+the designated officer may, by instrument in writing, authorise the use for therapeutic, medical or scientific purposes of any tissue removed from the body of the deceased person for the purposes of the post-mortem examination in accordance with the terms of the consent referred to in paragraph (b).

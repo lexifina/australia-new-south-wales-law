@@ -1,0 +1,8 @@
+# 33C Provisions relating to exercise of powers
+(1) A power conferred by this Act to enter premises, or to make an inspection or take other action on premises, may not be exercised unless the inspector proposing to exercise the power-
+(a) is in possession of a certificate of authority, and
+(b) gives reasonable notice to the occupier of the premises of the intention to exercise the power, unless the giving of notice would defeat the purpose for which it is intended to exercise the power, and
+(c) exercises the power at a reasonable time, unless it is being exercised in an emergency, and
+(d) uses no more force than is reasonably necessary to effect the entry or make the inspection.
+(2) If damage is caused by an inspector exercising a power to enter premises, a reasonable amount of compensation is recoverable as a debt owed by the Crown to the owner of the premises unless the occupier obstructed the exercise of the power.
+(3) This section does not apply to a power conferred by a search warrant issued under the Law Enforcement (Powers and Responsibilities) Act 2002.

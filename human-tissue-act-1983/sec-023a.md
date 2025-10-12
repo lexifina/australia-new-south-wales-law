@@ -1,0 +1,5 @@
+# 23A Authority to remove tissue where body of deceased child in care of State at a hospital
+If a designated officer for a hospital is satisfied, after making such inquiries as are reasonable in the circumstances in relation to a child in the care of the State who has died in the hospital or whose dead body has been brought into the hospital, that-
+(a) the deceased child had not, during the child's lifetime, expressed an objection to the removal of tissue from the child's body for the purpose of its transplantation to the body of a living person, and
+(b) the principal care officer for the child has given his or her consent in writing, or in any other manner prescribed by the regulations, to the removal of tissue from the child's body for the purpose of its transplantation to the body of a living person,
+the designated officer may, by instrument in writing, authorise the removal of tissue from the deceased child's body for the purpose of its transplantation to the body of a living person in accordance with the terms and any conditions of the consent referred to in paragraph (b).
