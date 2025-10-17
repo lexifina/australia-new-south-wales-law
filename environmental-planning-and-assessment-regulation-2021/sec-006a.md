@@ -1,0 +1,3 @@
+# 6A Determination of BASIX development cost
+(1) This section applies if a consent authority or certifier is required to determine whether development involving an alteration of a BASIX building is BASIX development.
+(2) The consent authority or certifier must use the estimated development cost, including the cost of any part of the development that is BASIX excluded development, that is specified in the development application or application for a complying development certificate, unless, in the consent authority's or certifier's opinion, the specified estimated development cost is not genuine or accurate.

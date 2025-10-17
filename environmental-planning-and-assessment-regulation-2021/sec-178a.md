@@ -1,0 +1,3 @@
+# 178A Advice about design of State significant development
+(1) The Planning Secretary may, before an environmental impact statement is prepared in relation to proposed State significant development, provide advice to the responsible person about the design of the development, including in relation to how the development gives effect to the objects of the Act specified in the Act, section 1.3(f) and (g).
+(2) In providing the advice, the Planning Secretary may consider the document Better Placed-an integrated design policy for the built environment of NSW published by the Department from time to time.
