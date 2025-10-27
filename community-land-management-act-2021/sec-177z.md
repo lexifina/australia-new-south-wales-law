@@ -1,0 +1,2 @@
+# 177Z Amendment and revocation of compliance notice
+The Secretary may amend a compliance notice if the association given the notice agrees to the amendment.

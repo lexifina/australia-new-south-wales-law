@@ -1,0 +1,2 @@
+# 177C Exercise in conjunction with other powers
+A power conferred by this division may be exercised whether or not a power of entry under Division 3 is being exercised.
