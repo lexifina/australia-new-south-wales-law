@@ -1,0 +1,21 @@
+# 132B Financing and installation of sustainability infrastructure
+(1) Before approving a sustainability infrastructure resolution, the owners corporation must consider the following-
+(a) the cost of the sustainability infrastructure and works including any expected running and maintenance costs,
+(b) who will own, install and maintain the sustainability infrastructure,
+(c) the extent to which the use of the sustainability infrastructure will be available to all or some of the lots in the strata scheme,
+(d) any matter prescribed by the regulations.
+(2) In this Act-
+sustainability infrastructure means changes to part of the common property (which includes the installation, removal, modification or replacement of anything on or forming part of that property) for any one or more of the following purposes-
+(a) to reduce the consumption of energy or water or to increase the efficiency of its consumption,
+(b) to reduce or prevent pollution,
+(c) to reduce the amount of waste sent to landfill,
+(d) to increase the recovery or recycling of materials,
+(e) to reduce greenhouse gas emissions,
+(f) to facilitate the use of sustainable forms of transport,
+Note.
+For example, installing electric vehicle charging stations.
+(g) a purpose prescribed by the regulations.
+sustainability infrastructure resolution means a resolution to do any one or more of the following that is specified to be a sustainability infrastructure resolution-
+(a) to finance sustainability infrastructure,
+(b) to add to the common property, alter the common property or erect a new structure on common property for the purpose of installing sustainability infrastructure,
+(c) to change the by-laws of the strata scheme for the purposes of the installation or use (or both) of sustainability infrastructure.

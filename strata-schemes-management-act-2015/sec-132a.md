@@ -1,0 +1,14 @@
+# 132A Agreements for supply of utilities
+(1) An agreement (including any additional term under an option to renew) for the supply of a utility with an owners corporation expires (if the term of the agreement does not end earlier or is not ended earlier for any other reason)-
+(a) at the conclusion of the first annual general meeting of the owners corporation if the agreement was executed before the meeting, or
+(b) in any other case, 3 years after the date on which the agreement commenced.
+(2) Nothing in subsection (1) prevents the owners corporation from renewing an agreement for the supply of a utility by resolution at a general meeting on or after the expiry of the agreement.
+(3) An agreement for the supply of a utility in relation to a strata scheme that commenced before the commencement of this section expires 10 years after the date on which the agreement commenced (unless the term of the agreement ends earlier or is ended earlier for any other reason).
+(4) In this section-
+utility includes-
+(a) communication services, and
+Examples of communication services-
+the installation and supply of telephone, intercom, computer data and television services
+(b) domestic services.
+Examples of domestic services-
+electricity, gas, water, waste removal, air conditioning and heating, stormwater retention and filtration, hot water, recycling, sewerage and electric vehicle charging

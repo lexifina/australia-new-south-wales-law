@@ -1,0 +1,4 @@
+# 137A Short-term rental accommodation
+(1) A by-law made by a special resolution of an owners corporation may prohibit a lot being used for the purposes of a short-term rental accommodation arrangement if the lot is not the principal place of residence of the person who, pursuant to the arrangement, is giving another person the right to occupy the lot.
+(2) A by-law has no force or effect to the extent to which it purports to prevent a lot being used for the purposes of a short-term rental accommodation arrangement if the lot is the principal place of residence of the person who, pursuant to the arrangement, is giving another person the right to occupy the lot.
+(3) In this section, short-term rental accommodation arrangement has the same meaning as in section 54A of the Fair Trading Act 1987.

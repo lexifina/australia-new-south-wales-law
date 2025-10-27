@@ -1,0 +1,2 @@
+# 213A Liability of inspectors and persons acting under direction of inspectors
+A matter or thing done or omitted to be done by a building inspector, or a person acting under the direction of a building inspector, does not, if the matter or thing was done or omitted to be done in good faith for the purpose of executing functions under this Part, subject the building inspector or person so acting personally to any action, liability, claim or demand.

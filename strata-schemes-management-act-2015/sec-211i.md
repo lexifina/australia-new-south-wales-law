@@ -1,0 +1,2 @@
+# 211I Power to require owner, occupier or owners corporation to provide assistance
+An authorised officer proposing to exercise a power of entry under this Division may, by notice in writing given to the owner or occupier of the premises or to the owners corporation, require the owner, occupier or owners corporation to provide, within a specified time and in a specified manner, any reasonable assistance and facilities that are specified in the notice.
