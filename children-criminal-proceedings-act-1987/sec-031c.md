@@ -1,0 +1,7 @@
+# 31C Statements may be admitted as evidence
+(1) For the purposes of section 31B (6), the Children's Court may, on the application of the prosecutor, consider additional evidence for the prosecution that is tendered in the form of a statement if-
+(a) the statement was included in the brief of evidence provided by the prosecutor for the purposes of Division 2 of Part 2 of Chapter 4 of the Criminal Procedure Act 1986 (as applied by section 27 of this Act), or
+(b) the statement is tendered by the prosecutor after the conclusion of the prosecution's case under section 31 and is a written statement or a statement of another kind that is permitted to be tendered in committal proceedings under Division 6 of Part 2 of Chapter 3 of the Criminal Procedure Act 1986.
+(2) A statement that is so tendered is admissible as evidence for the purposes of this section to the same extent as if it were oral evidence to the like effect given under this Division by the same person.
+(3) Any document or other thing identified in any statement admitted as evidence under this Division is, if the document or other thing is produced as an exhibit in the committal proceedings, to be treated as if it had been identified before the Children's Court by the person who made the statement.
+(4) This section does not operate to make a statement admissible if it is not admissible because of another provision made by or under this Division.

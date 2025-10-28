@@ -1,0 +1,7 @@
+# 31K False statements or representations
+(1) A person who made a written statement tendered in evidence in proceedings under this Division is guilty of an offence if the statement contains any matter-
+(a) that, at the time the statement was made, the person knew to be false, or did not believe to be true, in any material respect, and
+(b) that was inserted or caused to be inserted by the person in the statement.
+Maximum penalty-100 penalty units or imprisonment for 5 years, or both.
+(2) A person who made a representation given in evidence under this Division in the form of a recorded statement is guilty of an offence if the representation contains any matter that, at the time the representation was made, the person knew to be false, or did not believe to be true, in any material respect.
+Maximum penalty-100 penalty units or imprisonment for 5 years, or both.
