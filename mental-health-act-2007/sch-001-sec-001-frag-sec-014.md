@@ -1,0 +1,5 @@
+# 14 Mentally ill persons
+(1) A person is a mentally ill person if the person is suffering from mental illness and, owing to that illness, there are reasonable grounds for believing that care, treatment or control of the person is necessary-
+(a) for the person's own protection from serious harm, or
+(b) for the protection of others from serious harm.
+(2) In considering whether a person is a mentally ill person, the continuing condition of the person, including any likely deterioration in the person's condition and the likely effects of any such deterioration, are to be taken into account.
