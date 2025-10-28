@@ -1,0 +1,3 @@
+# 9M Presumptions about signatures on written statements
+(1) In any proceedings it is presumed, if there is no evidence to the contrary, that a signature on a written statement purporting or appearing to be the signature of the person who made it, or a person who signed on behalf of the maker, or a witness to the signing of the statement, is the signature of the person concerned.
+(2) In any proceedings it is presumed, if there is no evidence to the contrary, that a statement purporting or appearing to be signed by another person on behalf of the person who made the statement in accordance with this Division has been so signed.

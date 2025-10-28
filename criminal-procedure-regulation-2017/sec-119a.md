@@ -1,0 +1,2 @@
+# 119A Transitional provision relating to committal proceedings procedures
+The Act, as in force before its amendment by the Justice Legislation Amendment (Committals and Guilty Pleas) Act 2017, continues to apply to committal proceedings that deal with one or more offences if proceedings for any of those offences commenced before the amendments made to Part 3 of the Act by that amending Act commenced.

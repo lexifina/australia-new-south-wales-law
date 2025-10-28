@@ -1,0 +1,2 @@
+# 119B Transitional provision relating to case management of WHS prosecutions in District Court
+Sections 247A, 247B, 247C and 247E of the Act, as amended by the Stronger Communities Legislation Amendment (Miscellaneous) Act 2020, extend to proceedings commenced in the District Court before 31 May 2021, other than proceedings that before 31 May 2021 were listed by the Court for trial or sentencing hearing.

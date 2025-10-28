@@ -1,0 +1,7 @@
+# 9E Availability of accused persons to give instructions for purposes of case conference
+(1) An accused person is to be available to give instructions to the accused person's legal representative during a case conference.
+(2) The legal representative of an accused person must, if appropriate to assist the accused person, ensure that a support person or an interpreter is available when the accused person is giving instructions to the accused person's legal representative during a case conference.
+(3) The legal representative of an accused person, and any person in whose custody any such accused person is kept, has a duty to ensure, so far as is reasonably practicable, that the accused person is available to give instructions during a case conference.
+(4) An accused person who is not in custody is taken to be available to give instructions if the person is able to give instructions in person or, if that is not reasonably practicable or is not appropriate for any reason, by audio visual link or telephone.
+(5) An accused person who is in custody is taken to be available to give instructions if the person is able to give instructions in person or by audio visual link or, if that is not reasonably practicable, by telephone.
+(6) A failure by a person to comply with this clause does not affect the validity of anything done or omitted to be done in or for the purposes of the committal proceedings.
