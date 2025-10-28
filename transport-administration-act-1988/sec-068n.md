@@ -1,0 +1,9 @@
+# 68N Senior executives and managers-termination of employment
+(1) The Transport Secretary may terminate the employment of a Transport Service senior executive or senior manager at any time, for any or no stated reason and without notice.
+Note.
+The regulations also provide for the termination of the employment of members of the Transport Service senior executive on disciplinary grounds.
+(2) A Transport Service senior executive or senior manager whose employment is terminated under this section is entitled to such compensation (if any) as may be provided in the contract of employment of the executive or manager (and to no other compensation or entitlement for the termination of employment other than superannuation entitlements).
+(3) A Transport Service senior executive or senior manager whose employment is so terminated is not to be employed in the public sector during the period specified in the contract of employment to which any such compensation relates unless arrangements have been made for a refund of the proportionate amount of the compensation.
+(4) The regulations under the Government Sector Employment Act 2013 may make provision relating to the calculation of the proportionate amount of a payment to be refunded under subsection (3).
+(5) A Transport Service senior executive or senior manager whose employment is terminated under the provisions of the regulations under this Part (or other statutory provisions) relating to the termination of the employment of persons employed in the Transport Service in connection with disciplinary action is not entitled to compensation under this section. Those provisions do not apply to a termination of employment under this section.
+(6) For the purposes of this section, employment of a former executive or manager in the public sector and public sector have the same meanings as in section 41 of the Government Sector Employment Act 2013.

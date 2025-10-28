@@ -1,0 +1,2 @@
+# 16 First meeting
+The Minister may call the first meeting of the Board in such manner as the Minister thinks fit.

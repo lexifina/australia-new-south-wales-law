@@ -1,0 +1,4 @@
+# 38D Other land development functions of Sydney Metro
+(1) Sydney Metro may carry out, finance, manage or otherwise participate in development for residential, retail, commercial, industrial, mixed use, community, public open space or recreational purposes on land in the locality of a metro station, depot or stabling yard, or a proposed metro station, depot or stabling yard, being the land shown on a map adopted by an order of the Minister for Planning, made with the concurrence of the Minister, published in the Gazette for the purposes of this section.
+(2) Sydney Metro may, for the purposes referred to in subsection (1), acquire land by agreement (including an interest in land).
+(3) The imposition or conferral of a function on Sydney Metro by this section does not limit the imposition or conferral of a function by another provision of this Division.

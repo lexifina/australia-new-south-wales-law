@@ -1,0 +1,4 @@
+# 8K Inter-relationship of Division with law relating to local government
+(1) If the provisions of this Division are inconsistent with the provisions of the Local Government Act 1993 (or any statutory rule made under any Act), the provisions of this Division prevail.
+(2) Nothing in this Division applies to or in respect of any sign, mark, structure or device containing or relating to a requirement or direction, contravention of which gives rise to an offence under the Local Government Act 1993 (or any regulation under that Act), but not under any other Act or regulation.
+(3) Any person who or body which would not, but for this subsection, have the power to co-operate with, or do or perform any act or thing in conjunction with, TfNSW is authorised by this section so to co-operate or do or perform the act or thing.

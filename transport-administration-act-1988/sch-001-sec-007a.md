@@ -1,0 +1,2 @@
+# 7A Fare revenue from public passenger services
+If authorised by, or under arrangements or contracts made under, this Act, the Passenger Transport Act 1990 or the Passenger Transport Act 2014, TfNSW may collect, manage and deal with any fare revenue received in respect of the provision of public passenger services by RailCorp, Sydney Trains, NSW Trains, the State Transit Authority, Sydney Metro, Sydney Ferries or any other operator of a public passenger service.

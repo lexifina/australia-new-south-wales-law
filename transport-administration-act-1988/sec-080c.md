@@ -1,0 +1,4 @@
+# 80C Payments of subsidies to electricity distributors for removal or relocation of electricity structures
+(1) TfNSW may, with the approval of the Minister, grant subsidies to an electricity distributor for or towards the cost of removing or relocating electricity structures erected, within the distribution district of the distributor, on or adjacent to public roads, being electricity structures which TfNSW has determined require removal or relocation for the purposes of traffic safety.
+(2) Before granting any such subsidy, TfNSW may require an electricity distributor referred to in subsection (1) to enter into an agreement with TfNSW to secure the carrying out of the purposes for which, and the terms and conditions upon and subject to which, the subsidy is granted.
+(3) In this section, electricity distributor means a distributor under the Electricity Supply Act 1995.

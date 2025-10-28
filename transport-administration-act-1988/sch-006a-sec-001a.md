@@ -1,0 +1,2 @@
+# 1A Application to ARTC rail infrastructure facilities under ARTC arrangements
+Clauses 2E-12 and 15 of this Schedule, and any regulations made under clause 15 of this Schedule, do not apply to or in respect of land, rail infrastructure facilities or buildings to the extent that an ARTC arrangement entered into with a rail authority provides that specified provisions or all of those provisions do not apply to or in respect of ARTC and the rail authority in relation to that land or those facilities or buildings.

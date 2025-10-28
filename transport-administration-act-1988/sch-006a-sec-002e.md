@@ -1,0 +1,3 @@
+# 2E Powers relating to railway land, railway buildings and rail infrastructure facilities
+(1) An infrastructure owner or a building owner may, subject to this Act, inspect, operate, repair, replace, maintain, remove, extend, expand, alter, connect, disconnect, improve or do any other thing that is necessary or appropriate to any of its rail infrastructure facilities or railway buildings that are situated on railway land or on or in a railway building or rail infrastructure facility to ensure that, in the opinion of the owner, the rail infrastructure facilities or railway buildings are established, held and managed in an efficient, safe and reliable manner.
+(2) Subclause (1) does not permit ARTC to extend or expand rail infrastructure facilities.

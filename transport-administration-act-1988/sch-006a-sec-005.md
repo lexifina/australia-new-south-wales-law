@@ -1,0 +1,4 @@
+# 5 Party to access agreement with owner authorised to enter railway land, railway buildings or rail infrastructure facilities
+(1) A person who is a party to an access agreement is authorised to have access to the rail infrastructure facilities to which the access agreement relates, even if the facilities are situated in or on railway land, or to a railway building or rail infrastructure facility that is not vested in, owned by or managed or controlled by the person, if access is exercised in accordance with and as permitted by the access agreement.
+(2) A person to whom this clause applies does not require a certificate of authority under this Schedule to enter the railway land or railway building or rail infrastructure facility concerned.
+(3) In this clause, access agreement means an agreement, entered into by the owner pursuant to the current NSW rail access undertaking, that permits a person to operate rolling stock on the NSW rail network.

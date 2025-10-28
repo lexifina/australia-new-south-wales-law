@@ -1,0 +1,8 @@
+# 88G Severance of rail infrastructure facilities and from leased or licensed land
+(1) Rail infrastructure facilities owned by TAM, Sydney Metro, NSW Trains, Sydney trains or TfNSW that are subject to an ARTC lease or licence or situated on land subject to an ARTC lease or licence, or rail infrastructure facilities installed or established by ARTC for the purposes of an ARTC lease or licence, are taken to be severed from the land on which they are situated and may be dealt with as personal property separate from the land.
+(2) Station facilities owned by TAM, Sydney Metro, NSW Trains, Sydney trains or TfNSW that are situated on land subject to an ARTC lease or licence are taken to be severed from the land on which they are situated and may be dealt with as personal property separate from the land.
+(3) The severance of a facility from land under this section-
+(a) does not affect the right of the facility to be situated on that land, and
+(b) does not affect any right to drain water or sewage from the facility across and through the land or to use any means of drainage of water or sewage from the facility across and through the land.
+(4) This section does not have effect in respect of rail infrastructure facilities or station facilities on land subject to an existing lease or licence by the rail authority as lessor when an ARTC lease or licence is entered into, while any such existing lease or licence, or any renewal of that lease or licence, remains in force.
+(5) To avoid doubt, a reference in subsection (4) to a lease or licence does not include a reference to a rail access agreement.

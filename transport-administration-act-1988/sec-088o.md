@@ -1,0 +1,3 @@
+# 88O Obligations and rights under Protection of the Environment Operations Act 1997
+(1) This section applies to railway systems activities referred to in Schedule 1 to the Protection of the Environment Operations Act 1997 that are carried out separately by ARTC and a rail authority in or on land that is subject to an ARTC lease or licence or is adjacent to any such land.
+(2) For the purposes of that Act, both the rail authority and ARTC are taken to be occupiers of the land concerned and are each required to hold a licence under that Act authorising the railway systems activity carried out by each of them on the land.

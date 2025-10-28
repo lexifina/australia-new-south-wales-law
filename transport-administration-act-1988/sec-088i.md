@@ -1,0 +1,12 @@
+# 88I Transfer of assets, rights or liabilities of rail authority
+(1) The Minister may, by order in writing, direct that assets, rights or liabilities of a rail authority, or any subsidiary of a rail authority, that are specified or referred to in the order, be transferred to ARTC.
+(2) The Minister may, by further order under this section, further direct the transfer to a rail authority, or a subsidiary of a rail authority, a State owned corporation, the Crown or any other person or body acting on behalf of the Crown of any assets, rights or liabilities previously transferred under this section.
+(3) An order under subsection (1) or (2) may be made only-
+(a) in relation to assets, rights or liabilities concerning, or relating to, an ARTC arrangement or a proposed ARTC arrangement, and
+(b) with the consent of ARTC or in accordance with an ARTC arrangement.
+(4) On termination of an ARTC arrangement, the Minister may, by order in writing, direct that rail infrastructure facilities (within the meaning of section 3) established by ARTC under the arrangement, and any related assets, rights or liabilities of ARTC, that are specified or referred to in the order, be transferred to a rail authority, a State owned corporation, the Crown or any other person or body acting on behalf of the Crown.
+(5) In the case of rail infrastructure facilities (including any related assets, rights or liabilities) used by ARTC partly for the purposes of an ARTC arrangement and partly for other business purposes, an order under subsection (4) must, if the rail infrastructure facilities were predominantly used for the purposes of the ARTC arrangement, be made subject to the conferral on ARTC of a continuing right to the use and benefit of those facilities for those other purposes.
+(6) An order under subsection (4) may transfer rail infrastructure facilities (including any related assets, rights or liabilities) that are predominantly used by ARTC for business purposes other than the purposes of an ARTC arrangement only to the extent necessary to confer on a rail authority an irrevocable right to the use and benefit of those facilities for the purposes of its rail operations.
+(7) An order under this section may be subject to specified terms and conditions.
+(8) Schedule 4 applies to the transfer of assets, rights and liabilities under this section.
+(9) Words and expressions used in this section have the same meanings as they have in Schedule 4.

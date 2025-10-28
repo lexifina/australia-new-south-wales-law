@@ -1,0 +1,7 @@
+# 6 Removal of things interfering with underground rail facilities
+(1) A person who places a structure or object in contact with or near an underground rail facility owned by a rail authority in a manner that interferes with the operation of the facility, must, on receiving a written notice from the rail authority requiring the removal of the structure or object-
+(a) remove the structure or object within the period specified in the notice, and
+(b) compensate the rail authority for all loss or damage suffered by the rail authority as a result of the placement of the structure or object in contact with or near the facility.
+(2) If a person fails to comply with a notice under this clause within the period specified in the notice or within any extension of that period allowed by the rail authority in writing, the rail authority may remove the structure or object and recover from the person the cost of the removal together with compensation for all loss or damage referred to in subclause (1).
+(3) A rail authority in whom an underground rail facility is vested, or who manages or controls an underground rail facility, has the same functions under this clause as any other rail authority that is the owner of the facility for the purposes of this Schedule.
+(4) This clause does not apply to or in respect of underground rail facilities to the extent that an ARTC arrangement provides that any specified provisions of this clause do not apply to or in respect of ARTC and a rail authority in relation to those facilities.

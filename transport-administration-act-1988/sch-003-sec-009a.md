@@ -1,0 +1,2 @@
+# 9A Personal liability
+A matter or thing done or omitted to be done by the Advisory Board, a member of the Advisory Board or a person acting under the direction of the Advisory Board does not, if the matter or thing was done or omitted to be done in good faith for the purpose of executing this or any other Act, subject a member or a person so acting personally to any action, liability, claim or demand.
