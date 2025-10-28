@@ -1,0 +1,2 @@
+# 109E Conduct money
+A person to whom a subpoena issued at the request of a party is addressed is not required to attend the Children's Court, or to produce any document or thing on any day on which attendance is required, unless an amount sufficient to meet the reasonable expenses of complying with the subpoena in relation to that day is paid or tendered to the person at the time of service of the subpoena or not later than a reasonable time before that day.

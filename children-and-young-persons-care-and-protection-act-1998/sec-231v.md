@@ -1,0 +1,3 @@
+# 231V Disclosure of information
+(1) Despite anything to the contrary in this Act, the Secretary may disclose to an interstate officer any information that has come to his or her notice in the exercise of functions under this Act if the Secretary considers that it is necessary to do so to enable the interstate officer to exercise functions under a child welfare law or an interstate law.
+(2) Any information disclosed to the Secretary under a provision of a child welfare law or an interstate law that substantially corresponds to subsection (1) must be taken for the purposes of any provision of this Act relating to the disclosure of information to have been information given directly to the Secretary in New South Wales instead of to an interstate officer.

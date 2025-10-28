@@ -1,0 +1,2 @@
+# 29A Person who makes report is not prevented from helping child or young person
+For avoidance of doubt, it is declared that a person who is permitted or required by this Part to make a report is not prevented, by reason only of having made that report, from responding to the needs of, or discharging any other obligations in respect of, the child or young person the subject of the report in the course of that person's employment or otherwise.

@@ -1,0 +1,2 @@
+# 245E Co-ordination of services
+Prescribed bodies are, in order to effectively meet their responsibilities in relation to the safety, welfare or well-being of children and young persons, required to take reasonable steps to co-ordinate decision-making and the delivery of services regarding children and young persons (including, where applicable, in relation to provision of prioritised access to appropriate services to children or young persons at risk of significant harm).

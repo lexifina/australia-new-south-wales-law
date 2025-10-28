@@ -1,0 +1,8 @@
+# 79C Financial assistance for children and young persons in respect of whom guardianship orders are made
+(1) The Secretary may, after the making of the guardianship order, continue to provide financial assistance to the guardian of a child or young person who, immediately before the guardianship order was made, was being provided with financial assistance in respect of the child or young person under section 161 as if (for this purpose only) the child or young person were still in out-of-home care.
+(2) The Secretary may grant financial assistance to the guardian of a child or young person in respect of whom a guardianship order is made who was not being provided with financial assistance under section 161 before the guardianship order was made-
+(a) if the Secretary considers it is appropriate to provide the financial assistance for the purpose of achieving the objects of the Act, or
+(b) in such other circumstance as may be prescribed by the regulations.
+(3) Without limiting subsection (2), financial assistance may take the form of a grant, an allowance or a refund of expenditure, or any other form of financial assistance that the Secretary may approve generally, or in a particular case or class of cases.
+(4) A guardian who is provided with financial assistance under this section must make an annual report to the Secretary (in the form required by the Secretary) concerning such matters as may be required by the Secretary relating to the provision of that financial assistance.
+(5) The provision of financial assistance under this section is subject to conditions prescribed by the regulations.

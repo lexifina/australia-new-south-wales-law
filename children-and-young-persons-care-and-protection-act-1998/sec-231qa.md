@@ -1,0 +1,6 @@
+# 231QA Effect of registration
+(1) A child protection order registered in the Children's Court under this Part is taken for all purposes (except for the purposes of appeal) to be a care order of the relevant type made by the Children's Court on the day on which it is registered and it may be varied or rescinded, or a breach of it dealt with, under this Act accordingly.
+(2) An interim order registered in the Children's Court under this Part is taken for all purposes to be an interim care order made by the Children's Court under this Act having effect, from the day on which it is registered, for the period specified in the order.
+(3) An interim order registered in the Children's Court under this Part cannot be varied under this Act, but nothing in this subsection prevents an application for a new interim care order being made under this Act and, if the application is granted, the interim order being rescinded.
+(4) Despite subsection (3), a breach of an interim order registered in the Children's Court under this Part may be dealt with under this Act in the same way as a breach of any other interim care order.
+(5) If an order under an interstate law to transfer a child protection proceeding to New South Wales is registered under this Part, the proceeding is taken to have been commenced in the Children's Court on the day on which the order is registered.

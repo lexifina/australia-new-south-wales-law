@@ -1,0 +1,3 @@
+# 256A Children's Court may dispense with service
+(1) If the Children's Court is satisfied that an unacceptable threat to the safety, welfare or well-being of a child or young person or a party to any proceedings would arise if any notice or other instrument required or authorised by this Act was given to, or any document served on, a particular person, the Children's Court may make an order dispensing with the giving of notice or instrument to, or service on, the person concerned.
+(2) An order under this section excuses every other person from the requirement to comply with any provision of this Act that requires notification to, or service on, that person.

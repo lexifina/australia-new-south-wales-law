@@ -1,0 +1,5 @@
+# 245C Provision of information
+(1) A prescribed body (the provider) may provide information relating to the safety, welfare or well-being of a particular child or young person or class of children or young persons to another prescribed body (the recipient) if the provider reasonably believes that the provision of the information would assist the recipient-
+(a) to make any decision, assessment or plan or to initiate or conduct any investigation, or to provide any service, relating to the safety, welfare or well-being of the child or young person or class of children or young persons (including, where applicable, to provide prioritised access to any service to a child or young person or class of children or young persons at risk of significant harm), or
+(b) to manage any risk to the child or young person (or class of children or young persons) that might arise in the recipient's capacity as an employer or designated agency.
+(2) Information may be provided under this section regardless of whether the provider has been requested to provide the information.

@@ -1,0 +1,4 @@
+# 109G Production by non-party
+(1) If the person to whom a subpoena for production is addressed is not a party to the proceedings, the subpoena is, unless the Children's Court otherwise orders, to permit the person to produce the document or thing to the Court not later than the day before the first day on which the person's attendance is required, instead of attending and producing the document or thing as required by the subpoena.
+(2) The rules may make provision for or with respect to the production of documents or things produced to the Children's Court under subsection (1), and the return of the document or thing, and any related matters.
+(3) Nothing in this Part affects the operation of Division 1 (Requests to produce documents or call witnesses) of Part 4.6 of Chapter 4 of the Evidence Act 1995 to the extent (if any) that Division 1 is, under section 93, applicable in proceedings in the Children's Court.

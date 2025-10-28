@@ -1,0 +1,3 @@
+# 99C Child 12 or older and young person presumed capable of giving proper instructions
+(1) There is a rebuttable presumption that a child who is not less than 12 years of age, or a young person, is capable of giving proper instructions to his or her legal representative. This presumption is not rebutted merely because the child or young person has a disability.
+(2) However, the Children's Court may, on the application of a legal representative for a child who is not less than 12 years of age, or a young person, make a declaration that the child or young person is not capable of giving proper instructions.

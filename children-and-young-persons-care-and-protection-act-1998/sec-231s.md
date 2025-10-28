@@ -1,0 +1,4 @@
+# 231S Effect of registration of transferred order
+(1) On an order being registered in a participating State under an interstate law, the child protection order made by the Children's Court under this Act ceases to have effect.
+(2) Despite subsection (1), an order that has ceased to have effect by force of that subsection is revived if the registration of the child protection order transferred from New South Wales is revoked in the participating State under the interstate law.
+(3) The period for which a child protection order is revived is the balance of the period for which it would have remained in force but for the registration of the transferred order.

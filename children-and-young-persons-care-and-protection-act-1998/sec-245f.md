@@ -1,0 +1,2 @@
+# 245F Restriction on use of information provided under this Chapter
+If any information is provided to a prescribed body under this Chapter, the prescribed body must not, except as otherwise required or permitted by any law, use or disclose the information for any purpose that is not associated with the safety, welfare or well-being of the child or young person (or class of children or young persons) to whom the information relates.
