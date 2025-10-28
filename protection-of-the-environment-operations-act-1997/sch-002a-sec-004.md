@@ -1,0 +1,3 @@
+# 4 Use of enforceable undertakings by EPA
+(1) The EPA may accept a written undertaking given by a person for the purposes of section 253A of this Act in connection with a matter in relation to which the EPA has a function under this Schedule, and accordingly the provisions of section 253A apply to any such undertaking.
+(2) This clause does not prevent the acceptance of similar undertakings by a person or body (other than the EPA) under another Act under which a petroleum authority is granted or issued, but if there is a direct inconsistency between a written undertaking accepted by the EPA and a similar undertaking accepted by a person or other body under that other Act, the undertaking accepted by the EPA prevails to the extent of the inconsistency.

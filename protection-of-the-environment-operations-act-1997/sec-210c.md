@@ -1,0 +1,4 @@
+# 210C Forfeiture of motor vehicles or vessels by order of court
+(1) The Land and Environment Court may order the forfeiture of a motor vehicle or vessel that has been seized under this Part in connection with a repeat waste offence if the Court convicts a person of the offence.
+(2) The Land and Environment Court is not to order the forfeiture of the motor vehicle or vessel if it is satisfied that the motor vehicle or vessel was used without the authority of its owner or that its owner did not have reasonable cause to suspect that the motor vehicle or vessel would be used to commit the offence.
+(3) To avoid doubt, a forfeiture order is not a monetary penalty for the purposes of the provision of this Act that provides for the maximum monetary penalty that may be imposed by a court in proceedings for a repeat waste offence.

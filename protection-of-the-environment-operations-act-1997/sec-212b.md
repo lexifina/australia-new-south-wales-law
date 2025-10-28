@@ -1,0 +1,2 @@
+# 212B Extraterritorial application
+A notice may be given under this Chapter to a person in respect of a matter even though the person is outside the State or the matter occurs or is located outside the State, so long as the matter affects the environment of this State.

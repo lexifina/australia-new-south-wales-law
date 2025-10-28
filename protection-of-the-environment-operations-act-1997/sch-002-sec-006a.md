@@ -1,0 +1,4 @@
+# 6A Fuel and fuel burning equipment
+(1) Prohibiting or regulating the sale, distribution, use, operation and maintenance of fuel burning equipment, and equipment for industrial plant, including control equipment.
+(2) Prohibiting or regulating the storage, sale, distribution or use of fuels or volatile organic liquids and the sale, distribution, use, operation and maintenance of fuel tanks and other equipment used in connection with the sale or distribution of fuels or volatile organic liquids.
+(3) Other matters incidental to or necessary for prohibiting or regulating the matters referred to in subclauses (1) and (2), including requirements with respect to the quality and composition of fuels or volatile organic liquids, the emission of excessive air impurities and the fitting and control of pollution control devices.

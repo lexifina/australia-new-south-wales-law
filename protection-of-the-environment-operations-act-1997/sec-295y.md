@@ -1,0 +1,7 @@
+# 295Y Environmental monitoring programs
+(1) The EPA may, on its own initiative, and must, at the direction of the Minister, investigate the need for a program (referred to in this Part as an environmental monitoring program) to monitor the impact on the environment and human health of activities or works authorised or controlled by licences, including pollution resulting from those activities or works.
+(2) If, after completing an investigation, the EPA is satisfied that an environmental monitoring program is required, it may develop and implement such a program.
+(3) If a proposed environmental monitoring program relates to licensed activities or works within the portfolio responsibility of the Minister administering the Biosecurity Act 2015 or the Minister administering the Transport Administration Act 1988, the Minister is to consult with that Minister about the development and implementation of the proposed program.
+(4) The EPA may enter into an arrangement with a person or body in respect of the exercise, by the person or body on behalf of the EPA, of the EPA's functions in relation to an environmental monitoring program.
+(5) The regulations may make provision for or with respect to environmental monitoring programs, including the requirements for the EPA to review and report on any such program.
+(6) The EPA is to obtain, and take into consideration, advice from one or more independent persons or bodies with relevant technical and health expertise as to the cost effectiveness of any environmental monitoring program.
