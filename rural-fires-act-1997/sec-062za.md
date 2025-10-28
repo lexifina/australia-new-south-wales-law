@@ -1,0 +1,10 @@
+# 62ZA Appeal against notices
+(1) A person on whom notice of a decision on an objection to a notice under section 62Z has been served may appeal in writing to the Commissioner within 28 days of the service of the notice stating the grounds of appeal.
+(2) The Commissioner must-
+(a) consider the appeal within a reasonable time, and
+(b) take into account all relevant circumstances, including the matters referred to in section 62Z (2).
+(3) After considering the appeal, the Commissioner must-
+(a) confirm the notice, or
+(b) vary the notice in any way the Commissioner thinks fit, or
+(c) cancel the notice.
+(4) If the Commissioner confirms or varies the notice, the Commissioner must give the person who lodged the appeal notice of his or her decision and must specify a time after the notice is given within which the person must comply with the notice as confirmed or varied.

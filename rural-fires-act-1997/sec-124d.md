@@ -1,0 +1,4 @@
+# 124D Application of Biodiversity Conservation Act 2016 and Part 5A of Local Land Services Act 2013
+(1) Division 1 (Offences) of Part 2 of the Biodiversity Conservation Act 2016 and section 60N (Unauthorised clearing of native vegetation in regulated rural areas-offence) of the Local Land Services Act 2013 do not apply to any emergency fire fighting act or bush fire hazard reduction work (including emergency bush fire hazard reduction work) that is done or carried out by a fire fighting authority under this Act.
+(1A) Division 2 (Stop work orders) of Part 11 of the Biodiversity Conservation Act 2016 does not apply to, or in respect of, the doing of any emergency fire fighting act.
+(2) In this section, fire fighting authority includes the staff of a fire fighting authority and volunteer rural fire fighters acting in that capacity.
