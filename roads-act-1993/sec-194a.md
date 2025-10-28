@@ -1,0 +1,2 @@
+# 194A Entitlement of native title holders to just compensation
+If the compensation that is payable under this Part to a person from whom native title rights and interests in relation to land have been acquired does not amount to compensation on just terms within the meaning of the Commonwealth Native Title Act, the person concerned is entitled to such additional compensation as is necessary to ensure that the compensation is paid on that basis.

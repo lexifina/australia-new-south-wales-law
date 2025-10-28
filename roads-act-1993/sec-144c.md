@@ -1,0 +1,4 @@
+# 144C Consent for works and other action relating to light rail system
+(1) This section applies to and in respect of the carrying out or use of works or the taking of other action in connection with the development or operation of a light rail system that cannot be carried out, used or undertaken without the prior consent or approval of a roads authority under this Act.
+(2) In the case of work or other action to which this section applies, the consent or approval of the relevant roads authority (if that roads authority is not TfNSW) is not required but the consent or approval of TfNSW must be obtained before the work is carried out or used or the other action undertaken. The provisions of this Act apply to the granting of any such consent or approval as if the relevant roads authority were TfNSW.
+(3) (Repealed)

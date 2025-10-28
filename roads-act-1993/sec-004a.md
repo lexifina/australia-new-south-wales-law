@@ -1,0 +1,2 @@
+# 4A Notes in text
+Notes in the text of this Act do not form part of this Act.
