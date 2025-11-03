@@ -1,0 +1,2 @@
+# 33L Commonwealth may retain fees paid to Commonwealth Secretary
+The Commonwealth may retain fees paid to, or recovered by, the Commonwealth Secretary in respect of the performance or exercise of functions or powers conferred on that Secretary by the applied provisions.

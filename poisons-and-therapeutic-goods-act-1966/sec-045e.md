@@ -1,0 +1,2 @@
+# 45E Notes in text
+Notes in the text of this Act are explanatory notes only and do not form part of this Act.

@@ -1,0 +1,2 @@
+# 17C Authorisation of possession, use, supply or prescription of substances by podiatrists
+A podiatrist whose registration has an endorsement of a kind referred to in section 94 of the Health Practitioner Regulation National Law (NSW) that qualifies the podiatrist to possess, use, supply or prescribe a poison or restricted substance is authorised to possess, use, supply or prescribe that poison or restricted substance for the purposes of the practice of podiatry.

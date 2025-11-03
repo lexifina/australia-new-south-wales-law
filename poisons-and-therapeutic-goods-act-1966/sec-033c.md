@@ -1,0 +1,2 @@
+# 33C Delegations by the Commonwealth Minister or Secretary
+Any delegation by the Commonwealth Minister or the Commonwealth Secretary under section 57 of the Commonwealth Act is taken to extend to, and have effect for the purposes of, the corresponding provision of the applied provisions.
