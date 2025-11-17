@@ -1,0 +1,3 @@
+# 3 Warning: therapeutic substances for internal use
+The label on a container of a therapeutic substance specified in Appendix F to the current Poisons Standard must bear the warning specified in that Appendix in respect of that substance.
+The label on a container of a therapeutic substance specified in Appendix K to the current Poisons Standard (being a therapeutic substance that is supplied on prescription and is intended for internal use in humans) must bear Warning Statement 39, 40 or 90 specified in Part 1 of Appendix F to that Standard. The warning must be immediately preceded by a symbol in the form of an open equilateral triangle at least 4.5 millimetres high in bold print, coloured red.
