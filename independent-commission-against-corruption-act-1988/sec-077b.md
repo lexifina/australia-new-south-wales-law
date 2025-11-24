@@ -1,0 +1,2 @@
+# 77B Annual reports of Inspector
+The Inspector is required to prepare, within the period of 4 months after each 30 June, a report of the Inspector's operations during the year ended on that 30 June and furnish the report to the Presiding Officer of each House of Parliament.

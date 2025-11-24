@@ -1,0 +1,3 @@
+# 52A Investigative powers exercisable after completion of Commission's investigations for purposes of prosecutions
+(1) This section applies to the function of the Commission under section 14 of gathering and assembling evidence that may be admissible in the prosecution of a person for a criminal offence and of furnishing that evidence to the Director of Public Prosecutions or to the Electoral Commission.
+(2) The powers under sections 21, 22, 23 and 40 may be exercised for the purposes of that function after the completion of the Commission's investigations into a matter if the Director of Public Prosecutions or the Electoral Commission requests the Commission to do so.

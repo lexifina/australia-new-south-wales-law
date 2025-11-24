@@ -1,0 +1,34 @@
+# 104C Vetting of prospective staff or consultants
+(1) Vetting information that is held by the Inspector or Commission or obtained under this section may be used in determining whether to appoint a person (an applicant) as an officer of the Inspector or the Commission.
+(2) For the purposes of this section, vetting information is information of the following kind about an applicant, or about an associate or relative of an applicant-
+(a) any criminal intelligence report or other criminal information,
+(b) information held in the Births, Deaths and Marriages Register,
+(c) information held by Transport for NSW relating to licences or other authorities, offences or penalties,
+(d) information held by Corrective Services NSW, Department of Attorney General and Justice,
+(e) information held by the Australian Crime Commission,
+(f) information held by a law enforcement agency,
+(g) information held by an agency of the Commonwealth or of the State or another State or Territory investigating public sector corruption,
+(h) information held by an agency of a jurisdiction outside Australia, being an agency responsible for the enforcement of laws of that jurisdiction,
+(i) information prescribed by the regulations that is held by a public authority or held by a Government agency of another jurisdiction (whether in or outside Australia).
+(3) The Inspector or Commission may, with the consent of an applicant, request a public authority or other person or body to disclose vetting information about the applicant.
+(4) The Inspector or Commission may also, without consent, request a public authority or other person or body (not being an agency of a jurisdiction outside Australia) to disclose vetting information about associates or relatives of the applicant.
+(5) The Inspector or Commission must notify an applicant that the Inspector or Commission has the power under this section to request a public authority or other person or body (not being an agency of a jurisdiction outside Australia) to disclose vetting information about associates or relatives of the applicant. The notice must be given when the consent of the applicant is sought under subsection (3) or, if consent has not been sought for the purposes of that subsection, before the first request for information about associates or relatives of the applicant is made under this section.
+(6) A public authority that holds, or is responsible for the disclosure of, vetting information is authorised to disclose the information to the Inspector or Commission for the purposes of this section.
+(7) The Commissioner of Police is authorised at any time to disclose (or arrange for a member of the NSW Police Force to disclose) to the Inspector or Commission information about the criminal history of a person for the purposes of this section, including the following-
+(a) information relating to spent convictions, despite anything to the contrary in the Criminal Records Act 1991,
+(b) information relating to criminal charges, whether or not heard, proven, dismissed, withdrawn or discharged,
+(c) information relating to offences, despite anything to the contrary in section 579 of the Crimes Act 1900.
+(8) For the purposes of the collection, disclosure or use of vetting information under this section or section 104D, the information may be collected, disclosed or used despite any other Act or law.
+Note.
+Section 111 makes it an offence for an officer or former officer of the Inspector or Commission to disclose information obtained in the exercise of functions under this Act.
+(9) This section does not restrict or prevent-
+(a) the Inspector or Commission or any other person from collecting, disclosing or using any information that the Inspector, Commission or other person may otherwise lawfully collect, disclose or use, or
+(b) the Inspector or Commission from considering information other than vetting information in determining whether or not to appoint an applicant as an officer of the Inspector or Commission.
+(10) In this section and section 104D-
+appoint includes engage, make use of the services of and second.
+law enforcement agency means the following-
+(a) the NSW Police Force,
+(b) a Police Force of another State or Territory,
+(c) the Australian Federal Police,
+(d) any other authority or person responsible for the enforcement of the laws of the Commonwealth or of the State or another State or Territory.
+officer of the Inspector includes a person engaged by the Inspector under section 57E (3).

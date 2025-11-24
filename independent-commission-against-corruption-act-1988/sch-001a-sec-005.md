@@ -1,0 +1,4 @@
+# 5 Remuneration
+(1) The Inspector is entitled to be paid such remuneration (including travelling and subsistence allowances) as may be specified in the instrument of appointment or as may be afterwards determined by the Governor from time to time.
+(2) A determination does not operate so as to reduce the rate at which remuneration is payable during the person's current term of office.
+(3) The Inspector is not, if a Judge of a New South Wales court and while receiving remuneration as such a Judge, entitled to remuneration under this Act.

@@ -1,0 +1,6 @@
+# 101B Commission investigator who is seconded police officer to have all powers of NSW police officer
+(1) A Commission investigator who is a seconded police officer has and may exercise all the functions (including powers, immunities, liabilities and responsibilities) that a police officer of the rank of constable duly appointed under the Police Act 1990 has and may exercise under any law of the State (including the common law and this Act).
+(2) Those functions extend to functions conferred after the commencement of this Part.
+(3) A Commission investigator has and may exercise those functions by virtue of this section only when acting in the person's capacity as an officer of the Commission.
+(4) This section does not operate to subject a Commission investigator to the control and direction of the Commissioner of Police or any other police officer when acting in the person's capacity as an officer of the Commission.
+(5) A complaint about the conduct of a Commission investigator when exercising the functions of a police officer may not be made under Part 8A of the Police Act 1990, but may be made to the Inspector.

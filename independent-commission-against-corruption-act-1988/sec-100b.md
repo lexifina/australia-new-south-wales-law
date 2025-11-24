@@ -1,0 +1,4 @@
+# 100B Review by Supreme Court
+(1) An offender who has not been released by a Commissioner under section 100A or whose release under that section is subject to one or more conditions may apply to the Supreme Court for a review of the decision not to release or failure to release the offender or of the terms of one or more of those conditions.
+(2) The Supreme Court may affirm or set aside a decision by a Commissioner not to release the offender or any condition imposed by a Commissioner on the release of the offender. The Supreme Court may also or instead make any order that a Commissioner may make in relation to the detention or release of the offender. The Court may do so also where a Commissioner has not made any decision within a reasonable time on the release of the offender.
+(3) Such an order is taken to be an order of a Commissioner.
