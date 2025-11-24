@@ -1,0 +1,3 @@
+# 8A Restricted trading days-existing on-licences
+(1) Without limiting clauses 7 and 8, if the licensed premises to which an existing on-premises licence relates were authorised under the former Act to trade between 5 am and noon, or between 10 pm and midnight, on a restricted trading day, an extended trading authorisation that relates to the period concerned is taken to be in force in relation to the licensed premises.
+(2) Except as otherwise provided under this Act, liquor must not be sold for consumption on the licensed premises during any such extended trading period on a restricted trading day unless it is sold with or ancillary to a meal served in a dining area on the licensed premises.

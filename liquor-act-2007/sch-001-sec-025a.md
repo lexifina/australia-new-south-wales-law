@@ -1,0 +1,8 @@
+# 25A Further transitional provisions relating to pending SIAs and other matters under former Act
+(1) The Authority may determine a pending SIA in accordance with Division 6A of Part 3 of the former Act as if that Division had not been repealed by this Act. For that purpose, a reference in that Division to the Board is taken to include a reference to the Authority.
+(2) If the pending SIA was provided in connection with a matter that is the subject of pending proceedings as referred to in clause 25(2) and (3), that matter may, following the Authority's determination of the pending SIA, be determined as provided by those subclauses.
+(3) If, in any other case, the pending SIA is approved by the Authority, an application for a licence to which the pending SIA relates may be determined by the Authority in accordance with this Act.
+(4) Sections 40(4)(c) and 48 of this Act, and such other provisions of this Act as may be prescribed by the regulations, do not apply to or in respect of an application referred to in subclause (3).
+(5) Without limiting the operation of subclause (1), if any matter that the former Board was authorised or required to determine under the former Act was not determined as at the commencement of this clause, the matter may, to the extent that it relates to a licence, approval or authorisation that may be granted under this or the former Act, be determined by the Authority.
+(6) In this clause-
+pending SIA means a social impact assessment under Division 6A of Part 3 of the former Act that was provided to the former Board before the relevant repeal date but that had not been approved or otherwise determined as at the commencement of this clause.

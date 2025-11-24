@@ -1,0 +1,6 @@
+# 144E Secretary to record demerit points incurred or imposed
+(1) If demerit points are incurred or imposed against a licensee, manager or club licence under section 144H, 144I or 144N(1)(b), the Secretary must record the number of demerit points incurred or imposed in respect of the licensee, manager or licence in the demerit points register.
+(2) Demerit points incurred against a licensee, manager or club licence as a result of the commission of a demerit offence must be recorded in the demerit points register in respect of the day on which the demerit offence was committed.
+(3) Demerit points imposed against a licensee, manager or club licence under section 144N(1)(b) must be recorded in the demerit points register in respect of the day on which the demerit points were imposed by the Authority.
+(4) To avoid doubt, the Secretary must not record demerit points incurred against a licensee, manager or club licence in respect of a demerit offence if the court makes an order under section 10 of the Crimes (Sentencing Procedure) Act 1999 in respect of the offence.
+(5) Without limiting any other provision of this Division, the Secretary may correct any mistake, error or omission in the demerit points register, subject to any requirements of the regulations.

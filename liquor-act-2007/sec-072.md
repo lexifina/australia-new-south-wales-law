@@ -1,0 +1,4 @@
+# 72 Corporate licences-interpretative provisions
+(1) A reference in this Act to a position of authority in a corporation is a reference to the position of chief executive officer, director or secretary of the corporation.
+(2) For the purposes of this Act, a person who occupies a position of authority in a corporation is to be regarded as interested in an application for a licence made by the corporation and as interested in the business of the licensed premises to which a licence held by the corporation relates.
+(3) For the purposes of this Act, a person who is a shareholder in a corporation is not (merely because of being a shareholder) to be regarded as a person who will be interested in an application for a licence made by the corporation or in the business, or the profits or conduct of the business, to be carried on pursuant to the licence applied for or of the licensed premises to which a licence held by the corporation relates.
