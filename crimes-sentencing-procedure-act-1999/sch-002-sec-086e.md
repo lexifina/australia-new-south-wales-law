@@ -1,0 +1,20 @@
+# 86E Other transitional matters in respect of good behaviour bonds
+(1) Application This clause applies in respect of a good behaviour bond entered into under section 9 (a section 9 bond) or section 10 (1) (b) (a section 10 bond) before their substitution by the amending Act.
+(2) Previous breaches Subclause (3) applies if a breach of a good behaviour bond occurred or is suspected to have occurred before the commencement day and action under the sentencing legislation as in force before that day had not been commenced or completed in respect of the breach.
+(3) Action in respect of the breach may, on or after that day, be commenced or continued under the sentencing legislation in relation to the community correction order or conditional release order to which the bond is converted by the operation of this Schedule in the same way as action may be taken in respect of a breach of an offender's obligations under such an order made on or after that day.
+(4) Intervention program conditions Subclause (5) applies if before the commencement day a court referred, under section 95B, an offender for assessment as to the suitability of the offender to participate in an intervention program and the report was received before, or is received on or after, that day.
+(5) The court may, if it decides to make a community correction order or conditional release order in respect of the offender on or after that day, impose a further condition requiring the offender to participate in an intervention program and to comply with any intervention plan arising out of the program.
+(6) Existing breach proceedings If any proceedings were pending before a court immediately before the repeal of section 98 of the Crimes (Sentencing Procedure) Act 1999 in respect of a breach of a section 9 bond or section 10 bond-
+(a) the proceedings are to continue to be dealt with by the court, and
+(b) the breach may be dealt with or continue to be dealt with on or after that day under sections 107C and 107D or sections 108C and 108D (as the case requires) of the Crimes (Administration of Sentences) Act 1999 in relation to the community correction order or conditional release order to which the bond is converted by the operation of this Schedule, and
+(c) in considering the breach, the court may have regard to matters raised before the court before that day and may concur with any decisions made by the court in that connection or may deal with all or any matters afresh.
+(7) Refusal to participate in intervention program If an offender who was subject to a section 9 bond or section 10 bond decided under section 99A not to participate or to continue to participate in an intervention program or an intervention plan arising out of the program and action had not been taken or completed under that section before the commencement day-
+(a) the matter may be dealt with or continue to be dealt with on or after that day by taking action under sections 107C and 107D or sections 108C and 108D (as the case requires) of the Crimes (Administration of Sentences) Act 1999 in relation to the community correction order or conditional release order to which the bond is converted by the operation of this Schedule, and
+(b) for that purpose, the decision is taken to be a breach of the order.
+(8) Action for breaches of expired bonds Subclause (9) applies if-
+(a) a section 9 bond or section 10 bond was breached before the commencement day for the repeal of section 100, and
+(b) the bond had expired before that day, and
+(c) action in respect of the breach had not been commenced or completed before that day.
+(9) The breach may be dealt with or continue to be dealt with on or after that day under sections 107C and 107D or sections 108C and 108D (as the case requires) of the Crimes (Administration of Sentences) Act 1999 in relation to the community correction order or conditional release order to which the bond is converted by the operation of this Schedule and, for that purpose-
+(a) the breach is taken to be a breach of the order, and
+(b) those provisions apply despite the expiry of the bond but only apply in respect of matters arising during the term of the bond.

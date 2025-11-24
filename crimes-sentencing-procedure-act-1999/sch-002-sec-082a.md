@@ -1,0 +1,3 @@
+# 82A Existing assessment reports
+(1) If an assessment report was prepared on an offender for the purposes of section 78 of the Act, as in force before the repeal of that section by the amending Act, the report is taken to be an assessment report for the purposes of section 17D (2) and a further report is not required.
+(2) If an assessment report was prepared on an offender for the purposes of section 86 of the Act, as in force before the repeal of that section by the amending Act, the report is taken to be an assessment report for the purposes of section 17D (4) and a further report is not required.

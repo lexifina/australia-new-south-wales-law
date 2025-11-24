@@ -1,0 +1,5 @@
+# 86A Applications to Supreme Court as to certain existing orders
+(1) This clause applies in relation to a home detention order or intensive correction order referred to in section 176 of the Crimes (Administration of Sentences) Act 1999 and made under section 6 or 7 of this Act or section 165A of that Act before the commencement day.
+(2) An application to the Supreme Court under that section in respect of an order to which this clause applies, and any proceedings in respect of the application, that were pending before the Court immediately before the commencement day are not affected by the amending Act.
+(3) An application may be made on or after the commencement day to the Supreme Court under that section in respect of an order to which this clause applies.
+(4) Any direction given by the Supreme Court under that section pursuant to an application referred to in this clause is given in respect of the intensive correction order or home detention order concerned as if the amending Act had not been enacted.

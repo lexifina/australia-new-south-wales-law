@@ -1,0 +1,2 @@
+# 30J Victims who are entitled to give evidence by CCTV may also read their victim impact statements by CCTV
+If the proceedings for the offence concerned are proceedings in which the victim to whom the victim impact statement relates is entitled to give evidence by means of closed-circuit television arrangements, the victim is also entitled to read out the victim's victim impact statement in accordance with those closed-circuit television arrangements.

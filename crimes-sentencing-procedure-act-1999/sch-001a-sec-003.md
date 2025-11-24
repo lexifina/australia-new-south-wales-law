@@ -1,0 +1,2 @@
+# 3 Terms of office of members
+Subject to this Schedule, a member holds office for such period (not exceeding 3 years) as may be specified in the member's instrument of appointment but is eligible (if otherwise qualified) for re-appointment.

@@ -1,0 +1,2 @@
+# 101A Effect of failure to comply with Act
+A failure to comply with a provision of this Act may be considered by an appeal court in any appeal against sentence even if this Act declares that the failure to comply does not invalidate the sentence.

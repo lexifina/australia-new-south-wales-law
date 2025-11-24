@@ -1,0 +1,21 @@
+# 86C Other transitional matters in respect of intensive correction orders
+(1) Application to intensive correction orders This clause applies in respect of an intensive correction order made under section 7 before its substitution by the amending Act.
+(2) Previous breaches Subclause (3) applies if a breach of an intensive correction order occurred or is suspected to have occurred before the substitution of section 7 by the amending Act and action under the sentencing legislation as in force before the commencement day had not been commenced or completed in respect of the breach.
+(3) Action in respect of the breach may, on or after that day, be commenced or continued under the sentencing legislation in relation to the intensive correction order to which the order was converted by the operation of this Schedule in the same way as action may be taken in respect of a breach of an offender's obligations under an intensive correction order made on or after that day.
+(4) Applications relating to conditions If an application for the imposition of conditions on, or the variation of conditions of, an intensive correction order under section 81 (3) of the Crimes (Administration of Sentences) Act 1999 was pending before the sentencing court immediately before the commencement day-
+(a) the application is transferred to the Parole Authority to be dealt with by it instead of the court, and
+(b) the application may be dealt with or continue to be dealt with by the Parole Authority on or after that day as if the application had been made under section 81A of that Act, and
+(c) in considering the application, the Parole Authority may have regard to matters raised before the court before that day and may concur with any decisions made by the court in that connection or may deal with all or any matters afresh.
+(5) Pending inquiries into breaches of intensive correction orders If an inquiry by the Parole Authority under section 162 of the Crimes (Administration of Sentences) Act 1999 (relating to a suspected breach of an offender's obligations under an intensive correction order) was pending immediately before the commencement day-
+(a) the inquiry may be conducted or continue to be conducted by the Parole Authority on or after that day, and
+(b) any findings of the Parole Authority may be considered in connection with the exercise of the Authority's functions (including its functions under section 164 of that Act).
+(6) Effect of existing revocation order for intensive correction order A revocation order made by the Parole Authority under section 163 of the Crimes (Administration of Sentences) Act 1999 before the commencement day-
+(a) continues to have effect for the purposes of that Act, as amended by the amending Act, according to the terms of the order, and
+(b) is taken to be a revocation order to which section 164A of that Act applies.
+(7) Existing reinstatement applications If an application for the reinstatement of an intensive correction order under section 165 of the Crimes (Administration of Sentences) Act 1999 was pending immediately before the commencement day-
+(a) the application may be dealt with or continue to be dealt with by the Parole Authority on or after that day under that section as amended by the amending Act, and
+(b) that section as so amended applies to and in respect of the application (including the provisions relating to the assessment as to suitability and the making of an intensive correction order).
+(8) Existing warrants made after revocation of intensive correction orders If a warrant that was issued under section 181 (1) of the Crimes (Administration of Sentences) Act 1999 before the commencement day in respect of a revoked intensive correction order, and that commits an offender to a correctional centre to serve the remainder of a sentence by way of full-time detention, was in force immediately before that day, the warrant-
+(a) continues in force on and after that day until it is executed, and
+(b) is taken to be issued under section 181 (1) of that Act as amended by the amending Act in respect of an intensive correction order revoked under that Act as amended by the amending Act, and
+(c) commits the offender to a correctional centre to serve the remainder of the sentence to which the order relates by way of full-time detention.
