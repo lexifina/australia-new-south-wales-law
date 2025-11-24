@@ -1,0 +1,3 @@
+# 486A Exclusive jurisdiction of NCAT over pecuniary interests contraventions (other than by councillors and administrators)
+(1) The Civil and Administrative Tribunal has exclusive jurisdiction at first instance to decide allegations of contraventions of a pecuniary interests duty by a person other than a councillor, a former councillor, an administrator or a former administrator.
+(2) Accordingly, proceedings at first instance to decide allegations of contraventions of a pecuniary interests duty by a person other than a councillor, a former councillor, an administrator or a former administrator may not be brought before, or entertained by, any other tribunal or any court.

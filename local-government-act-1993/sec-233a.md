@@ -1,0 +1,11 @@
+# 233A Oath and affirmation for councillors
+(1) A councillor must take an oath of office or make an affirmation of office at or before the first meeting of the council after the councillor is elected.
+(2) The oath or affirmation may be taken or made before the general manager of the council, an Australian legal practitioner or a justice of the peace and is to be in the following form-
+Oath
+I [name of councillor] swear that I will undertake the duties of the office of councillor in the best interests of the people of [name of council area] and the [name of council] and that I will faithfully and impartially carry out the functions, powers, authorities and discretions vested in me under the Local Government Act 1993 or any other Act to the best of my ability and judgment.
+Affirmation
+I [name of councillor] solemnly and sincerely declare and affirm that I will undertake the duties of the office of councillor in the best interests of the people of [name of council area] and the [name of council] and that I will faithfully and impartially carry out the functions, powers, authorities and discretions vested in me under the Local Government Act 1993 or any other Act to the best of my ability and judgment.
+(3) A councillor who fails, without a reasonable excuse, to take the oath of office or make an affirmation of office in accordance with this section is not entitled to attend a meeting as a councillor (other than the first meeting of the council after the councillor is elected to the office or a meeting at which the councillor takes the oath or makes the affirmation) until the councillor has taken the oath or made the affirmation.
+(4) Any absence of a councillor from an ordinary meeting of the council that the councillor is not entitled to attend because of this section is taken to be an absence without prior leave of the council.
+(5) Failure to take an oath of office or make an affirmation of office does not affect the validity of anything done by a councillor in the exercise of the councillor's functions.
+(6) The general manager must ensure that a record is to be kept of the taking of an oath or the making of an affirmation (whether in the minutes of the council meeting or otherwise).

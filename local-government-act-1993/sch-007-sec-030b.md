@@ -1,0 +1,3 @@
+# 30B Validation
+(1) Any thing done before the commencement of an amendment made to this Division by the Local Government Legislation (Miscellaneous Amendments) Act 1994 that would, had the provision as so amended been in force when the thing was done or purported to be done, have been valid is validated.
+(2) Botany Council is taken to have validly prepared a draft resolution under this Division to reduce the number of its councillors to 7 (one of whom is the mayor), the Minister is taken to have approved the draft resolution under this Division without any amendments and no by-election is required to fill a vacancy that occurred before the commencement of this clause.

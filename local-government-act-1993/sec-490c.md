@@ -1,0 +1,9 @@
+# 490C Supreme Court order for recovery of monetary benefits as a result of non-disclosure by councillors (as inserted by the Local Government and Elections Legislation Amendment (Integrity) Act 2016)
+(1) The Departmental Chief Executive may apply to the Supreme Court for an order under this section against a councillor who has been found by the Civil and Administrative Tribunal under this Chapter to have contravened a pecuniary interests duty.
+(2) The Supreme Court may, if satisfied on the balance of probabilities that the councillor obtained a monetary benefit as a result of a decision made by the council relating to a matter in which the councillor had a pecuniary interest and in respect of which the councillor contravened a pecuniary interests duty-
+(a) order the councillor to pay the council an amount that the Court is satisfied represents the amount of the monetary benefit acquired by the councillor, or accrued to the councillor, as a result of the decision, or
+(b) order the councillor to grant the council security over any property of the councillor to secure the payment required by an order under paragraph (a).
+(3) If proceedings are pending in the Civil and Administrative Tribunal that may give rise to a finding in respect of which the Departmental Chief Executive may make application to the Supreme Court for an order under this section, the Supreme Court may, on application by the Departmental Chief Executive, restrain the councillor the subject of the proceedings from disposing or dealing with property of the councillor pending the making and determination of an application for an order under this section.
+(4) In this section-
+monetary benefit means any monetary, financial or economic benefit (including an extension of the permitted use of land or the removal of prohibitions or restrictions on the development of land).
+Chapter 15 How are councils financed?

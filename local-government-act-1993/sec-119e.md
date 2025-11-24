@@ -1,0 +1,3 @@
+# 119E Advertising or notification of applications made in filming proposal
+(1) An application made in a filming proposal must comply with all the advertising or notification requirements for that application under any relevant Act or statutory instrument.
+(2) However, two or more applications made in a filming proposal that are required or permitted to be advertised or notified by particular means may be advertised or notified by those means in one advertisement or notice if that advertisement or notice satisfies all the advertising or notification requirements for the applications concerned under the relevant Act or statutory instrument.

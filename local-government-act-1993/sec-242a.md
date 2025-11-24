@@ -1,0 +1,5 @@
+# 242A Tribunal to give effect to declared government policy on remuneration for public sector staff
+(1) In making a determination, the Remuneration Tribunal is to give effect to the same policies on increases in remuneration as those that the Industrial Relations Commission is required to give effect to under section 146C of the Industrial Relations Act 1996 when making or varying awards or orders relating to the conditions of employment of public sector employees.
+(2) The policies referred to in subsection (1) do not include any policy that provides for increases in remuneration based on employee-related savings.
+(3) This section does not apply to a determination by the Remuneration Tribunal that changes the category of a council or mayoral office (whether or not the effect of the change is to increase the range of amounts payable to the councillors and mayor of a council).
+(4) To avoid doubt, this section extends to a determination of the minimum and maximum amounts payable for a category in existence when the determination is made.

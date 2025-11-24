@@ -1,0 +1,3 @@
+# 511A Catching up of income lost due to reductions in valuation
+(1) This section applies to a council that cannot recover or retain a part of the maximum permissible general income determined under this Part for a year because, after the determination is made, a valuation used in making a rate is reduced (whether because of an objection under the Valuation of Land Act 1916, an appeal under that Act or for any other reason). The part of the maximum permissible general income that cannot be recovered or retained is referred to in this section as the unrecovered amount.
+(2) The council may increase the maximum permissible general income determined under this Part for a year by any unrecovered amount for a previous year.

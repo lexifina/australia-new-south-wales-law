@@ -1,0 +1,3 @@
+# 610E Council may waive or reduce fees
+(1) A council may waive payment of, or reduce, a fee (whether expressed as an actual or a maximum amount) in a particular case if the council is satisfied that the case falls within a category of hardship or any other category in respect of which the council has determined payment should be so waived or reduced.
+(2) However, a council must not determine a category of cases under this section until it has given public notice of the proposed category in the same way as it is required to give public notice of the amount of a proposed fee under section 610F(2) or (3).

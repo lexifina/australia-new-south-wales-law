@@ -1,0 +1,5 @@
+# 440O Self-incrimination
+(1) This section applies where, under section 440H, the Departmental Chief Executive directs a natural person to provide any information or produce any document for the purposes of an investigation.
+(2) A person is not excused from complying with the direction on the ground that the information or document might incriminate the person or make the person liable to a penalty.
+(3) If the information or document tends to incriminate the person and the person objects to providing the information or producing the document at the time, the fact of the direction or the information or document itself (if produced) may not be used in any criminal proceedings against the person (except in proceedings for an offence relating to the failure to produce a document or information or the production of a document or information that is false or misleading).
+(4) Despite any such objection, the information or document may be used in connection with an investigation and the taking of disciplinary action against the person under this Division and is admissible in proceedings under this Act relating to misconduct.
