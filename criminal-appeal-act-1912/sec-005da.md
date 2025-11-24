@@ -1,0 +1,4 @@
+# 5DA Appeal by Crown against reduced sentence for assistance to authorities
+(1) The Attorney General or the Director of Public Prosecutions may appeal to the Court of Criminal Appeal against any sentence imposed on a person that was reduced because the person undertook to assist law enforcement authorities if the person fails wholly or partly to fulfil the undertaking.
+(2) On an appeal the Court of Criminal Appeal may, if it is satisfied that the person has failed wholly or partly to fulfil the undertaking, vary the sentence and impose such sentence as it thinks fit.
+(3) A reference in subsection (1) to a sentence imposed on a person includes a reference to a sentence that was varied or imposed by the Court of Criminal Appeal or varied or imposed by the District Court on appeal from the Local Court or the Children's Court.

@@ -1,0 +1,3 @@
+# 5AE Point of law stated during summary proceedings
+(1) At any time before the completion of proceedings before the Supreme Court in its summary jurisdiction, the Land and Environment Court in its summary jurisdiction, the District Court in its summary jurisdiction or a Court of Coal Mines Regulation in its summary jurisdiction, the judge hearing the proceedings may, or if requested by the Crown must, submit any question of law arising at or in reference to the proceedings to the Court of Criminal Appeal for determination.
+(2) The Court of Criminal Appeal may make any such order or give any such direction to the court concerned as it thinks fit.
