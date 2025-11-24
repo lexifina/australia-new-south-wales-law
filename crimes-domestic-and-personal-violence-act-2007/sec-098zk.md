@@ -1,0 +1,4 @@
+# 98ZK Orders for costs
+(1) A non-local DVO, to the extent that it requires the payment of money, cannot be enforced in New South Wales.
+(2) The recognition of a DVO made in another jurisdiction does not confer power on a court or tribunal of New South Wales to award costs in respect of any proceedings relating to the DVO that occurred in another jurisdiction.
+(3) This section does not prevent a court or tribunal awarding costs in respect of any proceedings in New South Wales relating to the variation or revocation of a recognised DVO.

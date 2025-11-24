@@ -1,0 +1,11 @@
+# 98Z Variations to DVO
+(1) A variation to a recognised DVO that is done in New South Wales or another jurisdiction is a recognised variation in New South Wales in the circumstances provided for by this section.
+(2) A variation to a local DVO is a recognised variation in New South Wales if the variation is done-
+(a) in New South Wales by a court or any other person authorised to do so under this Act, or
+(b) in another participating jurisdiction by a court under a corresponding law.
+(3) A variation to an interstate DVO or foreign order is a recognised variation in New South Wales if the variation is done-
+(a) in the issuing jurisdiction by a court or any other person authorised to do so under the law of the issuing jurisdiction, or
+(b) in any participating jurisdiction by a court under this Part or a corresponding law.
+Note.
+The issuing jurisdiction for a foreign order is the jurisdiction in which the order is registered.
+(4) A variation is recognised from the time that it is made.

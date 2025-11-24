@@ -1,0 +1,3 @@
+# 34A Defects in interim apprehended domestic violence orders
+(1) This section applies if a senior police officer has, in good faith, purported to make a provisional order as an interim apprehended domestic violence order but none of the persons for whose protection the order was made has or has had a domestic relationship with the person against whom the order was sought.
+(2) If a provisional order has such a defect, no action lies against any police officer or any other person merely because of that defect in respect of anything done or omitted to be done by the police officer or other person in good faith in reliance on the provisional order or any ancillary property recovery order.

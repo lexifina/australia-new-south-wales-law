@@ -1,0 +1,6 @@
+# 33A Variation or revocation of provisional order on application of defendant
+(1) A provisional order made by a senior police officer may be varied or revoked on the application of the defendant by any court that deals, or is to deal, with an application for an apprehended violence order, or variation of an apprehended violence order, against that defendant.
+(2) Despite subsection (1), an application for variation or revocation of a provisional order must be made by a police officer if the protected person or one of the protected persons under the order is a child at the time of the application.
+(3) Sections 73(1), (2), (4) and (6), 74(1) and (2), 76(2), (4) and (5) and 77(2)-(8) apply to the variation or revocation of a provisional order under this section in the same way as they apply to the variation or revocation of a final apprehended violence order or interim court order.
+(4) In addition to the requirements of section 73(4), a provisional order is not to be varied or revoked on the application of the defendant under this section unless notice of the application has been served on the Police Area Commander or Police District Commander.
+(5) The applicant officer or another police officer is entitled to appear in proceedings for a variation or revocation of the provisional order under this section.

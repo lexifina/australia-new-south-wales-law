@@ -1,0 +1,2 @@
+# 98N Access to information collected in respect of serious threat
+An agency that is authorised to collect information about a person under section 98M in respect of a threat is not required to take any steps to make the person aware of any matter about that information and it is not required to provide the person with any access to the information if the agency believes on reasonable grounds that the person is a cause of the threat.

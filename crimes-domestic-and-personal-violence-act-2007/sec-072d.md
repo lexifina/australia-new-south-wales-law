@@ -1,0 +1,2 @@
+# 72D Notification of application if protected person is child
+The court may notify an application to the Commissioner of Police and any interested party and give the Commissioner and interested party standing to appear in proceedings if the protected person (or one of the protected persons) under the order is a child at the time of the application and the court considers it to be in the best interests of the child to do so.

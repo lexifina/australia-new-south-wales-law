@@ -1,0 +1,8 @@
+# 98ZX DVOs made in other jurisdictions
+(1) Division 2 applies to any DVOs made in another participating jurisdiction that are recognised DVOs in that jurisdiction under the corresponding law for that jurisdiction.
+(2) To avoid doubt, section 98Y extends to the following DVOs-
+(a) any interstate DVO that was made in another participating jurisdiction before the commencement date that is a recognised DVO in that jurisdiction,
+(b) any foreign order that became a registered foreign order in another participating jurisdiction before the commencement date that is a recognised DVO in that jurisdiction.
+(3) Sections 98Z and 98ZA extend to any variation or revocation of a DVO referred to in subsection (2), that was done in a participating jurisdiction before the commencement date, as if the DVO were a recognised DVO.
+(4) However, a non-local DVO, and any variation to a non-local DVO, does not become enforceable against the defendant in New South Wales, under this Part, until the commencement date (even if the making of the DVO, or variation, was properly notified before that date).
+Subdivision 3 Extension of scheme to older DVOs
