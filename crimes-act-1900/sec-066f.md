@@ -20,6 +20,6 @@ Maximum penalty-imprisonment for 8 years.
 (i) the accused did not know the person to whom the charge relates had a cognitive impairment, or
 (ii) the accused was married to the person to whom the charge relates or was the de facto partner of that person, or
 (b) if the act constituting the offence was carried out for any proper medical or hygienic purpose.
-(8) Approval of Attorney General for prosecution A prosecution for any of the following offences may not be commenced without the approval of the Attorney General-
+(8) Approval of Attorney General or Director of Public Prosecutions for prosecution A prosecution for any of the following offences may not be commenced without the approval of the Attorney General or Director of Public Prosecutions-
 (a) an offence under subsection (2) or (3) (or under section 344A in connection with such an offence),
 (b) an offence referred to in subsection (6) in which the prosecution relies on the operation of that subsection.
