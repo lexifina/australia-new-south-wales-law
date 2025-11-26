@@ -1,0 +1,2 @@
+# 19B Transitional provision relating to unfair contracts arising from 2005 amending Act
+Section 106 (2A), as inserted by the Industrial Relations Amendment Act 2005 applies to a contract made before the commencement of that provision and to proceedings pending in the Commission at that commencement that have not been finally determined by the Commission. However, section 106 (2A) does not apply to any proceedings pending in any other court or tribunal on that commencement.

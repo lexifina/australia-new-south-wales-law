@@ -1,0 +1,4 @@
+# 129F Liability of actual employer for unpaid remuneration for which an unpaid remuneration claim has been made
+(1) An actual employer served with a referred claim under section 129E may, within 14 days after the service, accept liability for the whole or any part of the amount of unpaid remuneration claimed by paying it to the outworker concerned.
+(2) An actual employer who accepts liability must serve notice in writing on the apparent employer of that acceptance and of the amount paid.
+(3) The apparent employer may, after the apparent employer has paid to the outworker concerned any part of the amount of unpaid remuneration claimed for which the actual employer served with the referred claim has not accepted liability, deduct or set-off the amount the apparent employer has paid to the outworker from any amount that the apparent employer owes to the actual employer (whether or not in respect of work the subject of the referred claim).

@@ -1,0 +1,2 @@
+# 31B Finality of decisions
+The amendments made to section 179 by the Industrial Relations Amendment Act 2005 apply to decisions and proceedings of the Commission made or instituted before the commencement of the amendments, and to proceedings pending in any State court or tribunal (other than the Commission) on that commencement. However, those amendments do not affect any order or decision made by any such court or tribunal before that commencement.

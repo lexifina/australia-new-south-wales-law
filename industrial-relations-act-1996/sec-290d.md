@@ -1,0 +1,3 @@
+# 290D Liability relating to administration
+(1) Any matter or thing done or omitted to be done by an administrator appointed under this Division for a State organisation, or a person acting under the direction of the administrator, does not, if the matter or thing was done or omitted in good faith for the purpose of executing this or any other Act, subject the administrator or person so acting personally to any action, liability, claim or demand.
+(2) Neither the State nor the Minister is liable for anything done or omitted to be done by or on behalf of an administrator appointed for a State organisation under this Division, whether or not the administrator is so liable.
