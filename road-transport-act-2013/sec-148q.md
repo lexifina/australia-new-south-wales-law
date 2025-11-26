@@ -1,0 +1,6 @@
+# 148Q Vehicle supervisor
+(1) It is a condition of a trial approval (unless the Minister determines otherwise) that the approved person must ensure that a person (the vehicle supervisor) is in the trial vehicle at all times during which the vehicle is in use.
+(2) The vehicle supervisor must hold a current Australian driver licence (not being a probationary licence, conditional licence, restricted licence, provisional licence, learner licence or driver licence receipt) that is of an appropriate class having regard to the trial vehicle type or must hold such other licence as the Minister may approve.
+(3) The vehicle supervisor must be approved in writing by the Minister in respect of the trial vehicle.
+(4) Division 2 of Part 5.1 and Division 3 of Part 5.5 apply to a vehicle supervisor in a trial vehicle in the same way as those Divisions apply to a person occupying the seat in a motor vehicle next to a learner driver who is driving (or about to drive) the vehicle.
+(5) It is a condition of a trial approval under which a vehicle supervisor is required to be in a trial vehicle that the approved person must ensure that the vehicle supervisor is in a position to take control of the trial vehicle at any time or to stop the trial vehicle in an emergency or if required to do so by an authorised officer.

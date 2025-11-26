@@ -1,0 +1,2 @@
+# 104S Certificate evidence
+A statement in a certificate purporting to have been issued by an Australian Authority or Australian authorised officer that, at a specified time or during a specified period, a specified vehicle was or was not on the NSW written-off heavy vehicles register or a register of written-off heavy vehicles (however described) kept under a law of another jurisdiction is admissible as evidence in any legal proceedings and is, until admissible evidence is given to the contrary, evidence of the matter certified.

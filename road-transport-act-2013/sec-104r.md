@@ -1,0 +1,9 @@
+# 104R Unauthorised disclosure of information
+A person must not disclose any information obtained in connection with the administration or execution of this Part, except-
+(a) in connection with the administration or execution of this Part or the statutory rules made for the purposes of this Part, or
+(b) for the purposes of Austroads administering a national database of written-off heavy vehicles and information about them and allowing driver licensing and vehicle registration authorities in the other States and Territories to have access to the information in the national database, or
+(c) for the purposes of any legal proceedings arising out of this Act or the statutory rules or of any report of such proceedings, or
+(d) to the Secretary within the meaning of the Motor Dealers and Repairers Act 2013 for the purposes of any disciplinary or legal proceedings arising out of that Act or the regulations under that Act, or
+(e) to Transport for NSW for the purpose of assisting Transport for NSW to exercise its functions, or
+(f) in the circumstances prescribed by the statutory rules.
+Maximum penalty-20 penalty units.

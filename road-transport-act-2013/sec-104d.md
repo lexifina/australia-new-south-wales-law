@@ -1,0 +1,4 @@
+# 104D Definitions
+In this Division-
+assessor means an insurer, self-insurer, motor vehicle recycler, motor dealer or other person prescribed by the statutory rules.
+total loss assessment means an assessment made by or on behalf of, and in the course of business of, an assessor as to whether or not a notifiable heavy vehicle (anywhere in Australia) is a total loss.

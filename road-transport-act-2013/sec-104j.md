@@ -1,0 +1,13 @@
+# 104J Information about written-off and demolished heavy vehicles
+(1) An assessor must ensure that Transport for NSW is provided with the information required by the statutory rules concerning each notifiable heavy vehicle that is assessed as being a total loss in the course of a total loss assessment conducted by or on behalf of the assessor-
+(a) within 7 days after the assessment and before the vehicle is sold or otherwise disposed of, or
+(b) within any other time prescribed by the statutory rules.
+(2) A self-insurer must ensure that Transport for NSW is provided with the information required by the statutory rules concerning each notifiable heavy vehicle that is taken to be a total loss by virtue of being disposed of by the self-insurer (anywhere in Australia) to a motor vehicle recycler-
+(a) within 7 days after the vehicle is disposed of, or
+(b) within any other time prescribed by the statutory rules.
+(3) A motor vehicle recycler must ensure that Transport for NSW is provided with the information required by the statutory rules concerning each notifiable heavy vehicle that the motor vehicle recycler intends to demolish or dismantle (anywhere in Australia) in the course of the business carried on by the motor vehicle recycler-
+(a) within 7 days after the motor vehicle recycler forms the intention to demolish or dismantle the vehicle, or
+(b) within any other time prescribed by the statutory rules.
+(4) Despite subsection (3), the information must be provided before the part of the vehicle to which the vehicle identifier is attached is sold or otherwise disposed of.
+(5) A person (other than an insurer) is not guilty of an offence against this section in respect of a failure to provide information concerning a notifiable heavy vehicle if the person proves to the court's satisfaction that the person believed, on reasonable grounds, that the required information concerning the vehicle had already been provided to Transport for NSW by another person under this section.
+Maximum penalty-20 penalty units.

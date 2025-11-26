@@ -1,0 +1,5 @@
+# 61D Surrender of digital driver licence
+(1) The holder of a digital driver licence must remove the digital driver licence from each mobile phone or other electronic device on which the digital driver licence is capable of being displayed as soon as practicable after the holder is required to surrender or return the holder's driver licence.
+(2) A person who fails or refuses to remove the digital driver licence from each mobile phone or other electronic device on which the digital driver licence is capable of being displayed is taken to have failed to comply with the requirement to surrender or return the holder's driver licence.
+(3) A person removes a digital driver licence from a mobile phone or other electronic device if the person updates the digital driver licence in accordance with the directions of Transport for NSW.
+(4) Any requirement under this or any other Act or law to surrender or return a driver licence does not extend to any mobile phone or other electronic device on which a digital driver licence is displayed.
