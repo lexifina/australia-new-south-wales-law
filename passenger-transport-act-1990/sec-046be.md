@@ -1,0 +1,4 @@
+# 46BE Assessors
+(1) A Board of Inquiry, when conducting, and making a determination in respect of, a transport safety inquiry is to sit with any assessors that may be appointed by the Minister for the purposes of the inquiry.
+(2) An assessor sitting with a Board of Inquiry has the power to advise the Board of Inquiry but not to adjudicate on any matter before the Board of Inquiry.
+(3) A Board of Inquiry has the right to consult, either collectively or individually, and either in public or in private, with assessors sitting with it.

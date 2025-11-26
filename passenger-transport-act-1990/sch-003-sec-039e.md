@@ -1,0 +1,3 @@
+# 39E New contractual arrangements to end step-in arrangements
+(1) The Director-General must, after implementing step-in arrangements on the expiry or termination of an existing bus service contract, use his or her best endeavours to enter into a new service contract with a person under the provisions of Division 3 of Part 3 to provide a regular bus service for the region or route or operation (or part of the region or route) for which the existing service provider was providing a regular bus service under the existing bus service contract.
+(2) The Director-General must revoke the notice under clause 39B on or before the new service contract takes effect.

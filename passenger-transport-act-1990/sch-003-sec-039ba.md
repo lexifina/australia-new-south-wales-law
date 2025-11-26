@@ -1,0 +1,7 @@
+# 39BA Additional provisions relating to step-in arrangements after service breach notices
+(1) This clause applies to step-in arrangements implemented under clause 39B (3) after a failure to comply with a service breach notice, and so applies in addition to clause 39B.
+(2) The terms and conditions of the step-in arrangement may, if the existing bus service contract is in force, make provision for or with respect to the operation of the contract, including obligations, rights and liabilities under the contract, and exclusion from liability under the contract, during the period that the step-in arrangements are in force.
+(3) A provision of a step-in arrangement of a kind specified in subclause (2) has effect in relation to the bus service contract during the period that the step-in arrangements are in force despite any provision of the contract or any other law.
+(4) A step-in arrangement that affects an existing bus service contract that is in force does not affect the term of the contract.
+(5) A step-in arrangement that results from a failure to comply with a service breach notice has effect for the period specified in the notice under clause 39B or until the Director-General revokes the notice, by notice published in the Gazette, on the ground that the service breach notice has been complied with or on for any other reason, whichever occurs first.
+(6) The Director-General may take action under this clause to revoke a notice on the Director-General's own initiative or on the application of an existing service provider.

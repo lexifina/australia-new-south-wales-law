@@ -1,0 +1,13 @@
+# 46BF Witnesses and evidence at transport safety inquiries
+(1) A Board of Inquiry may summon a person to appear at a transport safety inquiry conducted by the Board to give evidence and to produce any documents that are specified in the summons.
+(2) A Board of Inquiry may require a person appearing at a transport safety inquiry to do any one or more of the following-
+(a) be sworn or affirmed,
+(b) produce a document,
+(c) answer a question.
+(3) A person attending as a witness before a Board of Inquiry is to be paid expenses of the amount or at the rate approved by the Minister for the purposes of this section.
+(4) A person must not, without reasonable excuse, fail to comply with a requirement made of the person under this section.
+Maximum penalty-
+(a) in the case of a corporation (being a previous offender)-750 penalty units, or
+(b) in the case of a corporation (not being a previous offender)-500 penalty units, or
+(c) in the case of an individual (being a previous offender)-375 penalty units, or
+(d) in the case of an individual (not being a previous offender)-250 penalty units.

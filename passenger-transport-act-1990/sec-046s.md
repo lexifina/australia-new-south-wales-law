@@ -1,0 +1,5 @@
+# 46S Assistance to be given to authorised officers and transport safety investigators
+(1) This section applies for the purpose of enabling an authorised officer or a transport safety investigator to exercise any of the powers of an authorised officer or a transport safety investigator under this Part or Schedule 6.
+(2) The appropriate authority may, by notice in writing served on the occupier of premises referred to in section 46I or entered under Schedule 6, require the person to provide such reasonable assistance and facilities as are specified in the notice within a specified time and in a specified manner.
+(3) A person who fails to comply with a requirement made by an authorised officer under this section is taken to have obstructed the authorised officer in the exercise of the authorised officer's functions under this Part.
+(4) A person who fails to comply with a requirement made by a transport safety investigator under this section is taken to have obstructed the investigator in the exercise of the investigator's functions under Schedule 6.
