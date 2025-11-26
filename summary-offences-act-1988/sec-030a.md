@@ -1,0 +1,7 @@
+# 30A Compensation
+(1) A court that convicts a person of an offence under section 8 (being an offence committed after the commencement of this section) may, in addition to any penalty imposed for the offence, order the person to pay an amount not exceeding 20 penalty units as the cost of, or as a contribution to the cost of, the repair or restoration of any damage caused by the action that resulted in the conviction.
+(2) An amount ordered to be paid under subsection (1) is to be paid to such person or body as the court orders, or in the absence of such an order to the Consolidated Fund.
+(3) An order for the payment of money under subsection (1) is taken to be a fine for the purposes of the Fines Act 1996.
+(4) An order by a court under section 10 of the Crimes (Sentencing Procedure) Act 1999 in any proceedings for an offence referred to in subsection (1) operates for the purposes of that subsection as a conviction for the offence.
+(5) The court may also, on the application of the convicted person and with the consent of the prosecutor, order that the person must, under the supervision of a person or class of persons designated by the court, personally repair or restore, or assist in the repair or restoration of, any damage caused by the action that resulted in the conviction, as an alternative to paying the whole or a specified part of an amount ordered to be paid by the person under subsection (1).
+(6) Compliance with an order under subsection (5) is, to the extent indicated in the order, taken to be satisfaction of the order under subsection (1).

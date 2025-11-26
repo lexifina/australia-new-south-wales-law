@@ -1,0 +1,11 @@
+# 19A Soliciting prostitutes by clients
+(1) A person in a road or road related area must not, near or within view from a dwelling, school, church or hospital, solicit another person for the purpose of prostitution.
+Maximum penalty-6 penalty units or imprisonment for 3 months.
+(2) A person must not, in a school, church or hospital, solicit another person for the purpose of prostitution.
+Maximum penalty-6 penalty units or imprisonment for 3 months.
+(3) A person must not, in or near, or within view from, a dwelling, school, church, hospital or public place, solicit another person, for the purpose of prostitution, in a manner that harasses or distresses the other person.
+Maximum penalty-8 penalty units or imprisonment for 3 months.
+(4) The provisions of this section are in addition to, and do not derogate from, any other law (including section 4).
+(5) In this section-
+(a) a reference to a person who solicits another person for the purpose of prostitution is a reference to a person who does so as a prospective client of a prostitute, and
+(b) a reference to soliciting includes a reference to soliciting from a motor vehicle, whether moving or stationary.
