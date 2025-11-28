@@ -1,0 +1,2 @@
+# 29AAA Purchases of electricity for use by scheduled bidirectional units not liable acquisitions-the Act, Sch 4A, cl 10(2B)
+For calculating a scheme participant's individual energy savings target for a year, a purchase, made by the scheme participant during the year, of electricity for use by a scheduled bidirectional unit is not a liable acquisition made by the scheme participant during the year.

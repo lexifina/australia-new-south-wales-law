@@ -1,0 +1,7 @@
+# 62K Application for accreditation
+An application for accreditation as a certificate provider for an activity must-
+(a) be made in the way approved by the Scheme Administrator, and
+(b) be accompanied by the information relating to the activity the Scheme Administrator requires, and
+(c) be accompanied by the fee set out in Schedule 3.
+Note-
+The Act, Schedule 4A, clause 111(4) allows the Scheme Administrator to charge a fee for investigating and determining an application for accreditation, in addition to the application fee.

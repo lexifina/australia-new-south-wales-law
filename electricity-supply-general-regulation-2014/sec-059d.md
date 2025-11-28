@@ -1,0 +1,2 @@
+# 59D Purchases of electricity for use by scheduled bidirectional units not liable acquisitions-the Act, Sch 4A, cl 90(3A)
+For calculating a scheme participant's individual liable demand for a compliance period, a purchase, made by the scheme participant during the compliance period, of electricity for use by a scheduled bidirectional unit is not a liable acquisition for the scheme participant for the compliance period.
