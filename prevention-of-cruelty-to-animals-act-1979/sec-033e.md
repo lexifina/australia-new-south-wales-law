@@ -1,0 +1,8 @@
+# 33E Penalty notices
+(1) An inspector (within the meaning of Division 2 of Part 2A) may issue a penalty notice to a person if it appears to the inspector that the person has committed a penalty notice offence.
+(2) A penalty notice offence is an offence against this Act or the regulations that is prescribed by the regulations as a penalty notice offence.
+(3) The Fines Act 1996 applies to a penalty notice issued under this section.
+Note.
+The Fines Act 1996 provides that, if a person issued with a penalty notice does not wish to have the matter determined by a court, the person may pay the amount specified in the notice and is not liable to any further proceedings for the alleged offence.
+(4) The amount payable under a penalty notice issued under this section is the amount prescribed for the alleged offence by the regulations (not exceeding the maximum amount of penalty that could be imposed for the offence by a court).
+(5) This section does not limit the operation of any other provision of, or made under, this or any other Act relating to proceedings that may be taken in respect of offences.

@@ -1,0 +1,5 @@
+# 34A Guidelines relating to welfare of farm or companion animals
+(1) The regulations may prescribe guidelines, or may adopt a document in the nature of guidelines or a code of practice as guidelines, relating to the welfare of species of farm or companion animals.
+(2) Before any regulations are made as referred to in subsection (1), the Animal Welfare Advisory Council, and representatives of any relevant livestock industry, are to be given an opportunity to review and comment on the provisions of the proposed regulation relating to the welfare of species of farm or companion animals.
+(3) Compliance, or failure to comply, with any guidelines prescribed or adopted by the regulations for the purposes of subsection (1) is admissible in evidence in proceedings under this Act of compliance, or failure to comply, with this Act or the regulations.
+(4) A document adopted as referred to in subsection (1) may be adopted wholly or in part, with or without modification and as in force at a particular time or as in force from time to time.

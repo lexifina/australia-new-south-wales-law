@@ -1,0 +1,6 @@
+# 24K Power of seizure of evidence of offences
+(1) An inspector who is lawfully on any land investigating a suspected commission of an offence against this Act or the regulations may seize any thing that will afford evidence of the commission of the offence.
+(2) An inspector who seizes a thing under this section must provide the occupier of the land with a receipt acknowledging the seizure of the thing if the occupier is present and it is reasonably practical to do so.
+(3) If an inspector seizes a thing under this section, it may be retained by the inspector until the completion of any proceedings (including proceedings on appeal) in which it may be tendered in evidence.
+(4) However, an inspector may retain seized documents under subsection (3) only if the person from whom the documents were seized is provided, within a reasonable time after the seizure, with a copy of the documents certified by an inspector to be a true copy.
+(5) Subsection (3) ceases to have effect in relation to any thing seized if, on the application of the person aggrieved by the seizure, the court in which the proceedings referred to in that subsection are instituted orders the inspector to return the thing seized.

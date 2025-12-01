@@ -1,0 +1,3 @@
+# 33F Offences in respect of more than one animal
+(1) In proceedings for an offence against section 5, 6, 7 or 8, an allegation may be made that the act or omission that constituted the alleged offence related to more than one animal.
+(2) In sentencing a person for an offence against section 5, 6, 7 or 8, a court may take into account whether the act or omission that constituted the offence related to more than one animal. However, if the person has already been prosecuted in respect of that act or omission, the court is to take into account any penalty that was imposed on the person as a result of that prosecution.
