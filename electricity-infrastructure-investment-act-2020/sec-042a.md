@@ -1,0 +1,4 @@
+# 42A Application of National Electricity (NSW) Law and National Electricity Rules in relation to system security services
+(1) The regulations may modify the application of, or disapply, a provision of the National Electricity (NSW) Law or the National Electricity Rules to the extent reasonably necessary to achieve the objects of this Act and to enable the planning, provision and management of system security services in connection with network infrastructure, including infrastructure not owned by the system strength service provider.
+(2) A regulation under this section that affects the operation or safety of network infrastructure may not be made unless the Minister has consulted with distribution network service providers and transmission network service providers.
+(3) A regulation under this section that affects AEMO in the exercise of its functions may not be made without the concurrence of AEMO.
