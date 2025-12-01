@@ -1,0 +1,4 @@
+# 43B Pricing of electricity for customers other than exempt customers
+(1) The price for electricity network services that are the subject of an electricity network pricing determination and that are provided by a licensee with respect to customers (other than customers who are specified or described in an order made under section 43E (6)) is increased by an amount determined by an order made by the Governor on the recommendation of the Treasurer and published in the Gazette that does not exceed 0.550 cents per kilowatt hour of the electricity supplied.
+(2) An electricity network pricing determination increased in accordance with this section has effect under the National Electricity Rules as if the determination included the increase.
+(3) An electricity network pricing determination that includes an amount determined by an order made as referred to in subsection (1) is not to be further increased in accordance with this section.

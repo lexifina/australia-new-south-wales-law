@@ -1,0 +1,9 @@
+# 20 Carried forward shortfalls must be remedied
+(1) A scheme participant who has a carried forward shortfall for a year must remedy the carried forward shortfall in that year.
+(2) A scheme participant remedies a carried forward shortfall if the additional energy savings attributable to the scheme participant for the year to which the energy savings shortfall is carried forward are equivalent to, or exceed, the amount of the carried forward shortfall.
+(3) A scheme participant fails to remedy a carried forward shortfall if the additional energy savings attributable to the scheme participant for the year to which the energy savings shortfall is carried forward are less than the amount of the carried forward shortfall.
+(4) For the purposes of this Part, the additional energy savings attributable to a scheme participant for a year is the total value of all energy savings certificates that the scheme participant elects to surrender, in accordance with this Part, for the purpose of remedying its carried forward shortfall for that year.
+(5) If a scheme participant fails to remedy a carried forward shortfall, the scheme participant is liable for a penalty in respect of the non-remedied amount (that is, the amount by which the carried forward shortfall exceeds the additional energy savings attributable to the scheme participant for the year).
+(6) The penalty is to be calculated as if the non-remedied amount were an energy savings shortfall for the year to which the energy savings shortfall is carried forward.
+(7) The penalty is payable in the same manner as, and is taken to be, an energy savings shortfall penalty.
+(8) To avoid doubt, a penalty payable by a scheme participant in respect of a failure to remedy a carried forward shortfall in a year is additional to any penalty payable by the scheme participant in respect of the participant's energy savings shortfall (if any) for that year.

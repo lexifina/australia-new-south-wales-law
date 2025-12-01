@@ -1,0 +1,7 @@
+# 8 Conditions under which energy savings scheme targets may be changed
+The Minister may recommend the making of a regulation to change the energy savings scheme target for a year or years only if the Minister has certified in writing to the Governor that, in the Minister's opinion-
+(a) the change to the energy savings scheme target is appropriate to achieve greater uniformity or harmonisation with a scheme in another jurisdiction with similar objectives to the energy savings scheme, or for the purposes of implementing a national scheme with similar objectives to the energy savings scheme, or
+(b) the change to the energy savings scheme target is appropriate because of an under supply or over supply of energy savings certificates that may be surrendered under this Part, as evidenced in the manner set out in the regulations, or
+(c) the change to the energy savings scheme target is appropriate because of a target breach identified in an energy security target monitor report under the Electricity Infrastructure Investment Act 2020, or
+(d) the change to the energy savings scheme target is appropriate because of significant changes to the rules governing the creation of energy savings certificates, or
+(e) the change to the energy savings scheme target is otherwise appropriate because of significant changes to the policy or regulatory framework, or the market conditions, in which the energy savings scheme operates.

@@ -1,0 +1,2 @@
+# 94I Exclusion of personal liability
+Any matter or thing done or omitted to be done by the Minister, an authorised officer or a person acting under the direction of the Minister does not, if the matter or thing was done or omitted in good faith for the purpose of executing this Part, subject the Minister, authorised officer or person so acting personally to any action, liability, claim or demand.

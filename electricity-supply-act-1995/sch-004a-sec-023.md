@@ -1,0 +1,9 @@
+# 23 Effect of exemption
+(1) A scheme participant is entitled to deduct from the total value of its liable acquisitions the value of any purchase of electricity that is to be used by a person or in connection with an activity and which, when so used, is fully exempt electricity load.
+(2) A scheme participant is entitled to deduct from the total value of its liable acquisitions a proportion of the value of any purchase of electricity that is to be used by a person or in connection with an activity and which, when so used, is partially exempt electricity load. The proportion that may be deducted is the exempt proportion.
+(3) An order granting an exemption may specify any allowances that may be made by scheme participants, in applying the exemption, for electricity losses occurring between the purchase of the electricity by the scheme participant and its use by an end user.
+(4) Electricity the subject of such an allowance may also be deducted from the total value of liable acquisitions made by a scheme participant, in accordance with the exemption.
+(5) An order granting an exemption may authorise the Scheme Regulator to make rules with respect to the exemption (including rules relating to assessment of deductions under this Division).
+(6) Any deductions made by scheme participants under this Division must be made in accordance with the provisions of the relevant exemption, and any such rules.
+(7) In any proceedings under this Act involving a scheme participant, the burden of establishing that the scheme participant was entitled to deduct any particular amount of electricity purchased by it from the total value of its liable acquisitions lies on the scheme participant.
+(8) In this clause, a reference to a purchase of electricity includes a reference to a supply of electricity that is treated as a liable acquisition under this Part.

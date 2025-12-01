@@ -1,0 +1,4 @@
+# 97DDA Variation or revocation of conditions of accreditation
+(1) An accredited abatement certificate provider may apply to the Scheme Administrator for the variation or revocation of any condition of accreditation imposed by the Scheme Administrator under section 97DD (1) (b).
+(2) The regulations may make provision for or with respect to the variation or revocation of any conditions of accreditation that are imposed by the Scheme Administrator, including the fee (if any) to be paid to the Scheme Administrator in respect of an application under subsection (1).
+(3) The Scheme Administrator may charge a fee (in addition to any application fee) in respect of the investigation and determination of an application under subsection (1). The fee is to be determined by the Scheme Administrator on a cost recovery basis.

@@ -1,0 +1,11 @@
+# 19 Energy savings shortfalls may be carried forward
+(1) A scheme participant may elect to carry forward an energy savings shortfall, or part of an energy savings shortfall, for a year to the next year in accordance with this clause.
+(2) If a scheme participant elects to carry forward an energy savings shortfall, or part of an energy savings shortfall, the amount carried forward is not subject to an energy savings shortfall penalty for the year to which the shortfall relates.
+(3) The maximum amount of an energy savings shortfall that may be carried forward to the year 2010 by a scheme participant is 20% of the scheme participant's individual energy savings target for the year 2009 or, if the regulations prescribe another amount as the maximum amount that may be carried forward to year 2010, the amount so prescribed.
+(4) The maximum amount of an energy savings shortfall that may be carried forward to any other year by a scheme participant is 10% of the scheme participant's individual energy savings target in the previous year or, if the regulations prescribe another amount as the maximum amount that may be carried forward to the relevant year, the amount so prescribed.
+(5) An energy savings shortfall, or part of an energy savings shortfall, may be carried forward to the next year only.
+(6) However, an energy savings shortfall, or part of an energy savings shortfall, for the year 2050 cannot be carried forward to the next year.
+Note.
+The scheme automatically terminates at the end of the year 2050. It is also possible for the scheme to be terminated earlier under Division 14, in which case the regulations may prohibit scheme participants from carrying forward an energy savings shortfall to the next year if the termination takes effect in that next year.
+(7) The fact that a scheme participant elects to carry forward an energy savings shortfall, or part of an energy savings shortfall, to the next year does not prevent the scheme participant from electing to carry forward an energy savings shortfall, or part of an energy savings shortfall, for that next year to the following year.
+(8) For the purposes of this Part, an energy savings shortfall, or part of an energy savings shortfall, for a year that is carried forward to the next year is a carried forward shortfall for that next year.

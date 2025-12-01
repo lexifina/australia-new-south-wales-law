@@ -1,0 +1,4 @@
+# 53H Effect of other laws
+(1) An environmental planning instrument under the Environmental Planning and Assessment Act 1979 cannot prohibit, require development consent for or otherwise restrict the doing on any land of work that is required to be done by a direction under this Division.
+(2) Part 5 of the Environmental Planning and Assessment Act 1979 does not apply to or in respect of the doing on any land of work that is required to be done by a direction under this Division.
+(3) Work that is required to be done by a direction under this Division may be done on land despite any requirement for an approval, consent or other authorisation for the work made by the Biodiversity Conservation Act 2016, Part 5A of the Local Land Services Act 2013, the National Parks and Wildlife Act 1974 or any other Act or instrument made under an Act.

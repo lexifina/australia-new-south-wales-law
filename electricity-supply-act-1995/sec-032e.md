@@ -1,0 +1,6 @@
+# 32E Ceasing to be a licensee during a year
+(1) If a person ceases to be a licensee during a financial year, the amount of levy payable by the licensee may be adjusted by order of the Governor, applying to the licensee and published in the Gazette, having regard to the length of the portion of that financial year that the distributor's licence was in force.
+(2) Such a person is entitled to a refund of any money paid in excess of the amount of the levy as so adjusted.
+(3) However, a person does not, by ceasing to be a licensee, cease to be liable to a levy, or to a variation of a levy under section 32C, in respect of any period during which the person was a licensee.
+(4) Accordingly, a reference in this Division to a licensee includes a reference to a former licensee, but without making the former licensee liable to a levy in respect of any period after the person ceased to be the holder of a distributor's licence.
+(5) The other sections of this Division apply for the purpose of calculating an adjustment referred to in subsection (1) or a variation referred to in subsection (3) as if references in those sections to a financial year were references to the portion of the financial year during which the distributor's licence was in force.

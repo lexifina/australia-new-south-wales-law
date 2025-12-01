@@ -1,0 +1,4 @@
+# 32 Calculation of energy savings attributable to recognised energy saving activities
+(1) The number of notional megawatt hours attributable to energy savings arising from a recognised energy savings activity is to be calculated by applying the certificate conversion factor or factors for the year in which the energy savings for which the certificate is created occurred to the number of megawatt hours of energy savings arising from the activity.
+(2) Depending on the nature of the energy saving activity and the scheme rules, the calculation may require the application of the certificate conversion factor for the recognised form of energy.
+(3) The scheme rules may provide for the methodology for calculating the number of megawatt hours of energy savings arising from a recognised energy saving activity and for applying the certificate conversion factors.

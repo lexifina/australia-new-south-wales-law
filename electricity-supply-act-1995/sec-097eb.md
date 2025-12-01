@@ -1,0 +1,8 @@
+# 97EB Entitlement to create abatement certificates
+(1) The regulations and greenhouse gas benchmark rules may make provision for or with respect to the entitlement of accredited abatement certificate providers to create abatement certificates in respect of the activities, or classes of activities, for which they are accredited as abatement certificate providers.
+(2) Without limiting subsection (1), the regulations and greenhouse gas benchmark rules may provide for the following-
+(a) the number of abatement certificates that may be created in respect of any activity, or class of activities, on the basis of the carbon dioxide equivalent of greenhouse gas emissions abated or to be abated by the activity,
+(b) the establishment of a point or level from which electricity generating activities give rise to an entitlement to create abatement certificates under this Part.
+(3) A regulation or rule made for the purposes of subsection (2) (b) is to establish the point or level from which electricity generating activities relating to a generator having a nameplate rating exceeding 30 megawatts that was commissioned before 1 January 2002 give rise to an entitlement to create abatement certificates in one or more of the following ways-
+(a) the point or level may be the point or level that is equivalent to the usual level of output of the generator, as determined in accordance with the regulation or rule,
+(b) the point or level may be the point or level which reflects the usual greenhouse gas emissions intensity, expressed in tonnes of carbon dioxide equivalent per megawatt hour, of the output of the generator, as determined in accordance with the regulation or rule.

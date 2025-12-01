@@ -1,0 +1,7 @@
+# 52 Holder of certificate may deal with certificate
+(1) The person registered as the owner of an energy savings certificate may, subject to this Part, deal with the certificate as its absolute owner and give good discharges for any consideration for any such dealing.
+(2) This clause is subject to any rights appearing in the register of energy savings certificates to belong to another person, being rights that are registered in accordance with any regulations made under this Part.
+(3) This clause only protects a person who deals with the person registered as the owner of the energy savings certificate as a purchaser in good faith for value and without notice of any fraud on the part of the registered owner.
+(4) Despite subclause (3), a person who purchases an energy savings certificate in good faith for value does not lose the protection provided by this clause because the person has notice that a person has been found guilty of an offence against this Part in respect of the creation of an energy savings certificate.
+Note.
+This Part makes it an offence to improperly create an energy savings certificate. The Scheme Administrator may require a person who has been convicted of such an offence to "make good" the improper creation of the certificates by surrendering to the Scheme Administrator an equivalent number of certificates to those improperly created. It is not necessary for those certificates to be the actual certificates improperly created (as those certificates may already have been sold).
