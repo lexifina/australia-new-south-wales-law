@@ -1,0 +1,3 @@
+# 204B Commission of offence in relation to exercise of powers where failure by police officer to comply with this Part
+(1) A person does not commit an offence under this Act of failing to comply with a direction, requirement or request given or made by a police officer under or in connection with a power to which this Part applies unless the obligations under this Part are complied with when exercising the power.
+(2) Subsection (1) does not apply to a failure by a police officer to comply with an obligation under this Part that does not render the exercise of the power by the officer unlawful because of section 204A.

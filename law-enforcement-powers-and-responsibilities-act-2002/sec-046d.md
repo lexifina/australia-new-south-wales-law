@@ -1,0 +1,3 @@
+# 46D Authority to apply for criminal organisation search warrant
+(1) An application for a criminal organisation search warrant may be made by a police officer authorised to make the application by a police officer holding the rank of Superintendent or above.
+(2) An authorisation to apply for a criminal organisation search warrant in respect of a searchable offence may be given in accordance with this section if the person giving the authorisation suspects on reasonable grounds that there is, or within 7 days there will be, in or on the premises a thing of a kind connected with the searchable offence.

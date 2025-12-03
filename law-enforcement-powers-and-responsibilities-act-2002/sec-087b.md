@@ -1,0 +1,10 @@
+# 87B Emergency prohibition on sale or supply of liquor
+(1) A police officer of or above the rank of Superintendent may authorise the closure of any licensed premises, or the prohibition of the sale or supply of liquor on any licensed premises, if the police officer-
+(a) has reasonable grounds for believing that there is a large-scale public disorder occurring in the vicinity of the licensed premises or there is a threat of such a disorder occurring in the near future, and
+(b) is satisfied that the closure or prohibition will reasonably assist in preventing or controlling the public disorder.
+(2) The period that an authorisation relating to any licensed premises has effect must not exceed the period that the police officer giving the authorisation considers reasonably necessary for the purpose for which it is given, but must not in any case exceed 48 hours. The period that the authorisation has effect may be extended by the giving of a further authorisation, but only if the total period of the authorisation in relation to those premises does not exceed 48 hours.
+(3) Any police officer may, in accordance with an authorisation under subsection (1), direct any person who is apparently in charge of, or who is selling or supplying liquor on, licensed premises to close the premises or to cease selling or supplying liquor on those premises, as the case requires.
+(4) An authorisation under subsection (1) may be given orally or in writing and, if given orally, it must be confirmed by instrument in writing as soon as it is reasonably practicable to do so.
+(5) An authorisation under subsection (1) may be revoked at any time by a police officer of or above the rank of Superintendent if the police officer is satisfied that the authorisation is no longer necessary. The police officer is to give notice to a person apparently in charge of the licensed premises of the revocation of the authorisation.
+(6) A person to whom a direction is given under this section must comply with the direction.
+Maximum penalty-50 penalty units or imprisonment for 12 months, or both.

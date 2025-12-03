@@ -1,0 +1,5 @@
+# 104A Arrest by commander of aircraft
+(1) The person in command of an aircraft may, on board the aircraft, with such assistance as is necessary, arrest without warrant a person whom he or she finds committing or reasonably suspects of having committed, or of having attempted to commit, an offence on or in relation to, or affecting the use of, an aircraft and that person in command or a person authorised by him or her for the purpose may hold the person so arrested in custody until he or she can be brought before an authorised officer to be dealt with according to law.
+(2) The person in command of an aircraft may, where he or she considers it necessary so to do in order to prevent an offence on or in relation to, or affecting the use of, the aircraft or to avoid danger to the safety of the aircraft or of persons on board the aircraft, with such assistance as he or she thinks necessary-
+(a) place a person who is on board the aircraft under restraint or in custody, or
+(b) if the aircraft is not in the course of a flight, remove a person from the aircraft.
