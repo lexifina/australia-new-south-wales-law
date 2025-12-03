@@ -1,0 +1,26 @@
+# 72AA Matters to consider in preparing plans of management
+(1) The following matters are to be taken into consideration in the preparation of a plan of management for land reserved under this Act-
+(a) the relevant management principles,
+(b) the conservation of biodiversity, including the maintenance of habitat, ecosystems and populations of threatened species,
+(c) the protection and appreciation of objects, places and structures of cultural significance, and tracts of land,
+(d) the protection of landscape values and scenic features,
+(e) the protection of geological and geomorphological features,
+(f) the protection of wilderness values and the management of wilderness areas,
+(g) the maintenance of natural processes,
+(h) the rehabilitation of landscapes and the reinstatement of natural processes,
+(i) fire management,
+(j) in the case of a plan of management for a national park, nature reserve or karst conservation reserve, the prohibition of the execution of any works adversely affecting the natural condition or special features of the park or reserve,
+(k) the potential for the reserved land to be used by Aboriginal people for cultural purposes,
+(l) the provision of opportunities for public understanding and appreciation of natural and cultural heritage values, including opportunities for sustainable visitor or tourist use and enjoyment of the reserved land,
+(m) the adaptive reuse of buildings and structures,
+(n) the appropriate (including culturally appropriate) and ecologically sustainable use of the reserved land, including use by lessees, licensees and occupiers of the land,
+(o) the preservation of catchment values,
+(p) the encouragement of appropriate research into natural and cultural features and processes, including threatening processes,
+(q) the identification and mitigation of threatening processes,
+(r) the statutory natural resource management, land use management plans and land management practices of land surrounding or within a region of the reserved land,
+(s) the regional, national and international context of the reserved land, the maintenance of any national and international significance of the reserved land and compliance with relevant national and international agreements, including the protection of world heritage values and the management of world heritage properties,
+(t) benefits to local communities,
+(u) the social and economic context of the reserve so as to ensure, for example, that the provision of visitor or tourist facilities is appropriate to the surrounding area or that pest species management programs are co-ordinated across different tenures,
+(v) the protection and management of wild rivers,
+(w) the impact of the management and the use of land acquired under Part 11 on the reserved land's management.
+(2)-(7) (Repealed)

@@ -1,0 +1,1 @@
+# 47GC (Repealed)

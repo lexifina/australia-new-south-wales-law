@@ -1,0 +1,5 @@
+# 4 Revocation of State forest dedications and reservation as part of Wollemi National Park
+(1) The dedication of the land described in subclause (2) as State forest is revoked.
+(2) An area of about 2,257 hectares, being part of Newnes State Forest No 748, dedicated by proclamation published in the NSW Government Gazette on 21 May 1920, and part Extensions No 4 and No 5, dedicated on 12 March 1976 and 23 April 2004, respectively, in the County of Cook, Parishes of Cook and Rock Hill, and being designated as 51-01 on the diagram catalogued Misc R 00355 Edition 1 held by the Service, subject to any variation or exceptions noted on the diagram.
+(3) The land described in subclause (2) is reserved as part of the Wollemi National Park.
+(4) A notice under the Forestry Act 2012, section 16 or 18 that declares an area of State forest, the dedication of which is revoked by this clause, as a flora reserve or special management zone is also revoked to the extent to which it relates to a flora reserve or special management zone, or a part of either, situated within the land described in subclause (2).

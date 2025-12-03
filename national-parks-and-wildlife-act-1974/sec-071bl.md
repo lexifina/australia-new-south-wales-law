@@ -1,0 +1,3 @@
+# 71BL Status of leased lands and board of management
+(1) A lease of lands to the Minister under this Part is taken, for the purposes of any Act or law, not to be a lease of lands for private purposes.
+(2) Each board of management is taken, for the purposes of the Environmental Planning and Assessment Act 1979 and any regulation or planning instrument made under that Act, to be a public authority and, for all purposes under that Act and any such regulation or planning instrument, to occupy in respect of the lands of which it has care, control and management under this Part, the same position that the Secretary occupies in respect of lands of which the Secretary has care, control and management under this Act.

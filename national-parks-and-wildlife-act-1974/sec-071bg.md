@@ -1,0 +1,2 @@
+# 71BG Aboriginal Land Councils to act with agreement of Aboriginal owner board members
+An Aboriginal Land Council or Councils in which reserved or dedicated lands are vested must, when exercising any power, authority, duty or function conferred or imposed on it or them under this Act or under the lease of the lands made under this Part (but subject to the requirements of this Act and any instrument, including the lease, made under this Act), act only with the agreement of the Aboriginal owner board members for the lands.

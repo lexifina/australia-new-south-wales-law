@@ -1,0 +1,2 @@
+# 71BH Regard to be had to interests of Aboriginal owners
+The Secretary and the National Parks and Wildlife Service must, when exercising any power, authority, duty or function conferred or imposed on them under this Act in relation to management of the lands to which this Part applies (but subject to the requirements of this Act and any instrument, including the lease, made under this Act), have regard to the interests of the Aboriginal owners of the lands concerned.

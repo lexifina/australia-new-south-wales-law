@@ -1,0 +1,4 @@
+# 91EE Consultation about modification of proposed detrimental action
+(1) After making an order under this Division, the Secretary must immediately consult with the person proposing to perform the action to determine whether any modification of the action may be sufficient to protect the environment of any protected fauna or native plants.
+(2) If, in the opinion of the Secretary, satisfactory arrangements cannot be made to protect the environment that is the subject of an order under this Division, the Secretary must recommend the making of an interim protection order under Division 2.
+(3) The Secretary must not recommend the making of an interim protection order in relation to anything that is authorised to be done by or under an authority referred to in section 91AA (3) or that is essential for a purpose referred to in section 91AA (4).

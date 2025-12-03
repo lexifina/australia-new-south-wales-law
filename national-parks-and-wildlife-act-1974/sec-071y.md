@@ -1,0 +1,2 @@
+# 71Y Reservation of ALR Act lands
+The Governor may, on the grant under the Aboriginal Land Rights Act 1983 of ALR Act lands that are referred to in section 71X (2), by notice published in the Gazette, reserve the lands under this Act and in accordance with this Part as a national park, historic site, state conservation area, regional park, nature reserve, karst conservation reserve or Aboriginal area.

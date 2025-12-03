@@ -1,0 +1,4 @@
+# 163B Application of certain Acts
+(1) Division 2A (Orders) of Part 6 of the Environmental Planning and Assessment Act 1979 and Chapter 7 (What are the regulatory functions of councils?) of the Local Government Act 1993 do not apply to lands reserved or dedicated (other than lands dedicated under section 58U) under this Act.
+(2) This section (except to the extent that it relates to anything authorised by or under the Snowy Hydro Corporatisation Act 1997) does not apply to a ski resort area, within the meaning of Part 8A of Schedule 6 to the Environmental Planning and Assessment Act 1979.
+(3) An order may not be made under Division 2A of Part 6 of the Environmental Planning and Assessment Act 1979, or under Chapter 7 of the Local Government Act 1993, that would prevent or hinder the Secretary from or in carrying out any power, authority, duty, function or responsibility conferred or imposed on the Secretary by or under this Act.

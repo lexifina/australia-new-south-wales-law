@@ -1,0 +1,4 @@
+# 71G Selection of representatives for negotiations before Aboriginal owners identified
+(1) This section applies if, at the time negotiations under this Division commence, Aboriginal owners of the lands that are the subject of the negotiations have not been identified.
+(2) The Minister administering the Aboriginal Land Rights Act 1983 may, for the purposes of the conduct of negotiations under this Division in circumstances referred to in subsection (1), appoint a negotiating panel from Aboriginal persons to represent Aboriginal persons who, in the Minister's opinion, have a cultural association with the lands concerned.
+(3) The Minister may, for the purposes of making appointments to the panel, consult with any other person or body (including any group formed by Aboriginal persons) that may, in the Minister's opinion, assist the Minister to ensure that the panel is appropriately constituted.

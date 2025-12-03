@@ -1,0 +1,2 @@
+# 20A Amendments made by the Statute Law (Miscellaneous Provisions) Act 1993
+On and from the commencement of this clause, a reference in any other Act, or in any instrument made under any Act, or in any other document of any kind, to the Director of National Parks and Wildlife or to the Acting Director of National Parks and Wildlife is to be read as a reference to the Director-General of National Parks and Wildlife or to the Acting Director-General of National Parks and Wildlife respectively.
