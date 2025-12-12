@@ -1,0 +1,6 @@
+# 78A Separation and other variations in conditions of custody of inmates
+(1) Nothing in this Act requires the conditions of custody of inmates to be the same for all inmates or for all inmates in the same correctional centre or of the same classification or designation, including conditions with respect to association with other inmates.
+(2) An inmate or group of inmates in a correctional centre may be held separately from other inmates in the correctional centre for the purposes of the care, control or management of the inmate or group of inmates.
+(3) In particular, inmates may be separated because of a requirement of this Act or the regulations, because of the classification or designation of the inmates, because of the nature of any program being undertaken by the inmates or because of any intensive monitoring that is required of the inmates.
+(4) The making of a segregated custody direction under Division 2 is not required to authorise a separation of inmates.
+(5) Anything done or omitted that could have been validly done or omitted if this section (and section 79 (1) (c1)) had been in force when it was done or omitted is taken to be, and always to have been, validly done or omitted.

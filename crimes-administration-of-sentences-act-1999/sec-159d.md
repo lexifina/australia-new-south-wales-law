@@ -1,0 +1,8 @@
+# 159D General provisions relating to terrorism related offenders
+(1) In deciding whether or not to release a terrorism related offender on parole, the Parole Authority is to-
+(a) have regard to any credible information it has on the risk that the offender may engage in, or incite or assist others to engage in, terrorist acts or violent extremism under the terms of the proposed parole order and in the future, and
+(b) have regard in particular to whether the nature of any associations or affiliation that the offender has with any persons or groups advocating support for terrorist acts or violent extremism gives rise to any such risk.
+(2) The Parole Authority or a judicial member of the Parole Authority may, for the purposes of this Division, have regard to advice received from the NSW Police Force or from any other public authority (whether of this or any other State or Territory or of the Commonwealth) established for law enforcement, security or anti-terrorist purposes.
+(3) This Division applies in addition to, and despite anything to the contrary in, any other provision of or made under this Act.
+(4) However, this Division does not limit the operation of section 160.
+(5) This Division extends to applications for parole orders pending on the commencement of this Division and to parole orders made before that commencement.

@@ -1,0 +1,5 @@
+# 236H Protection from liability
+(1) A medical practitioner does not incur any civil or criminal liability in respect of anything properly and necessarily done by the practitioner in the course of taking, or being provided with, a sample of blood or a non-invasive sample from a member of correctional staff for the purpose of its being used by an analyst to detect the presence of alcohol or any prohibited drug or steroid if the practitioner-
+(a) believed on reasonable grounds that he or she was required under this Act to take, or be provided with, the sample of blood or the non-invasive sample from the person, or
+(b) was informed by an authorised person that the staff member was a person from whom the practitioner was required under this Act to take, or be provided with, the sample of blood or the non-invasive sample.
+(2) Subsection (1) extends to a registered nurse, or any person acting under the supervision of the medical practitioner, who performs the functions of a medical practitioner under this Division in accordance with this Division or the regulations.
