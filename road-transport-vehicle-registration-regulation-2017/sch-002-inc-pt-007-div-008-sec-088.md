@@ -1,0 +1,7 @@
+# 88 External cabin lights
+(cf ALVSR 2015 r 88; 2007 reg Sch 2 cl 101)
+(1) A motor vehicle fitted with front clearance lights may also have additional forward-facing lights on or above the roof of its cabin.
+(2) The additional forward-facing lights must be spaced evenly between the front clearance lights, with their centres at least 120 millimetres apart.
+(3) When on, an additional forward-facing light must-
+(a) show a yellow or white light, and
+(b) not use over 7 watts power.

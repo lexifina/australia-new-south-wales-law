@@ -1,0 +1,15 @@
+# 123J Prescribed qualifications to carry out total loss assessments-heavy vehicles
+(1) For the purposes of section 104G(1)(a) of the Act, the prescribed training, qualifications and experience are all of the following-
+(a) the successful completion of an approved course,
+(b) the demonstrated ability to determine whether or not a heavy vehicle has suffered damage of a type specified in the statutory write-off assessment criteria,
+(c) the demonstrated ability to apply each of the following-
+(i) the relevant technical specifications,
+(ii) any written-off heavy vehicle policies and procedures published on TfNSW's website.
+(2) In this clause-
+approved course means-
+(a) a training course in vehicle repair assessment provided by a training provider accredited by the Australian Skills Quality Authority, or
+(b) a course that includes instruction on all of the following-
+(i) the sourcing and interpretation of the standards and methods of repair documented by the manufacturers of vehicles or recognised in the industry for vehicles,
+(ii) the use of those standards and methods in the calculation of repair costs,
+(iii) the conduct of assessments of repairs in compliance with those standards and methods,
+(iv) the assessment of vehicle damage having regard to the types of damage specified in the statutory write-off assessment criteria that are prescribed by clause 123B.

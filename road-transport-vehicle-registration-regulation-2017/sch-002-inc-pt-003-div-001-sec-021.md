@@ -1,0 +1,15 @@
+# 21 Compliance with second edition ADRs
+(cf ALVSR 2015 r 21; 2007 reg Sch 2 cl 11)
+(1) If a second edition ADR recommends that the ADR should apply to the design and construction of a vehicle, the vehicle must comply with the ADR.
+(2) If a second edition ADR contains a requirement for a type of equipment fitted to a vehicle built on or after a stated time, any equipment of the same type fitted to the vehicle after it is built must comply with-
+(a) the requirement as in force when the vehicle was built, or
+(b) if the requirement is amended after the vehicle is built and before the equipment is fitted-the requirement as in force-
+(i) when the vehicle was built, or
+(ii) when the equipment was fitted, or
+(iii) at any time between when the vehicle was built and the equipment was fitted.
+(3) However, a vehicle, or equipment fitted to a vehicle, need not comply with a recommendation or requirement of a second edition ADR if-
+(a) the recommendation or requirement is replaced by, or is inconsistent with, a requirement of either of the following (each anewer ADR),
+(i) a later version of the second edition ADR applying to the vehicle or equipment,
+(ii) a third edition ADR applying to the vehicle or equipment, and
+(b) the vehicle or equipment complies with the requirement of the newer ADR.
+(4) If a second edition ADR allows a vehicle built on or after a stated time to be fitted with equipment, a vehicle built before that time may also be fitted with the equipment.

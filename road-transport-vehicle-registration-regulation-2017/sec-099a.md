@@ -1,0 +1,2 @@
+# 99A Statutory write-off assessment criteria-light trucks
+For the Act, section 82, definition of statutory write-off assessment criteria, damage of a type or caused in circumstances specified in the Damage Assessment Criteria for the Classification of Heavy Vehicle Statutory Write-Offs published by Austroads, as in force from time to time, is prescribed in relation to a light truck, except to the extent that the document provides an exemption for substantially stripped vehicles.

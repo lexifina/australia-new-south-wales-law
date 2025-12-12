@@ -1,0 +1,2 @@
+# 123B Statutory write-off assessment criteria-heavy vehicles
+For the purposes of the definition of statutory write-off assessment criteria in section 104A of the Act, damage of a type or caused in circumstances specified in the document titled Damage Assessment Criteria for the Classification of Heavy Vehicle Statutory Write-Offs, published by Austroads (as in force from time to time), is prescribed (except to the extent that the document provides an exemption for substantially stripped vehicles).

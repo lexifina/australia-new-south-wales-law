@@ -1,0 +1,8 @@
+# 55 Chain guards
+(cf ALVSR 2015 r 55; 2007 reg Sch 2 cl 59)
+(1) If the engine power of a motor bike is transmitted to the rear wheel by a chain, the driver and any passenger must be protected from the front sprocket and at least the upper part of the chain by-
+(a) the frame or equipment of the motor bike, or
+(b) a chain guard.
+(2) A chain guard must cover the chain to a point-
+(a) at least 300 millimetres to the rear of the rearmost foot rest, or
+(b) above the centre of the rear drive sprocket.
