@@ -1,0 +1,2 @@
+# 2A Reference to Board of Tick Control
+A reference in this Act to "the use of a cattle dip site on the land under a program implemented in accordance with the recommendations or advice of the Board of Tick Control under Part 2 of the Stock Diseases Act 1923" is taken to be a reference to "the use of a cattle dip site on the land in relation to a treatment ordered under the Stock Diseases Act 1923".

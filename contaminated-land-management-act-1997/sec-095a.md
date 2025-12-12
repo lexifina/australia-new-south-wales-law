@@ -1,0 +1,9 @@
+# 95A Orders regarding monetary benefits
+(1) The court may order the offender to pay, as part of the penalty for committing the offence, an additional penalty of an amount the court is satisfied, on the balance of probabilities, represents the amount of any monetary benefits acquired by the offender, or accrued or accruing to the offender, as a result of the commission of the offence.
+(2) The amount of an additional penalty for an offence is not subject to any maximum amount of penalty provided elsewhere by or under this Act.
+(3) For subsection (1), the prosecutor may submit to the court a reasonable estimate of the amount of monetary benefits acquired by, or accrued or accruing to, a person as a result of the commission of the offence.
+(3A) The reasonable estimate may be calculated-
+(a) in accordance with a protocol prescribed by the regulations, or
+(b) using another method, formula or approach the prosecutor considers appropriate.
+(4) In this section-
+the court does not include the Local Court.
