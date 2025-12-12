@@ -1,0 +1,2 @@
+# 6A Filling of vacancy in office of appointed member
+If the office of any appointed member becomes vacant, a person is, subject to this Act, to be appointed to fill the vacancy.
