@@ -1,0 +1,4 @@
+# 28E Amount of financial assurances
+(1) The amount of a financial assurance is to be as determined by the Authority.
+(2) However, the Authority must not require financial assurances of an amount that exceeds the total cost of carrying out the relevant work or program. That total cost is the amount that, in the Authority's opinion, represents a reasonable estimate of the total likely costs and expenses that may be incurred in carrying out the work or program required by or under this Act for which the financial assurance is required, including the likely costs and expenses of the Authority in directing and supervising the carrying out of the work or program.
+(3) The Authority may require the holder or former holder of a licence who is required to give a financial assurance to provide to the Authority an independent assessment of the cost of the relevant work or program for which the assurance is required.

@@ -1,0 +1,2 @@
+# 28I Lapsing of financial assurance
+The requirement to provide financial assurance lapses and no longer binds the holder or former holder of the licence if the Authority is satisfied that the work or program for which the financial assurance was required has been satisfactorily carried out and the Authority has given the holder or former holder of the licence written notice of the lapsing of the financial assurance.

@@ -1,0 +1,10 @@
+# 25B Remedy or restraint of breaches of this Act or regulations
+(1) Any person may bring proceedings in the Land and Environment Court for an order to remedy or restrain a breach of this Act or the regulations.
+(2) Any such proceedings may be brought whether or not proceedings have been instituted for an offence against this Act or the regulations.
+(3) Any such proceedings may be brought whether or not any right of the person has been or may be infringed by or as a consequence of the breach.
+(4) Any such proceedings may be brought by a person on the person's own behalf or on behalf of another person (with their consent), or of a body corporate or unincorporate (with the consent of its committee or other controlling or governing body), having like or common interests in those proceedings.
+(5) Any person on whose behalf proceedings are brought is entitled to contribute to or provide for the payment of the legal costs and expenses incurred by the person bringing the proceedings.
+(6) If the Court is satisfied that a breach has been committed or that a breach will, unless restrained by order of the Court, be committed, it may make such orders as it thinks fit to remedy or restrain the breach.
+(7) Without limiting the powers of the Court under this section, an order under this section may suspend any licence.
+(8) In this section-
+breach includes a threatened or apprehended breach.
