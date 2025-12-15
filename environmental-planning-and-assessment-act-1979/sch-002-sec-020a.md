@@ -1,0 +1,3 @@
+# 20A Special provision regarding composition of local planning panel for coastal protection works
+(1) This clause applies if a local planning panel deals with the determination of a development application regarding coastal protection works on land within the coastal zone, within the meaning of the Coastal Management Act 2016.
+(2) If a member of the panel, other than the chairperson, does not have expertise in coastal engineering or coastal geomorphology, the Minister must appoint an alternate of the member who has that expertise and the alternate member must act in the place of the member when the panel deals with the determination of the development application.
