@@ -1,0 +1,4 @@
+# 25C Meaning of "investigative detention"
+(1) For the purposes of this Part, investigative detention is the detention of a terrorism suspect for investigation into a past or future terrorist act for the purposes of assisting in responding to or preventing the terrorist act.
+(2) In this Part, responding to a terrorist act includes apprehending and prosecuting the persons involved in committing the terrorist act and preventing those persons and their associates from committing further terrorist acts.
+(3) A police officer who arrests a terrorism suspect for the purpose of investigative detention under this Part is not under an obligation to take the suspect before a court or an authorised officer (within the meaning of the Law Enforcement (Powers and Responsibilities) Act 2002) as soon as practicable to be dealt with according to law.

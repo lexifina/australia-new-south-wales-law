@@ -1,0 +1,8 @@
+# 25L Monitoring contact with family members and others (except legal representatives)
+(1) This section applies to contact that a terrorism suspect has with a person while under investigative detention that the police officer in charge of the investigation of the terrorism suspect requires to be monitored (except contact with the legal representative of the terrorism suspect).
+(2) The contact a terrorism suspect has with any such person may take place only if it is conducted in such a way that the contact, and the content and meaning of the communication that takes place during the contact, can be effectively monitored by a police officer exercising authority in connection with the investigative detention.
+(3) The contact may take place in a language other than English only if the content and meaning of the communication that takes place during the contact can be effectively monitored with the assistance of an interpreter (including an interpreter who is a police officer).
+(4) If the terrorism suspect indicates that he or she wishes the contact to take place in a language other than English, the police officer who is detaining the terrorism suspect is to-
+(a) arrange for the services of an appropriate interpreter to be provided if it is reasonably practicable to do so during the period during which the person is being detained, and
+(b) if it is reasonably practicable to do so-arrange for those services to be provided as soon as practicable.
+(5) The police officer who is detaining the terrorism suspect must, before the contact takes place, inform the terrorism suspect, and any person with whom the terrorism suspect has contact, that the contact (whether it takes place by telephone, by audiovisual link or in person) will be monitored.

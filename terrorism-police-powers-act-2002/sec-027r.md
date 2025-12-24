@@ -1,0 +1,4 @@
+# 27R Return or retrieval of a thing seized or placed
+(1) A covert search warrant may authorise the return of a thing seized under section 27O (1) (g), or the retrieval of a thing placed under section 27O (1) (i), if the warrant expressly authorises such a return or retrieval.
+(2) If the warrant authorises the return or retrieval of a thing, the subject premises may be re-entered by a person authorised under section 27O to execute the warrant, but only for the purpose of returning or retrieving the thing (as the case may be) and any such re-entry must occur within 7 days of the first entry under the warrant (or such longer period as is allowed, prior to the expiration of the 7-day period, by an eligible Judge).
+(3) A person authorised to re-enter premises and return or retrieve a thing under this section may do so with the aid of such assistants as the person considers necessary.

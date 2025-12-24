@@ -1,0 +1,5 @@
+# 26M Revocation of preventative detention orders
+(1) A preventative detention order may be revoked by the Supreme Court on application made by the person in relation to whom the order was made or on application by a police officer.
+(2) An application for the revocation of a preventative detention order must be made by a police officer detaining the person if the police officer is satisfied that the grounds on which the order was made have ceased to exist.
+(3) An application made by a person in relation to whom a preventative detention order (other than an interim order) was made is to set out information on which the person relies in making the application, being information that was not provided to the Supreme Court when the order was made.
+(4) If the Supreme Court rejects an application for revocation, it may give such directions as it considers appropriate with respect to any further application for revocation of the order. Any such further application is to set out new information on which the person relies in making the further application.

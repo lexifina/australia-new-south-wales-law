@@ -1,0 +1,7 @@
+# 26ZA Compliance with obligation to inform
+(1) Sections 26Y (1) and 26Z (1) do not apply if the actions of the person being detained under the preventative detention order make it impracticable for the police officer to comply with those sections.
+(2) The police officer detaining the person under the preventative detention order complies with section 26Y (1) or 26Z (1) if the police officer informs the person in substance of the matters covered by section 26Y (2) or 26Z (2) (even if this is not done in language of a precise or technical nature).
+(3) The police officer who is detaining the person under the preventative detention order must arrange for the assistance of an interpreter in complying with section 26Y (1) or 26Z (1) if the police officer has reasonable grounds to believe that the person is unable, because of inadequate knowledge of the English language or a disability, to communicate with reasonable fluency in that language.
+(3A) A police officer need not arrange for an interpreter to be present in compliance with the requirement under subsection (3) if the officer believes on reasonable grounds that the difficulty of obtaining an interpreter makes compliance with the requirement not reasonably practicable.
+(4) Without limiting subsection (3), the assistance of the interpreter may be provided by telephone.
+(5) The lawfulness of a person's detention under a preventative detention order is not affected by a failure to comply with section 26Y (1) or 26Z (1) or subsection (3) of this section.

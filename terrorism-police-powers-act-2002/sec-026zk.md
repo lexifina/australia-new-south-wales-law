@@ -1,0 +1,8 @@
+# 26ZK Questioning of person prohibited while person is detained
+A police officer must not question a person while the person is being detained under a preventative detention order except for the purposes of-
+(a) determining whether the person is the person specified in the order, or
+(b) ensuring the safety and well-being of the person being detained, or
+(c) allowing the police officer to comply with a requirement of this Part in relation to the person's detention under the order.
+Maximum penalty-Imprisonment for 2 years.
+Note.
+This section will not apply to the person if the person is released from detention under the order (even though the order may still be in force in relation to the person).

@@ -1,0 +1,2 @@
+# 26ZQ Law relating to legal professional privilege not affected
+To avoid doubt, this Part does not affect the law relating to legal professional privilege.

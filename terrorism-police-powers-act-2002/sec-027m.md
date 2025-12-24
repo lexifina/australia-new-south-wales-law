@@ -1,0 +1,2 @@
+# 27M Further application for warrant after refusal
+If an application by a person for a covert search warrant is refused by an eligible Judge, that person (or any other person who is aware of the application) may not make a further application for the same warrant to that or any other eligible Judge unless the further application provides additional information that justifies the making of the further application.
