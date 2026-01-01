@@ -1,0 +1,5 @@
+# 12 Count
+(1) If a candidate has an absolute majority of first preference votes, that candidate is elected.
+(2) If not, the candidate with the lowest number of first preference votes is excluded and the votes on the unexhausted ballot-papers counted to him or her are transferred to the candidates with second preferences on those ballot-papers.
+(3) A candidate who then has an absolute majority of votes is elected, but, if no candidate then has an absolute majority of votes, the process of excluding the candidate who has the lowest number of votes and counting each of his or her unexhausted ballot-papers to the candidates remaining in the election next in order of the voter's preference is repeated until one candidate has received an absolute majority of votes. That candidate is elected.
+(4) In this section, absolute majority, in relation to votes, means a number that is more than one-half of the number of unexhausted formal ballot-papers.

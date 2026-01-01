@@ -1,0 +1,3 @@
+# 333H Independent monitoring of technology assisted voting
+(1) The Electoral Commissioner may appoint one or more independent persons (an independent monitor) to monitor and observe the technology assisted voting process at an election, including the counting of votes cast by means of technology assisted voting and the general operation of the technology assisted voting process.
+(2) An independent monitor must report and may make recommendations to the Electoral Commissioner regarding the technology assisted voting process.

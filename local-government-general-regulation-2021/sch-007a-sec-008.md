@@ -1,0 +1,3 @@
+# 8 Count-2 candidates
+(1) If there are only 2 candidates, the candidate with the higher number of votes is elected.
+(2) If there are only 2 candidates and they are tied, the one elected is to be chosen by lot.

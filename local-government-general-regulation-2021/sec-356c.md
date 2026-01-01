@@ -1,0 +1,17 @@
+# 356C Non-complying electoral material-additional provisions regarding how-to-vote cards
+(1) Application of section Without limiting section 356B, electoral material consisting of or containing a how-to-vote card contravenes this Subdivision if the card does not comply with this section.
+(2) Non-complying how-to-vote cards for registered political parties A how-to-vote card containing voting directions as to how to vote for or in accordance with the recommendations of a registered political party does not comply with this section if-
+(a) the party has endorsed no candidate for the election, or
+(b) the voting directions give a preference to a candidate not endorsed by it without first giving higher preferences to all candidates endorsed by it.
+(3) Non-complying how-to-vote cards for recognised groups of candidates A how-to-vote card containing voting directions as to how to vote for or in accordance with the recommendations of a recognised group of candidates does not comply with this section if the voting directions give a preference to a candidate who is not a member of the group without first giving higher preferences to all candidates who are members of the group.
+(4) Non-complying how-to-vote cards for individual candidates A how-to-vote card containing voting directions as to how to vote for or in accordance with the recommendations of a particular candidate does not comply with this section if-
+(a) whether or not the candidate is a member of a recognised group of candidates-the voting directions do not contain a voting direction for the candidate to receive the first preference, or
+(b) where the candidate is a member of a recognised group of candidates-the voting directions give a preference to a candidate who is not a member of the group without first giving higher preferences to all candidates who are members of the group.
+(5) Non-complying how-to-vote cards using group voting squares-voting above and below the line A how-to-vote card containing voting directions as to how to vote for or in accordance with the recommendations of a recognised group of candidates by using a group voting square does not comply with this section if the voting directions also give preferences ("below the line") for-
+(a) some only of the individual members of the group, or
+(b) individual members of the group in a different order from that appearing in the list of candidates in the group on the ballot-paper.
+Note.
+Subsection (5) ensures that in these circumstances the material must be internally consistent, since voting by using a group voting square implies voting for all the candidates in the group and in the order in which their names appear.
+(6) Non-complying how-to-vote cards without group voting squares-no indication of requirement to vote for at least half the candidates A how-to-vote card containing voting directions as to how to vote without using group voting squares and that do not give preferences for at least half the number of candidates to be elected does not comply with this section if the voting directions do not contain a statement as to how many other preferences must be marked on the ballot-paper.
+(7) Non-complying how-to-vote cards relating to two or more areas A how-to-vote card containing voting directions does not comply with this section if the voting directions relate to two or more areas.
+Subdivision 3 Offences applicable during regulated period

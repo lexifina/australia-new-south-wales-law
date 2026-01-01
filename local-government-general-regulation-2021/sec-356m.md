@@ -1,0 +1,5 @@
+# 356M Distribution of electoral material on election days
+(1) A person must not, in a public place, distribute any electoral material on election day unless the material has been registered under Subdivision 6 for the election.
+Maximum penalty-10 penalty units.
+(2) For the purposes of this section and without limiting its operation, material is taken to be distributed if it is left in such a position and in such circumstances as to indicate that it is intended to be available for collection by members of the public who are in a public place.
+(3) This section does not apply to the handing out, distribution, sale or otherwise making available of a newspaper by or on behalf of a newsagent, newspaper seller or distributor if the handing out, distribution, sale or making available is in the course of the newsagent's, newspaper seller's or distributor's employment or business.

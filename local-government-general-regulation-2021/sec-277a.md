@@ -1,0 +1,4 @@
+# 277A Effect of changes to wards on approaching elections
+(1) Application of this section This section applies if a council divides its area into wards, abolishes all its wards, alters its ward boundaries, or names or renames a ward in its area. Each such action is a change for the purposes of this section.
+(2) Effect on approaching election (other than by-election) The next election (other than a by-election) held after a change is made is to be held as if the change had not been made if it was made during the period of 10 months before the closing date, unless the Electoral Commissioner otherwise approves in special circumstances.
+(3) Effect on approaching by-election A by-election held after a change is made and before the next ordinary election is to be held as if the change had not been made. This subsection does not apply to an alteration of ward boundaries (which is provided for by section 210(6) of the Act).

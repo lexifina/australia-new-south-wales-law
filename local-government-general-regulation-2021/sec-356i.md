@@ -1,0 +1,13 @@
+# 356I Defences and exceptions
+(1) Defences A person is not guilty of an offence for a breach of a provision of this Subdivision if it is established that-
+(a) the breach was not of a material nature, or
+(c) the person was not aware that the act or omission concerned was a breach of the provision when it occurred and took all reasonable steps to remedy the breach when the person became aware that it was or may have been such a breach.
+(1A) A person is not guilty of an offence for a breach of the following provisions of this Subdivision if it is established that the breach was not intended, or was not likely, to mislead an elector in or in relation to the casting of the elector's vote-
+(a) section 356D or 356E, to the extent that the offence relates to a contravention of section 356B(e) or (f) or 356C(6),
+(b) section 356H.
+(2) Exceptions Nothing in this Subdivision prohibits-
+(a) the display, writing, drawing or depicting of a sign on or at the office or committee room of a candidate or political party indicating only that the office or room is the office or committee room of the candidate or party, and specifying the name of the candidate, or the names of the candidates, or the name of the party concerned, or
+(b) the projection by means of any cinematograph or other similar apparatus of any electoral matter on to any screen in any theatre or public hall the subject of a development consent in force under the Environmental Planning and Assessment Act 1979 in relation to its use as a place of public entertainment, or
+(c) the display, writing, drawing or depicting of any poster within a hall or room that is being or is about to be used for a meeting held by or on behalf of a candidate in connection with an election, or
+(d) the display of any poster on or at the office of a councillor.
+Subdivision 4 Additional offences applicable on pre-poll voting days
