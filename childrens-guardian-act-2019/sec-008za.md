@@ -1,0 +1,5 @@
+# 8ZA Limit on time to be spent in specialised substitute residential care
+(1) A child must not remain in specialised substitute residential care for more than a total of 90 days in a period of 12 months unless the care is provided or supervised by a designated agency.
+(2) A child may remain in specialised substitute residential care for more than a total of 180 days in a period of 12 months only if the designated agency providing or supervising the care, or the Children's Guardian, has ensured there is a plan that addresses the child's needs under the arrangement.
+(3) A child who remains in specialised substitute residential care in contravention of subsection (1) or (2) is taken to be at risk of significant harm for the purposes of the Children and Young Persons (Care and Protection) Act 1998, Chapter 3, Parts 2 and 3.
+(4) In deciding whether the contravention is a significant contravention, the Children's Guardian must have regard to any relevant guidelines issued by the Secretary under section 175.
