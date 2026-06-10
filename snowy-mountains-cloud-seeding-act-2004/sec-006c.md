@@ -1,0 +1,4 @@
+# 6C Application of Chapter 7 of Protection of the Environment Operations Act 1997
+Chapter 7 (Investigation) of the Protection of the Environment Operations Act 1997 extends to the exercise of powers in connection with this Act and the regulations.
+Note.
+Section 186 of the Protection of the Environment Operations Act 1997 provides that Chapter 7 of that Act extends to the exercise of certain powers in connection with certain other legislation, including this Act. Chapter 7 of the Protection of the Environment Operations Act 1997 deals with such matters as the appointment of authorised officers, powers to require information and records, powers of entry and search, powers to question and to identify persons and powers with respect to certain things such as vehicles.
