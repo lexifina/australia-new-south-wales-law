@@ -1,0 +1,4 @@
+# 31A Waiting period for issuing permits to acquire firearms
+(1) The Commissioner must not issue a permit authorising a person to acquire a firearm until after the end of the period of 28 days following the day on which the application for the permit is made.
+(2) Subsection (1) does not apply in relation to an application for a permit to acquire a firearm to which a particular category of licence applies if a firearm to which that licence category applies was registered in the applicant's name at any time during the period of 90 days immediately before the date on which the application was made and that registration was not cancelled under section 35 during that 90 day period.
+(3) For the purposes of subsection (2), a category A and category B licence are taken to be the same licence category.

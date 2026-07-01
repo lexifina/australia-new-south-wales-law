@@ -1,0 +1,2 @@
+# 78A Recognition of domestic violence orders
+Section 98ZI (Recognition of disqualification to hold firearms licence) of the Crimes (Domestic and Personal Violence) Act 2007 does not apply to a recognised DVO if section 98ZH of that Act applies to the recognised DVO and requires the Commissioner to revoke a licence or permit under this Act held by the person concerned or to refuse to issue a licence or permit under this Act to the person concerned.

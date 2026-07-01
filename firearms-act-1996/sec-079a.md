@@ -1,0 +1,2 @@
+# 79A Disclosure of certain information by club officials
+The disclosure of any information or other matter by the secretary or other relevant office holder of a pistol club or a collectors' society or club to the Commissioner in accordance with any requirement imposed on the secretary or office holder under the regulations does not, if the disclosure was in good faith, subject the society or club, or the secretary or office holder, to any criminal or civil liability.
