@@ -1,0 +1,6 @@
+# 3 Toilet facilities
+(1) Toilet facilities must be available or provided at the work site before works begin and must be maintained until the works are completed at a ratio of 1 toilet plus 1 additional toilet for every 20 persons employed at the site.
+(2) Each toilet must-
+(a) be a standard flushing toilet connected to a public sewer, or
+(b) have an on-site effluent disposal system approved under the Local Government Act 1993, or
+(c) be a temporary chemical closet approved under the Local Government Act 1993.

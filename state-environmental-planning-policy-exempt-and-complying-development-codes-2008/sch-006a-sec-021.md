@@ -1,0 +1,6 @@
+# 21 Aboriginal objects discovered during works
+If an Aboriginal object (including evidence of habitation or remains) is discovered during the course of the work-
+(a) all excavation or disturbance of the area must stop immediately, and
+(b) the person making the discovery must advise the Chief Executive (within the meaning of the National Parks and Wildlife Act 1974) of the discovery in accordance with section 89A of that Act.
+Note.
+If an Aboriginal object is discovered, an Aboriginal heritage impact permit may be required under the National Parks and Wildlife Act 1974.

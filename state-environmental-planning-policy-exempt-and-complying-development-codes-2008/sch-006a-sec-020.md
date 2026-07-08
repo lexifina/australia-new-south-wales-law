@@ -1,0 +1,6 @@
+# 20 Archaeology discovered during works
+If any object having interest due to its age or association with the past is uncovered during the course of the work-
+(a) all work must stop immediately in that area, and
+(b) the Office of Environment and Heritage must be advised of the discovery.
+Note.
+Depending on the significance of the object uncovered, an archaeological assessment and excavation permit under the Heritage Act 1977 may be required before further work can continue.

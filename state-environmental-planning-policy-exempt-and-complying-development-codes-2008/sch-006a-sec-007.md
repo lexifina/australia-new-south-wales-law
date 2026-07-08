@@ -1,0 +1,17 @@
+# 7 Tree protection measures
+(1) This clause applies to each protected tree and any other tree that is to be retained on a lot.
+(2) The trunk of each of the following trees must be provided with a tree guard that is comprised of hardwood timber panels each having a minimum length of 2m, minimum width of 75mm and minimum thickness of 25mm and secured, but not permanently fixed or nailed, to the tree and spaced a maximum of 80mm apart-
+(a) each tree that is within 6m of any dual occupancy, manor house, multi dwelling housing (terraces) or ancillary development that is to be constructed,
+(b) each protected tree that is within 10m of any dual occupancy, manor house, multi dwelling housing (terraces) or ancillary development that is to be constructed.
+(3) Each protected tree that is within 6m of a dual occupancy, manor house, multi dwelling housing (terraces), outbuilding or swimming pool must have a fence or barrier that is erected-
+(a) around its tree protection zone as defined by section 3.2 of AS 4970-2009, Protection of trees on development sites, and
+(b) in accordance with section 4 of that standard.
+(4) The person having the benefit of the complying development certificate must ensure that-
+(a) the activities listed in section 4.2 of that standard do not occur within the tree protection zone of any tree on the lot or any tree on an adjoining lot, and
+(b) any temporary access to, or location of scaffolding within the tree protection zone of a protected tree or any other tree to be retained on the lot during the construction, is undertaken using the protection measures specified in sections 4.5.3 and 4.5.6 of that standard.
+(5) The tree protection measures specified in this clause must-
+(a) be in place before work begins on the lot, and
+(b) be maintained in good condition during the construction period, and
+(c) remain in place for the duration of the construction works.
+Note.
+A separate permit or development consent may be required if the branches or roots of a protected tree on the lot or on an adjoining lot are required to be pruned or removed.

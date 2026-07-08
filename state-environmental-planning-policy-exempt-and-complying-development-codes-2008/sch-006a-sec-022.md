@@ -1,0 +1,2 @@
+# 22 Vehicular access
+If the work involves the construction of a vehicular access point, the access point must be completed before the occupation certificate for the work on the site is obtained.

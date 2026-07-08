@@ -1,0 +1,6 @@
+# 25 Evidence of certain matters
+(1) Sufficient evidence must be provided to the principal certifying authority before the occupation certificate for the work on the site is obtained to reasonably satisfy the principal certifying authority that each new dwelling will be adequately serviced with water, sewerage, electricity, natural gas (where available) and telecommunications.
+(2) The following must be provided to the principal certifying authority before the occupation certificate for the work on the site is obtained-
+(a) a survey certificate prepared by a registered surveyor that certifies the location of any new buildings, or additions to existing buildings, in relation to the boundaries of the lot,
+(b) if the development has resulted in the installation of a mechanical ventilation system-a certificate from a mechanical ventilation engineer that states that the system complies with the approved plans and specifications,
+(c) if the council has design guidelines or constructions specifications for works to which the complying development certificate relates and those guidelines or specifications address the submission of compliance documentation to the council-that compliance documentation.

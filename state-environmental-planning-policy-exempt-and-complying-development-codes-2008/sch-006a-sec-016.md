@@ -1,0 +1,7 @@
+# 16 Earthworks, retaining walls and structural support
+(1) Any earthworks (including any structural support or other related structure for the purposes of the development)-
+(a) must not cause a danger to life or property or damage to any adjoining building or structure on the lot or to any building or structure on any adjoining lot, and
+(b) must not redirect the flow of any surface or ground water or cause sediment to be transported onto an adjoining property, and
+(c) that is fill brought to the site-must contain only virgin excavated natural material (VENM) as defined in Part 3 of Schedule 1 to the Protection of the Environment Operations Act 1997, and
+(d) that is excavated soil to be removed from the site-must be disposed of in accordance with any requirements under the Protection of the Environment Operations (Waste) Regulation 2014.
+(2) Any excavation must be carried out in accordance with Excavation Work: Code of Practice (ISBN 978-0-642-78544-2), published in July 2012 by Safe Work Australia.
