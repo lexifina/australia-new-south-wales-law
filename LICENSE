@@ -1,0 +1,5 @@
+The legal text comes from the NSW legislation website (https://legislation.nsw.gov.au), Parliamentary Counsel's Office, Constitution Act 1902 No 32, Crimes Act 1900 No 40, Civil Liability Act 2002 No 22, Sale of Goods Act 1923 No 1, read from Internet Archive captures and retrieved in October 2026. The NSW legislation website licenses its content under the Creative Commons Attribution 4.0 licence (https://creativecommons.org/licenses/by/4.0/); that notice was not re-read for this build, so check the site's Copyright page.
+
+Changes made by Lexifina: the text was converted to one Markdown file per provision, one paragraph per line; spacing, quotes and dashes were normalised; footnotes, running heads and page numbers were removed; and the text was arranged as git commits. The wording of the law was not changed. The NSW Parliamentary Counsel's Office does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

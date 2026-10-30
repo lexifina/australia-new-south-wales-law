@@ -1,0 +1,10 @@
+{
+  "path": "au-nsw",
+  "code": "AU-NSW",
+  "name": "New South Wales (Australia)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/australia-new-south-wales-law",
+  "build": "built: Constitution Act 1902 No 32 (6 versions, 2020-03-25 to 2025-09-17)",
+  "register_date": "2026-10-28",
+  "sources": 1
+}

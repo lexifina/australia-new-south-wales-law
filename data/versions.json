@@ -1,0 +1,211 @@
+{
+ "country": "AU-NSW",
+ "acts": [
+  {
+   "slug": "constitution-act-1902",
+   "short": "Const. Act",
+   "title": "Constitution Act 1902 No 32",
+   "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+   "versions": [
+    {
+     "from": "2020-03-25",
+     "units": 171,
+     "source_url": "http://web.archive.org/web/20201130054405id_/https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "1a98c68ee8f1cef1b4b1390f70145da2596497b00c7f77734d7bbb3f8dd8d5b4"
+    },
+    {
+     "from": "2021-03-24",
+     "units": 171,
+     "source_url": "http://web.archive.org/web/20210830033817id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "a83adc8efab6d624ec6252e86435e23dec92e1b58b9872cfb274fa1c292e2fb8"
+    },
+    {
+     "from": "2022-04-13",
+     "units": 171,
+     "source_url": "http://web.archive.org/web/20221025163042id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "2ee0a1570896cb3e02c4ca62b56a4d1da7ed91f96fc91f008e3cf45b1efc7bc7"
+    },
+    {
+     "from": "2022-11-28",
+     "units": 171,
+     "source_url": "http://web.archive.org/web/20230130135736id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "a77a625f6a89a0dd61e3b0fc3e4f3330f62a4b758ff5f8a8f9ac087f9000d2ff"
+    },
+    {
+     "from": "2023-06-08",
+     "units": 173,
+     "source_url": "http://web.archive.org/web/20231002150308id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "3bd1d8b4ea140f231fd49c92e9e6377e6f0d5a2bf5d8a79a20def480378b832c"
+    },
+    {
+     "from": "2025-09-17",
+     "units": 168,
+     "source_url": "http://web.archive.org/web/20251206050512id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1902-032",
+     "sha256": "c1fb861f93f5361014170f28d229a9e05c8b3dcfb50d4f6082fe36ab4ca29cba"
+    }
+   ]
+  },
+  {
+   "slug": "crimes-act-1900",
+   "short": "Crimes Act",
+   "title": "Crimes Act 1900 No 40",
+   "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+   "versions": [
+    {
+     "from": "2020-10-27",
+     "units": 827,
+     "source_url": "http://web.archive.org/web/20210102091721id_/https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "a48c5f6788bb4e3dd65cc6ffeddf447fc32ca8be84b17757b4a5d3d28f2343b7"
+    },
+    {
+     "from": "2021-03-27",
+     "units": 828,
+     "source_url": "http://web.archive.org/web/20210809034708id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "cb82709b0c7d1b1f40ea5b754c13eb99a64cdc37357f619f4818c8c3e5dc326e"
+    },
+    {
+     "from": "2021-12-08",
+     "units": 828,
+     "source_url": "http://web.archive.org/web/20211227021953id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "a817ccdc57b86e0b2ffb1083743d4ebe20533b80a641aa669b2775610b4ea07c"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 835,
+     "source_url": "http://web.archive.org/web/20220318090655id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "64f22b1547a93187c5b925311bb105f411aa864bc916757a74af697b03888da3"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 852,
+     "source_url": "http://web.archive.org/web/20220815083447id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "c5575c8f5c30ff36af0aba6c311457958960bc54b5ac6514631c3b56e6ad39f7"
+    },
+    {
+     "from": "2022-08-19",
+     "units": 855,
+     "source_url": "http://web.archive.org/web/20221017221542id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "b849d7a2e4d1e7da0315e54da5b3c72e3065480bf0d79d54fdead57b2273bea9"
+    },
+    {
+     "from": "2022-10-18",
+     "units": 864,
+     "source_url": "http://web.archive.org/web/20221113044334id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "5b1c7a264ab706e28552393bdc6eac87ffc8dba3911f4b0c2ad0f9e692e03829"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 865,
+     "source_url": "http://web.archive.org/web/20221216082546id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "90b2fdaa3349aac3595c34a7e4518cc7e176c6e2c7cedc4be5d623922a5e4c5b"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 871,
+     "source_url": "http://web.archive.org/web/20230510165729id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "4291934eb559eb93346f4e6c1f92cc8f1829245b6e42b8c2a6d1cae5a1d56f0e"
+    },
+    {
+     "from": "2023-07-14",
+     "units": 874,
+     "source_url": "http://web.archive.org/web/20230730120445id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "eb3c9e47b304127d294fdfd906a9e58daa557d3314626f9d6e0f39fcc4fe39a2"
+    },
+    {
+     "from": "2023-09-20",
+     "units": 876,
+     "source_url": "http://web.archive.org/web/20231018132723id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "3e3c25c64ed46d54bca34deb53e4513d0e3861b5b2017fd082db98c210698c52"
+    },
+    {
+     "from": "2023-10-23",
+     "units": 880,
+     "source_url": "http://web.archive.org/web/20231025162442id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "c716ae56bb23d6c2703515370536d6a9f86bd0bbfe34127e6e1821b9691fd761"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 887,
+     "source_url": "http://web.archive.org/web/20240315083516id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "d0d6a43829292be7e94274c12b495bddfce68d551a1175973b5a8ea869e6b058"
+    },
+    {
+     "from": "2024-12-02",
+     "units": 902,
+     "source_url": "http://web.archive.org/web/20241205021355id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "828f321301df989a8dc3cf80e3c5d2c269d354fad92e9462d12f07707ef05329"
+    },
+    {
+     "from": "2025-03-02",
+     "units": 904,
+     "source_url": "http://web.archive.org/web/20250519053839id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "d686b2a4ea5c11874f39d51c361b654b4b43312d98980e8d08c3fc2cab3e3868"
+    },
+    {
+     "from": "2025-06-11",
+     "units": 905,
+     "source_url": "http://web.archive.org/web/20250701081534id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "64dc66187ed9e41ac85fb7ae8348cd66f278695ca07905e26692929995fed579"
+    },
+    {
+     "from": "2025-09-17",
+     "units": 909,
+     "source_url": "http://web.archive.org/web/20251011142255id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "39e5b2532693bbeed816ea3ab5fd83864a0378d21384238abe7d50c32af60653"
+    },
+    {
+     "from": "2025-11-24",
+     "units": 909,
+     "source_url": "http://web.archive.org/web/20251211214115id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "5b163b663b659e3a7f42bfc742c5993c729ceb08a6fb360fef83d23d4f633f80"
+    },
+    {
+     "from": "2025-12-24",
+     "units": 911,
+     "source_url": "http://web.archive.org/web/20260119121601id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1900-040",
+     "sha256": "3d702d848cdae3fd7446756d44f59660c5a9bdc6075e63491a35c488c79252ed"
+    }
+   ]
+  },
+  {
+   "slug": "civil-liability-act-2002",
+   "short": "Civil Liability Act",
+   "title": "Civil Liability Act 2002 No 22",
+   "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2002-022",
+   "versions": [
+    {
+     "from": "2020-03-01",
+     "units": 273,
+     "source_url": "http://web.archive.org/web/20210304194137id_/https://www.legislation.nsw.gov.au/view/whole/html/inforce/current/act-2002-022",
+     "sha256": "919bd79fdd152e3efdbb6d93a096a31db58903b7cb37cf7f1b164ab39d917b07"
+    },
+    {
+     "from": "2021-11-18",
+     "units": 284,
+     "source_url": "http://web.archive.org/web/20220131183157id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2002-022",
+     "sha256": "330fbac629ba4fb0e7748756e0752273ae13d5610a172e1b3857e870d572f7d5"
+    },
+    {
+     "from": "2022-06-16",
+     "units": 284,
+     "source_url": "http://web.archive.org/web/20251011015157id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-2002-022",
+     "sha256": "b0dec60976ceac615936cc09b407165760313fe1d4b7c1e4f462ff65113ef4d3"
+    }
+   ]
+  },
+  {
+   "slug": "sale-of-goods-act-1923",
+   "short": "Sale of Goods Act",
+   "title": "Sale of Goods Act 1923 No 1",
+   "url": "https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1923-001",
+   "versions": [
+    {
+     "from": "2012-01-30",
+     "units": 81,
+     "source_url": "http://web.archive.org/web/20250425021054id_/https://legislation.nsw.gov.au/view/whole/html/inforce/current/act-1923-001",
+     "sha256": "afce97b977c99b16fa513b534545540b6b713540d1ac30007b4339e114e44e89"
+    }
+   ]
+  }
+ ]
+}
